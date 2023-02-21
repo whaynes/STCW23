@@ -1,0 +1,27 @@
+Technologies in use
+
+Filemaker database development
+Filemaker scripting
+Multimarkdown
+Html
+CSS
+XML
+XSLT
+XPATH
+OxygenXML editor
+	XSLT Debugging
+Ruby Frontier website framework
+Ruby for frontier tools
+Grep
+
+
+##Trouble Spots
+
+### Renaming Things
+
+* When a field is renamed in filemaker, the corresponding xslt will need to be modified.
+* Renaming a course, assessment, table etc may leave old files present in html folder or on web server.  Need to clean them out, or you may end up with accidental links to staLe pages.
+
+### Frontier Glossary Issues
+
+* Glossary links can't contain hyphens, periods, slashes, and maybe others and they must be stripped out when building links
