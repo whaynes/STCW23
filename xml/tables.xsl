@@ -160,13 +160,12 @@
     <xsl:param name="title"/>
     <xsl:result-document href="{$path}/{$doc}">
       <xsl:text>---&cr;</xsl:text>
-      <xsl:text>title: NVIC Tasks (</xsl:text>
-      <xsl:value-of select="$title"/>)&cr;<text/>
-      <xsl:text>&cr;label: "Index"&cr;</xsl:text>
+      <xsl:text>title: NVIC Tasks (</xsl:text><xsl:value-of select="$title"/><xsl:text>)&cr;</xsl:text>
+      <xsl:text>label: "Index"&cr;</xsl:text>
       <xsl:text>---&rr;</xsl:text>
-      <xsl:text/>&rr;# NVIC Tasks (<xsl:value-of select="$title"/>)&cr;<text/>
-      <xsl:text>&rr;*and associated STCW Tables*&cr;</xsl:text>
-      <xsl:text>&cr;|  STCW Table  |    Name     |  NVIC Tasks   |</xsl:text>
+      <xsl:text/># NVIC Tasks (<xsl:value-of select="$title"/>)
+      <xsl:text>&cr;*and associated STCW Tables*</xsl:text>
+      <xsl:text>&rr;|  STCW Table  |    Name     |  NVIC Tasks   |</xsl:text>
       <xsl:text>&cr;|:-------------|:------------|:--------------|&cr;</xsl:text>
       <xsl:for-each-group select="$range" group-by="Table">
         <xsl:text/>| [<xsl:value-of select="Table"/>](<xsl:value-of select="Tables--TableNo"/>.html) | <xsl:value-of select="Tables--Table_Name"/>| <xsl:call-template name="TaskLink"/> | &cr;<xsl:text/>

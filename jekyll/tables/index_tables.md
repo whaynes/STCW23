@@ -1,14 +1,10 @@
 ---
 title: NVIC Tasks (All)
-<text xmlns="http://www.w3.org/1999/xhtml"/>
 label: "Index"
 ---
 
-
-
 # NVIC Tasks (All)
-<text xmlns="http://www.w3.org/1999/xhtml"/>
-
+      
 *and associated STCW Tables*
 
 |  STCW Table  |    Name     |  NVIC Tasks   |
