@@ -1,0 +1,407 @@
+
+/*
+Original design: Basic Reader (reversed) (v2.0 - Sep 11, 2012) - A free xhtml/css website template by Andreas Viklund.
+For more information, see http://andreasviklund.com/templates/basic-reader/
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #fff url(../images/background.jpg) top center no-repeat;
+	color: #303030;
+	font: 92% Georgia, "Times New Roman", serif;
+	line-height: 1.5em;
+}
+
+#wrap {
+	background-color: #fcfcfc;
+	margin: 20px auto;
+	width: 920px;
+	padding: 20px;}
+
+#content {
+	
+	float: right;
+	width: 700px;
+}
+
+#content hr:last-child {
+	display: none;
+}
+
+#sidebar hr:first-child {
+	display: none;
+}
+#sidebar {
+	
+	line-height: 1.2em;
+	text-align: center;
+	float: left;
+	width: 192px;
+}
+
+#footer {
+	font-size: 0.8em;
+	color: #777;
+	padding-top: 3em;
+	clear: both;
+	width: 100%;
+	
+}
+
+#sidebar ul {
+	font-size: 0.9em;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#sidebar li {
+	list-style: none;
+	margin: 0 0 5px;
+	padding: 0;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #972323;
+}
+
+#sidebar li a {
+	font-weight: normal;
+}
+
+#sidebar ul ul {
+	line-height: 1.2em;
+	margin: 8px 0 8px 20px;
+	padding: 0;
+}
+
+#sidebar ul ul li a {
+	color: black;
+}
+
+#sidebar h2 {
+	font-size: 1.4em;
+	margin: 15px 0 5px;
+}
+
+#sidebar hr {
+	margin: 15px 0;
+}
+
+a {
+	color: #972323;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	margin: 6px 0;
+}
+
+blockquote {
+	padding-left: 2em;
+}
+
+ul, ol, dl {
+	margin-left: 1em;
+}
+
+ol ol li {
+	list-style-type: lower-alpha;
+	margin-left: .5em;
+}
+
+h1 {
+	color: #972323;
+	font-size: 2em;
+	margin: 0 0 15px;
+}
+
+h1 a {
+	color: #972323;
+	font-weight: 400;
+	text-transform: none;
+}
+
+h2 {
+	font-size: 1.8em;
+	color: #2380a0;
+	margin: 24px 0;
+}
+
+h1, h2 {
+	font-weight: 400;
+	line-height: 1.2;
+}
+
+h3 {
+	font-size: 1.2em;
+	margin: 20px 0 2px 0;
+}
+
+h4 {
+	font-weight: bold;
+}
+
+.timestamp {
+	float: left;
+	width: 30%;
+}
+
+.credits {
+	float: 70%;
+	text-align: right;
+}
+
+.credits a {
+	color: #777;
+}
+
+.clear {
+	clear: both;
+}
+/* weh */
+
+#logo {
+	margin-bottom: 140px;
+}
+
+.nextprev {
+	float: right;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 20px 0;
+	padding: 0;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid #ccc;
+}
+
+table tr {
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+	page-break-inside: avoid;
+}
+
+table tr:nth-child(2n) {
+	background-color: #f8f8f8
+}
+
+table tr th, table tr td {
+	text-align: left;
+	margin: 0;
+	padding: 4px 6px;
+	font-size:smaller;
+}
+
+table tr th {
+	background-color: silver;
+	text-align: center;
+	vertical-align: middle;
+}
+
+table ol {
+	margin: 0 0 0 20px;
+}
+
+table p {
+	margin: 0;
+}
+
+.blue {
+	color: #2380a0;
+}
+
+.ten {
+	width: 10%;
+}
+
+.twenty {
+	width: 20%;
+}
+
+.thirty {
+	width: 30%;
+}
+
+.fourty {
+	width: 40%;
+}
+
+.fifty {
+	width: 50%;
+}
+
+.sixty {
+	width: 60%;
+}
+
+.seventy {
+	width: 70%;
+}
+
+.hide {
+	display: none;
+}
+
+.warning {
+	background-color: pink !important;
+}
+
+table.semester {
+	float: left;
+	margin: 0 20px 20px 0;
+	width: 46%;
+	table-layout: fixed;
+}
+
+table.semester.fall {
+	clear: both;
+}
+
+table.semester th {
+	background-color: #CFE2F3;
+	text-align: left;
+	font-weight: normal;
+}
+
+table.semester td, table.semester th {
+	padding: 2px 2px 2px 5px;
+	margin: 0;
+	overflow: hidden;
+}
+
+table.semester td:first-child, table.semester th:first-child {
+	text-align: center;
+}
+
+.kupNo {
+	float: left;
+	color: #2380a0;
+	margin-right: 4pt;
+}
+
+ol li p {
+	margin: 0;
+}
+
+li ol, ol ul {
+	margin-bottom: 0;
+}
+
+img {
+	max-width: 90%;
+}
+
+.rstar {
+	float: right;
+	margin-top: 2px;
+} /*-- used for new and mod images */
+
+dt {
+	font-style: italic;
+	font-weight: bold;
+}
+
+dd {
+	margin-left: 2em;
+}
+
+/* Tooltip container */
+
+.tooltip {
+	position: relative;
+	display: inline-block;
+	font-style: italic;
+}
+
+/* Tooltip text */
+
+.tooltip .tooltiptext {
+	visibility: hidden;
+	width: 120px;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	padding: 5px 0;
+	border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+	position: absolute;
+	z-index: 1;
+	width: 120px;
+	bottom: 100%;
+	left: 50%;
+	margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
+
+@media print {
+	body {
+		background: unset;
+		color: black;
+	}
+	
+	#nav, .credits {
+		display: none;
+	}
+	
+	#sidebar {
+		width: 120px;
+	}
+	
+	#content {
+		width: 800px;
+	}
+	
+	h1, h2, a {
+		color: black;
+	}
+	
+	h1 {
+		page-break-before: always;
+	}
+	
+	table, th, td {
+		border: .5pt solid black;
+	}
+	
+	table a {
+		font-weight: bold;
+	}
+}
+/* highlight assessment guideline*/
+
+*:target {
+	animation: hilite 1.5s;
+}
+@keyframes hilite {
+0% {
+	background: transparent;
+}
+
+10% {
+	background: #BACDFF;
+}
+
+100% {
+	background: transparent;
+}
+}
