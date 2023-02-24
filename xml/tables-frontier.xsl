@@ -12,10 +12,10 @@
    exclude-result-prefixes="fmp html">
    <xsl:import href="tables.xsl"/>
    
-   <xsl:output method="text" version="1.0" encoding="UTF-8" indent="no" />
+   <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="no" />
    <xsl:strip-space elements="*" />
    <xsl:preserve-space elements="text" />
-   <xsl:variable name="path">../html/tables</xsl:variable>
+   <xsl:variable name="path">../tables</xsl:variable>
    
    <xsl:template match="/ROOT">
       <!-- main entrance point -->
@@ -25,31 +25,32 @@
    
    <xsl:template name="buildPages">
       <xsl:for-each-group select="RECORD" group-by="Table">
-         <xsl:result-document href="{$path}/{Tables--TableNo}.txt">
+         <xsl:result-document href="{$path}/{Tables--TableNo}.html">
             <xsl:apply-templates select="."/>
          </xsl:result-document>
       </xsl:for-each-group>
    </xsl:template>
+  
    <xsl:template name="buildIndexes">
       <xsl:call-template name="index">
-         <xsl:with-param name="doc" select="'index_tables.txt'" />
-         <xsl:with-param name="title" select="'STCW Tables'" />
+         <xsl:with-param name="doc" select="'index_tables.md'" />
+         <xsl:with-param name="title" select="'All'" />
          <xsl:with-param name="range" select="RECORD" />
       </xsl:call-template>
       <xsl:call-template name="index">
-         <xsl:with-param name="doc" select="'index_common_tables.txt'" />
-         <xsl:with-param name="title" select="'Common STCW Tables'" />
+         <xsl:with-param name="doc" select="'index_common_tables.md'" />
+         <xsl:with-param name="title" select="'Common'" />
          <!-- Courses for both majors are "common" -->
          <xsl:with-param name="range" select="RECORD[contains(Tables--Major,'MENG') and contains(Tables--Major,'MTRA')]" />
       </xsl:call-template>
       <xsl:call-template name="index">
-         <xsl:with-param name="doc" select="'index_deck_tables.txt'" />
-         <xsl:with-param name="title" select="'Deck STCW Tables'" />
+         <xsl:with-param name="doc" select="'index_deck_tables.md'" />
+         <xsl:with-param name="title" select="'Deck'" />
          <xsl:with-param name="range" select="RECORD[Tables--Major='MTRA']" />
       </xsl:call-template>
       <xsl:call-template name="index">
-         <xsl:with-param name="doc" select="'index_eng_tables.txt'" />
-         <xsl:with-param name="title" select="'Engineering STCW tables'" />
+         <xsl:with-param name="doc" select="'index_eng_tables.md'" />
+         <xsl:with-param name="title" select="'Engineering'" />
          <xsl:with-param name="range" select="RECORD[Tables--Major='MENG']" />
       </xsl:call-template>
    </xsl:template>
