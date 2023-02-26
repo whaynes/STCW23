@@ -25,3 +25,4 @@ label: "Index"
 | [A-VI/3](63.html) | advanced fire fighting| [AFF Tasks](index_AFF) | 
 | [A-VI/4-1](641.html) | medical first aid|  | 
 | [A-VI/6-2](662.html) | seafarers with designated security duties|  | 
+{: .sortable }

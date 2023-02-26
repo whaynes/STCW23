@@ -5,7 +5,7 @@
 <!ENTITY t "&#09;"><!-- tab -->
 <!ENTITY tt "&#09;&#09;">
 ]>
-<!-- This stylesheet takes an xml file 'tables.xml', and converts it to multimarkdown for conversion by rubyfrontier to a website.
+<!-- This stylesheet takes an xml file 'tables.xml', and converts it to multimarkdown for conversion by jeykll to a website.
      The input file is an export from filemaker which has been transformed by Filemaker_export.xsl to something easier to work with. 
      The transformation produces one markdown document per table.     
 -->
@@ -13,7 +13,7 @@
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fmp="http://www.filemaker.com/fmpxmlresult" xmlns="http://www.w3.org/1999/xhtml" exclude-result-prefixes="fmp ">
   <xsl:preserve-space elements="kup competence"/>
   <xsl:output method="xml" indent="yes" encoding="UTF-8" omit-xml-declaration="yes"/>
-  <!-- path is overridden in tables-frontier -->
+  <!-- path is overridden in generate-tables.xsl -->
   <xsl:variable name="path" select="'.'"/>
 
 
@@ -170,6 +170,7 @@
       <xsl:for-each-group select="$range" group-by="Table">
         <xsl:text/>| [<xsl:value-of select="Table"/>](<xsl:value-of select="Tables--TableNo"/>.html) | <xsl:value-of select="Tables--Table_Name"/>| <xsl:call-template name="TaskLink"/> | &cr;<xsl:text/>
       </xsl:for-each-group>
+      <xsl:text>{: .sortable }</xsl:text>
     </xsl:result-document>
   </xsl:template>
 

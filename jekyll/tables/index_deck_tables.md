@@ -14,3 +14,4 @@ label: "Index"
 | [A-II/5](25.html) | able seafarer deck| [ABD Tasks](index_ABD) | 
 | [A-IV/2](42.html) | GMDSS radio operators|  | 
 | [A-V/1-1-1](5111.html) | basic training for oil and chemical tanker cargo operations|  | 
+{: .sortable }
