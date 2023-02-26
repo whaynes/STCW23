@@ -25,6 +25,7 @@ JEKYLL    = $(PRJ)/jekyll
 XML        = $(SOURCE)/xml
 SITE       = $(OUT)/_site
 TABLES     = $(JEKYLL)/tables
+COURSES     = $(JEKYLL)/courses
 #
 #################################################
 # Local and remote webserver document locations
@@ -40,7 +41,11 @@ BROWSER      = Google\ Chrome
 SAXON        = /Applications/Saxon/saxon9he.jar
 
 tables:
-	java -jar $(SAXON) -s:$(XML)/tables.xml -xsl:$(XSL)/generate-tables.xsl -o:$(TABLES)/out.html
+	java -jar $(SAXON) -s:$(XML)/tables.xml -xsl:$(XSL)/generate-tables23.xsl -o:$(TABLES)/out.html
+	
+courses:
+	java -jar $(SAXON) -s:$(XML)/courses.xml -xsl:$(XSL)/courses23.xsl -o:$(COURSES)/out.html
+
 	
 open: 
 	open $(JEKYLL)/temp

@@ -10,10 +10,10 @@
    xpath-default-namespace="http://www.filemaker.com/fmpdsoresult" version="2.0">
    <xsl:strip-space elements="*"/>
    
-   <xsl:variable name="folder">../html/courses</xsl:variable>
+   <xsl:variable name="folder">../../jeykll/xcourses</xsl:variable>
    
-   <xsl:template match="/">
-      <xsl:for-each-group select="//ROW" group-by="Major">
+   <xsl:template match="courses">
+      <xsl:for-each-group select="course" group-by="@major">
          <xsl:result-document method="text"
             href="{$folder}/index_{replace(current-grouping-key(),'MENG\sMTRA','Common')}_Courses.txt">
             <xsl:text/>#title "<xsl:value-of
@@ -23,7 +23,7 @@
             <xsl:text>| No.   | Course Number | Course Name |&cr;</xsl:text>
             <xsl:text>|:-----:|:--------------|:------------|&cr;</xsl:text>
             <xsl:apply-templates select="current-group()">
-               <xsl:sort select="CourseNo" order="ascending"/>
+               <xsl:sort select="@cnum" order="ascending"/>
             </xsl:apply-templates>
             <xsl:text>&cr;&lt;/div></xsl:text>
          </xsl:result-document>
@@ -31,10 +31,10 @@
    </xsl:template>
    
    <!-- line text -->
-   <xsl:template match="ROW">
-      <xsl:text/>| <xsl:value-of select="position()"/>. | [<xsl:value-of select="CourseNo"
-      />](<xsl:value-of select="CourseNo"/>) | <xsl:apply-templates
-         select="Course_Name"/><xsl:text> |&cr;</xsl:text>
+   <xsl:template match="course">
+      <xsl:text/>| <xsl:value-of select="position()"/>. | [<xsl:value-of select="cnum"
+      />](<xsl:value-of select="@cnum"/>) | <xsl:apply-templates
+         select="@cname"/><xsl:text> |&cr;</xsl:text>
    </xsl:template>
    
    <xsl:template match="text">
