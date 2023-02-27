@@ -34,6 +34,7 @@ defaults:
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "/stcw23" # the subpath of your site, e.g. /blog
+
 url: "https://localhost:8888" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll

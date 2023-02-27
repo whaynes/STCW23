@@ -1,10 +1,9 @@
 ---
 layout: page
 title: STCW Tables
+subtitle:  MMA STCW Program 2024
 ---
 
-# MMA STCW Program 2024
-## STCW Tables
 
 | STCW Table        | Name                                                         |  D/E |  
 | :---------------- | :----------------------------------------------------------- |  :-: |  

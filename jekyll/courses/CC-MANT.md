@@ -1,8 +1,7 @@
 ---
-title: CC-MANT
+subtitle: Course CC-MANT
+title: "Shipboard Maintenance"
 ---
-
-## Shipboard Maintenance 
 
 ### Course Description
 

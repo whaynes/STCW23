@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><courses><course cnum="CC-LEAD" cname="Regimental Leadership Program" major="MENG&#10;MTRA"><description><![CDATA[---
-title: CC-LEAD
+subtitle: Course CC-LEAD
+title: "Regimental Leadership Program"
 ---
-
-## Regimental Leadership Program 
 
 ### Course Description
 
@@ -74,10 +73,9 @@ This course consists of five 1-hour lectures.
 
 
 ]]></description></course><course cnum="CC-MANT" cname="Shipboard Maintenance" major="MENG&#10;MTRA"><description><![CDATA[---
-title: CC-MANT
+subtitle: Course CC-MANT
+title: "Shipboard Maintenance"
 ---
-
-## Shipboard Maintenance 
 
 ### Course Description
 
@@ -131,10 +129,9 @@ None
 
 
 ]]></description></course><course cnum="EN-1112" cname="Engineering Systems and Safety" major="MENG&#10;MTRA"><description><![CDATA[---
-title: EN-1112
+subtitle: Course EN-1112
+title: "Engineering Systems and Safety"
 ---
-
-## Engineering Systems and Safety 
 
 ### Course Description
 
@@ -268,10 +265,9 @@ None
 
 
 ]]></description></course><course cnum="EN-1211" cname="Auxiliary Machinery I" major="MENG"><description><![CDATA[---
-title: EN-1211
+subtitle: Course EN-1211
+title: "Auxiliary Machinery I"
 ---
-
-## Auxiliary Machinery I 
 
 ### Course Description
 
@@ -379,10 +375,9 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 
 ]]></description></course><course cnum="EN-1222" cname="Auxiliary Machinery I for Facilities" major="MENG"><description><![CDATA[---
-title: EN-1222
+subtitle: Course EN-1222
+title: "Auxiliary Machinery I for Facilities"
 ---
-
-## Auxiliary Machinery I for Facilities 
 
 ### Course Description
 
@@ -425,10 +420,9 @@ This course satisfies all the STCW objectives of [EN-1211](EN-1211) Auxiliary Ma
 
 
 ]]></description></course><course cnum="EN-2111" cname="Auxiliary Machinery II" major="MENG"><description><![CDATA[---
-title: EN-2111
+subtitle: Course EN-2111
+title: "Auxiliary Machinery II"
 ---
-
-## Auxiliary Machinery II 
 
 ### Course Description
 
@@ -505,10 +499,9 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 
 ]]></description></course><course cnum="EN-2112" cname="Machine Tool Technology" major="MENG"><description><![CDATA[---
-title: EN-2112
+subtitle: Course EN-2112
+title: "Machine Tool Technology"
 ---
-
-## Machine Tool Technology 
 
 ### Course Description
 
@@ -608,10 +601,9 @@ This course consists of one hour a week of instruction for a semester, twelve 3-
 
 
 ]]></description></course><course cnum="EN-2231" cname="Sea Term II: Marine Engineering" major="MENG"><description><![CDATA[---
-title: EN-2231
+subtitle: Course EN-2231
+title: "Sea Term II: Marine Engineering"
 ---
-
-## Sea Term II: Marine Engineering 
 
 ### Course Description
 
@@ -727,10 +719,9 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 
 ]]></description></course><course cnum="EN-2232" cname="Internal Combustion Engines I" major="MENG"><description><![CDATA[---
-title: EN-2232
+subtitle: Course EN-2232
+title: "Internal Combustion Engines I"
 ---
-
-## Internal Combustion Engines I 
 
 ### Course Description
 
@@ -786,10 +777,9 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 
 ]]></description></course><course cnum="EN-3111" cname="Electrical Machines" major="MENG"><description><![CDATA[---
-title: EN-3111
+subtitle: Course EN-3111
+title: "Electrical Machines"
 ---
-
-## Electrical Machines 
 
 ### Course Description
 
@@ -872,10 +862,9 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 
 ]]></description></course><course cnum="EN-3111L" cname="Electrical Machines Lab" major="MENG"><description><![CDATA[---
-title: EN-3111L
+subtitle: Course EN-3111L
+title: "Electrical Machines Lab"
 ---
-
-## Electrical Machines Lab 
 
 ### Course Description
 
@@ -951,10 +940,9 @@ High Voltage switchgear.
 
 
 ]]></description></course><course cnum="EN-3131" cname="Steam Generators" major="MENG"><description><![CDATA[---
-title: EN-3131
+subtitle: Course EN-3131
+title: "Steam Generators"
 ---
-
-## Steam Generators 
 
 ### Course Description
 
@@ -1042,10 +1030,9 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 
 ]]></description></course><course cnum="EN-3212" cname="Electronics" major="MENG"><description><![CDATA[---
-title: EN-3212
+subtitle: Course EN-3212
+title: "Electronics"
 ---
-
-## Electronics 
 
 ### Course Description
 
@@ -1115,10 +1102,9 @@ This course consists of three 1-hour classes a week for a semester, twelve 2-hou
 
 
 ]]></description></course><course cnum="EN-3213" cname="Refrigeration" major="MENG"><description><![CDATA[---
-title: EN-3213
+subtitle: Course EN-3213
+title: "Refrigeration"
 ---
-
-## Refrigeration 
 
 ### Course Description
 
@@ -1192,10 +1178,9 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 
 ]]></description></course><course cnum="EN-3216" cname="Operational Controls" major="MENG"><description><![CDATA[---
-title: EN-3216
+subtitle: Course EN-3216
+title: "Operational Controls"
 ---
-
-## Operational Controls 
 
 ### Course Description
 
@@ -1280,10 +1265,9 @@ At the completion of the course, the student will
 
 
 ]]></description></course><course cnum="EN-3231" cname="Sea Term III - Engine" major="MENG"><description><![CDATA[---
-title: EN-3231
+subtitle: Course EN-3231
+title: "Sea Term III - Engine"
 ---
-
-## Sea Term III - Engine 
 
 ### Course Description
 
@@ -1304,10 +1288,9 @@ Students enrolled for Sea Term III - Engine will follow the same schedule and ac
 
 
 ]]></description></course><course cnum="EN-3232" cname="Commercial Sea Term - Engine" major="MENG"><description><![CDATA[---
-title: EN-3232
+subtitle: Course EN-3232
+title: "Commercial Sea Term - Engine"
 ---
-
-## Commercial Sea Term - Engine 
 
 ### Course Description
 
@@ -1348,10 +1331,9 @@ This course consists of an approximately 60-day long experience on a commercial 
 
 
 ]]></description></course><course cnum="EN-3233" cname="Steam and Gas Turbines" major="MENG"><description><![CDATA[---
-title: EN-3233
+subtitle: Course EN-3233
+title: "Steam and Gas Turbines"
 ---
-
-## Steam and Gas Turbines 
 
 ### Course Description
 
@@ -1423,10 +1405,9 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 
 ]]></description></course><course cnum="EN-3603" cname="Instrumentation and Control" major="MENG"><description><![CDATA[---
-title: EN-3603
+subtitle: Course EN-3603
+title: "Instrumentation and Control"
 ---
-
-## Instrumentation and Control 
 
 ### Course Description
 
@@ -1464,10 +1445,9 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 
 ]]></description></course><course cnum="EN-4112" cname="Thermodynamics/Fluids Lab" major="MENG"><description><![CDATA[---
-title: EN-4112
+subtitle: Course EN-4112
+title: "Thermodynamics/Fluids Lab"
 ---
-
-## Thermodynamics/Fluids Lab 
 
 ### Course Description
 
@@ -1510,10 +1490,9 @@ This course consists of twelve 2-hour labs, and weekly quizzes.
 
 
 ]]></description></course><course cnum="EN-4131" cname="Internal Combustion Engines II" major="MENG"><description><![CDATA[---
-title: EN-4131
+subtitle: Course EN-4131
+title: "Internal Combustion Engines II"
 ---
-
-## Internal Combustion Engines II 
 
 ### Course Description
 
@@ -1575,10 +1554,9 @@ This course consists of three 1-hour classes a week for a semester, six 6-hour l
 
 
 ]]></description></course><course cnum="EN-4151" cname="Applied Naval Architecture for Marine Engineers" major="MENG"><description><![CDATA[---
-title: EN-4151
+subtitle: Course EN-4151
+title: "Applied Naval Architecture for Marine Engineers"
 ---
-
-## Applied Naval Architecture for Marine Engineers 
 
 ### Course Description
 
@@ -1660,10 +1638,9 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 
 ]]></description></course><course cnum="EN-4231" cname="Sea Term IV: Marine Engineering" major="MENG"><description><![CDATA[---
-title: EN-4231
+subtitle: Course EN-4231
+title: "Sea Term IV: Marine Engineering"
 ---
-
-## Sea Term IV: Marine Engineering 
 
 ### Course Description
 
@@ -1780,10 +1757,9 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 
 ]]></description></course><course cnum="EN-4234" cname="Engine Room Resource Management" major="MENG"><description><![CDATA[---
-title: EN-4234
+subtitle: Course EN-4234
+title: "Engine Room Resource Management"
 ---
-
-## Engine Room Resource Management 
 
 ### Course Description
 
@@ -1843,10 +1819,9 @@ At the conclusion of the course the student will be able to
 
 
 ]]></description></course><course cnum="FF-0102" cname="4/C Firefighting Practicum" major="MENG&#10;MTRA"><description><![CDATA[---
-title: FF-0102
+subtitle: Course FF-0102
+title: "4/C Firefighting Practicum"
 ---
-
-## 4/C Firefighting Practicum 
 
 ### Course Description
 
@@ -1926,10 +1901,9 @@ This course consists of two hour lecture, and 8-hour practical.
 
 
 ]]></description></course><course cnum="FF-0104" cname="3/C Firefighting Practicum" major="MENG&#10;MTRA"><description><![CDATA[---
-title: FF-0104
+subtitle: Course FF-0104
+title: "3/C Firefighting Practicum"
 ---
-
-## 3/C Firefighting Practicum 
 
 ### Course Description
 
@@ -1989,10 +1963,9 @@ Advanced Fire Fighting (AFF) is available to any student who has completed Basic
 
 
 ]]></description></course><course cnum="FF-0106" cname="2/C Firefighting Practicum" major="MENG&#10;MTRA"><description><![CDATA[---
-title: FF-0106
+subtitle: Course FF-0106
+title: "2/C Firefighting Practicum"
 ---
-
-## 2/C Firefighting Practicum 
 
 ### Course Description
 
@@ -2054,10 +2027,9 @@ This course consists of two hour lecture, and 8-hour practical.
 
 
 ]]></description></course><course cnum="FF-0108" cname="1/C Advanced Firefighting" major="MENG&#10;MTRA"><description><![CDATA[---
-title: FF-0108
+subtitle: Course FF-0108
+title: "1/C Advanced Firefighting"
 ---
-
-## 1/C Advanced Firefighting 
 
 ### Course Description
 
@@ -2132,10 +2104,9 @@ This course consists of two hour lecture, and 8-hour practical.
 
 
 ]]></description></course><course cnum="HU-1111" cname="English Composition" major="MENG&#10;MTRA"><description><![CDATA[---
-title: HU-1111
+subtitle: Course HU-1111
+title: "English Composition"
 ---
-
-## English Composition 
 
 ### Course Description
 
@@ -2174,10 +2145,9 @@ This course consists of three 1-hour classes a week for a semester and extensive
 
 
 ]]></description></course><course cnum="LB-0201" cname="STCW Lifeboatman Qualifications" major="MENG&#10;MTRA"><description><![CDATA[---
-title: LB-0201
+subtitle: Course LB-0201
+title: "STCW Lifeboatman Qualifications"
 ---
-
-## STCW Lifeboatman Qualifications 
 
 ### Course Description
 
@@ -2225,10 +2195,9 @@ This course consists of four 2-hour practical assessment blocks.
 
 
 ]]></description></course><course cnum="LB-0202" cname="USCG Lifeboatman Exam" major="MENG&#10;MTRA"><description><![CDATA[---
-title: LB-0202
+subtitle: Course LB-0202
+title: "USCG Lifeboatman Exam"
 ---
-
-## USCG Lifeboatman Exam 
 
 ### Course Description
 
@@ -2250,10 +2219,9 @@ Complete USCG Lifeboatman exam.
 
 
 ]]></description></course><course cnum="LB-0203" cname="4/C STCW Immersion Suit Practical" major="MENG&#10;MTRA"><description><![CDATA[---
-title: LB-0203
+subtitle: Course LB-0203
+title: "4/C STCW Immersion Suit Practical"
 ---
-
-## 4/C STCW Immersion Suit Practical 
 
 ### Course Description
 
@@ -2298,10 +2266,9 @@ This course consists of 1-hour practical.
 
 
 ]]></description></course><course cnum="MT-1111" cname="Vessel Familiarization and Basic Safety Training" major="MENG&#10;MTRA"><description><![CDATA[---
-title: MT-1111
+subtitle: Course MT-1111
+title: "Vessel Familiarization and Basic Safety Training"
 ---
-
-## Vessel Familiarization and Basic Safety Training 
 
 ### Course Description
 
@@ -2451,10 +2418,9 @@ This course consists of two 1-1/2-hour lectures and one 2-hour lab per week for 
 
 
 ]]></description></course><course cnum="MT-1221" cname="Coastal Navigation" major="MTRA"><description><![CDATA[---
-title: MT-1221
+subtitle: Course MT-1221
+title: "Coastal Navigation"
 ---
-
-## Coastal Navigation 
 
 ### Course Description
 
@@ -2552,10 +2518,9 @@ This course serves as a pre-requisite for  [MT-2121](mt-2121.html) *Deep Sea Nav
 
 
 ]]></description></course><course cnum="MT-2121" cname="Deep Sea Navigation" major="MTRA"><description><![CDATA[---
-title: MT-2121
+subtitle: Course MT-2121
+title: "Deep Sea Navigation"
 ---
-
-## Deep Sea Navigation 
 
 ### Course Description
 
@@ -2651,10 +2616,9 @@ This course serves as a pre-requisite for [MT-2371](mt-2371.html) *Sea Term II* 
 
 
 ]]></description></course><course cnum="MT-2141" cname="Ship Construction" major="MTRA"><description><![CDATA[---
-title: MT-2141
+subtitle: Course MT-2141
+title: "Ship Construction"
 ---
-
-## Ship Construction 
 
 ### Course Description
 
@@ -2738,10 +2702,9 @@ The student will demonstrate fluency in…
 
 
 ]]></description></course><course cnum="MT-2161" cname="Rules of the Road" major="MTRA"><description><![CDATA[---
-title: MT-2161
+subtitle: Course MT-2161
+title: "Rules of the Road"
 ---
-
-## Rules of the Road 
 
 ### Course Description
 
@@ -2823,10 +2786,9 @@ This course consists of three 1-hour lectures a week for a semester with practic
 
 
 ]]></description></course><course cnum="MT-2222" cname="Celestial Navigation" major="MTRA"><description><![CDATA[---
-title: MT-2222
+subtitle: Course MT-2222
+title: "Celestial Navigation"
 ---
-
-## Celestial Navigation 
 
 ### Course Description
 
@@ -2938,10 +2900,9 @@ The objective of this course is to introduce and familiarize the student with th
 
 
 ]]></description></course><course cnum="MT-2231" cname="Basic Seamanship" major="MTRA"><description><![CDATA[---
-title: MT-2231
+subtitle: Course MT-2231
+title: "Basic Seamanship"
 ---
-
-## Basic Seamanship 
 
 ### Course Description
 
@@ -3188,10 +3149,9 @@ The general objectives of Basic Seamanship are as follows:
 
 
 ]]></description></course><course cnum="MT-2371" cname="Sea Term II - Deck" major="MTRA"><description><![CDATA[---
-title: MT-2371
+subtitle: Course MT-2371
+title: "Sea Term II - Deck"
 ---
-
-## Sea Term II - Deck 
 
 ### Course Description
 
@@ -3314,10 +3274,9 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 
 ]]></description></course><course cnum="MT-3122" cname="Radar Observer Certification" major="MTRA"><description><![CDATA[---
-title: MT-3122
+subtitle: Course MT-3122
+title: "Radar Observer Certification"
 ---
-
-## Radar Observer Certification 
 
 ### Course Description
 
@@ -3424,10 +3383,9 @@ This course is a pre-requisite for [MT-3222](mt-3222.html) *Automatic Radar Plot
 
 
 ]]></description></course><course cnum="MT-3131" cname="Meteorology" major="MTRA"><description><![CDATA[---
-title: MT-3131
+subtitle: Course MT-3131
+title: "Meteorology"
 ---
-
-## Meteorology 
 
 ### Course Description
 
@@ -3507,10 +3465,9 @@ Successful completion of  SM-2121 *College Physics I* or SM-2123 *Engineering Ph
 
 
 ]]></description></course><course cnum="MT-3151" cname="Dangerous Liquid Cargo" major="MTRA"><description><![CDATA[---
-title: MT-3151
+subtitle: Course MT-3151
+title: "Dangerous Liquid Cargo"
 ---
-
-## Dangerous Liquid Cargo 
 
 ### Course Description
 
@@ -3613,10 +3570,9 @@ The expected learning outcome is that the trainee...
 
 
 ]]></description></course><course cnum="MT-3221" cname="Electronic Navigation" major="MTRA"><description><![CDATA[---
-title: MT-3221
+subtitle: Course MT-3221
+title: "Electronic Navigation"
 ---
-
-## Electronic Navigation 
 
 ### Course Description
 
@@ -3679,10 +3635,9 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 
 ]]></description></course><course cnum="MT-3222" cname="Automatic Radar Plotting Aids (ARPA)" major="MTRA"><description><![CDATA[---
-title: MT-3222
+subtitle: Course MT-3222
+title: "Automatic Radar Plotting Aids (ARPA)"
 ---
-
-## Automatic Radar Plotting Aids (ARPA) 
 
 ### Course Description
 
@@ -3765,10 +3720,9 @@ This course is a pre-requisite for [MT-3224](mt-3224.html) *Electronic Chart Dis
 
 
 ]]></description></course><course cnum="MT-3224" cname="Electronic Chart Display &amp; Information System (ECDIS)" major="MTRA"><description><![CDATA[---
-title: MT-3224
+subtitle: Course MT-3224
+title: "Electronic Chart Display & Information System (ECDIS)"
 ---
-
-## Electronic Chart Display & Information System (ECDIS) 
 
 ### Course Description
 
@@ -3872,10 +3826,9 @@ At the completion of the course the student will be able to:
 
 
 ]]></description></course><course cnum="MT-3231" cname="Applied Shiphandling" major="MTRA"><description><![CDATA[---
-title: MT-3231
+subtitle: Course MT-3231
+title: "Applied Shiphandling"
 ---
-
-## Applied Shiphandling 
 
 ### Course Description
 
@@ -3977,10 +3930,9 @@ As per USCG, Academy and Marine Transportation Department requirements, any stud
 
 
 ]]></description></course><course cnum="MT-3261" cname="Containerization and Modern Cargo Stowage" major="MTRA"><description><![CDATA[---
-title: MT-3261
+subtitle: Course MT-3261
+title: "Containerization and Modern Cargo Stowage"
 ---
-
-## Containerization and Modern Cargo Stowage 
 
 ### Course Description
 
@@ -4053,10 +4005,9 @@ Successful completion of [MT-2231](mt-2231.html) *Basic Seamanship* and [MT-2141
 
 
 ]]></description></course><course cnum="MT-3371" cname="Sea Term III - Deck" major="MTRA"><description><![CDATA[---
-title: MT-3371
+subtitle: Course MT-3371
+title: "Sea Term III - Deck"
 ---
-
-## Sea Term III - Deck 
 
 ### Course Description
 
@@ -4077,10 +4028,9 @@ Students who take this course in special circumstances will complete the assessm
 
 
 ]]></description></course><course cnum="MT-3372" cname="Commercial Sea Term - Deck" major="MTRA"><description><![CDATA[---
-title: MT-3372
+subtitle: Course MT-3372
+title: "Commercial Sea Term - Deck"
 ---
-
-## Commercial Sea Term - Deck 
 
 ### Course Description
 
@@ -4223,10 +4173,9 @@ This course consists of an approximately 60-day long shipboard experence on a co
 
 
 ]]></description></course><course cnum="MT-4122" cname="Global Maritime Distress and Safety System" major="MTRA"><description><![CDATA[---
-title: MT-4122
+subtitle: Course MT-4122
+title: "Global Maritime Distress and Safety System"
 ---
-
-## Global Maritime Distress and Safety System 
 
 ### Course Description
 
@@ -4286,10 +4235,9 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 
 ]]></description></course><course cnum="MT-4132" cname="Advanced Seamanship" major="MTRA"><description><![CDATA[---
-title: MT-4132
+subtitle: Course MT-4132
+title: "Advanced Seamanship"
 ---
-
-## Advanced Seamanship 
 
 ### Course Description
 
@@ -4462,10 +4410,9 @@ The student will be able to:
 
 
 ]]></description></course><course cnum="MT-4133" cname="Bridge Resource Management" major="MTRA"><description><![CDATA[---
-title: MT-4133
+subtitle: Course MT-4133
+title: "Bridge Resource Management"
 ---
-
-## Bridge Resource Management 
 
 ### Course Description
 
@@ -4564,10 +4511,9 @@ After successfully completing the course the student will:
 
 
 ]]></description></course><course cnum="MT-4241" cname="Stability and Trim" major="MTRA"><description><![CDATA[---
-title: MT-4241
+subtitle: Course MT-4241
+title: "Stability and Trim"
 ---
-
-## Stability and Trim 
 
 ### Course Description
 
@@ -4725,10 +4671,9 @@ Building on the principles of stability, the student will be able to:
 
 
 ]]></description></course><course cnum="MT-4251" cname="Marine Safety" major="MTRA"><description><![CDATA[---
-title: MT-4251
+subtitle: Course MT-4251
+title: "Marine Safety"
 ---
-
-## Marine Safety 
 
 ### Course Description
 
@@ -4778,10 +4723,9 @@ This course consists of two 1-1/2-hour lectures a week for a semester with a com
 
 
 ]]></description></course><course cnum="MT-4252" cname="License Seminar" major="MTRA"><description><![CDATA[---
-title: MT-4252
+subtitle: Course MT-4252
+title: "License Seminar"
 ---
-
-## License Seminar 
 
 ### Course Description
 
@@ -4933,10 +4877,9 @@ This course consists of three 4-hour labs a week with multiple practice examinat
 
 
 ]]></description></course><course cnum="MT-4253" cname="Watchkeeping using Full-Mission Bridge Simulator" major="MTRA"><description><![CDATA[---
-title: MT-4253
+subtitle: Course MT-4253
+title: "Watchkeeping using Full-Mission Bridge Simulator"
 ---
-
-## Watchkeeping using Full-Mission Bridge Simulator 
 
 ### Course Description
 
@@ -5010,10 +4953,9 @@ All requirements must be completed by the end of [Sea Term IV: Marine Transporta
 
 
 ]]></description></course><course cnum="MT-4371" cname="Sea Term IV: Marine Transportation" major="MTRA"><description><![CDATA[---
-title: MT-4371
+subtitle: Course MT-4371
+title: "Sea Term IV: Marine Transportation"
 ---
-
-## Sea Term IV: Marine Transportation 
 
 ### Course Description
 
@@ -5152,10 +5094,9 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 
 ]]></description></course><course cnum="PE-0031" cname="Basic Safety CPR" major="MENG&#10;MTRA"><description><![CDATA[---
-title: PE-0031
+subtitle: Course PE-0031
+title: "Basic Safety CPR"
 ---
-
-## Basic Safety CPR 
 
 ### Course Description
 
@@ -5237,10 +5178,9 @@ This course consists of four 3-hour modules.
 
 
 ]]></description></course><course cnum="PE-0032" cname="STCW Medical Care Provider" major="MENG&#10;MTRA"><description><![CDATA[---
-title: PE-0032
+subtitle: Course PE-0032
+title: "STCW Medical Care Provider"
 ---
-
-## STCW Medical Care Provider 
 
 ### Course Description
 
@@ -5363,10 +5303,9 @@ This course consists of 14 2-hour practicals.
 
 
 ]]></description></course><course cnum="PS-0301" cname="4/C STCW Personal Survival" major="MENG&#10;MTRA"><description><![CDATA[---
-title: PS-0301
+subtitle: Course PS-0301
+title: "4/C STCW Personal Survival"
 ---
-
-## 4/C STCW Personal Survival 
 
 ### Course Description
 
@@ -5434,10 +5373,9 @@ This course consists of 1-hour lecture, and 8-hour practical.
 
 
 ]]></description></course><course cnum="SR-0401" cname="4/C STCW Personal Safety/Social Responsibility" major="MENG&#10;MTRA"><description><![CDATA[---
-title: SR-0401
+subtitle: Course SR-0401
+title: "4/C STCW Personal Safety/Social Responsibility"
 ---
-
-## 4/C STCW Personal Safety/Social Responsibility 
 
 ### Course Description
 
@@ -5498,10 +5436,9 @@ This course consists of four 1-hour lectures.
 
 
 ]]></description></course><course cnum="SS-4123" cname="International Law and Legislative Compliance for Mariners" major="MENG&#10;MTRA"><description><![CDATA[---
-title: SS-4123
+subtitle: Course SS-4123
+title: "International Law and Legislative Compliance for Mariners"
 ---
-
-## International Law and Legislative Compliance for Mariners 
 
 ### Course Description
 
@@ -5571,10 +5508,9 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 
 ]]></description></course><course cnum="ST-0999" cname="Sea Term I" major="MENG&#10;MTRA"><description><![CDATA[---
-title: ST-0999
+subtitle: Course ST-0999
+title: "Sea Term I"
 ---
-
-## Sea Term I 
 
 ### Course Description
 
@@ -5616,10 +5552,9 @@ Satisfy the requirements of the individual components
 
 
 ]]></description></course><course cnum="ST-0999D" cname="Sea Term I (Deck Portion)" major="MENG&#10;MTRA"><description><![CDATA[---
-title: ST-0999D
+subtitle: Course ST-0999D
+title: "Sea Term I (Deck Portion)"
 ---
-
-## Sea Term I (Deck Portion) 
 
 ### Course Description
 
@@ -5744,10 +5679,9 @@ This course consists of deck watchstanding, training and maintenance, for approx
 
 
 ]]></description></course><course cnum="ST-0999E" cname="Sea Term I (Engineering Portion)" major="MENG&#10;MTRA"><description><![CDATA[---
-title: ST-0999E
+subtitle: Course ST-0999E
+title: "Sea Term I (Engineering Portion)"
 ---
-
-## Sea Term I (Engineering Portion) 
 
 ### Course Description
 
@@ -5831,10 +5765,9 @@ This course consists of engineering watchstanding, training and maintenance, for
 
 
 ]]></description></course><course cnum="VPDSD" cname="Vessel Personnel with Designated Security Duties" major="MENG&#10;MTRA"><description><![CDATA[---
-title: VPDSD
+subtitle: Course VPDSD
+title: "Vessel Personnel with Designated Security Duties"
 ---
-
-## Vessel Personnel with Designated Security Duties 
 
 ### Course Description
 
@@ -5915,10 +5848,9 @@ Those who successfully complete this course should be able to demonstrate suffic
 
 
 ]]></description></course><course cnum="EN-3212L" cname="Electronics Lab" major="MENG"><description><![CDATA[---
-title: EN-3212L
+subtitle: Course EN-3212L
+title: "Electronics Lab"
 ---
-
-## Electronics Lab 
 
 ### Course Description
 
@@ -5958,10 +5890,9 @@ This lab is counted towards workshop skills for STCW purposes.
 
 
 ]]></description></course><course cnum="EN-3112L" cname="Strength of Materials Lab" major="MENG"><description><![CDATA[---
-title: EN-3112L
+subtitle: Course EN-3112L
+title: "Strength of Materials Lab"
 ---
-
-## Strength of Materials Lab 
 
 ### Course Description
 

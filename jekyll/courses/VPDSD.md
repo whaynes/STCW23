@@ -1,8 +1,7 @@
 ---
-title: VPDSD
+subtitle: Course VPDSD
+title: "Vessel Personnel with Designated Security Duties"
 ---
-
-## Vessel Personnel with Designated Security Duties 
 
 ### Course Description
 

@@ -1,8 +1,7 @@
 ---
-title: CC-LEAD
+subtitle: Course CC-LEAD
+title: "Regimental Leadership Program"
 ---
-
-## Regimental Leadership Program 
 
 ### Course Description
 

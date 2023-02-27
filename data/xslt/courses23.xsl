@@ -13,7 +13,6 @@
         <xsl:text/>---&cr;title: "<xsl:value-of select="replace(current-grouping-key(), 'MENG\sMTRA', 'Common')"/> STCW Courses" &cr;<xsl:text/>
         
         <xsl:text>---&rr;</xsl:text>
-        <xsl:text>## </xsl:text><xsl:value-of select="replace(current-grouping-key(), 'MENG\sMTRA', 'Common')"/><xsl:text> STCW Courses&cr; </xsl:text>
         <xsl:text>&lt;div class='eighty' markdown='1' >&rr;</xsl:text>
         <xsl:text>| No.   | Course Number | Course Name |&cr;</xsl:text>
         <xsl:text>|:-----:|:--------------|:------------|&cr;</xsl:text>
@@ -26,14 +25,14 @@
   </xsl:template>
 
   <xsl:template match="course" mode="line">
-    <xsl:text/>| <xsl:value-of select="position()"/>. | [<xsl:value-of select="@cnum"/>](<xsl:value-of select="@cnum"/>.html) | <xsl:apply-templates select="@cname"/><xsl:text> |&cr;</xsl:text>
+    <xsl:text/>| <xsl:value-of select="position()"/>. | {% course <xsl:value-of select="@cnum"/> %} | <xsl:apply-templates select="@cname"/><xsl:text> |&cr;</xsl:text>
   </xsl:template>
 
+<!-- write out a page for each course -->
   <xsl:template match="course" mode="description">
     <xsl:result-document method="text" href="{$folder}/{@cnum}.md">
       <xsl:value-of select="description"/>
     </xsl:result-document>
-
   </xsl:template>
 
 </xsl:stylesheet>
