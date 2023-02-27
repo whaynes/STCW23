@@ -40,9 +40,6 @@ LOCALURL   = http://localhost:8888/stcw23/tables
 BROWSER      = Google\ Chrome
 SAXON        = /Applications/Saxon/saxon9he.jar
 
-make:
-	make tables
-	make courses
 
 tables:
 	java -jar $(SAXON) -s:$(XML)/tables.xml -xsl:$(XSL)/generate-tables23.xsl -o:$(TABLES)/out.html
