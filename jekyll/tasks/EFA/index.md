@@ -7,7 +7,7 @@ subtitle:  elementary first aid
 
 ### NVIC 08-14
 
-| No.   | Task | Description | Mapping |
+| No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
 | 1. | [4.1.A]({{ site.baseurl }}/tasks/EFA/B0401A.html) | State the importance of body substance isolation | {% course PE-0031%}|
 | 2. | [4.1.B]({{ site.baseurl }}/tasks/EFA/B0401B.html) | List body substance barrier devices | {% course PE-0031%}|
@@ -18,15 +18,15 @@ subtitle:  elementary first aid
 | 7. | [4.3.A]({{ site.baseurl }}/tasks/EFA/B0403A.html) | List the reasons for not changing the position of a patient | {% course PE-0031%}|
 | 8. | [4.3.B]({{ site.baseurl }}/tasks/EFA/B0403B.html) | List the reasons for positioning a patient | {% course PE-0031%}|
 | 9. | [4.4.A]({{ site.baseurl }}/tasks/EFA/B0404A.html) | Determine whether resuscitation is required | {% course PE-0031%}|
-| 10. | [4.4.B]({{ site.baseurl }}/tasks/EFA/B0404B.html) | Demonstrate opening of the airway and checking for breathing <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4B](EFA-4B4B) in [PE‑0031](PE-0031)|
+| 10. | [4.4.B]({{ site.baseurl }}/tasks/EFA/B0404B.html) | Demonstrate opening of the airway and checking for breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4B](EFA-4B4B) in {% course PE-0031 %} |
 | 11. | [4.4.C]({{ site.baseurl }}/tasks/EFA/B0404C.html) | List the proper procedures for two-person CPR | {% course PE-0031%}|
-| 12. | [4.4.D]({{ site.baseurl }}/tasks/EFA/B0404D.html) | Demonstrate action for an unresponsive person who is not breathing <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4D](EFA-4B4D) in [PE‑0031](PE-0031)|
-| 13. | [4.4.E]({{ site.baseurl }}/tasks/EFA/B0404E.html) | Demonstrate the procedure for determining if a patient has a pulse <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4E](EFA-4B4E) in [PE‑0031](PE-0031)|
-| 14. | [4.4.F]({{ site.baseurl }}/tasks/EFA/B0404F.html) | Demonstrate proper hand placements for chest compressions <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4F](EFA-4B4F) in [PE‑0031](PE-0031)|
-| 15. | [4.4.G]({{ site.baseurl }}/tasks/EFA/B0404G.html) | Demonstrate proper CPR compressions for two minutes <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4F](EFA-4B4F) in [PE‑0031](PE-0031)|
-| 16. | [4.4.H]({{ site.baseurl }}/tasks/EFA/B0404H.html) | Demonstrate actions for a conscious adult with airway blockage <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4H](EFA-4B4H) in [PE‑0031](PE-0031)|
-| 17. | [4.4.I]({{ site.baseurl }}/tasks/EFA/B0404I.html) | Demonstrate actions for an unconscious adult with airway blockage <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B4I](EFA-4B4I) in [PE‑0031](PE-0031)|
-| 18. | [4.5.A]({{ site.baseurl }}/tasks/EFA/B0405A.html) | Demonstrate proper bleeding control techniques <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B5A](EFA-4B5A) in [PE‑0031](PE-0031)|
+| 12. | [4.4.D]({{ site.baseurl }}/tasks/EFA/B0404D.html) | Demonstrate action for an unresponsive person who is not breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4D](EFA-4B4D) in {% course PE-0031 %} |
+| 13. | [4.4.E]({{ site.baseurl }}/tasks/EFA/B0404E.html) | Demonstrate the procedure for determining if a patient has a pulse ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4E](EFA-4B4E) in {% course PE-0031 %} |
+| 14. | [4.4.F]({{ site.baseurl }}/tasks/EFA/B0404F.html) | Demonstrate proper hand placements for chest compressions ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4F](EFA-4B4F) in {% course PE-0031 %} |
+| 15. | [4.4.G]({{ site.baseurl }}/tasks/EFA/B0404G.html) | Demonstrate proper CPR compressions for two minutes ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4F](EFA-4B4F) in {% course PE-0031 %} |
+| 16. | [4.4.H]({{ site.baseurl }}/tasks/EFA/B0404H.html) | Demonstrate actions for a conscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4H](EFA-4B4H) in {% course PE-0031 %} |
+| 17. | [4.4.I]({{ site.baseurl }}/tasks/EFA/B0404I.html) | Demonstrate actions for an unconscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4I](EFA-4B4I) in {% course PE-0031 %} |
+| 18. | [4.5.A]({{ site.baseurl }}/tasks/EFA/B0405A.html) | Demonstrate proper bleeding control techniques ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B5A](EFA-4B5A) in {% course PE-0031 %} |
 | 19. | [4.6.A]({{ site.baseurl }}/tasks/EFA/B0406A.html) | Identify the signs and symptoms of shock development | {% course PE-0031%}|
 | 20. | [4.6.B]({{ site.baseurl }}/tasks/EFA/B0406B.html) | Describe the position for a patient in shock (no spinal injury) | {% course PE-0031%}|
 | 21. | [4.7.A]({{ site.baseurl }}/tasks/EFA/B0407A.html) | Identify the kinds of burns that can occur | {% course PE-0031%}|
@@ -34,6 +34,6 @@ subtitle:  elementary first aid
 | 23. | [4.7.C]({{ site.baseurl }}/tasks/EFA/B0407C.html) | Identify the means of reducing the possibility of infection | {% course PE-0031%}|
 | 24. | [4.8.A]({{ site.baseurl }}/tasks/EFA/B0408A.html) | State the circumstances when the victim should not be moved | {% course PE-0031%}|
 | 25. | [4.8.B]({{ site.baseurl }}/tasks/EFA/B0408B.html) | List circumstances when a victim should be moved from the scene | {% course PE-0031%}|
-| 26. | [4.8.C]({{ site.baseurl }}/tasks/EFA/B0408C.html) | Demonstrate immobilizing a fracture using splints and ties <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B8C](EFA-4B8C) in [PE‑0031](PE-0031)|
-| 27. | [4.8.D]({{ site.baseurl }}/tasks/EFA/B0408D.html) | Demonstrate preparing patient for spinal immobilization <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B8D](EFA-4B8D) in [PE‑0031](PE-0031)|
-| 28. | [4.9.A]({{ site.baseurl }}/tasks/EFA/B0409A.html) | Demonstrate bandaging technique for wound treatment <%= imageref("new", {class:"rstar"}) %>  | [EFA‑4B9A](EFA-4B9A) in [PE‑0031](PE-0031)|
+| 26. | [4.8.C]({{ site.baseurl }}/tasks/EFA/B0408C.html) | Demonstrate immobilizing a fracture using splints and ties ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B8C](EFA-4B8C) in {% course PE-0031 %} |
+| 27. | [4.8.D]({{ site.baseurl }}/tasks/EFA/B0408D.html) | Demonstrate preparing patient for spinal immobilization ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B8D](EFA-4B8D) in {% course PE-0031 %} |
+| 28. | [4.9.A]({{ site.baseurl }}/tasks/EFA/B0409A.html) | Demonstrate bandaging technique for wound treatment ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B9A](EFA-4B9A) in {% course PE-0031 %} |

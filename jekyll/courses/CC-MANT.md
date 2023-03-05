@@ -1,5 +1,5 @@
 ---
-subtitle: Course CC-MANT
+subtitle: CC-MANT
 title: "Shipboard Maintenance"
 ---
 
@@ -17,21 +17,21 @@ None
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-A8.1](35#ABE-A8\.1) Safe operation of hatches, watertight doors, ports and related equipment
-* [ABE-B1.1](35#ABE-B1\.1) Ability to use painting materials and equipment
-* [ABE-B1.1](35#ABE-B1\.1) Ability to use cleaning materials and equipment
-* [ABE-B1.2](35#ABE-B1\.2) Ability to understand and execute routine maintenance and repair procedures
-* [ABE-B1.3](35#ABE-B1\.3) Knowledge of surface preparation techniques
-* [ABE-B1.4](35#ABE-B1\.4) Knowledge of safe disposal of waste materials
-* [ABE-B1.5](35#ABE-B1\.5) Understanding manufacturer’s safety guidelines and shipboard instructions
-* [ABE-C2.1](35#ABE-C2\.1) Knowledge of procedures for safe handling, stowage and securing of stores
-* [ABD-D1.5](25#ABD-D1\.5) Knowledge of safe disposal of waste materials
-* [ABD-D1.4](25#ABD-D1\.4) Understanding manufacturer’s safety guidelines and shipboard instructions
-* [ABD-D1.3](25#ABD-D1\.3) Knowledge of surface preparation techniques
-* [ABD-D1.2](25#ABD-D1\.2) Ability to understand and execute routine maintenance and repair procedures
-* [ABD-D1.1](25#ABD-D1\.1) Ability to use painting, lubrication and cleaning materials and equipment
-* [ABD-C1.3](25#ABD-C1\.3) Hatches and hatch covers
-* [ABD-C1.1](25#ABD-C1\.1) Hatches, watertight doors, ports, and related equipment
+* [ABE-A8.1]({{site.baseurl}}/tables/35.html#ABE-A8.1) Safe operation of hatches, watertight doors, ports and related equipment
+* [ABE-B1.1]({{site.baseurl}}/tables/35.html#ABE-B1.1) Ability to use painting materials and equipment
+* [ABE-B1.1]({{site.baseurl}}/tables/35.html#ABE-B1.1) Ability to use cleaning materials and equipment
+* [ABE-B1.2]({{site.baseurl}}/tables/35.html#ABE-B1.2) Ability to understand and execute routine maintenance and repair procedures
+* [ABE-B1.3]({{site.baseurl}}/tables/35.html#ABE-B1.3) Knowledge of surface preparation techniques
+* [ABE-B1.4]({{site.baseurl}}/tables/35.html#ABE-B1.4) Knowledge of safe disposal of waste materials
+* [ABE-B1.5]({{site.baseurl}}/tables/35.html#ABE-B1.5) Understanding manufacturer’s safety guidelines and shipboard instructions
+* [ABE-C1.1]({{site.baseurl}}/tables/35.html#ABE-C1.1) Knowledge of procedures for safe handling, stowage and securing of stores
+* [ABD-D1.5]({{site.baseurl}}/tables/25.html#ABD-D1.5) Knowledge of safe disposal of waste materials
+* [ABD-D1.4]({{site.baseurl}}/tables/25.html#ABD-D1.4) Understanding manufacturer’s safety guidelines and shipboard instructions
+* [ABD-D1.3]({{site.baseurl}}/tables/25.html#ABD-D1.3) Knowledge of surface preparation techniques
+* [ABD-D1.2]({{site.baseurl}}/tables/25.html#ABD-D1.2) Ability to understand and execute routine maintenance and repair procedures
+* [ABD-D1.1]({{site.baseurl}}/tables/25.html#ABD-D1.1) Ability to use painting, lubrication and cleaning materials and equipment
+* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) Hatches and hatch covers
+* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) Hatches, watertight doors, ports, and related equipment
 
 
 ### Topics

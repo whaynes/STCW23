@@ -33,7 +33,7 @@
         <p>
           <b><xsl:value-of select="current-group()[1]/function"/></b>
         </p>
-        <table>
+        <table class='competences'>
           <colgroup>
             <col span="1" style="width: 25%;"/>
             <col span="1" style="width: 65%;"/>
@@ -47,7 +47,10 @@
             </tr>
             <xsl:for-each-group select="current-group()" group-by="competence">
               <xsl:variable name="competence">
-                <td rowspan="{count(current-group())}">
+                <td rowspan="{count(current-group())}" class='competence'>
+                  <xsl:attribute name="id" 
+            select="concat(Tables--Table_Short_Name, '-', FunctionNo, CompetenceNo)"/>
+
                   <p>{{ "&cr;<xsl:value-of select="current-group()[1]/competence"/>" | markdownify }}</p>
                 </td>
               </xsl:variable>
@@ -57,14 +60,15 @@
                     <xsl:copy-of select="$competence"/>
                   </xsl:if>
 
-                  <td>
+                  <td class='kup' id='{kupNo}'>
+                    <p class='kupNo'><xsl:value-of select="substring-after(kupNo, '-')"/></p>
                     <xsl:text/>{{"&cr;<xsl:value-of select="current-group()[1]/kup"/>" | markdownify }} <xsl:text/>
                   </td>
-                  <td>
+                  <td class='location'>
                     <xsl:text>{{" </xsl:text>
                     <xsl:for-each select="distinct-values(Courses_K--CourseNo | Courses_P--CourseNo)">
                       <xsl:text>&cr;[</xsl:text>
-                      <xsl:value-of select="replace(., '-', '&#x2011;')"/>](/courses/<xsl:value-of select="lower-case(translate(., '-', ''))"/>.html)<xsl:text/>
+                      <xsl:value-of select="replace(., '-', '&#x2011;')"/>](/stcw23/courses/<xsl:value-of select="."/>.html)<xsl:text/>
                       <xsl:if test="not(position() = last())"><xsl:text>\\</xsl:text></xsl:if>
                     </xsl:for-each>
                     <xsl:text>" | markdownify }} </xsl:text>

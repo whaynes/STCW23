@@ -7,7 +7,7 @@ subtitle:  personal survival
 
 ### NVIC 08-14
 
-| No.   | Task | Description | Mapping |
+| No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
 | 1. | [1.1.A]({{ site.baseurl }}/tasks/PS/B0101A.html) | Identify and describe types of emergency situations | {% course MT-1111%}|
 | 2. | [1.2.A]({{ site.baseurl }}/tasks/PS/B0102A.html) | Identify and describe the types of lifesaving appliances carried on ships | {% course MT-1111%}|
@@ -25,15 +25,15 @@ subtitle:  personal survival
 | 14. | [1.12.A]({{ site.baseurl }}/tasks/PS/B0112A.html) | List initial actions to take aboard a survival craft to enhance the chance of survival | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 15. | [1.12.B]({{ site.baseurl }}/tasks/PS/B0112B.html) | List actions to take aboard a survival craft at sea to enhance chances of survival | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 16. | [1.13.A]({{ site.baseurl }}/tasks/PS/B0113A.html) | List the main dangers to survivors | {% course PS-0301%}|
-| 17. | [1.14.A]({{ site.baseurl }}/tasks/PS/B0114A.html) | Don a lifejacket | [PS‑1](PS-1) in [PS‑0301](PS-0301)<br/>{% course PS-0301%}|
-| 18. | [1.14.B]({{ site.baseurl }}/tasks/PS/B0114B.html) | Don an immersion suit | [PS‑2](PS-2) in [LB‑0203](LB-0203)<br/>{% course LB-0203%}|
-| 19. | [1.14.C]({{ site.baseurl }}/tasks/PS/B0114C.html) | Enter the water in a life jacket | [PS‑3](PS-3) in [PS‑0301](PS-0301)<br/>{% course PS-0301%}|
-| 20. | [1.14.D]({{ site.baseurl }}/tasks/PS/B0114D.html) | Enter the water in an immersion suit | [PS‑2](PS-2) in [LB‑0203](LB-0203)<br/>{% course LB-0203%}|
-| 21. | [1.14.E]({{ site.baseurl }}/tasks/PS/B0114E.html) | Right an inverted inflatable life raft | [SCRB‑1](SCRB-1) in [PS‑0301](PS-0301)<br/>{% course PS-0301%}|
-| 22. | [1.14.F]({{ site.baseurl }}/tasks/PS/B0114F.html) | Demonstrate ability to swim | [PS‑5](PS-5) in [PS‑0301](PS-0301)<br/>{% course PS-0301%}|
-| 23. | [1.14.G]({{ site.baseurl }}/tasks/PS/B0114G.html) | Demonstrate ability to tread water | [PS‑6](PS-6) in [PS‑0301](PS-0301)<br/>{% course PS-0301%}|
+| 17. | [1.14.A]({{ site.baseurl }}/tasks/PS/B0114A.html) | Don a lifejacket | [PS‑1](PS-1) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 18. | [1.14.B]({{ site.baseurl }}/tasks/PS/B0114B.html) | Don an immersion suit | [PS‑2](PS-2) in {% course LB-0203 %} <br/>{% course LB-0203%}|
+| 19. | [1.14.C]({{ site.baseurl }}/tasks/PS/B0114C.html) | Enter the water in a life jacket | [PS‑3](PS-3) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 20. | [1.14.D]({{ site.baseurl }}/tasks/PS/B0114D.html) | Enter the water in an immersion suit | [PS‑2](PS-2) in {% course LB-0203 %} <br/>{% course LB-0203%}|
+| 21. | [1.14.E]({{ site.baseurl }}/tasks/PS/B0114E.html) | Right an inverted inflatable life raft | [SCRB‑1](SCRB-1) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 22. | [1.14.F]({{ site.baseurl }}/tasks/PS/B0114F.html) | Demonstrate ability to swim | [PS‑5](PS-5) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 23. | [1.14.G]({{ site.baseurl }}/tasks/PS/B0114G.html) | Demonstrate ability to tread water | [PS‑6](PS-6) in {% course PS-0301 %} <br/>{% course PS-0301%}|
 | 24. | [1.14.H]({{ site.baseurl }}/tasks/PS/B0114H.html) | Board a life raft from the vessel | {% course MT-1111%}|
-| 25. | [1.14.I]({{ site.baseurl }}/tasks/PS/B0114I.html) | Board a life raft unassisted from the water | [PS‑7](PS-7) in [PS‑0301](PS-0301)<br/>{% course PS-0301%}|
+| 25. | [1.14.I]({{ site.baseurl }}/tasks/PS/B0114I.html) | Board a life raft unassisted from the water | [PS‑7](PS-7) in {% course PS-0301 %} <br/>{% course PS-0301%}|
 | 26. | [1.14.J]({{ site.baseurl }}/tasks/PS/B0114J.html) | Deploy a sea anchor | {% course LB-0201%}|
 | 27. | [1.14.K]({{ site.baseurl }}/tasks/PS/B0114K.html) | Simulate activating pyrotechnic devices | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 28. | [1.14.L]({{ site.baseurl }}/tasks/PS/B0114L.html) | Operate a portable VHF radio | {% course LB-0201%}<br/>{% course MT-1111%}|

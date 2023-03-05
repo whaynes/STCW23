@@ -7,7 +7,7 @@ subtitle:  survival craft and rescue boats other than fast rescue boats
 
 ### NVIC 04-14
 
-| No.   | Task | Description | Mapping |
+| No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
 | 1. | [1.1.A]({{ site.baseurl }}/tasks/SCRB/C0101A.html) | Items in a survival craft and survival craft limitations | {% course MT-1111%}|
 | 2. | [1.2.A]({{ site.baseurl }}/tasks/SCRB/C0102A.html) | Survival craft construction | {% course MT-1111%}|
@@ -28,11 +28,11 @@ subtitle:  survival craft and rescue boats other than fast rescue boats
 | 17. | [1.7.E]({{ site.baseurl }}/tasks/SCRB/C0107E.html) | Operate a rescue boat during recovery | {% course MT-1111%}|
 | 18. | [1.8.A]({{ site.baseurl }}/tasks/SCRB/C0108A.html) | On-load release devices | {% course MT-1111%}|
 | 19. | [1.9.A]({{ site.baseurl }}/tasks/SCRB/C0109A.html) | Survival craft maintenance | {% course MT-1111%}|
-| 20. | [2.1.A]({{ site.baseurl }}/tasks/SCRB/C0201A.html) | Start and operate a lifeboat engine | [SCRB‑3](SCRB-3) in [LB‑0201](LB-0201)<br/>{% course LB-0201%}|
-| 21. | [2.1.B]({{ site.baseurl }}/tasks/SCRB/C0201B.html) | Start and operate a rescue boat engine | [SCRB‑3](SCRB-3) in [LB‑0201](LB-0201)<br/>{% course LB-0201%}|
-| 22. | [3.1.A]({{ site.baseurl }}/tasks/SCRB/C0301A.html) | Command lifeboat operation | [SCRB‑2](SCRB-2) in [LB‑0201](LB-0201)<br/>{% course LB-0201%}|
-| 23. | [3.1.B]({{ site.baseurl }}/tasks/SCRB/C0301B.html) | Handle a lifeboat under oars | [SCRB‑4](SCRB-4) in [LB‑0201](LB-0201)<br/>{% course LB-0201%}|
-| 24. | [3.2.A]({{ site.baseurl }}/tasks/SCRB/C0302A.html) | Use lifeboat equipment | [PS‑8](PS-8) in [LB‑0201](LB-0201)<br/>{% course MT-1111%}|
+| 20. | [2.1.A]({{ site.baseurl }}/tasks/SCRB/C0201A.html) | Start and operate a lifeboat engine | [SCRB‑3](SCRB-3) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 21. | [2.1.B]({{ site.baseurl }}/tasks/SCRB/C0201B.html) | Start and operate a rescue boat engine | [SCRB‑3](SCRB-3) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 22. | [3.1.A]({{ site.baseurl }}/tasks/SCRB/C0301A.html) | Command lifeboat operation | [SCRB‑2](SCRB-2) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 23. | [3.1.B]({{ site.baseurl }}/tasks/SCRB/C0301B.html) | Handle a lifeboat under oars | [SCRB‑4](SCRB-4) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 24. | [3.2.A]({{ site.baseurl }}/tasks/SCRB/C0302A.html) | Use lifeboat equipment | [PS‑8](PS-8) in {% course LB-0201 %} <br/>{% course MT-1111%}|
 | 25. | [3.3.A]({{ site.baseurl }}/tasks/SCRB/C0303A.html) | Apportionment of food and water | {% course MT-1111%}|
 | 26. | [3.4.A]({{ site.baseurl }}/tasks/SCRB/C0304A.html) | Rigging radar reflector and SART | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 27. | [3.5.A]({{ site.baseurl }}/tasks/SCRB/C0305A.html) | Helicopter rescue from a rescue boat or lifeboat | {% course MT-1111%}|

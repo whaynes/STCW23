@@ -37,14 +37,15 @@
          <xsl:text>title: "NVIC Tasks"&cr;</xsl:text>
          <xsl:text>subtitle: MMA methods mapped to NVIC Tasks &cr;</xsl:text>
           <xsl:text>---&rr;</xsl:text>
-         <xsl:text>|NVIC  | Name | Mapping | D/E | &cr;</xsl:text>
-         <xsl:text>|:-----:|:-----|:--------|:---:| &cr;</xsl:text>
+         <xsl:text>|NVIC  | Methods | Name | D/E |&cr;</xsl:text>
+         <xsl:text>|:-----:|:-----|:--------|:---:|&cr;</xsl:text>
          <xsl:for-each-group select="//ROW" group-by="Table_Short_Name/DATA">
             <xsl:sort select="Table" order="ascending"/>
-            <xsl:text/>| &lt;%= imagelink('nvic-<xsl:value-of select="nvic_number"/>','<xsl:value-of select="nvic_number"/>') %&gt;<xsl:text/>
-            <xsl:text/>| <xsl:value-of select="Table_Name"/>
+            <xsl:text/>| [<xsl:value-of select="nvic_number"/>]({{ site.baseurl}}/assets/images/<xsl:value-of select="nvic_number"/>.pdf)<xsl:text/>
             <xsl:text/>| [<xsl:value-of select="current-grouping-key()"/> Tasks]({{ site.baseurl}}/tasks/<xsl:value-of select="Table_Short_Name"/>) <xsl:text/>
-            <xsl:text/>| <xsl:apply-templates select="Major"/> | &cr;<xsl:text/>
+            <xsl:text/>| <xsl:value-of select="Table_Name"/>
+            <xsl:text/>| <xsl:apply-templates select="Major"/>|&cr;<xsl:text/>
+            
          </xsl:for-each-group>
       </xsl:result-document>
    </xsl:template>
@@ -90,7 +91,7 @@
          select="Table_Name"/>
      <xsl:text>&cr;---&rr;</xsl:text>
       <xsl:text/>&rr;### NVIC <xsl:value-of select="nvic_number"/>&rr;<xsl:text/>
-      <xsl:text>&rr;| No.   | Task | Description | Mapping |&cr;</xsl:text>
+      <xsl:text>&rr;| No.   | Task | Description | Location |&cr;</xsl:text>
       <xsl:text>|:-----:|:----:|:------------|:-------|&cr;</xsl:text>
       <xsl:apply-templates select="$rows">
          <xsl:sort select="sortable_taskNo" order="ascending"/>
@@ -121,8 +122,8 @@
    </xsl:template>
 
    <xsl:template match="status">
-      <xsl:if test=". = 'New'"> &lt;%= imageref("new", {class:"rstar"}) %> </xsl:if>
-      <xsl:if test=". = 'Mod'"> &lt;%= imageref("mod", {class:"rstar"}) %> </xsl:if>     
+      <xsl:if test=". = 'New'"> ![]({{site.baseurl}}/assets/images/new.jpg) </xsl:if>
+      <xsl:if test=". = 'Mod'"> ![]({{site.baseurl}}/assets/images/mod.jpg) </xsl:if>     
    </xsl:template>
 
    <xsl:template match="Major">

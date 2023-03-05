@@ -10,7 +10,7 @@
    xmlns:fmp="http://www.filemaker.com/fmpxmlresult"
    xmlns:html="http://www.w3.org/1999/xhtml" 
    exclude-result-prefixes="fmp html">
-   <xsl:import href="tables.xsl"/>
+   <xsl:import href="tables23.xsl"/>
    
    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="no" />
    <xsl:strip-space elements="*" />

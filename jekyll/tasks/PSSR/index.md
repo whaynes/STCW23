@@ -7,7 +7,7 @@ subtitle:  personal safety and social responsibility
 
 ### NVIC 08-14
 
-| No.   | Task | Description | Mapping |
+| No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
 | 1. | [5.1.A]({{ site.baseurl }}/tasks/PSSR/B0501A.html) | Describe the types of emergencies that may occur | {% course SR-0401%}|
 | 2. | [5.2.A]({{ site.baseurl }}/tasks/PSSR/B0502A.html) | Describe location and contents of station bills and forecastle card | {% course SR-0401%}|

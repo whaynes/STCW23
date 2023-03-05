@@ -7,7 +7,7 @@ subtitle:  fire prevention and fire fighting
 
 ### NVIC 08-14
 
-| No.   | Task | Description | Mapping |
+| No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
 | 1. | [2.1.A]({{ site.baseurl }}/tasks/FF/B0201A.html) | List positions and duties of the ship fire fighting organization | {% course MT-1111%}|
 | 2. | [2.2.A]({{ site.baseurl }}/tasks/FF/B0202A.html) | Identify locations of fire fighting appliances and escape routes from spaces | {% course MT-1111%}|
@@ -31,8 +31,8 @@ subtitle:  fire prevention and fire fighting
 | 20. | [3.4.B]({{ site.baseurl }}/tasks/FF/B0304B.html) | List and state the purpose of commonly used fire fighting appliances | {% course ST-0999D%}|
 | 21. | [3.5.A]({{ site.baseurl }}/tasks/FF/B0305A.html) | Describe the objectives of the two strategies of fire fighting | {% course ST-0999D%}|
 | 22. | [3.6.A]({{ site.baseurl }}/tasks/FF/B0306A.html) | List the various fire fighting agents and state how they extinguish fire | {% course FF-0102%}|
-| 23. | [3.7.A]({{ site.baseurl }}/tasks/FF/B0307A.html) | Utilize the appropriate extinguisher and demonstrate correct firefighting procedures | [FF‑2PFE](FF-2PFE) in [FF‑0102](FF-0102)|
-| 24. | [3.8.A]({{ site.baseurl }}/tasks/FF/B0308A.html) | Demonstrate the donning methods for self-contained breathing apparatus | [FF‑2SBA](FF-2SBA) in [FF‑0102](FF-0102)|
-| 25. | [3.8.B]({{ site.baseurl }}/tasks/FF/B0308B.html) | Demonstrate breathing apparatus use | [FF‑2SBA](FF-2SBA) in [FF‑0102](FF-0102)|
-| 26. | [3.8.C]({{ site.baseurl }}/tasks/FF/B0308C.html) | Demonstrate the proper hose team leader procedures | [FF‑4SF](FF-4SF) in [FF‑0104](FF-0104)<br/>[FF‑6SRF](FF-6SRF) in [FF‑0106](FF-0106)|
-| 27. | [3.8.D]({{ site.baseurl }}/tasks/FF/B0308D.html) | Demonstrate the proper procedures for effecting a rescue <%= imageref("new", {class:"rstar"}) %>  | [FF‑8SAR](FF-8SAR) in [FF‑0108](FF-0108)|
+| 23. | [3.7.A]({{ site.baseurl }}/tasks/FF/B0307A.html) | Utilize the appropriate extinguisher and demonstrate correct firefighting procedures | [FF‑2PFE](FF-2PFE) in {% course FF-0102 %} |
+| 24. | [3.8.A]({{ site.baseurl }}/tasks/FF/B0308A.html) | Demonstrate the donning methods for self-contained breathing apparatus | [FF‑2SBA](FF-2SBA) in {% course FF-0102 %} |
+| 25. | [3.8.B]({{ site.baseurl }}/tasks/FF/B0308B.html) | Demonstrate breathing apparatus use | [FF‑2SBA](FF-2SBA) in {% course FF-0102 %} |
+| 26. | [3.8.C]({{ site.baseurl }}/tasks/FF/B0308C.html) | Demonstrate the proper hose team leader procedures | [FF‑4SF](FF-4SF) in {% course FF-0104 %} <br/>[FF‑6SRF](FF-6SRF) in {% course FF-0106 %} |
+| 27. | [3.8.D]({{ site.baseurl }}/tasks/FF/B0308D.html) | Demonstrate the proper procedures for effecting a rescue ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8SAR](FF-8SAR) in {% course FF-0108 %} |
