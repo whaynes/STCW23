@@ -10,7 +10,6 @@ For more information, see http://andreasviklund.com/templates/basic-reader/
 }
 
 body {
-	background: #fff url(../images/background.jpg) top center no-repeat;
 	color: #303030;
 	font: 92% Georgia, "Times New Roman", serif;
 	line-height: 1.5em;
@@ -39,9 +38,9 @@ body {
 	
 	line-height: 1.2em;
 	text-align: center;
-	float: left;
-	width: 192px;
+	flex: 0 0 200px;
 }
+.wrapper{margin-left:0;}
 
 #footer {
 	font-size: 0.8em;
@@ -168,7 +167,8 @@ h4 {
 /* weh */
 
 #logo {
-	margin-bottom: 140px;
+	padding: 10px 30px;
+	width: 140px;
 }
 
 .nextprev {
@@ -362,9 +362,7 @@ dd {
 		display: none;
 	}
 	
-	#sidebar {
-		width: 120px;
-	}
+	
 	
 	#content {
 		width: 800px;
