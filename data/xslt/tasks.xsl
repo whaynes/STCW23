@@ -10,7 +10,7 @@
    xpath-default-namespace="http://www.filemaker.com/fmpdsoresult" version="2.0">
    <xsl:strip-space elements="*"/>
    <xsl:output method="text"/>
-   <xsl:variable name="folder">../html/tasks</xsl:variable>
+   <xsl:variable name="folder">../../jekyll/tasks</xsl:variable>
 
    <xsl:template match="/">
       <xsl:call-template name="Index"/>
@@ -32,18 +32,18 @@
 
    <xsl:template name="Index">
       <!-- makes the main index page -->
-      <xsl:result-document method="text" href="{$folder}/index_nvics.txt">
-         <xsl:text>#title "NVIC Tasks"&cr;</xsl:text>
-         <xsl:text>#linkjavascripts "sorttable"&rr;</xsl:text>
-         <xsl:text>## MMA methods mapped to NVIC Tasks &rr;</xsl:text>
+      <xsl:result-document method="text" href="{$folder}/index_nvics.md">
+         <xsl:text>---&cr;</xsl:text>
+         <xsl:text>title: "NVIC Tasks"&cr;</xsl:text>
+         <xsl:text>subtitle: MMA methods mapped to NVIC Tasks &cr;</xsl:text>
+          <xsl:text>---&rr;</xsl:text>
          <xsl:text>|NVIC  | Name | Mapping | D/E | &cr;</xsl:text>
          <xsl:text>|:-----:|:-----|:--------|:---:| &cr;</xsl:text>
          <xsl:for-each-group select="//ROW" group-by="Table_Short_Name/DATA">
             <xsl:sort select="Table" order="ascending"/>
             <xsl:text/>| &lt;%= imagelink('nvic-<xsl:value-of select="nvic_number"/>','<xsl:value-of select="nvic_number"/>') %&gt;<xsl:text/>
             <xsl:text/>| <xsl:value-of select="Table_Name"/>
-            <xsl:text/>| [<xsl:value-of select="current-grouping-key()"/> Tasks](index_<xsl:value-of
-               select="Table_Short_Name"/>) <xsl:text/>
+            <xsl:text/>| [<xsl:value-of select="current-grouping-key()"/> Tasks]({{ site.baseurl}}/tasks/<xsl:value-of select="Table_Short_Name"/>) <xsl:text/>
             <xsl:text/>| <xsl:apply-templates select="Major"/> | &cr;<xsl:text/>
          </xsl:for-each-group>
       </xsl:result-document>
@@ -56,10 +56,9 @@
       <xsl:for-each-group select="//ROW" group-by="Table_Short_Name/DATA">
          <xsl:sort select="sortable_taskNo" order="ascending"/>
          <xsl:result-document method="text"
-            href="{$folder}/{Table_Short_Name}/index_{translate(current-grouping-key(),'.-()','')}.txt">
-            <xsl:text/>#title "<xsl:value-of select="current-grouping-key()"/> Tasks"&cr;<xml:text/>
-            <xsl:text>#linkjavascripts "sorttable"&rr;</xsl:text>
-            <xsl:text>&rr;</xsl:text>
+            href="{$folder}/{Table_Short_Name}/index.md">
+             <xsl:text>---&cr;</xsl:text>
+             <xsl:text>title: </xsl:text><xsl:value-of select="current-grouping-key()"/> Tasks&cr;<xml:text/>
             <xsl:call-template name="build_table"><xsl:with-param name="rows"
                   select="current-group()"/>
             </xsl:call-template>
@@ -70,14 +69,15 @@
    <xsl:template name="GroupOfTasks">
       <xsl:param name="Label"/>
       <xsl:param name="Tasks"/>
-      <xsl:result-document method="text" href="{$folder}/index_{$Label}_tasks.txt">
-         <xsl:text>#title "</xsl:text>
-         <xsl:value-of select="$Label"/> Tasks"&cr;<xsl:text/>
-         <xsl:text>#linkjavascripts "sorttable"&rr;</xsl:text>
+      <xsl:result-document method="text" href="{$folder}/index_{$Label}_tasks.md">
+         <xsl:text>---&cr;</xsl:text>
+          <xsl:text>title: </xsl:text>
+         <xsl:value-of select="$Label"/> Tasks&cr;<xsl:text/>
          <xsl:for-each-group select="$Tasks" group-by="Table_Short_Name/DATA">
             <xsl:call-template name="build_table">
                <xsl:with-param name="rows" select="current-group()"/>
             </xsl:call-template>
+           <xsl:text>&rr;</xsl:text>
          </xsl:for-each-group>
       </xsl:result-document>
    </xsl:template>
@@ -86,9 +86,9 @@
 
    <xsl:template name="build_table">
       <xsl:param name="rows"/>
-      <xsl:text/>&rr;## <xsl:value-of
-         select="Table_Short_Name"/> - <xsl:value-of
-         select="Table_Name"/> tasks<xsl:text/>
+      <xsl:text/>subtitle:  <xsl:value-of
+         select="Table_Name"/>
+     <xsl:text>&cr;---&rr;</xsl:text>
       <xsl:text/>&rr;### NVIC <xsl:value-of select="nvic_number"/>&rr;<xsl:text/>
       <xsl:text>&rr;| No.   | Task | Description | Mapping |&cr;</xsl:text>
       <xsl:text>|:-----:|:----:|:------------|:-------|&cr;</xsl:text>
@@ -96,8 +96,6 @@
          <xsl:sort select="sortable_taskNo" order="ascending"/>
       </xsl:apply-templates>
       <!-- call line text -->
-
-      <xsl:text>&rr;********</xsl:text>
    </xsl:template>
 
    <!-- line text -->
