@@ -29,10 +29,8 @@
     <xsl:variable name="table" select="current-group()"/>
     <div>
       <xsl:for-each-group select="$table" group-by="function">
-        <h3>Function</h3>
-        <p>
-          <b><xsl:value-of select="current-group()[1]/function"/></b>
-        </p>
+        <xsl:text>&rr;</xsl:text>
+        <h3><b>Function: </b><xsl:value-of select="current-group()[1]/function"/></h3>
         <table class='competences'>
           <colgroup>
             <col span="1" style="width: 25%;"/>
@@ -47,6 +45,7 @@
             </tr>
             <xsl:for-each-group select="current-group()" group-by="competence">
               <xsl:variable name="competence">
+                <xsl:text>&rr;</xsl:text>
                 <td rowspan="{count(current-group())}" class='competence'>
                   <xsl:attribute name="id" 
             select="concat(Tables--Table_Short_Name, '-', FunctionNo, CompetenceNo)"/>
@@ -59,13 +58,15 @@
                   <xsl:if test="position() = 1">
                     <xsl:copy-of select="$competence"/>
                   </xsl:if>
-
+                    <xsl:text>&rr;</xsl:text>
                   <td class='kup' id='{kupNo}'>
+                    <xsl:text>&cr;</xsl:text>
                     <p class='kupNo'><xsl:value-of select="substring-after(kupNo, '-')"/></p>
-                    <xsl:text/>{{"&cr;<xsl:value-of select="current-group()[1]/kup"/>" | markdownify }} <xsl:text/>
+                    <xsl:text/>&cr;{{"&cr;<xsl:value-of select="current-group()[1]/kup"/>" | markdownify }} <xsl:text/>
                   </td>
+                  <xsl:text>&rr;</xsl:text>
                   <td class='location'>
-                    <xsl:text>{{" </xsl:text>
+                    <xsl:text>{{"&cr;</xsl:text>
                     <xsl:for-each select="distinct-values(Courses_K--CourseNo | Courses_P--CourseNo)">
                       <xsl:text>&cr;[</xsl:text>
                       <xsl:value-of select="replace(., '-', '&#x2011;')"/>](/stcw23/courses/<xsl:value-of select="."/>.html)<xsl:text/>

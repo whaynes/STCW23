@@ -1,5 +1,5 @@
 ---
-subtitle: CC-MANT
+subtitle: Course CC-MANT
 title: "Shipboard Maintenance"
 ---
 

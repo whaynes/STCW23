@@ -1,5 +1,5 @@
 ---
-subtitle: VPDSD
+subtitle: Course VPDSD
 title: "Vessel Personnel with Designated Security Duties"
 ---
 

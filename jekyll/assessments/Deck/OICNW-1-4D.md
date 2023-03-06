@@ -1,0 +1,52 @@
+---
+subtitle: Asssessment OICNW-1-4D
+title:  Use of echo sounder
+---
+
+
+
+### Condition
+
+{{ "On a ship underway using an echo sounder that meets IMO performance standards or a part task trainer that realistically simulates all the functions and controls of an echo sounder that meets IMO performance standards." | markdownify }}
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+
+
+<!--rowstart-->
+
+Turn on, test, and operate the echo sounder.
+
+<!--cellbreak-->
+
+1. The system was turned on.
+2. The echo sounder was tested in accordance with manufacturer recommendations.
+3. The correct GMT is noted on the echo sounder paper (if fitted).
+4. The scale selected was the lowest appropriate for the vessel’s draft and the depth of water of the area of transit.
+5. The sensitivity was adjusted to obtain proper depth reading on the display and correct trace on the paper (if fitted).
+
+<!--rowend-->
+
+
+ </tbody>
+ </table>
+
+{{ "or [MT-3372](mt-3372). Shall be completed by the end of [MT-4371](mt-4371)." | markdownify }}
+
+
+*****
+
+**Note:** This assessment supports KUP [OICNW-A1.05]({{site.baseurl}}/tables/21.html#OICNW-A1.05), and is assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*. 
+

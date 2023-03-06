@@ -1,0 +1,51 @@
+---
+subtitle: Asssessment OICNW-1-5B
+title:  Determine magnetic compass error
+---
+
+
+
+### Condition
+
+{{ "On a ship underway or a full mission ship simulator or in a laboratory, with both a magnetic and gyrocompass." | markdownify }}
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+
+
+<!--rowstart-->
+
+Determine the magnetic compass error.
+
+<!--cellbreak-->
+
+1. The magnetic heading is compared to the corrected gyro heading (corrected for a known gyro error).
+2. The magnetic compass error is determined and properly labeled.
+3. The solution is ± 1° of the assessor’s solution.
+4. The error is correctly recorded in the compass record book.
+
+<!--rowend-->
+
+
+ </tbody>
+ </table>
+
+{{ "" | markdownify }}
+
+
+*****
+
+**Note:** This assessment supports KUP [OICNW-A1.07]({{site.baseurl}}/tables/21.html#OICNW-A1.07), and is assessed in  {% course  MT-4133 %}  *Bridge Resource Management*. 
+

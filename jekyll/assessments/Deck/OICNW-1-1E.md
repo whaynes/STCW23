@@ -1,0 +1,48 @@
+---
+subtitle: Asssessment OICNW-1-1E
+title:  Celestial running fix
+---
+
+
+
+### Condition
+
+{{ "Aboard a ship at sea, or in a navigation laboratory, when given the assumed positions, the intercepts, azimuths, and times of three observations of the sun, and on a standard plotting sheet appropriate for the dead reckoning position." | markdownify }}
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+
+
+<!--rowstart-->
+
+Advance all three lines of position to a common time.
+
+<!--cellbreak-->
+
+The position of the running fix is within 2 nm of the assessor’s solution.
+
+<!--rowend-->
+
+
+ </tbody>
+ </table>
+
+{{ "" | markdownify }}
+
+
+*****
+
+**Note:** This assessment supports KUP [OICNW-A1.01]({{site.baseurl}}/tables/21.html#OICNW-A1.01), and is assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*. 
+

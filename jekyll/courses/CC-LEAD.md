@@ -1,5 +1,5 @@
 ---
-subtitle: CC-LEAD
+subtitle: Course CC-LEAD
 title: "Regimental Leadership Program"
 ---
 
