@@ -27,7 +27,7 @@ title:  Start and secure oily water separator
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [put into service](guidelines#PlaceintoService) the oily water separator / oil content monitor system
+{% do Line up, lineup %} and {% do put into service, PlaceintoService %} the oily water separator / oil content monitor system
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Start and secure oily water separator
 
 <!--rowstart-->
 
-[Check](guidelines#check) the operation of the oily water separator
+{% do Check, check %} the operation of the oily water separator
 
 <!--cellbreak-->
 
@@ -49,7 +49,7 @@ observe operation of oil content meter
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the oily water separator / oil content monitor system
+{% do Secure, secure %} the oily water separator / oil content monitor system
 
 <!--cellbreak-->
 

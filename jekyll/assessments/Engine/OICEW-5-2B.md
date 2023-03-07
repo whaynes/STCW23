@@ -27,7 +27,7 @@ title:  Secure main boiler
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) boiler
+{% do Secure, secure %} boiler
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ Open superheater vents and drains
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) forced draft fan
+{% do Secure, secure %} forced draft fan
 
 <!--cellbreak-->
 
@@ -55,7 +55,7 @@ Open superheater vents and drains
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) boiler until stable
+{% do Monitor, monitor %} boiler until stable
 
 <!--cellbreak-->
 

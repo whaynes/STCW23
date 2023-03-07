@@ -27,7 +27,7 @@ title:  Overhaul valve
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) a globe valve
+{% do Disassemble, disassemble %} a globe valve
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ Remove old packing from stuffing box
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) valve
+{% do Inspect, evaluateinspecttest %} valve
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ Blue-in valve disk and seat
 
 <!--rowstart-->
 
-[Repair](guidelines#repair) valve as necessary
+{% do Repair, repair %} valve as necessary
 
 <!--cellbreak-->
 
@@ -68,7 +68,7 @@ Take up on valve stuffing box gland
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) valve
+{% do Reassemble, reassemble %} valve
 
 <!--cellbreak-->
 

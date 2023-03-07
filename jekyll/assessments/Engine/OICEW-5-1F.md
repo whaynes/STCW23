@@ -29,7 +29,7 @@ title:  Start fresh water generator
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) the valves and pumps associated with the freshwater generator selected by the assessor
+{% do Identify, identify %} the valves and pumps associated with the freshwater generator selected by the assessor
 
 <!--cellbreak-->
 
@@ -43,7 +43,7 @@ identify:
 
 <!--rowstart-->
 
-[Start](guidelines#start) the selected freshwater generator
+{% do Start, start %} the selected freshwater generator
 
 <!--cellbreak-->
 
@@ -54,7 +54,7 @@ follow the ship specific evaporator starting procedure provided during training
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) the discharge to meet operational requirements
+{% do Line up, lineup %} the discharge to meet operational requirements
 
 <!--cellbreak-->
 
@@ -69,7 +69,7 @@ Before proceeding:
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) the freshwater generator until operations stabilize
+{% do Operate, operate %} the freshwater generator until operations stabilize
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Ballast and deballast a tank
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) Ballasting operation
+{% do Plan, plan %} Ballasting operation
 
 <!--cellbreak-->
 
@@ -39,7 +39,7 @@ title:  Ballast and deballast a tank
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) Ballast system to fill the ballast tank
+{% do Line up, lineup %} Ballast system to fill the ballast tank
 
 <!--cellbreak-->
 
@@ -52,7 +52,7 @@ title:  Ballast and deballast a tank
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) Ballast system to empty the ballast tank
+{% do Line up, lineup %} Ballast system to empty the ballast tank
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ title:  Ballast and deballast a tank
 
 <!--rowstart-->
 
-[Start](guidelines#start) and [operate](guidelines#operate) ballast pump
+{% do Start, start %} and {% do operate, operate %} ballast pump
 
 <!--cellbreak-->
 
@@ -77,7 +77,7 @@ title:  Ballast and deballast a tank
 
 <!--rowstart-->
 
-[Start](guidelines#start) and [operate](guidelines#operate) ballast pump
+{% do Start, start %} and {% do operate, operate %} ballast pump
 
 <!--cellbreak-->
 
@@ -89,7 +89,7 @@ title:  Ballast and deballast a tank
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) ballast pump and ballast system
+{% do Secure, secure %} ballast pump and ballast system
 
 <!--cellbreak-->
 

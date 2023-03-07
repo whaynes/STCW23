@@ -27,7 +27,7 @@ title:  Plan and use test equipment
 
 <!--rowstart-->
 
-[Describe](guidelines#describeaction) the use of electrical measuring equipment
+{% do Describe, describeaction %} the use of electrical measuring equipment
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ Describe how to perform:
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) electrical circuits or components using electrical measuring equipment
+{% do Test, evaluateinspecttest %} electrical circuits or components using electrical measuring equipment
 
 <!--cellbreak-->
 

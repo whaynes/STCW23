@@ -27,7 +27,7 @@ title:  Overhaul heat exchanger
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) heat exchanger
+{% do Disassemble, disassemble %} heat exchanger
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Overhaul heat exchanger
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) heat exchanger
+{% do Inspect, evaluateinspecttest %} heat exchanger
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ Note indications of corrosion, erosion, and fouling
 
 <!--rowstart-->
 
-[Maintain](guidelines#maintain) heat exchanger
+{% do Maintain, maintain %} heat exchanger
 
 <!--cellbreak-->
 
@@ -66,7 +66,7 @@ As necessary:
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) heat exchanger
+{% do Reassemble, reassemble %} heat exchanger
 
 <!--cellbreak-->
 

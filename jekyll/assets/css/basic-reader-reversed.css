@@ -84,6 +84,7 @@ body {
 #sidebar h2 {
 	font-size: 1.4em;
 	margin: 15px 0 5px;
+	
 }
 
 #sidebar hr {
@@ -139,8 +140,9 @@ h1, h2 {
 }
 
 h3 {
-	font-size: 1.2em;
+	font-size: 1.3em;
 	margin: 20px 0 2px 0;
+	color: #2380a0;
 }
 
 h4 {
@@ -153,7 +155,7 @@ h4 {
 }
 
 .credits {
-	float: 70%;
+	float: left;
 	text-align: right;
 }
 

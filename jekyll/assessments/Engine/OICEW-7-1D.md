@@ -27,7 +27,7 @@ title:  Connect ship service diesel generator to main switchboard
 
 <!--rowstart-->
 
-[Check](guidelines#check) that system is ready to start
+{% do Check, check %} that system is ready to start
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ Meet requirements of [OICEW 7-1B](oicew71b)
 
 <!--rowstart-->
 
-[Start](guidelines#start) the generator
+{% do Start, start %} the generator
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ Turn generator starting switch to _start_
 
 <!--rowstart-->
 
-[Check](guidelines#check) that generator starts properly
+{% do Check, check %} that generator starts properly
 
 <!--cellbreak-->
 
@@ -67,7 +67,7 @@ Check:
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) generator to achieve conditions suitable for synchronization
+{% do Operate, operate %} generator to achieve conditions suitable for synchronization
 
 <!--cellbreak-->
 
@@ -103,7 +103,7 @@ Turn off synchroscope
 
 <!--rowstart-->
 
-[Adjust](guidelines#adjust) load on incoming generator
+{% do Adjust, adjust %} load on incoming generator
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Secure main gas turbine
 
 <!--rowstart-->
 
-[Prepare](guidelines#prepare) to secure main gas turbine
+{% do Prepare, prepare %} to secure main gas turbine
 
 <!--cellbreak-->
 
@@ -39,7 +39,7 @@ title:  Secure main gas turbine
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) main gas turbine engines 
+{% do Secure, secure %} main gas turbine engines 
 
 <!--cellbreak-->
 
@@ -53,7 +53,7 @@ title:  Secure main gas turbine
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor)  alarms
+{% do Monitor, monitor %}  alarms
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Secure main propulsion diesel engine
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) fuel supply
+{% do Secure, secure %} fuel supply
 
 <!--cellbreak-->
 
@@ -40,7 +40,7 @@ Insure shaft is stopped
 
 <!--rowstart-->
 
-[Start](guidelines#start) turning gear
+{% do Start, start %} turning gear
 
 <!--cellbreak-->
 
@@ -59,7 +59,7 @@ Start turning gear
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) cooling systems
+{% do Secure, secure %} cooling systems
 
 <!--cellbreak-->
 
@@ -75,7 +75,7 @@ Secure:
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) turning gear
+{% do Secure, secure %} turning gear
 
 <!--cellbreak-->
 
@@ -88,7 +88,7 @@ Disengage turning gear
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) Lubricating Systems
+{% do Secure, secure %} Lubricating Systems
 
 <!--cellbreak-->
 

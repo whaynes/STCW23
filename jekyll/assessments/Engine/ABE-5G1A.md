@@ -27,7 +27,7 @@ title:  Trace out a piping system
 
 <!--rowstart-->
 
-[Trace](guidelines#trace) one or more of the following systems,
+{% do Trace, trace %} one or more of the following systems,
 
 * lube oil service system
 * fuel oil service system
@@ -45,8 +45,8 @@ title:  Trace out a piping system
 
 <!--rowstart-->
 
-* [describe](guidelines#describeequipment) the purpose of the system
-* [Identify](guidelines#identify) and [describe](guidelines#describeequipment) any system components selected by the instructor
+* {% do describe, describeequipment %} the purpose of the system
+* {% do Identify, identify %} and {% do describe, describeequipment %} any system components selected by the instructor
 
 <!--cellbreak-->
 

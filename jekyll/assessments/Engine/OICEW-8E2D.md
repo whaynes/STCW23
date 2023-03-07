@@ -27,7 +27,7 @@ title:  Replace flange gasket
 
 <!--rowstart-->
 
-[Prepare](guidelines#prepare) to replace flange gasket.
+{% do Prepare, prepare %} to replace flange gasket.
 
 <!--cellbreak-->
 
@@ -41,7 +41,7 @@ title:  Replace flange gasket
 
 <!--rowstart-->
 
-[Fabricate](guidelines#fabricate) a new flange gasket
+{% do Fabricate, fabricate %} a new flange gasket
 
 <!--cellbreak-->
 
@@ -54,7 +54,7 @@ title:  Replace flange gasket
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) flange with new gasket
+{% do Reassemble, reassemble %} flange with new gasket
 
 <!--cellbreak-->
 
@@ -69,7 +69,7 @@ title:  Replace flange gasket
 
 <!--rowstart-->
 
-[Check](guidelines#check) flange for leakage
+{% do Check, check %} flange for leakage
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Shut down fresh water generator
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) the valves and pumps associated with the freshwater generator started in assessment [OICEW-5-1F](OICEW-5-1F)
+{% do Identify, identify %} the valves and pumps associated with the freshwater generator started in assessment [OICEW-5-1F](OICEW-5-1F)
 
 <!--cellbreak-->
 
@@ -41,7 +41,7 @@ Identify:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) distillate discharge to the bilge
+{% do Line up, lineup %} distillate discharge to the bilge
 
 <!--cellbreak-->
 
@@ -52,7 +52,7 @@ Identify:
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the freshwater generator
+{% do Secure, secure %} the freshwater generator
 
 <!--cellbreak-->
 

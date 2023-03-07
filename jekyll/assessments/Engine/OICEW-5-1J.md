@@ -27,7 +27,7 @@ title:  Prepare main propulsion diesel engine for operation
 
 <!--rowstart-->
 
-[Line Up](guidelines#lineup) and [Start](guidelines#start) seawater system
+{% do Line Up, lineup %} and {% do Start, start %} seawater system
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Check:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) low temperature freshwater cooling system
+{% do Line up, lineup %} and {% do Start, start %} low temperature freshwater cooling system
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Check:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) piston cooling system
+{% do Line up, lineup %} and {% do Start, start %} piston cooling system
 
 <!--cellbreak-->
 
@@ -71,7 +71,7 @@ Check:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) high temperature freshwater cooling system
+{% do Line up, lineup %} and {% do Start, start %} high temperature freshwater cooling system
 
 <!--cellbreak-->
 
@@ -86,7 +86,7 @@ Check:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) injector cooling system
+{% do Line up, lineup %} and {% do Start, start %} injector cooling system
 
 <!--cellbreak-->
 
@@ -102,7 +102,7 @@ Check:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) main lube oil system
+{% do Line up, lineup %} and {% do Start, start %} main lube oil system
 
 <!--cellbreak-->
 
@@ -121,7 +121,7 @@ Check:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) stern tube lube oil system
+{% do Line up, lineup %} and {% do Start, start %} stern tube lube oil system
 
 <!--cellbreak-->
 
@@ -137,7 +137,7 @@ Select upper or lower tank based on draft
 
 <!--rowstart-->
 
-[Start](guidelines#start) turning gear
+{% do Start, start %} turning gear
 
 <!--cellbreak-->
 
@@ -156,7 +156,7 @@ Start turning gear
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) main fuel oil system
+{% do Line up, lineup %} and {% do Start, start %} main fuel oil system
 
 <!--cellbreak-->
 
@@ -173,7 +173,7 @@ Start fuel booster pump
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) start air system
+{% do Line up, lineup %} start air system
 
 <!--cellbreak-->
 
@@ -188,7 +188,7 @@ Align system
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) turning gear
+{% do Secure, secure %} turning gear
 
 <!--cellbreak-->
 

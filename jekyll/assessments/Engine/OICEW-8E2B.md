@@ -27,7 +27,7 @@ title:  Centrifugal pump maintenance (packing)
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) and [Lock-out](guidelines#lockouttagout) the end suction centrifugal pump
+{% do Secure, secure %} and {% do Lock-out, lockouttagout %} the end suction centrifugal pump
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Centrifugal pump maintenance (packing)
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) the pump
+{% do Disassemble, disassemble %} the pump
 
 <!--cellbreak-->
 
@@ -49,7 +49,7 @@ follow disassembly procedure in the laboratory manual
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) all parts for wear and deterioration
+{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ Check the following:
 
 <!--rowstart-->
 
-[Repair](guidelines#repair) centrifugal pump
+{% do Repair, repair %} centrifugal pump
 
 <!--cellbreak-->
 
@@ -78,7 +78,7 @@ replace or repair other parts as necessary to bring pump to manufacturer's speci
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) centrifugal pump
+{% do Reassemble, reassemble %} centrifugal pump
 
 <!--cellbreak-->
 
@@ -91,7 +91,7 @@ Adjust packing, seals and gaskets as necessary
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) centrifugal pump
+{% do Test, evaluateinspecttest %} centrifugal pump
 
 <!--cellbreak-->
 

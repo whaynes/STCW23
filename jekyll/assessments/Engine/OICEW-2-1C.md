@@ -27,7 +27,7 @@ title:  External thread using a hand die
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) to make an external thread on 1/2" pipe
+{% do Plan, plan %} to make an external thread on 1/2" pipe
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  External thread using a hand die
 
 <!--rowstart-->
 
-[Use tools](guidelines#usetools) to [Fabricate](guidelines#fabricate) an external thread on the 1/2" pipe with the axis of the pipe and thread co-linear
+{% do Use tools, usetools %} to {% do Fabricate, fabricate %} an external thread on the 1/2" pipe with the axis of the pipe and thread co-linear
 
 <!--cellbreak-->
 

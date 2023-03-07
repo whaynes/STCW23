@@ -27,7 +27,7 @@ title:  Gear pump maintenance
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) gear pump
+{% do Disassemble, disassemble %} gear pump
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Gear pump maintenance
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) all parts for wear and deterioration
+{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
 
 <!--cellbreak-->
 
@@ -53,7 +53,7 @@ Check the following clearances:
 
 <!--rowstart-->
 
-[Repair](guidelines#repair) gear pump
+{% do Repair, repair %} gear pump
 
 <!--cellbreak-->
 
@@ -64,7 +64,7 @@ Replace parts as necessary to bring pump to manufacturers specifications
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) gear pump
+{% do Reassemble, reassemble %} gear pump
 
 <!--cellbreak-->
 

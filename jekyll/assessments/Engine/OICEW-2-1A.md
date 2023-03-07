@@ -27,7 +27,7 @@ title:  Drill blind hole using drilling machine
 
 <!--rowstart-->
 
-[Use Tools](guidelines#usetools) to [Fabricate](guidelines#fabricate) a 5/16" diameter drilled hole
+{% do Use Tools, usetools %} to {% do Fabricate, fabricate %} a 5/16" diameter drilled hole
 
 <!--cellbreak-->
 

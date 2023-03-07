@@ -27,7 +27,7 @@ title:  Change over control systems
 
 <!--rowstart-->
 
-[Change over](guidelines#shiftchangeover) propulsion throttle control
+{% do Change over, shiftchangeover %} propulsion throttle control
 
 <!--cellbreak-->
 
@@ -40,7 +40,7 @@ title:  Change over control systems
 
 <!--rowstart-->
 
-[Change over](guidelines#shiftchangeover) an engine cooling system control
+{% do Change over, shiftchangeover %} an engine cooling system control
 
 
 
@@ -54,7 +54,7 @@ title:  Change over control systems
 
 <!--rowstart-->
 
-[Change over](guidelines#shiftchangeover) the bilge, ballast, or firemain system control
+{% do Change over, shiftchangeover %} the bilge, ballast, or firemain system control
 
 <!--cellbreak-->
 

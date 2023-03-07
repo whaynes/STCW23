@@ -27,7 +27,7 @@ title:  Bend copper tube
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) to bend a copper tube to meet job specifications
+{% do Plan, plan %} to bend a copper tube to meet job specifications
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Bend copper tube
 
 <!--rowstart-->
 
-[Use tools](guidelines#usetools) to bend a tube to meet job specifications
+{% do Use tools, usetools %} to bend a tube to meet job specifications
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Measure insulation resistance
 
 <!--rowstart-->
 
-[Measure](guidelines#evaluateinspecttest) motor insulation resistance at motor controller
+{% do Measure, evaluateinspecttest %} motor insulation resistance at motor controller
 
 <!--cellbreak-->
 
@@ -56,7 +56,7 @@ Correct reading to 40 °C using nomograph or correction chart.
 
 <!--rowstart-->
 
-[Evaluate](guidelines#evaluate) insulation resistance value
+{% do Evaluate, evaluate %} insulation resistance value
 
 <!--cellbreak-->
 

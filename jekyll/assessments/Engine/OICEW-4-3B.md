@@ -27,7 +27,7 @@ title:  Prepare and start main gas turbine
 
 <!--rowstart-->
 
-[Check](guidelines#check) for sufficient electrical capacity
+{% do Check, check %} for sufficient electrical capacity
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Prepare and start main gas turbine
 
 <!--rowstart-->
 
-[Prepare](guidelines#prepare) main gas turbine for start
+{% do Prepare, prepare %} main gas turbine for start
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ title:  Prepare and start main gas turbine
 
 <!--rowstart-->
 
-[Start](guidelines#start) main gas turbine engines
+{% do Start, start %} main gas turbine engines
 
 <!--cellbreak-->
 

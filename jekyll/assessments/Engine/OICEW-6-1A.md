@@ -27,7 +27,7 @@ title:  Transfer fuel
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) a fuel transfer operation
+{% do Plan, plan %} a fuel transfer operation
 
 <!--cellbreak-->
 
@@ -43,7 +43,7 @@ Estimate the:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) fuel transfer system between source and destination
+{% do Line up, lineup %} fuel transfer system between source and destination
 
 <!--cellbreak-->
 
@@ -54,7 +54,7 @@ Correctly line up  system between selected locations
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) the fuel oil transfer pump
+{% do Line up, lineup %} and {% do Start, start %} the fuel oil transfer pump
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ Comply with all applicable regulations
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) the transfer pump until the operational requirements have been met
+{% do Operate, operate %} the transfer pump until the operational requirements have been met
 
 <!--cellbreak-->
 
@@ -79,7 +79,7 @@ Monitor:
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the fuel oil transfer pump
+{% do Secure, secure %} the fuel oil transfer pump
 
 <!--cellbreak-->
 

@@ -29,9 +29,9 @@ title:  Monitor engineering machinery
 
 As **TG/SSDG Oiler**
 
-* [monitor](guidelines#monitor) the ship's electrical generators
-* [monitor](guidelines#monitor) main and auxiliary switchboards
-* [monitor](guidelines#monitor) generator prime movers including:
+* {% do monitor, monitor %} the ship's electrical generators
+* {% do monitor, monitor %} main and auxiliary switchboards
+* {% do monitor, monitor %} generator prime movers including:
     * steam tubines and associated equipment
     * Wärtsilä diesel and associated equipment
 * record operating conditions on the *TG/SSDG Oiler's log*
@@ -50,9 +50,9 @@ As **TG/SSDG Oiler**
 
 As **Lower Oiler**
 
-* [monitor](guidelines#monitor)  the operation of the lube oil purifier, propulsion shafting and bearings and other machinery located in the Lower Engine room 
-* [Charge](guidelines#adjust) the potable water hydro-pneumatic tank with compressed air as necessary to prevent short cycling of the potable water pump
-* [monitor](guidelines#monitor) the tank levels and temperatures in the fuel oil settling  tanks
+* {% do monitor, monitor %}  the operation of the lube oil purifier, propulsion shafting and bearings and other machinery located in the Lower Engine room 
+* {% do Charge, adjust %} the potable water hydro-pneumatic tank with compressed air as necessary to prevent short cycling of the potable water pump
+* {% do monitor, monitor %} the tank levels and temperatures in the fuel oil settling  tanks
 * record operating conditions on the *Lower Oiler's log*
 
 
@@ -70,7 +70,7 @@ As **Lower Oiler**
 
 As **AMR Oiler**
 
-*  [monitor](guidelines#monitor)  the operation of the fuel oil purifier, the air compressor and other machinery located in the Auxiliary Engine room
+*  {% do monitor, monitor %}  the operation of the fuel oil purifier, the air compressor and other machinery located in the Auxiliary Engine room
 * record operating conditions on the *AMR Oiler's log*
 
 <!--cellbreak-->
@@ -86,8 +86,8 @@ As **AMR Oiler**
 
 As **Upper Oiler**
 
-* [monitor](guidelines#monitor)  the operation of the ship's service and control air compressors and other machinery located in the Upper Engine room  
-* [monitor](guidelines#monitor) the operation of the steering gear
+* {% do monitor, monitor %}  the operation of the ship's service and control air compressors and other machinery located in the Upper Engine room  
+* {% do monitor, monitor %} the operation of the steering gear
 * record operating conditions on the *Upper Oiler's log*
 
 <!--cellbreak-->
@@ -103,14 +103,14 @@ As **Upper Oiler**
 
 As **Evaporator Oiler**
 
-* [monitor](guidelines#monitor)  the operation of the water-making equipment including:
+* {% do monitor, monitor %}  the operation of the water-making equipment including:
     * the Aqua-Chem flash Evaporators,  
     * the Nyrex Jacket water evaporator, and
     * the Reverse Osmosis watermaker
 
-*  [monitor](guidelines#monitor) the level in the potable water tanks
-*  [change over](guidelines#shiftchangeover) potable and distilled tank suction and discharge valves as required
-*  [test](guidelines#evaluateinspecttest) distillate chemical salinity
+*  {% do monitor, monitor %} the level in the potable water tanks
+*  {% do change over, shiftchangeover %} potable and distilled tank suction and discharge valves as required
+*  {% do test, evaluateinspecttest %} distillate chemical salinity
 * record operating conditions on the *Evaporator Oiler's log*
 
 <!--cellbreak-->
@@ -128,8 +128,8 @@ As **Evaporator Oiler**
 
 As **Fireman**
 
-* [monitor](guidelines#monitor)  the main propulsion boilers
-* [maintain](guidelines#maintain) the fires, boiler water levels, and steam pressures 
+* {% do monitor, monitor %}  the main propulsion boilers
+* {% do maintain, maintain %} the fires, boiler water levels, and steam pressures 
 * assist in the operation of the soot blower
 * assist in preparing a main-propulsion boiler for light-off, light-off, raising steam and cutting-in a boiler, when possible.
 * record operating conditions on the *Fireman's log*
@@ -147,7 +147,7 @@ As **Fireman**
 
 As **Refrigeration Oiler**
 
-*  [monitor](guidelines#monitor)  the operation of the ship's refrigeration and air conditioning equipment 
+*  {% do monitor, monitor %}  the operation of the ship's refrigeration and air conditioning equipment 
 * record operating conditions on the *Refrigeration Oiler's log*
 
 <!--cellbreak-->
@@ -164,7 +164,7 @@ As **Refrigeration Oiler**
 
 As **Plant Oiler**
 
-*  [monitor](guidelines#monitor) the lubrication of all engine room machinery
+*  {% do monitor, monitor %} the lubrication of all engine room machinery
 *  add clean oil as required 
 * record operating conditions on the *Plant Oiler's log*
 

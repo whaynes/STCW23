@@ -27,7 +27,7 @@ title:  Secure main steam turbine operation
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) steam to main engine
+{% do Secure, secure %} steam to main engine
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Secure main and bulkhead stops and guardian valve
 
 <!--rowstart-->
 
-[Place into service](guidelines#placeintoservice) jacking gear
+{% do Place into service, placeintoservice %} jacking gear
 
 <!--cellbreak-->
 
@@ -53,7 +53,7 @@ Hang _jacking gear engaged_ sign
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) main air ejector and gland seal
+{% do Secure, secure %} main air ejector and gland seal
 
 <!--cellbreak-->
 
@@ -66,7 +66,7 @@ Secure air ejector before gland seal
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) main condensate system
+{% do Secure, secure %} main condensate system
 
 <!--cellbreak-->
 
@@ -77,7 +77,7 @@ Monitor hotwell and dc heater level
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) main engine until cool
+{% do Monitor, monitor %} main engine until cool
 
 <!--cellbreak-->
 
@@ -88,7 +88,7 @@ Continue until LP casing temperature is about 150° F
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) main circ. system
+{% do Secure, secure %} main circ. system
 
 <!--cellbreak-->
 
@@ -99,7 +99,7 @@ Continue until LP casing temperature is about 150° F
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) jacking gear
+{% do Secure, secure %} jacking gear
 
 <!--cellbreak-->
 
@@ -110,7 +110,7 @@ Remove _jacking gear engaged_ sign
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) main lube oil system
+{% do Secure, secure %} main lube oil system
 
 <!--cellbreak-->
 

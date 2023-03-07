@@ -27,7 +27,7 @@ title:  Inspect and start a diesel engine
 
 <!--rowstart-->
 
-[Check](guidelines#check) mechanical condition of engine
+{% do Check, check %} mechanical condition of engine
 
 <!--cellbreak-->
 
@@ -41,7 +41,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) engine lubrication
+{% do Check, check %} engine lubrication
 
 <!--cellbreak-->
 
@@ -52,7 +52,7 @@ Check dipstick for sufficient oil
 
 <!--rowstart-->
 
-[Check](guidelines#check) engine cooling
+{% do Check, check %} engine cooling
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ Check no obstructions blocking cooling fan
 
 <!--rowstart-->
 
-[Check](guidelines#check) engine fuel system
+{% do Check, check %} engine fuel system
 
 <!--cellbreak-->
 
@@ -78,7 +78,7 @@ Verify alignment of fuel system
 
 <!--rowstart-->
 
-[Check](guidelines#check) engine starting system
+{% do Check, check %} engine starting system
 
 <!--cellbreak-->
 
@@ -97,7 +97,7 @@ For Electric start:
 
 <!--rowstart-->
 
-[Start](guidelines#start) engine
+{% do Start, start %} engine
 
 <!--cellbreak-->
 

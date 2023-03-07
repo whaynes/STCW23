@@ -27,7 +27,7 @@ title:  Disassemble and reassemble an electric motor
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) a squirrel cage induction motor
+{% do Disassemble, disassemble %} a squirrel cage induction motor
 
 <!--cellbreak-->
 
@@ -40,7 +40,7 @@ title:  Disassemble and reassemble an electric motor
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) insulation resistance and stator winding continuity
+{% do Test, evaluateinspecttest %} insulation resistance and stator winding continuity
 
 <!--cellbreak-->
 
@@ -52,7 +52,7 @@ title:  Disassemble and reassemble an electric motor
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) the motor
+{% do Reassemble, reassemble %} the motor
 
 <!--cellbreak-->
 

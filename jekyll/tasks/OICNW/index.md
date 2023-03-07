@@ -9,69 +9,69 @@ subtitle:  officer in charge of a navigation watch
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
-| 1. | [1.1.A]({{ site.baseurl }}/tasks/OICNW/D0101A.html) | Adjust a sextant | [OICNW‑1‑1A](OICNW-1-1A) in {% course MT-4371 %} |
-| 2. | [1.1.B]({{ site.baseurl }}/tasks/OICNW/D0101B.html) | Measure the altitude of the sun | [OICNW‑1‑1B](OICNW-1-1B) in {% course MT-4371 %} |
-| 3. | [1.1.C]({{ site.baseurl }}/tasks/OICNW/D0101C.html) | Measure the altitude of at least 3 stars | [OICNW‑1‑1G](OICNW-1-1G) in {% course MT-4371 %} |
-| 4. | [1.1.D]({{ site.baseurl }}/tasks/OICNW/D0101D.html) | Measure the altitude of the sun at meridian passage (LAN) | [OICNW‑1‑1D](OICNW-1-1D) in {% course MT-4371 %} |
-| 5. | [1.1.E]({{ site.baseurl }}/tasks/OICNW/D0101E.html) | Celestial running fix | [OICNW‑1‑1E](OICNW-1-1E) in {% course MT-4371 %} |
-| 6. | [1.1.F]({{ site.baseurl }}/tasks/OICNW/D0101F.html) | Plot star fix | [OICNW‑1‑1F](OICNW-1-1F) in {% course MT-4371 %} |
-| 7. | [1.2.A]({{ site.baseurl }}/tasks/OICNW/D0102A.html) | Position fix by two bearings | [OICNW‑1‑2A](OICNW-1-2A) in {% course MT-4133 %} |
-| 8. | [1.2.B]({{ site.baseurl }}/tasks/OICNW/D0102B.html) | Plot DR position | [OICNW‑1‑2D](OICNW-1-2D) in {% course MT-2121 %} |
-| 9. | [1.2.C]({{ site.baseurl }}/tasks/OICNW/D0102C.html) | Determine the course to steer | [OICNW‑1‑2E](OICNW-1-2E) in {% course MT-2121 %} |
-| 10. | [1.3.A]({{ site.baseurl }}/tasks/OICNW/D0103A.html) | Correction of charts and publications | [OICNW‑1‑3A](OICNW-1-3A) in {% course MT-4253 %} |
-| 11. | [1.3.B]({{ site.baseurl }}/tasks/OICNW/D0103B.html) | Chart selection | [OICNW‑1‑3B](OICNW-1-3B) in {% course MT-4371 %} |
-| 12. | [1.3.C]({{ site.baseurl }}/tasks/OICNW/D0103C.html) | Route planning | [OICNW‑1‑3C](OICNW-1-3C) in {% course MT-4371 %} |
-| 13. | [1.4.A]({{ site.baseurl }}/tasks/OICNW/D0104A.html) | Position fix by two ranges | [OICNW‑1‑2B](OICNW-1-2B) in {% course MT-3122 %} |
-| 14. | [1.4.B]({{ site.baseurl }}/tasks/OICNW/D0104B.html) | Position fix by tangents to identified objects | [OICNW‑1‑2C](OICNW-1-2C) in {% course MT-3122 %} |
-| 15. | [1.4.C]({{ site.baseurl }}/tasks/OICNW/D0104C.html) | Position fix by GPS | [OICNW‑1‑4A](OICNW-1-4A) in {% course MT-4371 %} |
-| 16. | [1.4.D]({{ site.baseurl }}/tasks/OICNW/D0104D.html) | Use of GPS position save function | [OICNW‑1‑4B](OICNW-1-4B) in {% course MT-4371 %} |
-| 17. | [1.5.A]({{ site.baseurl }}/tasks/OICNW/D0105A.html) | Use of echo sounder | [OICNW‑1‑4D](OICNW-1-4D) in {% course MT-4371 %} |
+| 1. | [1.1.A]({{ site.baseurl }}/tasks/OICNW/D0101A.html) | Adjust a sextant | [OICNW‑1‑1A]({{site.baseurl}}/assessments/Deck/OICNW-1-1A) in {% course MT-4371 %} |
+| 2. | [1.1.B]({{ site.baseurl }}/tasks/OICNW/D0101B.html) | Measure the altitude of the sun | [OICNW‑1‑1B]({{site.baseurl}}/assessments/Deck/OICNW-1-1B) in {% course MT-4371 %} |
+| 3. | [1.1.C]({{ site.baseurl }}/tasks/OICNW/D0101C.html) | Measure the altitude of at least 3 stars | [OICNW‑1‑1G]({{site.baseurl}}/assessments/Deck/OICNW-1-1G) in {% course MT-4371 %} |
+| 4. | [1.1.D]({{ site.baseurl }}/tasks/OICNW/D0101D.html) | Measure the altitude of the sun at meridian passage (LAN) | [OICNW‑1‑1D]({{site.baseurl}}/assessments/Deck/OICNW-1-1D) in {% course MT-4371 %} |
+| 5. | [1.1.E]({{ site.baseurl }}/tasks/OICNW/D0101E.html) | Celestial running fix | [OICNW‑1‑1E]({{site.baseurl}}/assessments/Deck/OICNW-1-1E) in {% course MT-4371 %} |
+| 6. | [1.1.F]({{ site.baseurl }}/tasks/OICNW/D0101F.html) | Plot star fix | [OICNW‑1‑1F]({{site.baseurl}}/assessments/Deck/OICNW-1-1F) in {% course MT-4371 %} |
+| 7. | [1.2.A]({{ site.baseurl }}/tasks/OICNW/D0102A.html) | Position fix by two bearings | [OICNW‑1‑2A]({{site.baseurl}}/assessments/Deck/OICNW-1-2A) in {% course MT-4133 %} |
+| 8. | [1.2.B]({{ site.baseurl }}/tasks/OICNW/D0102B.html) | Plot DR position | [OICNW‑1‑2D]({{site.baseurl}}/assessments/Deck/OICNW-1-2D) in {% course MT-2121 %} |
+| 9. | [1.2.C]({{ site.baseurl }}/tasks/OICNW/D0102C.html) | Determine the course to steer | [OICNW‑1‑2E]({{site.baseurl}}/assessments/Deck/OICNW-1-2E) in {% course MT-2121 %} |
+| 10. | [1.3.A]({{ site.baseurl }}/tasks/OICNW/D0103A.html) | Correction of charts and publications | [OICNW‑1‑3A]({{site.baseurl}}/assessments/Deck/OICNW-1-3A) in {% course MT-4253 %} |
+| 11. | [1.3.B]({{ site.baseurl }}/tasks/OICNW/D0103B.html) | Chart selection | [OICNW‑1‑3B]({{site.baseurl}}/assessments/Deck/OICNW-1-3B) in {% course MT-4371 %} |
+| 12. | [1.3.C]({{ site.baseurl }}/tasks/OICNW/D0103C.html) | Route planning | [OICNW‑1‑3C]({{site.baseurl}}/assessments/Deck/OICNW-1-3C) in {% course MT-4371 %} |
+| 13. | [1.4.A]({{ site.baseurl }}/tasks/OICNW/D0104A.html) | Position fix by two ranges | [OICNW‑1‑2B]({{site.baseurl}}/assessments/Deck/OICNW-1-2B) in {% course MT-3122 %} |
+| 14. | [1.4.B]({{ site.baseurl }}/tasks/OICNW/D0104B.html) | Position fix by tangents to identified objects | [OICNW‑1‑2C]({{site.baseurl}}/assessments/Deck/OICNW-1-2C) in {% course MT-3122 %} |
+| 15. | [1.4.C]({{ site.baseurl }}/tasks/OICNW/D0104C.html) | Position fix by GPS | [OICNW‑1‑4A]({{site.baseurl}}/assessments/Deck/OICNW-1-4A) in {% course MT-4371 %} |
+| 16. | [1.4.D]({{ site.baseurl }}/tasks/OICNW/D0104D.html) | Use of GPS position save function | [OICNW‑1‑4B]({{site.baseurl}}/assessments/Deck/OICNW-1-4B) in {% course MT-4371 %} |
+| 17. | [1.5.A]({{ site.baseurl }}/tasks/OICNW/D0105A.html) | Use of echo sounder | [OICNW‑1‑4D]({{site.baseurl}}/assessments/Deck/OICNW-1-4D) in {% course MT-4371 %} |
 | 18. | [1.6.A]({{ site.baseurl }}/tasks/OICNW/D0106A.html) | Magnetic variation | {% course MT-1221%}|
 | 19. | [1.6.B]({{ site.baseurl }}/tasks/OICNW/D0106B.html) | Correct for true heading | {% course MT-1221%}|
 | 20. | [1.6.C]({{ site.baseurl }}/tasks/OICNW/D0106C.html) | Compass deviation | {% course MT-1221%}|
 | 21. | [1.6.D]({{ site.baseurl }}/tasks/OICNW/D0106D.html) | Magnetic compass correction | {% course MT-1221%}|
-| 22. | [1.7.A]({{ site.baseurl }}/tasks/OICNW/D0107A.html) | Determine the gyro-compass error by bearing of range | [OICNW‑1‑5A](OICNW-1-5A) in {% course MT-4133 %} |
-| 23. | [1.7.B]({{ site.baseurl }}/tasks/OICNW/D0107B.html) | Determine magnetic compass error | [OICNW‑1‑5B](OICNW-1-5B) in {% course MT-4133 %} |
-| 24. | [1.7.C]({{ site.baseurl }}/tasks/OICNW/D0107C.html) | Determine magnetic compass deviation | [OICNW‑1‑5C](OICNW-1-5C) in {% course MT-4133 %} |
-| 25. | [1.7.D]({{ site.baseurl }}/tasks/OICNW/D0107D.html) | Determine course to steer by magnetic compass | [OICNW‑1‑5D](OICNW-1-5D) in {% course MT-2121 %} |
-| 26. | [1.7.E]({{ site.baseurl }}/tasks/OICNW/D0107E.html) | Position fix by magnetic compass bearings | [OICNW‑1‑5E](OICNW-1-5E) in {% course MT-2121 %} |
-| 27. | [1.7.F]({{ site.baseurl }}/tasks/OICNW/D0107F.html) | Azimuth of the sun ![]({{site.baseurl}}/assets/images/mod.jpg)  | [OICNW‑1‑5F](OICNW-1-5F) in {% course MT-4371 %} |
-| 28. | [1.8.A]({{ site.baseurl }}/tasks/OICNW/D0108A.html) | Steering gear test | [OICNW‑1‑6A](OICNW-1-6A) in {% course MT-4371 %} |
-| 29. | [1.8.B]({{ site.baseurl }}/tasks/OICNW/D0108B.html) | Set weather controls | [OICNW‑1‑6B](OICNW-1-6B) in {% course MT-4371 %} |
+| 22. | [1.7.A]({{ site.baseurl }}/tasks/OICNW/D0107A.html) | Determine the gyro-compass error by bearing of range | [OICNW‑1‑5A]({{site.baseurl}}/assessments/Deck/OICNW-1-5A) in {% course MT-4133 %} |
+| 23. | [1.7.B]({{ site.baseurl }}/tasks/OICNW/D0107B.html) | Determine magnetic compass error | [OICNW‑1‑5B]({{site.baseurl}}/assessments/Deck/OICNW-1-5B) in {% course MT-4133 %} |
+| 24. | [1.7.C]({{ site.baseurl }}/tasks/OICNW/D0107C.html) | Determine magnetic compass deviation | [OICNW‑1‑5C]({{site.baseurl}}/assessments/Deck/OICNW-1-5C) in {% course MT-4133 %} |
+| 25. | [1.7.D]({{ site.baseurl }}/tasks/OICNW/D0107D.html) | Determine course to steer by magnetic compass | [OICNW‑1‑5D]({{site.baseurl}}/assessments/Deck/OICNW-1-5D) in {% course MT-2121 %} |
+| 26. | [1.7.E]({{ site.baseurl }}/tasks/OICNW/D0107E.html) | Position fix by magnetic compass bearings | [OICNW‑1‑5E]({{site.baseurl}}/assessments/Deck/OICNW-1-5E) in {% course MT-2121 %} |
+| 27. | [1.7.F]({{ site.baseurl }}/tasks/OICNW/D0107F.html) | Azimuth of the sun ![]({{site.baseurl}}/assets/images/mod.jpg)  | [OICNW‑1‑5F]({{site.baseurl}}/assessments/Deck/OICNW-1-5F) in {% course MT-4371 %} |
+| 28. | [1.8.A]({{ site.baseurl }}/tasks/OICNW/D0108A.html) | Steering gear test | [OICNW‑1‑6A]({{site.baseurl}}/assessments/Deck/OICNW-1-6A) in {% course MT-4371 %} |
+| 29. | [1.8.B]({{ site.baseurl }}/tasks/OICNW/D0108B.html) | Set weather controls | [OICNW‑1‑6B]({{site.baseurl}}/assessments/Deck/OICNW-1-6B) in {% course MT-4371 %} |
 | 30. | [1.9]({{ site.baseurl }}/tasks/OICNW/D0109.html) | Use of meteorological instruments | {% course MT-3131%}|
 | 31. | [1.10]({{ site.baseurl }}/tasks/OICNW/D0110.html) | Knowledge of weather systems and reporting procedures | {% course MT-3131%}|
 | 32. | [1.11]({{ site.baseurl }}/tasks/OICNW/D0111.html) | Apply meteorological information | {% course MT-3131%}|
-| 33. | [2.1.A]({{ site.baseurl }}/tasks/OICNW/D0201A.html) | Identify light configurations | [OICNW‑2‑1A](OICNW-2-1A) in {% course MT-2161 %} |
-| 34. | [2.1.B]({{ site.baseurl }}/tasks/OICNW/D0201B.html) | Identify day shapes | [OICNW‑2‑1B](OICNW-2-1B) in {% course MT-2161 %} |
-| 35. | [2.1.C]({{ site.baseurl }}/tasks/OICNW/D0201C.html) | Identify sound signals | [OICNW‑2‑1C](OICNW-2-1C) in {% course MT-2161 %} |
-| 36. | [2.1.D]({{ site.baseurl }}/tasks/OICNW/D0201D.html) | Determine risk of collision | [OICNW‑2‑1D](OICNW-2-1D) in {% course MT-4253 %} |
-| 37. | [2.1.E]({{ site.baseurl }}/tasks/OICNW/D0201E.html) | Maneuver to avoid risk of collision - crossing ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D1E](OICNW-2D1E) in {% course MT-4253 %} |
-| 38. | [2.1.F]({{ site.baseurl }}/tasks/OICNW/D0201F.html) | Maneuver to avoid risk of collision - meeting | [OICNW‑2‑1E](OICNW-2-1E) in {% course MT-4253 %} |
-| 39. | [2.1.G]({{ site.baseurl }}/tasks/OICNW/D0201G.html) | Maneuver to avoid risk of collision - overtaking | [OICNW‑2‑1F](OICNW-2-1F) in {% course MT-4253 %} |
-| 40. | [2.2.A]({{ site.baseurl }}/tasks/OICNW/D0202A.html) | Watch relief ![]({{site.baseurl}}/assets/images/mod.jpg)  | [OICNW‑2‑2A](OICNW-2-2A) in {% course MT-4371 %} |
-| 41. | [2.2.B]({{ site.baseurl }}/tasks/OICNW/D0202B.html) | Keep a safe navigation watch | [OICNW‑2‑2B](OICNW-2-2B) in {% course MT-4253 %} |
-| 42. | [2.2.C]({{ site.baseurl }}/tasks/OICNW/D0202C.html) | Notify Master when appropriate | [OICNW‑2‑2C](OICNW-2-2C) in {% course MT-4253 %} |
-| 43. | [2.2.D]({{ site.baseurl }}/tasks/OICNW/D0202D.html) | Keep a safe anchor watch ![]({{site.baseurl}}/assets/images/mod.jpg)  | [OICNW‑2‑2D](OICNW-2-2D) in {% course MT-4253 %} |
-| 44. | [2.2.E]({{ site.baseurl }}/tasks/OICNW/D0202E.html) | Turn over a watch | [OICNW‑2‑2F](OICNW-2-2F) in {% course MT-4253 %} |
-| 45. | [2.3.A]({{ site.baseurl }}/tasks/OICNW/D0203A.html) | Voyage Planning - Appraisal | [OICNW‑2‑3A](OICNW-2-3A) in {% course MT-4253 %} |
-| 46. | [2.3.B]({{ site.baseurl }}/tasks/OICNW/D0203B.html) | Voyage Planning - Planning ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D3B](OICNW-2D3B) in {% course MT-4253 %} |
-| 47. | [2.3.C]({{ site.baseurl }}/tasks/OICNW/D0203C.html) | Execute a voyage plan | [OICNW‑2‑3B](OICNW-2-3B) in {% course MT-4253 %} |
-| 48. | [2.4.A]({{ site.baseurl }}/tasks/OICNW/D0204A.html) | Situational awareness ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D4A](OICNW-2D4A) in {% course MT-4253 %} |
-| 49. | [2.5.A]({{ site.baseurl }}/tasks/OICNW/D0205A.html) | Navigate in restricted visibility | [OICNW‑2‑2E](OICNW-2-2E) in {% course MT-4253 %} |
-| 50. | [2.6.A]({{ site.baseurl }}/tasks/OICNW/D0206A.html) | Vessel Traffic System (VTS) ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D6A](OICNW-2D6A) in {% course MT-4253 %} |
-| 51. | [2.7.A]({{ site.baseurl }}/tasks/OICNW/D0207A.html) | Recognition of watch condition | [OICNW‑2‑3C](OICNW-2-3C) in {% course MT-4253 %} |
-| 52. | [2.7.B]({{ site.baseurl }}/tasks/OICNW/D0207B.html) | BRM Condition III Collision Avoidance | [OICNW‑2‑3D](OICNW-2-3D) in {% course MT-4253 %} |
-| 53. | [2.7.C]({{ site.baseurl }}/tasks/OICNW/D0207C.html) | BRM Condition III Navigation | [OICNW‑2‑3E](OICNW-2-3E) in {% course MT-4253 %} |
-| 54. | [2.7.D]({{ site.baseurl }}/tasks/OICNW/D0207D.html) | BRM Condition II or III – error trapping | [OICNW‑2‑3F](OICNW-2-3F) in {% course MT-4253 %} |
-| 55. | [2.7.E]({{ site.baseurl }}/tasks/OICNW/D0207E.html) | BRM Condition II or III - prioritization ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D7E](OICNW-2D7E) in {% course MT-4253 %} |
-| 56. | [2.7.F]({{ site.baseurl }}/tasks/OICNW/D0207F.html) | BRM Condition II Navigation and collision avoidance | [OICNW‑2‑3G](OICNW-2-3G) in {% course MT-4253 %} |
-| 57. | [2.7.G]({{ site.baseurl }}/tasks/OICNW/D0207G.html) | BRM Condition III establish a bridge team | [OICNW‑2‑3H](OICNW-2-3H) in {% course MT-4253 %} |
+| 33. | [2.1.A]({{ site.baseurl }}/tasks/OICNW/D0201A.html) | Identify light configurations | [OICNW‑2‑1A]({{site.baseurl}}/assessments/Deck/OICNW-2-1A) in {% course MT-2161 %} |
+| 34. | [2.1.B]({{ site.baseurl }}/tasks/OICNW/D0201B.html) | Identify day shapes | [OICNW‑2‑1B]({{site.baseurl}}/assessments/Deck/OICNW-2-1B) in {% course MT-2161 %} |
+| 35. | [2.1.C]({{ site.baseurl }}/tasks/OICNW/D0201C.html) | Identify sound signals | [OICNW‑2‑1C]({{site.baseurl}}/assessments/Deck/OICNW-2-1C) in {% course MT-2161 %} |
+| 36. | [2.1.D]({{ site.baseurl }}/tasks/OICNW/D0201D.html) | Determine risk of collision | [OICNW‑2‑1D]({{site.baseurl}}/assessments/Deck/OICNW-2-1D) in {% course MT-4253 %} |
+| 37. | [2.1.E]({{ site.baseurl }}/tasks/OICNW/D0201E.html) | Maneuver to avoid risk of collision - crossing ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D1E]({{site.baseurl}}/assessments/Deck/OICNW-2D1E) in {% course MT-4253 %} |
+| 38. | [2.1.F]({{ site.baseurl }}/tasks/OICNW/D0201F.html) | Maneuver to avoid risk of collision - meeting | [OICNW‑2‑1E]({{site.baseurl}}/assessments/Deck/OICNW-2-1E) in {% course MT-4253 %} |
+| 39. | [2.1.G]({{ site.baseurl }}/tasks/OICNW/D0201G.html) | Maneuver to avoid risk of collision - overtaking | [OICNW‑2‑1F]({{site.baseurl}}/assessments/Deck/OICNW-2-1F) in {% course MT-4253 %} |
+| 40. | [2.2.A]({{ site.baseurl }}/tasks/OICNW/D0202A.html) | Watch relief ![]({{site.baseurl}}/assets/images/mod.jpg)  | [OICNW‑2‑2A]({{site.baseurl}}/assessments/Deck/OICNW-2-2A) in {% course MT-4371 %} |
+| 41. | [2.2.B]({{ site.baseurl }}/tasks/OICNW/D0202B.html) | Keep a safe navigation watch | [OICNW‑2‑2B]({{site.baseurl}}/assessments/Deck/OICNW-2-2B) in {% course MT-4253 %} |
+| 42. | [2.2.C]({{ site.baseurl }}/tasks/OICNW/D0202C.html) | Notify Master when appropriate | [OICNW‑2‑2C]({{site.baseurl}}/assessments/Deck/OICNW-2-2C) in {% course MT-4253 %} |
+| 43. | [2.2.D]({{ site.baseurl }}/tasks/OICNW/D0202D.html) | Keep a safe anchor watch ![]({{site.baseurl}}/assets/images/mod.jpg)  | [OICNW‑2‑2D]({{site.baseurl}}/assessments/Deck/OICNW-2-2D) in {% course MT-4253 %} |
+| 44. | [2.2.E]({{ site.baseurl }}/tasks/OICNW/D0202E.html) | Turn over a watch | [OICNW‑2‑2F]({{site.baseurl}}/assessments/Deck/OICNW-2-2F) in {% course MT-4253 %} |
+| 45. | [2.3.A]({{ site.baseurl }}/tasks/OICNW/D0203A.html) | Voyage Planning - Appraisal | [OICNW‑2‑3A]({{site.baseurl}}/assessments/Deck/OICNW-2-3A) in {% course MT-4253 %} |
+| 46. | [2.3.B]({{ site.baseurl }}/tasks/OICNW/D0203B.html) | Voyage Planning - Planning ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D3B]({{site.baseurl}}/assessments/Deck/OICNW-2D3B) in {% course MT-4253 %} |
+| 47. | [2.3.C]({{ site.baseurl }}/tasks/OICNW/D0203C.html) | Execute a voyage plan | [OICNW‑2‑3B]({{site.baseurl}}/assessments/Deck/OICNW-2-3B) in {% course MT-4253 %} |
+| 48. | [2.4.A]({{ site.baseurl }}/tasks/OICNW/D0204A.html) | Situational awareness ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D4A]({{site.baseurl}}/assessments/Deck/OICNW-2D4A) in {% course MT-4253 %} |
+| 49. | [2.5.A]({{ site.baseurl }}/tasks/OICNW/D0205A.html) | Navigate in restricted visibility | [OICNW‑2‑2E]({{site.baseurl}}/assessments/Deck/OICNW-2-2E) in {% course MT-4253 %} |
+| 50. | [2.6.A]({{ site.baseurl }}/tasks/OICNW/D0206A.html) | Vessel Traffic System (VTS) ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D6A]({{site.baseurl}}/assessments/Deck/OICNW-2D6A) in {% course MT-4253 %} |
+| 51. | [2.7.A]({{ site.baseurl }}/tasks/OICNW/D0207A.html) | Recognition of watch condition | [OICNW‑2‑3C]({{site.baseurl}}/assessments/Deck/OICNW-2-3C) in {% course MT-4253 %} |
+| 52. | [2.7.B]({{ site.baseurl }}/tasks/OICNW/D0207B.html) | BRM Condition III Collision Avoidance | [OICNW‑2‑3D]({{site.baseurl}}/assessments/Deck/OICNW-2-3D) in {% course MT-4253 %} |
+| 53. | [2.7.C]({{ site.baseurl }}/tasks/OICNW/D0207C.html) | BRM Condition III Navigation | [OICNW‑2‑3E]({{site.baseurl}}/assessments/Deck/OICNW-2-3E) in {% course MT-4253 %} |
+| 54. | [2.7.D]({{ site.baseurl }}/tasks/OICNW/D0207D.html) | BRM Condition II or III – error trapping | [OICNW‑2‑3F]({{site.baseurl}}/assessments/Deck/OICNW-2-3F) in {% course MT-4253 %} |
+| 55. | [2.7.E]({{ site.baseurl }}/tasks/OICNW/D0207E.html) | BRM Condition II or III - prioritization ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICNW‑2D7E]({{site.baseurl}}/assessments/Deck/OICNW-2D7E) in {% course MT-4253 %} |
+| 56. | [2.7.F]({{ site.baseurl }}/tasks/OICNW/D0207F.html) | BRM Condition II Navigation and collision avoidance | [OICNW‑2‑3G]({{site.baseurl}}/assessments/Deck/OICNW-2-3G) in {% course MT-4253 %} |
+| 57. | [2.7.G]({{ site.baseurl }}/tasks/OICNW/D0207G.html) | BRM Condition III establish a bridge team | [OICNW‑2‑3H]({{site.baseurl}}/assessments/Deck/OICNW-2-3H) in {% course MT-4253 %} |
 | 58. | [3.1]({{ site.baseurl }}/tasks/OICNW/D0301.html) | Radar fundamentals | {% course MT-3122%}|
-| 59. | [3.2.A]({{ site.baseurl }}/tasks/OICNW/D0302A.html) | Set up and maintain radar display | [OICNW‑3‑1A](OICNW-3-1A) in {% course MT-3122 %} |
-| 60. | [3.2.B]({{ site.baseurl }}/tasks/OICNW/D0302B.html) | Switch display modes | [OICNW‑3‑1B](OICNW-3-1B) in {% course MT-3122 %} |
-| 61. | [3.3.A]({{ site.baseurl }}/tasks/OICNW/D0303A.html) | Identify false echoes, sea return, racon and SART | [OICNW‑3‑1C](OICNW-3-1C) in {% course MT-3122 %} |
+| 59. | [3.2.A]({{ site.baseurl }}/tasks/OICNW/D0302A.html) | Set up and maintain radar display | [OICNW‑3‑1A]({{site.baseurl}}/assessments/Deck/OICNW-3-1A) in {% course MT-3122 %} |
+| 60. | [3.2.B]({{ site.baseurl }}/tasks/OICNW/D0302B.html) | Switch display modes | [OICNW‑3‑1B]({{site.baseurl}}/assessments/Deck/OICNW-3-1B) in {% course MT-3122 %} |
+| 61. | [3.3.A]({{ site.baseurl }}/tasks/OICNW/D0303A.html) | Identify false echoes, sea return, racon and SART | [OICNW‑3‑1C]({{site.baseurl}}/assessments/Deck/OICNW-3-1C) in {% course MT-3122 %} |
 | 62. | [3.4]({{ site.baseurl }}/tasks/OICNW/D0304.html) | Interpreting information from radar | {% course MT-3122%}|
-| 63. | [3.5.A]({{ site.baseurl }}/tasks/OICNW/D0305A.html) | Set up and maintain an ARPA display ARPA | [OICNW‑3‑2A](OICNW-3-2A) in {% course MT-3222 %} |
+| 63. | [3.5.A]({{ site.baseurl }}/tasks/OICNW/D0305A.html) | Set up and maintain an ARPA display ARPA | [OICNW‑3‑2A]({{site.baseurl}}/assessments/Deck/OICNW-3-2A) in {% course MT-3222 %} |
 | 64. | [3.6]({{ site.baseurl }}/tasks/OICNW/D0306.html) | Use of radar and ARPA to maintain safety of navigation | {% course MT-3222%}|
 | 65. | [4.1]({{ site.baseurl }}/tasks/OICNW/D0401.html) | ECDIS Knowledge | {% course MT-3224%}|
 | 66. | [4.2]({{ site.baseurl }}/tasks/OICNW/D0402.html) | ECDIS Proficiency | {% course MT-3224%}|
@@ -81,11 +81,11 @@ subtitle:  officer in charge of a navigation watch
 | 70. | [6.1]({{ site.baseurl }}/tasks/OICNW/D0601.html) | IAMSAR Manual | {% course MT-4132%}|
 | 71. | [7.1]({{ site.baseurl }}/tasks/OICNW/D0701.html) | Standard marine communications phrases (SMCP) | {% course MT-3221%}|
 | 72. | [8.1]({{ site.baseurl }}/tasks/OICNW/D0801.html) | International Code of Signals | {% course MT-3221%}|
-| 73. | [8.2]({{ site.baseurl }}/tasks/OICNW/D0802.html) | Receive information by Morse light | [OICNW‑4‑1A](OICNW-4-1A) in {% course MT-4253 %} <br/>{% course MT-3221%}|
+| 73. | [8.2]({{ site.baseurl }}/tasks/OICNW/D0802.html) | Receive information by Morse light | [OICNW‑4‑1A]({{site.baseurl}}/assessments/Deck/OICNW-4-1A) in {% course MT-4253 %} <br/>{% course MT-3221%}|
 | 74. | [9.1.A]({{ site.baseurl }}/tasks/OICNW/D0901A.html) | Turning circles and stopping distances | {% course MT-4133%}|
-| 75. | [9.2.A]({{ site.baseurl }}/tasks/OICNW/D0902A.html) | Course change of more than 45° | [OICNW‑5‑1B](OICNW-5-1B) in {% course MT-4133 %} |
-| 76. | [9.2.B]({{ site.baseurl }}/tasks/OICNW/D0902B.html) | Emergency stop | [OICNW‑5‑1C](OICNW-5-1C) in {% course MT-4133 %} |
-| 77. | [9.3.A]({{ site.baseurl }}/tasks/OICNW/D0903A.html) | Maneuver for a man overboard | [OICNW‑5‑1A](OICNW-5-1A) in {% course MT-4133 %} |
+| 75. | [9.2.A]({{ site.baseurl }}/tasks/OICNW/D0902A.html) | Course change of more than 45° | [OICNW‑5‑1B]({{site.baseurl}}/assessments/Deck/OICNW-5-1B) in {% course MT-4133 %} |
+| 76. | [9.2.B]({{ site.baseurl }}/tasks/OICNW/D0902B.html) | Emergency stop | [OICNW‑5‑1C]({{site.baseurl}}/assessments/Deck/OICNW-5-1C) in {% course MT-4133 %} |
+| 77. | [9.3.A]({{ site.baseurl }}/tasks/OICNW/D0903A.html) | Maneuver for a man overboard | [OICNW‑5‑1A]({{site.baseurl}}/assessments/Deck/OICNW-5-1A) in {% course MT-4133 %} |
 | 78. | [9.4]({{ site.baseurl }}/tasks/OICNW/D0904.html) | Knowledge of shallow water effects | {% course MT-4133%}|
 | 79. | [9.5.A]({{ site.baseurl }}/tasks/OICNW/D0905A.html) | Knowledge of anchoring and mooring | {% course MT-4133%}|
 | 80. | [10.1]({{ site.baseurl }}/tasks/OICNW/D1001.html) | Effect of cargo on seaworthiness and stability | {% course MT-4241%}|

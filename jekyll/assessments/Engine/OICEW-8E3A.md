@@ -27,7 +27,7 @@ title:  Clean an oil purifier
 
 <!--rowstart-->
 
-[Prepare](guidelines#prepare) to clean an oil purifier
+{% do Prepare, prepare %} to clean an oil purifier
 
 
 <!--cellbreak-->
@@ -41,7 +41,7 @@ title:  Clean an oil purifier
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) the purifier
+{% do Disassemble, disassemble %} the purifier
 
 
 <!--cellbreak-->
@@ -55,7 +55,7 @@ title:  Clean an oil purifier
 
 <!--rowstart-->
 
-[Clean](guidelines#clean) the purifier
+{% do Clean, clean %} the purifier
 
 
 <!--cellbreak-->
@@ -69,7 +69,7 @@ title:  Clean an oil purifier
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) the purifier
+{% do Inspect, evaluateinspecttest %} the purifier
 
 <!--cellbreak-->
 
@@ -83,7 +83,7 @@ title:  Clean an oil purifier
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) the purifier
+{% do Reassemble, reassemble %} the purifier
 
 <!--cellbreak-->
 

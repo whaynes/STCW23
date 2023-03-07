@@ -27,7 +27,7 @@ title:  Monitor main gas turbine operation
 
 <!--rowstart-->
 
-[Shift](guidelines#shiftchangeover) controls 
+{% do Shift, shiftchangeover %} controls 
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ shift/change over controls from local or main control room to bridge control
 
 <!--rowstart-->
 
-[Adjust](guidelines#adjust) engine speed as required
+{% do Adjust, adjust %} engine speed as required
 
 <!--cellbreak-->
 
@@ -49,7 +49,7 @@ adjust throttles to match engine order telegraph (EOT)
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) main gas turbine engine
+{% do Monitor, monitor %} main gas turbine engine
 
 <!--cellbreak-->
 
@@ -62,7 +62,7 @@ adjust throttles to match engine order telegraph (EOT)
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) gas turbine alarms
+{% do Monitor, monitor %} gas turbine alarms
 
 <!--cellbreak-->
 

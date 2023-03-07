@@ -27,7 +27,7 @@ title:  Monitor and operate auxiliary boiler
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) an oil-fired auxiliary boiler
+{% do Monitor, monitor %} an oil-fired auxiliary boiler
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ title:  Monitor and operate auxiliary boiler
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) an auxiliary boiler using automatic and, when available, manual controls
+{% do Operate, operate %} an auxiliary boiler using automatic and, when available, manual controls
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ title:  Monitor and operate auxiliary boiler
 
 <!--rowstart-->
 
-[Respond](guidelines#respondtoalarm) to high and low boiler level alarms as required
+{% do Respond, respondtoalarm %} to high and low boiler level alarms as required
 
 <!--cellbreak-->
 

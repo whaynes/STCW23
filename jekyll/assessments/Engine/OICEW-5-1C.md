@@ -27,7 +27,7 @@ title:  Shut down refrigeration system
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the refrigerant circuit
+{% do Secure, secure %} the refrigerant circuit
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Observe suction pressure
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the refrigeration compressor
+{% do Secure, secure %} the refrigeration compressor
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Close compressor suction and discharge valves
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) associated equipment
+{% do Secure, secure %} associated equipment
 
 <!--cellbreak-->
 
@@ -70,7 +70,7 @@ Secure box solenoid, if shutting down
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the cooling water supply
+{% do Secure, secure %} the cooling water supply
 
 <!--cellbreak-->
 

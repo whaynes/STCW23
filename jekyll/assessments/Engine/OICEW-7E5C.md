@@ -27,7 +27,7 @@ title:  Test engine shutdown devices
 
 <!--rowstart-->
 
-[test](guidelines#evaluateinspecttest) low lube oil shutdown device
+{% do test, evaluateinspecttest %} low lube oil shutdown device
 
 <!--cellbreak-->
 
@@ -40,7 +40,7 @@ title:  Test engine shutdown devices
 
 <!--rowstart-->
 
-[test](guidelines#evaluateinspecttest) high jacket water temperature shutdown.
+{% do test, evaluateinspecttest %} high jacket water temperature shutdown.
 
 <!--cellbreak-->
 

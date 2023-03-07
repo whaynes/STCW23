@@ -27,7 +27,7 @@ title:  Light off main boiler
 
 <!--rowstart-->
 
-[Check](guidelines#check) and prepare boiler for light off
+{% do Check, check %} and prepare boiler for light off
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ Open:
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) the diesel fuel oil system
+{% do Line up, lineup %} and {% do Start, start %} the diesel fuel oil system
 
 <!--cellbreak-->
 
@@ -55,7 +55,7 @@ Open:
 
 <!--rowstart-->
 
-[Light off](guidelines#start) boiler
+{% do Light off, start %} boiler
 
 <!--cellbreak-->
 
@@ -72,7 +72,7 @@ Correctly proportion fuel/air ratio to prevent smoke
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) boiler
+{% do Monitor, monitor %} boiler
 
 <!--cellbreak-->
 

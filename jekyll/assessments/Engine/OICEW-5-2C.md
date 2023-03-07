@@ -27,7 +27,7 @@ title:  Bottom blow boiler
 
 <!--rowstart-->
 
-[Describe](guidelines#describeequipment) purpose of boiler blowdown
+{% do Describe, describeequipment %} purpose of boiler blowdown
 
 <!--cellbreak-->
 

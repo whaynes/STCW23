@@ -27,7 +27,7 @@ title:  Test and treat boiler water
 
 <!--rowstart-->
 
-[Describe](guidelines#describeaction) the purpose of boiler water testing
+{% do Describe, describeaction %} the purpose of boiler water testing
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ Describes the consequences of failure to maintain boiler water quality
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) the boiler water
+{% do Test, evaluateinspecttest %} the boiler water
 
 <!--cellbreak-->
 
@@ -58,7 +58,7 @@ Conduct tests in accordance with vendor's recommendations
 
 <!--rowstart-->
 
-[Evaluate](guidelines#evaluateinspecttest) the test results
+{% do Evaluate, evaluateinspecttest %} the test results
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Form two steel plates using electric arc welding process
 
 <!--rowstart-->
 
-[Use Tools](guidelines#usetools) to fuse two steel plates using electric arc welding process
+{% do Use Tools, usetools %} to fuse two steel plates using electric arc welding process
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Weld according to standard welding procedure
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) resulting weld
+{% do Inspect, evaluateinspecttest %} resulting weld
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Monitor sewage waste treatment plant
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) and [Describe](guidelines#describeequipment) the visible components of the msd and lift station
+{% do Identify, identify %} and {% do Describe, describeequipment %} the visible components of the msd and lift station
 
 <!--cellbreak-->
 
@@ -48,7 +48,7 @@ Identify and describe at least the following:
 
 <!--rowstart-->
 
-[Trace](guidelines#trace) the discharge piping of the msd
+{% do Trace, trace %} the discharge piping of the msd
 
 <!--cellbreak-->
 
@@ -59,7 +59,7 @@ Trace system in auxiliary machinery room only
 
 <!--rowstart-->
 
-[Describe](guidelines#describeaction) the procedure to start and secure the sewage treatment plant
+{% do Describe, describeaction %} the procedure to start and secure the sewage treatment plant
 
 <!--cellbreak-->
 
@@ -71,7 +71,7 @@ Trace system in auxiliary machinery room only
 
 <!--rowstart-->
 
-[Apply regulations](guidelines#applyregulations) to the operation of the MSD
+{% do Apply regulations, applyregulations %} to the operation of the MSD
 
 <!--cellbreak-->
 

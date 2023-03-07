@@ -27,7 +27,7 @@ title:  Monitor oily water separator system
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) and [Describe](guidelines#describeequipment) the visible components of the ows.
+{% do Identify, identify %} and {% do Describe, describeequipment %} the visible components of the ows.
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ Identify and describe at least the following:
 
 <!--rowstart-->
 
-[Trace](guidelines#trace) the suction and discharge of the OWS.
+{% do Trace, trace %} the suction and discharge of the OWS.
 
 <!--cellbreak-->
 
@@ -62,7 +62,7 @@ Trace system for current operating condition
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) the OWS.
+{% do Monitor, monitor %} the OWS.
 
 <!--cellbreak-->
 
@@ -77,7 +77,7 @@ Maintain OWS log
 
 <!--rowstart-->
 
-[Apply regulations](guidelines#applyregulations) to the operation of the OWS
+{% do Apply regulations, applyregulations %} to the operation of the OWS
 
 <!--cellbreak-->
 

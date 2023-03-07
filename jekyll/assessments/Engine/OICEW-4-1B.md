@@ -27,7 +27,7 @@ title:  Watch Relief
 
 <!--rowstart-->
 
-[Check](guidelines#check) engine room and machinery in accordance with stcw code   <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2 part 4-2  Paragraph 58') %>
+{% do Check, check %} engine room and machinery in accordance with stcw code   <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2 part 4-2  Paragraph 58') %>
 
 
 <!--cellbreak-->
@@ -41,7 +41,7 @@ title:  Watch Relief
 
 <!--rowstart-->
 
-[Check](guidelines#check) that all members of the relieving watch are ready to perform their duties
+{% do Check, check %} that all members of the relieving watch are ready to perform their duties
 
 <!--cellbreak-->
 

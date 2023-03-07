@@ -27,7 +27,7 @@ title:  Monitor main steam turbine operation
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) turbine instrumentation available at console
+{% do Identify, identify %} turbine instrumentation available at console
 
 <!--cellbreak-->
 
@@ -45,7 +45,7 @@ Identify these items:
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) turbine and reduction gears while underway
+{% do Monitor, monitor %} turbine and reduction gears while underway
 
 <!--cellbreak-->
 
@@ -63,7 +63,7 @@ Monitor these items:
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) turbine exhaust system
+{% do Monitor, monitor %} turbine exhaust system
 
 <!--cellbreak-->
 
@@ -80,7 +80,7 @@ Monitor these items:
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) the turbine lubrication system
+{% do Monitor, monitor %} the turbine lubrication system
 
 <!--cellbreak-->
 
@@ -95,7 +95,7 @@ Monitor these items
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) lube oil cooler
+{% do Operate, operate %} lube oil cooler
 
 <!--cellbreak-->
 

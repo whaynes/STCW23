@@ -27,7 +27,7 @@ title:  Thread a blind hole using hand taps
 
 <!--rowstart-->
 
-[Use Tools](guidelines#usetools) to [Fabricate](guidelines#fabricate) a 3/8-16 threaded blind hole
+{% do Use Tools, usetools %} to {% do Fabricate, fabricate %} a 3/8-16 threaded blind hole
 
 <!--cellbreak-->
 

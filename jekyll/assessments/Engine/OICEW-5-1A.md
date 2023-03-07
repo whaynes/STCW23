@@ -27,7 +27,7 @@ title:  Test steering gear and internal communications
 
 <!--rowstart-->
 
-[Check](guidelines#check) steering gear is ready for operation
+{% do Check, check %} steering gear is ready for operation
 
 <!--cellbreak-->
 
@@ -43,7 +43,7 @@ Check:
 
 <!--rowstart-->
 
-Establish and [test](guidelines#evaluateinspecttest) communications with bridge
+Establish and {% do test, evaluateinspecttest %} communications with bridge
 
 <!--cellbreak-->
 
@@ -56,7 +56,7 @@ Use correct procedures and terminology
 
 <!--rowstart-->
 
-[Start](guidelines#start) and [Test](guidelines#evaluateinspecttest) each motor and pump
+{% do Start, start %} and {% do Test, evaluateinspecttest %} each motor and pump
 
 <!--cellbreak-->
 
@@ -77,7 +77,7 @@ Note any unusual operation, noises or leakage
 
 <!--rowstart-->
 
-[Check](guidelines#check) alternate power sources
+{% do Check, check %} alternate power sources
 
 <!--cellbreak-->
 

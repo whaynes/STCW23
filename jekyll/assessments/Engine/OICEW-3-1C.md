@@ -27,7 +27,7 @@ title:  Detect location of grounds
 
 <!--rowstart-->
 
-[Describe](guidelines#describeequipment) operation of ground fault detection systems
+{% do Describe, describeequipment %} operation of ground fault detection systems
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ State behavior of ground lamps
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) ground fault simulator
+{% do Operate, operate %} ground fault simulator
 
 <!--cellbreak-->
 

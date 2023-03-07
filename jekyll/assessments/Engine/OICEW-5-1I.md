@@ -27,7 +27,7 @@ title:  Shut down fuel oil or lube oil purifier
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the purifier oil heater
+{% do Secure, secure %} the purifier oil heater
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Shut down fuel oil or lube oil purifier
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) purifier
+{% do Secure, secure %} purifier
 
 <!--cellbreak-->
 
@@ -53,7 +53,7 @@ Use bowl brake to bring bowl to stop
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) piping system
+{% do Secure, secure %} piping system
 
 <!--cellbreak-->
 

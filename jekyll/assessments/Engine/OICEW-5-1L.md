@@ -27,7 +27,7 @@ title:  Prepare main steam turbine for operation
 
 <!--rowstart-->
 
-[Line Up](guidelines#lineup) and [Start](guidelines#start) main lube oil system
+{% do Line Up, lineup %} and {% do Start, start %} main lube oil system
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ Verify gravity tank overflow
 
 <!--rowstart-->
 
-[Place into service](guidelines#placeintoservice) jacking gear
+{% do Place into service, placeintoservice %} jacking gear
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Hang _jacking gear engaged_ sign
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) main circulating system
+{% do Line up, lineup %} and {% do Start, start %} main circulating system
 
 <!--cellbreak-->
 
@@ -68,7 +68,7 @@ Verify coolant flow
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) main condensate system
+{% do Line up, lineup %} and {% do Start, start %} main condensate system
 
 <!--cellbreak-->
 
@@ -83,7 +83,7 @@ monitor dc heater level
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) gland seal system
+{% do Line up, lineup %} and {% do Start, start %} gland seal system
 
 <!--cellbreak-->
 
@@ -96,7 +96,7 @@ adjust gland seal regulator to 1.5 psig
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) main air ejector and raise vacuum
+{% do Line up, lineup %} and {% do Start, start %} main air ejector and raise vacuum
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Make emergency repairs
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the leaking pipe 
+{% do Secure, secure %} the leaking pipe 
 
 <!--cellbreak-->
 
@@ -40,7 +40,7 @@ title:  Make emergency repairs
 
 <!--rowstart-->
 
-[Make](guidelines#fabricate) a temporary repair using a prefabricated repair clamp, or
+{% do Make, fabricate %} a temporary repair using a prefabricated repair clamp, or
 
 
 
@@ -54,7 +54,7 @@ title:  Make emergency repairs
 
 <!--rowstart-->
 
-[Make](guidelines#fabricate) a temporary repair using a soft patch
+{% do Make, fabricate %} a temporary repair using a soft patch
 
 
 
@@ -70,7 +70,7 @@ title:  Make emergency repairs
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) repaired pipe for leakage
+{% do Test, evaluateinspecttest %} repaired pipe for leakage
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Change and clean burner
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) and [Describe](guidelines#describeequipment) components of boiler burner and register
+{% do Identify, identify %} and {% do Describe, describeequipment %} components of boiler burner and register
 
 <!--cellbreak-->
 
@@ -47,7 +47,7 @@ Identify:
 
 <!--rowstart-->
 
-[Change Over](guidelines#shiftchangeover) burner
+{% do Change Over, shiftchangeover %} burner
 
 <!--cellbreak-->
 
@@ -72,7 +72,7 @@ Remove dirty burner and drain burner of residual fuel oil
 
 <!--rowstart-->
 
-[Clean](guidelines#clean) and [Maintain](guidelines#maintain) burner
+{% do Clean, clean %} and {% do Maintain, maintain %} burner
 
 <!--cellbreak-->
 

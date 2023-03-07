@@ -27,7 +27,7 @@ title:  Start fuel oil or lube oil purifier
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) the valves and equipment associated with the purifier unit
+{% do Identify, identify %} the valves and equipment associated with the purifier unit
 
 <!--cellbreak-->
 
@@ -43,7 +43,7 @@ Identify:
 
 <!--rowstart-->
 
-[Line-up](guidelines#lineup) purifier unit
+{% do Line-up, lineup %} purifier unit
 
 <!--cellbreak-->
 
@@ -54,7 +54,7 @@ Line up correct valves from suction to discharge
 
 <!--rowstart-->
 
-[Start](guidelines#start) the purifier
+{% do Start, start %} the purifier
 
 <!--cellbreak-->
 
@@ -75,7 +75,7 @@ Verify:
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) the purifier until conditions stabilize
+{% do Monitor, monitor %} the purifier until conditions stabilize
 
 <!--cellbreak-->
 

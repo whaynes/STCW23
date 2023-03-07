@@ -27,7 +27,7 @@ title:  Pump bilges
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) a bilge pumping operation
+{% do Plan, plan %} a bilge pumping operation
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ Insure sufficient room in slop tank, if used
 
 <!--rowstart-->
 
-[Line up](guidelines#lineup) and [Start](guidelines#start) the bilge pump
+{% do Line up, lineup %} and {% do Start, start %} the bilge pump
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Prime bilge pump if necessary
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) the bilge pump or ows
+{% do Operate, operate %} the bilge pump or ows
 
 <!--cellbreak-->
 
@@ -74,7 +74,7 @@ Maintain strainers as necessary
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the bilge pump when pumping operation is complete
+{% do Secure, secure %} the bilge pump when pumping operation is complete
 
 <!--cellbreak-->
 

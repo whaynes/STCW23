@@ -27,7 +27,7 @@ title:  Parallel generators
 
 <!--rowstart-->
 
-[Start](guidelines#start) incoming generator and raise voltage
+{% do Start, start %} incoming generator and raise voltage
 
 <!--cellbreak-->
 
@@ -46,7 +46,7 @@ Adjust voltage to system line voltage
 
 <!--rowstart-->
 
-[Synchronize](guidelines#adjust) incoming generator with bus
+{% do Synchronize, adjust %} incoming generator with bus
 
 <!--cellbreak-->
 
@@ -63,7 +63,7 @@ Turn off synchroscope
 
 <!--rowstart-->
 
-[Adjust](guidelines#adjust) load on incoming generator
+{% do Adjust, adjust %} load on incoming generator
 
 <!--cellbreak-->
 

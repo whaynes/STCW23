@@ -10,15 +10,15 @@ subtitle:  able seafarer engine
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
 | 1. | [1.1.A]({{ site.baseurl }}/tasks/ABE/G0101A.html) | Understand orders | [A-III/4](34)|
-| 2. | [1.2.A]({{ site.baseurl }}/tasks/ABE/G0102A.html) | Watch relief | [OICEW‑4‑1B](OICEW-4-1B) in {% course EN-4231 %} |
-| 3. | [1.3.A]({{ site.baseurl }}/tasks/ABE/G0103A.html) | Watchkeeping ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICEW‑4‑1C](OICEW-4-1C) in {% course EN-4231 %} |
+| 2. | [1.2.A]({{ site.baseurl }}/tasks/ABE/G0102A.html) | Watch relief | [OICEW‑4‑1B]({{site.baseurl}}/assessments/Engine/OICEW-4-1B) in {% course EN-4231 %} |
+| 3. | [1.3.A]({{ site.baseurl }}/tasks/ABE/G0103A.html) | Watchkeeping ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICEW‑4‑1C]({{site.baseurl}}/assessments/Engine/OICEW-4-1C) in {% course EN-4231 %} |
 | 4. | [2.1.A]({{ site.baseurl }}/tasks/ABE/G0201A.html) | Operation of main propulsion and auxiliary machinery | {% course EN-1211%}<br/>{% course EN-2111%}<br/>{% course EN-2232%}|
-| 5. | [2.2.A]({{ site.baseurl }}/tasks/ABE/G0202A.html) | Main propulsion and auxiliary machinery control pressures, temperature and levels ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICEW‑4‑1D](OICEW-4-1D) in {% course EN-2231 %} |
-| 6. | [3.1.A]({{ site.baseurl }}/tasks/ABE/G0301A.html) | Operation of fuel system and oil transfer operations | [OICEW‑6‑1A](OICEW-6-1A) in {% course EN-3131 %} <br/>[ABE‑1‑6A](ABE-1-6A) in {% course EN-1211 %} |
-| 7. | [4.1.A]({{ site.baseurl }}/tasks/ABE/G0401A.html) | Operation of bilge and ballast system | [OICEW‑6‑2A](OICEW-6-2A) in {% course EN-2231 %} <br/>[OICEW‑5E2B](OICEW-5E2B) in {% course EN-3131 %} |
-| 8. | [5.1.A]({{ site.baseurl }}/tasks/ABE/G0501A.html) | Trace out a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | [ABE‑5G1A](ABE-5G1A) in {% course EN-2231 %} |
-| 9. | [5.1.B]({{ site.baseurl }}/tasks/ABE/G0501B.html) | Operation of centrifugal and positive displacement pumps | [OICEW‑8‑2A](OICEW-8-2A) in {% course EN-2111 %} <br/>[OICEW‑8‑2B](OICEW-8-2B) in {% course EN-2111 %} <br/>[OICEW‑8E2B](OICEW-8E2B) in {% course EN-2111 %} |
-| 10. | [5.1.C]({{ site.baseurl }}/tasks/ABE/G0501C.html) | Operation and repair of valves | [OICEW‑8‑2E](OICEW-8-2E) in {% course EN-2231 %} |
+| 5. | [2.2.A]({{ site.baseurl }}/tasks/ABE/G0202A.html) | Main propulsion and auxiliary machinery control pressures, temperature and levels ![]({{site.baseurl}}/assets/images/new.jpg)  | [OICEW‑4‑1D]({{site.baseurl}}/assessments/Engine/OICEW-4-1D) in {% course EN-2231 %} |
+| 6. | [3.1.A]({{ site.baseurl }}/tasks/ABE/G0301A.html) | Operation of fuel system and oil transfer operations | [OICEW‑6‑1A]({{site.baseurl}}/assessments/Engine/OICEW-6-1A) in {% course EN-3131 %} <br/>[ABE‑1‑6A]({{site.baseurl}}/assessments/Engine/ABE-1-6A) in {% course EN-1211 %} |
+| 7. | [4.1.A]({{ site.baseurl }}/tasks/ABE/G0401A.html) | Operation of bilge and ballast system | [OICEW‑6‑2A]({{site.baseurl}}/assessments/Engine/OICEW-6-2A) in {% course EN-2231 %} <br/>[OICEW‑5E2B]({{site.baseurl}}/assessments/Engine/OICEW-5E2B) in {% course EN-3131 %} |
+| 8. | [5.1.A]({{ site.baseurl }}/tasks/ABE/G0501A.html) | Trace out a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | [ABE‑5G1A]({{site.baseurl}}/assessments/Engine/ABE-5G1A) in {% course EN-2231 %} |
+| 9. | [5.1.B]({{ site.baseurl }}/tasks/ABE/G0501B.html) | Operation of centrifugal and positive displacement pumps | [OICEW‑8‑2A]({{site.baseurl}}/assessments/Engine/OICEW-8-2A) in {% course EN-2111 %} <br/>[OICEW‑8‑2B]({{site.baseurl}}/assessments/Engine/OICEW-8-2B) in {% course EN-2111 %} <br/>[OICEW‑8E2B]({{site.baseurl}}/assessments/Engine/OICEW-8E2B) in {% course EN-2111 %} |
+| 10. | [5.1.C]({{ site.baseurl }}/tasks/ABE/G0501C.html) | Operation and repair of valves | [OICEW‑8‑2E]({{site.baseurl}}/assessments/Engine/OICEW-8-2E) in {% course EN-2231 %} |
 | 11. | [5.2.A]({{ site.baseurl }}/tasks/ABE/G0502A.html) | Operation and repair of heavy equipment | {% course CC-MANT%}|
 | 12. | [6.1.A]({{ site.baseurl }}/tasks/ABE/G0601A.html) | Assist with electrical repairs | {% course EN-3111L%}|
 | 13. | [6.2.A]({{ site.baseurl }}/tasks/ABE/G0602A.html) | Electrical safety | {% course EN-3111L%}<br/>{% course EN-4231%}|
@@ -27,10 +27,10 @@ subtitle:  able seafarer engine
 | 16. | [7.2.A]({{ site.baseurl }}/tasks/ABE/G0702A.html) | Safety guidelines and shipboard instructions | {% course MT-1111%}|
 | 17. | [7.3.A]({{ site.baseurl }}/tasks/ABE/G0703A.html) | Surface preparation techniques | {% course CC-MANT%}|
 | 18. | [7.4.A]({{ site.baseurl }}/tasks/ABE/G0704A.html) | Waste disposal | {% course CC-MANT%}<br/>{% course ST-0999D%}|
-| 19. | [7.5.A]({{ site.baseurl }}/tasks/ABE/G0705A.html) | Tool selection | [OICEW‑2‑1A](OICEW-2-1A) in {% course ST-0999E %} <br/>[OICEW‑2‑1B](OICEW-2-1B) in {% course ST-0999E %} <br/>[OICEW‑2‑1C](OICEW-2-1C) in {% course ST-0999E %} <br/>{% course ST-0999E%}|
+| 19. | [7.5.A]({{ site.baseurl }}/tasks/ABE/G0705A.html) | Tool selection | [OICEW‑2‑1A]({{site.baseurl}}/assessments/Engine/OICEW-2-1A) in {% course ST-0999E %} <br/>[OICEW‑2‑1B]({{site.baseurl}}/assessments/Engine/OICEW-2-1B) in {% course ST-0999E %} <br/>[OICEW‑2‑1C]({{site.baseurl}}/assessments/Engine/OICEW-2-1C) in {% course ST-0999E %} <br/>{% course ST-0999E%}|
 | 20. | [7.6.A]({{ site.baseurl }}/tasks/ABE/G0706A.html) | Maintenance and use of hand and power tools | {% course EN-2112%}<br/>{% course ST-0999E%}|
 | 21. | [8.1.A]({{ site.baseurl }}/tasks/ABE/G0801A.html) | Stowage and securing of stores and equipment | {% course CC-MANT%}|
-| 22. | [8.1.B]({{ site.baseurl }}/tasks/ABE/G0801B.html) | Stores handling gear, cranes, derricks, and winches | [ABDE‑DE‑1](ABDE-DE-1) in {% course ST-0999D %} <br/>{% course CC-MANT%}|
+| 22. | [8.1.B]({{ site.baseurl }}/tasks/ABE/G0801B.html) | Stores handling gear, cranes, derricks, and winches | [ABDE‑DE‑1]({{site.baseurl}}/assessments/Common/ABDE-DE-1) in {% course ST-0999D %} <br/>{% course CC-MANT%}|
 | 23. | [9.1.A]({{ site.baseurl }}/tasks/ABE/G0901A.html) | Sources of operational pollution | {% course ST-0999D%}|
 | 24. | [9.1.B]({{ site.baseurl }}/tasks/ABE/G0901B.html) | Precautions to prevent pollution of the marine environment | {% course ST-0999D%}|
 | 25. | [9.2.A]({{ site.baseurl }}/tasks/ABE/G0902A.html) | Use of anti-pollution equipment | {% course ST-0999D%}|

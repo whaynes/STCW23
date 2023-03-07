@@ -27,7 +27,7 @@ title:  Pre-start inspection of steam turbo-generator
 
 <!--rowstart-->
 
-[Check](guidelines#check) for electrical readiness
+{% do Check, check %} for electrical readiness
 
 <!--cellbreak-->
 
@@ -41,7 +41,7 @@ Look for:
 
 <!--rowstart-->
 
-[Check](guidelines#check) system for operational readiness
+{% do Check, check %} system for operational readiness
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Look for:
 
 <!--rowstart-->
 
-[Check](guidelines#check) for adequate lubrication
+{% do Check, check %} for adequate lubrication
 
 <!--cellbreak-->
 

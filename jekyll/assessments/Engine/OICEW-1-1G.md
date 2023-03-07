@@ -27,7 +27,7 @@ title:  Dye-penetrant test
 
 <!--rowstart-->
 
-[Apply](guidelines#usetools) liquid penetrant and developer
+{% do Apply, usetools %} liquid penetrant and developer
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ Apply penetrant and developer according to specifications
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) component for defects
+{% do Inspect, evaluateinspecttest %} component for defects
 
 <!--cellbreak-->
 

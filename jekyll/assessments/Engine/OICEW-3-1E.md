@@ -27,7 +27,7 @@ title:  Determine phase rotation
 
 <!--rowstart-->
 
-[Check](guidelines#check) phase rotation using phase rotation meter prior starting an ac motor
+{% do Check, check %} phase rotation using phase rotation meter prior starting an ac motor
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Match phase sequence to motor rotation direction
 
 <!--rowstart-->
 
-[Determine](guidelines#evaluateinspecttest) if phase rotation is correct for desired direction of motor rotation
+{% do Determine, evaluateinspecttest %} if phase rotation is correct for desired direction of motor rotation
 
 <!--cellbreak-->
 

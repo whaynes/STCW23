@@ -27,7 +27,7 @@ title:  Shift and clean a basket-type duplex strainer
 
 <!--rowstart-->
 
-[Change over](guidelines#shiftchangeover) a basket-type strainer to a clean basket
+{% do Change over, shiftchangeover %} a basket-type strainer to a clean basket
 
 <!--cellbreak-->
 
@@ -43,7 +43,7 @@ title:  Shift and clean a basket-type duplex strainer
 
 <!--rowstart-->
 
-Remove, [inspect](guidelines#evaluateinspecttest) and [clean](guidelines#clean) the out-of-service basket
+Remove, {% do inspect, evaluateinspecttest %} and {% do clean, clean %} the out-of-service basket
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Remove, [inspect](guidelines#evaluateinspecttest) and [clean](guidelines#clean) 
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) the strainer basket and lid
+{% do Reassemble, reassemble %} the strainer basket and lid
 
 <!--cellbreak-->
 

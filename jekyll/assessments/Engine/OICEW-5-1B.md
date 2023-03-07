@@ -27,7 +27,7 @@ title:  Start refrigeration system
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) the valves and equipment associated with the refrigeration unit
+{% do Identify, identify %} the valves and equipment associated with the refrigeration unit
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ Identify:
 
 <!--rowstart-->
 
-[Check](guidelines#check) compressor lubrication
+{% do Check, check %} compressor lubrication
 
 <!--cellbreak-->
 
@@ -55,7 +55,7 @@ Verify visible oil level
 
 <!--rowstart-->
 
-[Check](guidelines#check) refrigerant level
+{% do Check, check %} refrigerant level
 
 <!--cellbreak-->
 
@@ -66,7 +66,7 @@ Verify visible receiver level
 
 <!--rowstart-->
 
-[Line-up](guidelines#lineup) refrigeration unit
+{% do Line-up, lineup %} refrigeration unit
 
 <!--cellbreak-->
 
@@ -81,7 +81,7 @@ Leave compressor suction valve closed
 
 <!--rowstart-->
 
-[Start](guidelines#start) associated equipment
+{% do Start, start %} associated equipment
 
 <!--cellbreak-->
 
@@ -94,7 +94,7 @@ Start diffuser fans, brine pumps, etc. as required
 
 <!--rowstart-->
 
-[Start](guidelines#start) the refrigeration compressor
+{% do Start, start %} the refrigeration compressor
 
 <!--cellbreak-->
 
@@ -111,7 +111,7 @@ Verify:
 
 <!--rowstart-->
 
-[Operate](guidelines#operate) the refrigeration unit until conditions stabilize
+{% do Operate, operate %} the refrigeration unit until conditions stabilize
 
 <!--cellbreak-->
 

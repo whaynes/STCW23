@@ -27,7 +27,7 @@ title:  Inspect machinery spaces before assuming watch
 
 <!--rowstart-->
 
-[Check](guidelines#check) uptakes
+{% do Check, check %} uptakes
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) steering gear
+{% do Check, check %} steering gear
 
 <!--cellbreak-->
 
@@ -60,7 +60,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) shaft alley
+{% do Check, check %} shaft alley
 
 <!--cellbreak-->
 
@@ -75,7 +75,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) operating pumps and essential stand by units
+{% do Check, check %} operating pumps and essential stand by units
 
 <!--cellbreak-->
 
@@ -91,7 +91,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) engine room bilges
+{% do Check, check %} engine room bilges
 
 <!--cellbreak-->
 
@@ -106,7 +106,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) fire room
+{% do Check, check %} fire room
 
 <!--cellbreak-->
 
@@ -125,7 +125,7 @@ Check status of stand-by units
 
 <!--rowstart-->
 
-[Check](guidelines#check) main and auxiliary condensers
+{% do Check, check %} main and auxiliary condensers
 
 <!--cellbreak-->
 
@@ -147,7 +147,7 @@ Determine line-up of:
 
 <!--rowstart-->
 
-[Check](guidelines#check) fresh water system
+{% do Check, check %} fresh water system
 
 <!--cellbreak-->
 
@@ -164,7 +164,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) control console status
+{% do Check, check %} control console status
 
 <!--cellbreak-->
 
@@ -179,7 +179,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) main engine
+{% do Check, check %} main engine
 
 <!--cellbreak-->
 
@@ -197,7 +197,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) electrical generation
+{% do Check, check %} electrical generation
 
 <!--cellbreak-->
 
@@ -213,7 +213,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) refrigeration equipment
+{% do Check, check %} refrigeration equipment
 
 <!--cellbreak-->
 
@@ -228,7 +228,7 @@ Check:
 
 <!--rowstart-->
 
-[Check](guidelines#check) fuel and water tanks
+{% do Check, check %} fuel and water tanks
 
 <!--cellbreak-->
 

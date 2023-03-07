@@ -27,7 +27,7 @@ title:  Visual test of welded joint
 
 <!--rowstart-->
 
-[Check](guidelines#check) a welded joint visually
+{% do Check, check %} a welded joint visually
 
 <!--cellbreak-->
 

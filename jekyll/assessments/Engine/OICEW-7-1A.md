@@ -27,7 +27,7 @@ title:  Start emergency generator
 
 <!--rowstart-->
 
-[Check](guidelines#check) that system is ready to start
+{% do Check, check %} that system is ready to start
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ Meet requirements of [OICEW 7-1B](oicew71b)
 
 <!--rowstart-->
 
-[Start](guidelines#start) the generator
+{% do Start, start %} the generator
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ Turn generator starting switch to _start_
 
 <!--rowstart-->
 
-[Check](guidelines#check) that generator starts properly
+{% do Check, check %} that generator starts properly
 
 <!--cellbreak-->
 

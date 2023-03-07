@@ -25,15 +25,15 @@ subtitle:  personal survival
 | 14. | [1.12.A]({{ site.baseurl }}/tasks/PS/B0112A.html) | List initial actions to take aboard a survival craft to enhance the chance of survival | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 15. | [1.12.B]({{ site.baseurl }}/tasks/PS/B0112B.html) | List actions to take aboard a survival craft at sea to enhance chances of survival | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 16. | [1.13.A]({{ site.baseurl }}/tasks/PS/B0113A.html) | List the main dangers to survivors | {% course PS-0301%}|
-| 17. | [1.14.A]({{ site.baseurl }}/tasks/PS/B0114A.html) | Don a lifejacket | [PS‑1](PS-1) in {% course PS-0301 %} <br/>{% course PS-0301%}|
-| 18. | [1.14.B]({{ site.baseurl }}/tasks/PS/B0114B.html) | Don an immersion suit | [PS‑2](PS-2) in {% course LB-0203 %} <br/>{% course LB-0203%}|
-| 19. | [1.14.C]({{ site.baseurl }}/tasks/PS/B0114C.html) | Enter the water in a life jacket | [PS‑3](PS-3) in {% course PS-0301 %} <br/>{% course PS-0301%}|
-| 20. | [1.14.D]({{ site.baseurl }}/tasks/PS/B0114D.html) | Enter the water in an immersion suit | [PS‑2](PS-2) in {% course LB-0203 %} <br/>{% course LB-0203%}|
-| 21. | [1.14.E]({{ site.baseurl }}/tasks/PS/B0114E.html) | Right an inverted inflatable life raft | [SCRB‑1](SCRB-1) in {% course PS-0301 %} <br/>{% course PS-0301%}|
-| 22. | [1.14.F]({{ site.baseurl }}/tasks/PS/B0114F.html) | Demonstrate ability to swim | [PS‑5](PS-5) in {% course PS-0301 %} <br/>{% course PS-0301%}|
-| 23. | [1.14.G]({{ site.baseurl }}/tasks/PS/B0114G.html) | Demonstrate ability to tread water | [PS‑6](PS-6) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 17. | [1.14.A]({{ site.baseurl }}/tasks/PS/B0114A.html) | Don a lifejacket | [PS‑1]({{site.baseurl}}/assessments/Common/PS-1) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 18. | [1.14.B]({{ site.baseurl }}/tasks/PS/B0114B.html) | Don an immersion suit | [PS‑2]({{site.baseurl}}/assessments/Common/PS-2) in {% course LB-0203 %} <br/>{% course LB-0203%}|
+| 19. | [1.14.C]({{ site.baseurl }}/tasks/PS/B0114C.html) | Enter the water in a life jacket | [PS‑3]({{site.baseurl}}/assessments/Common/PS-3) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 20. | [1.14.D]({{ site.baseurl }}/tasks/PS/B0114D.html) | Enter the water in an immersion suit | [PS‑2]({{site.baseurl}}/assessments/Common/PS-2) in {% course LB-0203 %} <br/>{% course LB-0203%}|
+| 21. | [1.14.E]({{ site.baseurl }}/tasks/PS/B0114E.html) | Right an inverted inflatable life raft | [SCRB‑1]({{site.baseurl}}/assessments/Common/SCRB-1) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 22. | [1.14.F]({{ site.baseurl }}/tasks/PS/B0114F.html) | Demonstrate ability to swim | [PS‑5]({{site.baseurl}}/assessments/Common/PS-5) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 23. | [1.14.G]({{ site.baseurl }}/tasks/PS/B0114G.html) | Demonstrate ability to tread water | [PS‑6]({{site.baseurl}}/assessments/Common/PS-6) in {% course PS-0301 %} <br/>{% course PS-0301%}|
 | 24. | [1.14.H]({{ site.baseurl }}/tasks/PS/B0114H.html) | Board a life raft from the vessel | {% course MT-1111%}|
-| 25. | [1.14.I]({{ site.baseurl }}/tasks/PS/B0114I.html) | Board a life raft unassisted from the water | [PS‑7](PS-7) in {% course PS-0301 %} <br/>{% course PS-0301%}|
+| 25. | [1.14.I]({{ site.baseurl }}/tasks/PS/B0114I.html) | Board a life raft unassisted from the water | [PS‑7]({{site.baseurl}}/assessments/Common/PS-7) in {% course PS-0301 %} <br/>{% course PS-0301%}|
 | 26. | [1.14.J]({{ site.baseurl }}/tasks/PS/B0114J.html) | Deploy a sea anchor | {% course LB-0201%}|
 | 27. | [1.14.K]({{ site.baseurl }}/tasks/PS/B0114K.html) | Simulate activating pyrotechnic devices | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 28. | [1.14.L]({{ site.baseurl }}/tasks/PS/B0114L.html) | Operate a portable VHF radio | {% course LB-0201%}<br/>{% course MT-1111%}|
@@ -72,11 +72,11 @@ subtitle:  fire prevention and fire fighting
 | 20. | [3.4.B]({{ site.baseurl }}/tasks/FF/B0304B.html) | List and state the purpose of commonly used fire fighting appliances | {% course ST-0999D%}|
 | 21. | [3.5.A]({{ site.baseurl }}/tasks/FF/B0305A.html) | Describe the objectives of the two strategies of fire fighting | {% course ST-0999D%}|
 | 22. | [3.6.A]({{ site.baseurl }}/tasks/FF/B0306A.html) | List the various fire fighting agents and state how they extinguish fire | {% course FF-0102%}|
-| 23. | [3.7.A]({{ site.baseurl }}/tasks/FF/B0307A.html) | Utilize the appropriate extinguisher and demonstrate correct firefighting procedures | [FF‑2PFE](FF-2PFE) in {% course FF-0102 %} |
-| 24. | [3.8.A]({{ site.baseurl }}/tasks/FF/B0308A.html) | Demonstrate the donning methods for self-contained breathing apparatus | [FF‑2SBA](FF-2SBA) in {% course FF-0102 %} |
-| 25. | [3.8.B]({{ site.baseurl }}/tasks/FF/B0308B.html) | Demonstrate breathing apparatus use | [FF‑2SBA](FF-2SBA) in {% course FF-0102 %} |
-| 26. | [3.8.C]({{ site.baseurl }}/tasks/FF/B0308C.html) | Demonstrate the proper hose team leader procedures | [FF‑4SF](FF-4SF) in {% course FF-0104 %} <br/>[FF‑6SRF](FF-6SRF) in {% course FF-0106 %} |
-| 27. | [3.8.D]({{ site.baseurl }}/tasks/FF/B0308D.html) | Demonstrate the proper procedures for effecting a rescue ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8SAR](FF-8SAR) in {% course FF-0108 %} |
+| 23. | [3.7.A]({{ site.baseurl }}/tasks/FF/B0307A.html) | Utilize the appropriate extinguisher and demonstrate correct firefighting procedures | [FF‑2PFE]({{site.baseurl}}/assessments/Common/FF-2PFE) in {% course FF-0102 %} |
+| 24. | [3.8.A]({{ site.baseurl }}/tasks/FF/B0308A.html) | Demonstrate the donning methods for self-contained breathing apparatus | [FF‑2SBA]({{site.baseurl}}/assessments/Common/FF-2SBA) in {% course FF-0102 %} |
+| 25. | [3.8.B]({{ site.baseurl }}/tasks/FF/B0308B.html) | Demonstrate breathing apparatus use | [FF‑2SBA]({{site.baseurl}}/assessments/Common/FF-2SBA) in {% course FF-0102 %} |
+| 26. | [3.8.C]({{ site.baseurl }}/tasks/FF/B0308C.html) | Demonstrate the proper hose team leader procedures | [FF‑4SF]({{site.baseurl}}/assessments/Common/FF-4SF) in {% course FF-0104 %} <br/>[FF‑6SRF]({{site.baseurl}}/assessments/Common/FF-6SRF) in {% course FF-0106 %} |
+| 27. | [3.8.D]({{ site.baseurl }}/tasks/FF/B0308D.html) | Demonstrate the proper procedures for effecting a rescue ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8SAR]({{site.baseurl}}/assessments/Common/FF-8SAR) in {% course FF-0108 %} |
 
 
 subtitle:  elementary first aid
@@ -97,15 +97,15 @@ subtitle:  elementary first aid
 | 7. | [4.3.A]({{ site.baseurl }}/tasks/EFA/B0403A.html) | List the reasons for not changing the position of a patient | {% course PE-0031%}|
 | 8. | [4.3.B]({{ site.baseurl }}/tasks/EFA/B0403B.html) | List the reasons for positioning a patient | {% course PE-0031%}|
 | 9. | [4.4.A]({{ site.baseurl }}/tasks/EFA/B0404A.html) | Determine whether resuscitation is required | {% course PE-0031%}|
-| 10. | [4.4.B]({{ site.baseurl }}/tasks/EFA/B0404B.html) | Demonstrate opening of the airway and checking for breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4B](EFA-4B4B) in {% course PE-0031 %} |
+| 10. | [4.4.B]({{ site.baseurl }}/tasks/EFA/B0404B.html) | Demonstrate opening of the airway and checking for breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4B]({{site.baseurl}}/assessments/Common/EFA-4B4B) in {% course PE-0031 %} |
 | 11. | [4.4.C]({{ site.baseurl }}/tasks/EFA/B0404C.html) | List the proper procedures for two-person CPR | {% course PE-0031%}|
-| 12. | [4.4.D]({{ site.baseurl }}/tasks/EFA/B0404D.html) | Demonstrate action for an unresponsive person who is not breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4D](EFA-4B4D) in {% course PE-0031 %} |
-| 13. | [4.4.E]({{ site.baseurl }}/tasks/EFA/B0404E.html) | Demonstrate the procedure for determining if a patient has a pulse ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4E](EFA-4B4E) in {% course PE-0031 %} |
-| 14. | [4.4.F]({{ site.baseurl }}/tasks/EFA/B0404F.html) | Demonstrate proper hand placements for chest compressions ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4F](EFA-4B4F) in {% course PE-0031 %} |
-| 15. | [4.4.G]({{ site.baseurl }}/tasks/EFA/B0404G.html) | Demonstrate proper CPR compressions for two minutes ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4F](EFA-4B4F) in {% course PE-0031 %} |
-| 16. | [4.4.H]({{ site.baseurl }}/tasks/EFA/B0404H.html) | Demonstrate actions for a conscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4H](EFA-4B4H) in {% course PE-0031 %} |
-| 17. | [4.4.I]({{ site.baseurl }}/tasks/EFA/B0404I.html) | Demonstrate actions for an unconscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4I](EFA-4B4I) in {% course PE-0031 %} |
-| 18. | [4.5.A]({{ site.baseurl }}/tasks/EFA/B0405A.html) | Demonstrate proper bleeding control techniques ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B5A](EFA-4B5A) in {% course PE-0031 %} |
+| 12. | [4.4.D]({{ site.baseurl }}/tasks/EFA/B0404D.html) | Demonstrate action for an unresponsive person who is not breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4D]({{site.baseurl}}/assessments/Common/EFA-4B4D) in {% course PE-0031 %} |
+| 13. | [4.4.E]({{ site.baseurl }}/tasks/EFA/B0404E.html) | Demonstrate the procedure for determining if a patient has a pulse ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4E]({{site.baseurl}}/assessments/Common/EFA-4B4E) in {% course PE-0031 %} |
+| 14. | [4.4.F]({{ site.baseurl }}/tasks/EFA/B0404F.html) | Demonstrate proper hand placements for chest compressions ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4F]({{site.baseurl}}/assessments/Common/EFA-4B4F) in {% course PE-0031 %} |
+| 15. | [4.4.G]({{ site.baseurl }}/tasks/EFA/B0404G.html) | Demonstrate proper CPR compressions for two minutes ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4F]({{site.baseurl}}/assessments/Common/EFA-4B4F) in {% course PE-0031 %} |
+| 16. | [4.4.H]({{ site.baseurl }}/tasks/EFA/B0404H.html) | Demonstrate actions for a conscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4H]({{site.baseurl}}/assessments/Common/EFA-4B4H) in {% course PE-0031 %} |
+| 17. | [4.4.I]({{ site.baseurl }}/tasks/EFA/B0404I.html) | Demonstrate actions for an unconscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B4I]({{site.baseurl}}/assessments/Common/EFA-4B4I) in {% course PE-0031 %} |
+| 18. | [4.5.A]({{ site.baseurl }}/tasks/EFA/B0405A.html) | Demonstrate proper bleeding control techniques ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B5A]({{site.baseurl}}/assessments/Common/EFA-4B5A) in {% course PE-0031 %} |
 | 19. | [4.6.A]({{ site.baseurl }}/tasks/EFA/B0406A.html) | Identify the signs and symptoms of shock development | {% course PE-0031%}|
 | 20. | [4.6.B]({{ site.baseurl }}/tasks/EFA/B0406B.html) | Describe the position for a patient in shock (no spinal injury) | {% course PE-0031%}|
 | 21. | [4.7.A]({{ site.baseurl }}/tasks/EFA/B0407A.html) | Identify the kinds of burns that can occur | {% course PE-0031%}|
@@ -113,9 +113,9 @@ subtitle:  elementary first aid
 | 23. | [4.7.C]({{ site.baseurl }}/tasks/EFA/B0407C.html) | Identify the means of reducing the possibility of infection | {% course PE-0031%}|
 | 24. | [4.8.A]({{ site.baseurl }}/tasks/EFA/B0408A.html) | State the circumstances when the victim should not be moved | {% course PE-0031%}|
 | 25. | [4.8.B]({{ site.baseurl }}/tasks/EFA/B0408B.html) | List circumstances when a victim should be moved from the scene | {% course PE-0031%}|
-| 26. | [4.8.C]({{ site.baseurl }}/tasks/EFA/B0408C.html) | Demonstrate immobilizing a fracture using splints and ties ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B8C](EFA-4B8C) in {% course PE-0031 %} |
-| 27. | [4.8.D]({{ site.baseurl }}/tasks/EFA/B0408D.html) | Demonstrate preparing patient for spinal immobilization ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B8D](EFA-4B8D) in {% course PE-0031 %} |
-| 28. | [4.9.A]({{ site.baseurl }}/tasks/EFA/B0409A.html) | Demonstrate bandaging technique for wound treatment ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B9A](EFA-4B9A) in {% course PE-0031 %} |
+| 26. | [4.8.C]({{ site.baseurl }}/tasks/EFA/B0408C.html) | Demonstrate immobilizing a fracture using splints and ties ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B8C]({{site.baseurl}}/assessments/Common/EFA-4B8C) in {% course PE-0031 %} |
+| 27. | [4.8.D]({{ site.baseurl }}/tasks/EFA/B0408D.html) | Demonstrate preparing patient for spinal immobilization ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B8D]({{site.baseurl}}/assessments/Common/EFA-4B8D) in {% course PE-0031 %} |
+| 28. | [4.9.A]({{ site.baseurl }}/tasks/EFA/B0409A.html) | Demonstrate bandaging technique for wound treatment ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B9A]({{site.baseurl}}/assessments/Common/EFA-4B9A) in {% course PE-0031 %} |
 
 
 subtitle:  personal safety and social responsibility
@@ -184,11 +184,11 @@ subtitle:  survival craft and rescue boats other than fast rescue boats
 | 17. | [1.7.E]({{ site.baseurl }}/tasks/SCRB/C0107E.html) | Operate a rescue boat during recovery | {% course MT-1111%}|
 | 18. | [1.8.A]({{ site.baseurl }}/tasks/SCRB/C0108A.html) | On-load release devices | {% course MT-1111%}|
 | 19. | [1.9.A]({{ site.baseurl }}/tasks/SCRB/C0109A.html) | Survival craft maintenance | {% course MT-1111%}|
-| 20. | [2.1.A]({{ site.baseurl }}/tasks/SCRB/C0201A.html) | Start and operate a lifeboat engine | [SCRB‑3](SCRB-3) in {% course LB-0201 %} <br/>{% course LB-0201%}|
-| 21. | [2.1.B]({{ site.baseurl }}/tasks/SCRB/C0201B.html) | Start and operate a rescue boat engine | [SCRB‑3](SCRB-3) in {% course LB-0201 %} <br/>{% course LB-0201%}|
-| 22. | [3.1.A]({{ site.baseurl }}/tasks/SCRB/C0301A.html) | Command lifeboat operation | [SCRB‑2](SCRB-2) in {% course LB-0201 %} <br/>{% course LB-0201%}|
-| 23. | [3.1.B]({{ site.baseurl }}/tasks/SCRB/C0301B.html) | Handle a lifeboat under oars | [SCRB‑4](SCRB-4) in {% course LB-0201 %} <br/>{% course LB-0201%}|
-| 24. | [3.2.A]({{ site.baseurl }}/tasks/SCRB/C0302A.html) | Use lifeboat equipment | [PS‑8](PS-8) in {% course LB-0201 %} <br/>{% course MT-1111%}|
+| 20. | [2.1.A]({{ site.baseurl }}/tasks/SCRB/C0201A.html) | Start and operate a lifeboat engine | [SCRB‑3]({{site.baseurl}}/assessments/Common/SCRB-3) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 21. | [2.1.B]({{ site.baseurl }}/tasks/SCRB/C0201B.html) | Start and operate a rescue boat engine | [SCRB‑3]({{site.baseurl}}/assessments/Common/SCRB-3) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 22. | [3.1.A]({{ site.baseurl }}/tasks/SCRB/C0301A.html) | Command lifeboat operation | [SCRB‑2]({{site.baseurl}}/assessments/Common/SCRB-2) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 23. | [3.1.B]({{ site.baseurl }}/tasks/SCRB/C0301B.html) | Handle a lifeboat under oars | [SCRB‑4]({{site.baseurl}}/assessments/Common/SCRB-4) in {% course LB-0201 %} <br/>{% course LB-0201%}|
+| 24. | [3.2.A]({{ site.baseurl }}/tasks/SCRB/C0302A.html) | Use lifeboat equipment | [PS‑8]({{site.baseurl}}/assessments/Common/PS-8) in {% course LB-0201 %} <br/>{% course MT-1111%}|
 | 25. | [3.3.A]({{ site.baseurl }}/tasks/SCRB/C0303A.html) | Apportionment of food and water | {% course MT-1111%}|
 | 26. | [3.4.A]({{ site.baseurl }}/tasks/SCRB/C0304A.html) | Rigging radar reflector and SART | {% course LB-0201%}<br/>{% course MT-1111%}|
 | 27. | [3.5.A]({{ site.baseurl }}/tasks/SCRB/C0305A.html) | Helicopter rescue from a rescue boat or lifeboat | {% course MT-1111%}|
@@ -211,13 +211,13 @@ subtitle:  advanced fire fighting
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
-| 1. | [1.1.A]({{ site.baseurl }}/tasks/AFF/F0101A.html) | Take initial action upon indication of fire to alert parties and dispatch equipment ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8ERF](FF-8ERF) in {% course FF-0108 %} <br/>{% course FF-0108%}|
-| 2. | [1.1.B]({{ site.baseurl }}/tasks/AFF/F0101B.html) | Make initial assessment of the fire and determine courses of action ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8ERF](FF-8ERF) in {% course FF-0108 %} <br/>{% course FF-0108%}|
-| 3. | [1.2.A]({{ site.baseurl }}/tasks/AFF/F0102A.html) | Respond to an engine room, cargo hold, or service space fire ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8ERF](FF-8ERF) in {% course FF-0108 %} <br/>{% course FF-0108%}|
+| 1. | [1.1.A]({{ site.baseurl }}/tasks/AFF/F0101A.html) | Take initial action upon indication of fire to alert parties and dispatch equipment ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8ERF]({{site.baseurl}}/assessments/Common/FF-8ERF) in {% course FF-0108 %} <br/>{% course FF-0108%}|
+| 2. | [1.1.B]({{ site.baseurl }}/tasks/AFF/F0101B.html) | Make initial assessment of the fire and determine courses of action ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8ERF]({{site.baseurl}}/assessments/Common/FF-8ERF) in {% course FF-0108 %} <br/>{% course FF-0108%}|
+| 3. | [1.2.A]({{ site.baseurl }}/tasks/AFF/F0102A.html) | Respond to an engine room, cargo hold, or service space fire ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8ERF]({{site.baseurl}}/assessments/Common/FF-8ERF) in {% course FF-0108 %} <br/>{% course FF-0108%}|
 | 4. | [1.3.A]({{ site.baseurl }}/tasks/AFF/F0103A.html) | Determines the effect firefighting water on ship's stability | {% course FF-0108%}|
-| 5. | [1.4.A]({{ site.baseurl }}/tasks/AFF/F0104A.html) | Respond to a solid metal, chemical, uptake, or smoldering fire ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑4SF](FF-4SF) in {% course FF-0104 %} <br/>{% course FF-0104%}|
-| 6. | [1.5.A]({{ site.baseurl }}/tasks/AFF/F0105A.html) | Respond to a petrochemical, insulation, or unknown substance fire ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑4PCF](FF-4PCF) in {% course FF-0104 %} <br/>{% course FF-0104%}|
-| 7. | [1.6.A]({{ site.baseurl }}/tasks/AFF/F0106A.html) | Respond to a paint locker, stateroom, or cleaning gear locker fire | [FF‑6SRF](FF-6SRF) in {% course FF-0106 %} <br/>[FF‑6PLF](FF-6PLF) in {% course FF-0106 %} <br/>{% course FF-0106%}|
+| 5. | [1.4.A]({{ site.baseurl }}/tasks/AFF/F0104A.html) | Respond to a solid metal, chemical, uptake, or smoldering fire ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑4SF]({{site.baseurl}}/assessments/Common/FF-4SF) in {% course FF-0104 %} <br/>{% course FF-0104%}|
+| 6. | [1.5.A]({{ site.baseurl }}/tasks/AFF/F0105A.html) | Respond to a petrochemical, insulation, or unknown substance fire ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑4PCF]({{site.baseurl}}/assessments/Common/FF-4PCF) in {% course FF-0104 %} <br/>{% course FF-0104%}|
+| 7. | [1.6.A]({{ site.baseurl }}/tasks/AFF/F0106A.html) | Respond to a paint locker, stateroom, or cleaning gear locker fire | [FF‑6SRF]({{site.baseurl}}/assessments/Common/FF-6SRF) in {% course FF-0106 %} <br/>[FF‑6PLF]({{site.baseurl}}/assessments/Common/FF-6PLF) in {% course FF-0106 %} <br/>{% course FF-0106%}|
 | 8. | [1.7.A]({{ site.baseurl }}/tasks/AFF/F0107A.html) | Coordinate with shore-based fire fighters | {% course FF-0106%}|
 | 9. | [2.1.A]({{ site.baseurl }}/tasks/AFF/F0201A.html) | Prepare contingency plans for a cargo hold, engine-room, galley, or living-space fire | {% course FF-0106%}|
 | 10. | [2.1.B]({{ site.baseurl }}/tasks/AFF/F0201B.html) | Plans, execute, and critique a fire drill | {% course FF-0106%}|
@@ -238,14 +238,14 @@ subtitle:  medical first aid
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
-| 1. | [1.1.A]({{ site.baseurl }}/tasks/MFA/M0101A.html) | Assess and treat life-threatening conditions ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M1A](MFA-1M1A) in {% course PE-0032 %} |
-| 2. | [1.1.B]({{ site.baseurl }}/tasks/MFA/M0101B.html) | Perform a detailed physical assessment ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M1B](MFA-1M1B) in {% course PE-0032 %} |
-| 3. | [1.2.A]({{ site.baseurl }}/tasks/MFA/M0102A.html) | Immobilize a victim with a spinal injury ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M2A](MFA-1M2A) in {% course PE-0032 %} |
-| 4. | [1.3.A]({{ site.baseurl }}/tasks/MFA/M0103A.html) | Immobilize and apply traction a victim with a broken femur ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M3A](MFA-1M3A) in {% course PE-0032 %} |
-| 5. | [1.3.B]({{ site.baseurl }}/tasks/MFA/M0103B.html) | Immobilize a long bone fracture ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M3B](MFA-1M3B) in {% course PE-0032 %} |
-| 6. | [1.4.A]({{ site.baseurl }}/tasks/MFA/M0104A.html) | Perform CPR ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4A](MFA-1M4A) in {% course PE-0032 %} |
-| 7. | [1.4.B]({{ site.baseurl }}/tasks/MFA/M0104B.html) | Use a AED ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4B](MFA-1M4B) in {% course PE-0032 %} |
-| 8. | [1.4.C]({{ site.baseurl }}/tasks/MFA/M0104C.html) | Manage obstructed airway in a conscious victim ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4C](MFA-1M4C) in {% course PE-0032 %} |
-| 9. | [1.4.D]({{ site.baseurl }}/tasks/MFA/M0104D.html) | Manage obstructed airway in an unconscious victim ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4D](MFA-1M4D) in {% course PE-0032 %} |
+| 1. | [1.1.A]({{ site.baseurl }}/tasks/MFA/M0101A.html) | Assess and treat life-threatening conditions ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M1A]({{site.baseurl}}/assessments/Common/MFA-1M1A) in {% course PE-0032 %} |
+| 2. | [1.1.B]({{ site.baseurl }}/tasks/MFA/M0101B.html) | Perform a detailed physical assessment ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M1B]({{site.baseurl}}/assessments/Common/MFA-1M1B) in {% course PE-0032 %} |
+| 3. | [1.2.A]({{ site.baseurl }}/tasks/MFA/M0102A.html) | Immobilize a victim with a spinal injury ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M2A]({{site.baseurl}}/assessments/Common/MFA-1M2A) in {% course PE-0032 %} |
+| 4. | [1.3.A]({{ site.baseurl }}/tasks/MFA/M0103A.html) | Immobilize and apply traction a victim with a broken femur ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M3A]({{site.baseurl}}/assessments/Common/MFA-1M3A) in {% course PE-0032 %} |
+| 5. | [1.3.B]({{ site.baseurl }}/tasks/MFA/M0103B.html) | Immobilize a long bone fracture ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M3B]({{site.baseurl}}/assessments/Common/MFA-1M3B) in {% course PE-0032 %} |
+| 6. | [1.4.A]({{ site.baseurl }}/tasks/MFA/M0104A.html) | Perform CPR ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4A]({{site.baseurl}}/assessments/Common/MFA-1M4A) in {% course PE-0032 %} |
+| 7. | [1.4.B]({{ site.baseurl }}/tasks/MFA/M0104B.html) | Use a AED ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4B]({{site.baseurl}}/assessments/Common/MFA-1M4B) in {% course PE-0032 %} |
+| 8. | [1.4.C]({{ site.baseurl }}/tasks/MFA/M0104C.html) | Manage obstructed airway in a conscious victim ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4C]({{site.baseurl}}/assessments/Common/MFA-1M4C) in {% course PE-0032 %} |
+| 9. | [1.4.D]({{ site.baseurl }}/tasks/MFA/M0104D.html) | Manage obstructed airway in an unconscious victim ![]({{site.baseurl}}/assets/images/new.jpg)  | [MFA‑1M4D]({{site.baseurl}}/assessments/Common/MFA-1M4D) in {% course PE-0032 %} |
 
 

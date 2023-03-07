@@ -27,7 +27,7 @@ title:  Centrifugal pump maintenance (mechanical seal)
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) and [Lock-out](guidelines#lockouttagout) the split case centrifugal pump
+{% do Secure, secure %} and {% do Lock-out, lockouttagout %} the split case centrifugal pump
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Centrifugal pump maintenance (mechanical seal)
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) the pump
+{% do Disassemble, disassemble %} the pump
 
 <!--cellbreak-->
 
@@ -49,7 +49,7 @@ follow disassembly procedure in the laboratory manual
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) all parts for wear and deterioration
+{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ Check the following:
 
 <!--rowstart-->
 
-[Repair](guidelines#repair) centrifugal pump
+{% do Repair, repair %} centrifugal pump
 
 * replace mechanical seal 
 * lubricate grease lubricated
@@ -81,7 +81,7 @@ Check the following:
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) centrifugal pump
+{% do Reassemble, reassemble %} centrifugal pump
 
 <!--cellbreak-->
 
@@ -94,7 +94,7 @@ Adjust seals/gaskets as necessary
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) centrifugal pump
+{% do Test, evaluateinspecttest %} centrifugal pump
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Respond to engine room alarms
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) the simulated plant
+{% do Monitor, monitor %} the simulated plant
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Respond to engine room alarms
 
 <!--rowstart-->
 
-[Respond](guidelines#respondtoalarm) to alarms such as:
+{% do Respond, respondtoalarm %} to alarms such as:
 
 * high or low boiler water level
 * high or low steam pressure

@@ -31,17 +31,17 @@ subtitle:  able seafarer deck
 | 20. | [4.4.B]({{ site.baseurl }}/tasks/ABD/J0404B.html) | Describe use and maintenance of synthetic lines | {% course MT-1111%}|
 | 21. | [4.4.C]({{ site.baseurl }}/tasks/ABD/J0404C.html) | Describe use and maintenance of wire rope | {% course MT-1111%}|
 | 22. | [4.4.D]({{ site.baseurl }}/tasks/ABD/J0404D.html) | Describe use and maintenance of chain | {% course MT-1111%}|
-| 23. | [4.5.A]({{ site.baseurl }}/tasks/ABD/J0405A.html) | Demonstrate basic signals for operation of equipment, including winches, windlasses, cranes, and hoists | [ABDE‑DE‑1](ABDE-DE-1) in {% course ST-0999D %} |
+| 23. | [4.5.A]({{ site.baseurl }}/tasks/ABD/J0405A.html) | Demonstrate basic signals for operation of equipment, including winches, windlasses, cranes, and hoists | [ABDE‑DE‑1]({{site.baseurl}}/assessments/Common/ABDE-DE-1) in {% course ST-0999D %} |
 | 24. | [4.6.A]({{ site.baseurl }}/tasks/ABD/J0406A.html) | Demonstrate use of anchoring equipment | {% course MT-4132%}|
 | 25. | [4.6.B]({{ site.baseurl }}/tasks/ABD/J0406B.html) | Describe anchor chain markings | {% course MT-4132%}|
 | 26. | [4.6.C]({{ site.baseurl }}/tasks/ABD/J0406C.html) | Describe emergency anchoring procedures | {% course MT-4132%}|
-| 27. | [4.7.A]({{ site.baseurl }}/tasks/ABD/J0407A.html) | Demonstrate rigging and unrigging a bosun's chair ![]({{site.baseurl}}/assets/images/new.jpg)  | [ABD‑4J7A](ABD-4J7A) in {% course MT-2231 %} <br/>{% course MT-2231%}|
+| 27. | [4.7.A]({{ site.baseurl }}/tasks/ABD/J0407A.html) | Demonstrate rigging and unrigging a bosun's chair ![]({{site.baseurl}}/assets/images/new.jpg)  | [ABD‑4J7A]({{site.baseurl}}/assessments/Deck/ABD-4J7A) in {% course MT-2231 %} <br/>{% course MT-2231%}|
 | 28. | [4.8.A]({{ site.baseurl }}/tasks/ABD/J0408A.html) | Describe rigging and unrigging pilot ladder | {% course MT-2231%}|
 | 29. | [4.8.B]({{ site.baseurl }}/tasks/ABD/J0408B.html) | Describe rigging and unrigging rat guards | {% course MT-2231%}|
 | 30. | [4.8.C]({{ site.baseurl }}/tasks/ABD/J0408C.html) | Demonstrate rigging and unrigging a gangway | {% course MT-2231%}|
-| 31. | [4.9.A]({{ site.baseurl }}/tasks/ABD/J0409A.html) | Demonstrate marlinspike seamanship | [ABD‑4J9A1](ABD-4J9A1) in {% course MT-1111 %} <br/>[ABD‑4J9A2](ABD-4J9A2) in {% course MT-2231 %} <br/>[ABD‑4J9A3](ABD-4J9A3) in {% course MT-2231 %} |
+| 31. | [4.9.A]({{ site.baseurl }}/tasks/ABD/J0409A.html) | Demonstrate marlinspike seamanship | [ABD‑4J9A1]({{site.baseurl}}/assessments/Deck/ABD-4J9A1) in {% course MT-1111 %} <br/>[ABD‑4J9A2]({{site.baseurl}}/assessments/Deck/ABD-4J9A2) in {% course MT-2231 %} <br/>[ABD‑4J9A3]({{site.baseurl}}/assessments/Deck/ABD-4J9A3) in {% course MT-2231 %} |
 | 32. | [4.10.A]({{ site.baseurl }}/tasks/ABD/J0410A.html) | Demonstrate use of cargo-handling gear and equipment access arrangements | {% course CC-MANT%}<br/>{% course MT-2231%}<br/>{% course MT-3261%}|
-| 33. | [4.11.A]({{ site.baseurl }}/tasks/ABD/J0411A.html) | Trace out and describe a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | [ADB‑4J11A](ADB-4J11A) in {% course MT-4253 %} |
+| 33. | [4.11.A]({{ site.baseurl }}/tasks/ABD/J0411A.html) | Trace out and describe a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | [ADB‑4J11A]({{site.baseurl}}/assessments/Deck/ADB-4J11A) in {% course MT-4253 %} |
 | 34. | [4.12.A]({{ site.baseurl }}/tasks/ABD/J0412A.html) | Demonstrate use of cargo and equipment handling gear | {% course MT-3261%}|
 | 35. | [4.13.A]({{ site.baseurl }}/tasks/ABD/J0413A.html) | Identify single letter flags and describe hoisting procedures | {% course MT-3221%}|
 | 36. | [5.1.A]({{ site.baseurl }}/tasks/ABD/J0501A.html) | Demonstrate working aloft | {% course ST-0999D%}|
@@ -62,7 +62,7 @@ subtitle:  able seafarer deck
 | 51. | [5.8.A]({{ site.baseurl }}/tasks/ABD/J0508A.html) | Describe mechanical equipment safety procedures | {% course EN-1112%}|
 | 52. | [5.9.A]({{ site.baseurl }}/tasks/ABD/J0509A.html) | Simulate response to hazardous material spill | {% course EN-1112%}|
 | 53. | [5.10.A]({{ site.baseurl }}/tasks/ABD/J0510A.html) | Demonstrate use of PPE | {% course EN-1112%}|
-| 54. | [5.10.B]({{ site.baseurl }}/tasks/ABD/J0510B.html) | Demonstrate use of a safety harness ![]({{site.baseurl}}/assets/images/new.jpg)  | [ABD‑5J10B](ABD-5J10B) in {% course ST-0999D %} |
+| 54. | [5.10.B]({{ site.baseurl }}/tasks/ABD/J0510B.html) | Demonstrate use of a safety harness ![]({{site.baseurl}}/assets/images/new.jpg)  | [ABD‑5J10B]({{site.baseurl}}/assessments/Deck/ABD-5J10B) in {% course ST-0999D %} |
 | 55. | [6.1.A]({{ site.baseurl }}/tasks/ABD/J0601A.html) | Describe sources of operational pollution | {% course ST-0999D%}|
 | 56. | [6.1.B]({{ site.baseurl }}/tasks/ABD/J0601B.html) | Describe pollution prevention procedures | {% course ST-0999D%}|
 | 57. | [6.2.A]({{ site.baseurl }}/tasks/ABD/J0602A.html) | Describe use of anti-pollution equipment | {% course ST-0999D%}|

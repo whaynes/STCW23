@@ -27,7 +27,7 @@ title:  Start and secure air compressor
 
 <!--rowstart-->
 
-[Check](guidelines#check) unit for readiness to start
+{% do Check, check %} unit for readiness to start
 
 <!--cellbreak-->
 
@@ -44,7 +44,7 @@ On water cooled units, verify coolant flow
 
 <!--rowstart-->
 
-[Line-up](guidelines#lineup) compressor
+{% do Line-up, lineup %} compressor
 
 <!--cellbreak-->
 
@@ -55,7 +55,7 @@ Verify compressor discharge valve is open
 
 <!--rowstart-->
 
-[Start](guidelines#start) compressor
+{% do Start, start %} compressor
 
 <!--cellbreak-->
 
@@ -68,7 +68,7 @@ verify control set to automatic
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) operation of air compressor
+{% do Monitor, monitor %} operation of air compressor
 
 <!--cellbreak-->
 
@@ -81,7 +81,7 @@ Verify operation of cut-in and cut-out switches
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the air compressor
+{% do Secure, secure %} the air compressor
 
 <!--cellbreak-->
 

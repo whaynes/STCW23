@@ -27,7 +27,7 @@ title:  Cut a circular hole using oxyacetylene process
 
 <!--rowstart-->
 
-[Use Tools](guidelines#usetools) to cut a circular hole using oxy-fuel process
+{% do Use Tools, usetools %} to cut a circular hole using oxy-fuel process
 
 <!--cellbreak-->
 

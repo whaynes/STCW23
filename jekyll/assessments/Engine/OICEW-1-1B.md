@@ -27,8 +27,7 @@ title:  Form two steel plates using brazing process
 
 <!--rowstart-->
 
-[Use Tools](guidelines#usetools) to perform brazing process
- 
+{% do Use Tools, usetools %} to perform brazing process 
 
 <!--cellbreak-->
 

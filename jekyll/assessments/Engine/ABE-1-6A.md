@@ -27,7 +27,7 @@ title:  Assist with fuel oil transfer
 
 <!--rowstart-->
 
-as part of a team, [Plan](guidelines#plan)  a fuel transfer operation
+as part of a team, {% do Plan, plan %}  a fuel transfer operation
 
 
 <!--cellbreak-->
@@ -58,7 +58,7 @@ transfer fuel
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) from fuel transfer operations
+{% do Secure, secure %} from fuel transfer operations
 
 <!--cellbreak-->
 

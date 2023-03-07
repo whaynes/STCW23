@@ -27,7 +27,7 @@ title:  Troubleshoot electrical motor control system
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) circuit
+{% do Inspect, evaluateinspecttest %} circuit
 
 <!--cellbreak-->
 
@@ -40,7 +40,7 @@ Note symptoms of faulty operation
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) possible causes of observed symptoms
+{% do Identify, identify %} possible causes of observed symptoms
 
 <!--cellbreak-->
 
@@ -51,7 +51,7 @@ Note symptoms of faulty operation
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) controller circuits to locate faults
+{% do Test, evaluateinspecttest %} controller circuits to locate faults
 
 <!--cellbreak-->
 
@@ -62,7 +62,7 @@ Use meters to systematically discover cause of fault
 
 <!--rowstart-->
 
-[Repair](guidelines#repair) system to clear fault and restore normal operation
+{% do Repair, repair %} system to clear fault and restore normal operation
 
 <!--cellbreak-->
 

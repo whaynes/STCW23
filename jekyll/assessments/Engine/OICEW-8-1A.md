@@ -27,7 +27,7 @@ title:  Lathe project
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) and [Use the lathe](guidelines#usetools) to produce a project in accordance with attached drawing
+{% do Plan, plan %} and {% do Use the lathe, usetools %} to produce a project in accordance with attached drawing
 
 <!--cellbreak-->
 

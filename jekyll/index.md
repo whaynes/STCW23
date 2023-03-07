@@ -1,7 +1,7 @@
 ---
 layout: page
-title: STCW Tables
-subtitle:  MMA STCW Program 2024
+subtitle: STCW Tables
+title:  MMA STCW Program 2024
 ---
 
 

@@ -27,7 +27,7 @@ title:  Operate fire pump
 
 <!--rowstart-->
 
-[Identify](guidelines#identify) fire pumps and associated controls available in machinery spaces
+{% do Identify, identify %} fire pumps and associated controls available in machinery spaces
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Identify control switches
 
 <!--rowstart-->
 
-[Line-up](guidelines#lineup) and [Start](guidelines#start) a fire pump
+{% do Line-up, lineup %} and {% do Start, start %} a fire pump
 
 <!--cellbreak-->
 
@@ -55,7 +55,7 @@ Start with discharge valve closed
 
 <!--rowstart-->
 
-[Monitor](guidelines#monitor) the fire pump
+{% do Monitor, monitor %} the fire pump
 
 <!--cellbreak-->
 
@@ -66,7 +66,7 @@ Monitor discharge pressure
 
 <!--rowstart-->
 
-[Secure](guidelines#secure) the fire pump
+{% do Secure, secure %} the fire pump
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Inspect valve manifold
 
 <!--rowstart-->
 
-[Lockout/tagout](guidelines#lockouttagout) valve manifold
+{% do Lockout/tagout, lockouttagout %} valve manifold
 
 <!--cellbreak-->
 
@@ -42,7 +42,7 @@ Relieve pressure and drain section
 
 <!--rowstart-->
 
-[Use tools](guidelines#usetools) to open up piping for inspection
+{% do Use tools, usetools %} to open up piping for inspection
 
 <!--cellbreak-->
 
@@ -57,7 +57,7 @@ Use:
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) and [Clean](guidelines#clean) pipe and manifold
+{% do Inspect, evaluateinspecttest %} and {% do Clean, clean %} pipe and manifold
 
 <!--cellbreak-->
 
@@ -72,7 +72,7 @@ Clean and prepare joints for reassembly
 
 <!--rowstart-->
 
-[Use tools](guidelines#usetools) and proper joint materials to close up piping system
+{% do Use tools, usetools %} and proper joint materials to close up piping system
 
 <!--cellbreak-->
 
@@ -89,7 +89,7 @@ Use:
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) system to identify leaks
+{% do Test, evaluateinspecttest %} system to identify leaks
 
 <!--cellbreak-->
 

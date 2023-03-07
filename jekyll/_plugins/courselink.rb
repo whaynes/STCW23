@@ -42,17 +42,22 @@ module Jekyll
   end
   
   
-  class Null < Liquid::Tag
+  class GuideLink < Liquid::Tag
   
   def initialize(tag_name, text, tokens)
       super
-      @text = text.strip
+      @text = text.split(",")
     end
 
     def render(liquid_context)
        site = liquid_context.registers[:site]
        baseurl = site.config['baseurl']
-      puts "(==#{site.baseurl}/#{@text}==)"
+       linktext = @text[0].strip
+       anchor = @text[1]
+       if anchor == nil
+       		anchor = linktext.gsub(/\s+\/\)\(/,'')
+       	end
+        "[#{linktext}](#{site.baseurl}/content/guidelines.html##{anchor.strip})"
     end
   end
 end
@@ -60,3 +65,4 @@ end
 Liquid::Template.register_tag('course', Jekyll::CourseLink)
 Liquid::Template.register_tag('practical', Jekyll::PracticalLink)
 Liquid::Template.register_tag('table', Jekyll::TableLink)
+Liquid::Template.register_tag('do', Jekyll::GuideLink)

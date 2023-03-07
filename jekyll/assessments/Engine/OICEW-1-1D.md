@@ -27,7 +27,7 @@ title:  Sweat joint
 
 <!--rowstart-->
 
-[Plan](guidelines#plan) fabrication of sweat joint fitting
+{% do Plan, plan %} fabrication of sweat joint fitting
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Sweat joint
 
 <!--rowstart-->
 
-[Use tools](guidelines#usetools) to [Fabricate](guidelines#fabricate) sweat joint fitting
+{% do Use tools, usetools %} to {% do Fabricate, fabricate %} sweat joint fitting
 
 <!--cellbreak-->
 
@@ -56,7 +56,7 @@ Prepare joint by cleaning and fluxing
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) joint for tightness
+{% do Test, evaluateinspecttest %} joint for tightness
 
 <!--cellbreak-->
 

@@ -27,7 +27,7 @@ title:  Reciprocating pump maintenance
 
 <!--rowstart-->
 
-[Disassemble](guidelines#disassemble) reciprocating pump
+{% do Disassemble, disassemble %} reciprocating pump
 
 <!--cellbreak-->
 
@@ -38,7 +38,7 @@ title:  Reciprocating pump maintenance
 
 <!--rowstart-->
 
-[Inspect](guidelines#evaluateinspecttest) all parts for wear and deterioration
+{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
 
 <!--cellbreak-->
 
@@ -54,7 +54,7 @@ Check the following:
 
 <!--rowstart-->
 
-[Repair](guidelines#repair) reciprocating pump
+{% do Repair, repair %} reciprocating pump
 
 <!--cellbreak-->
 
@@ -65,7 +65,7 @@ Replace parts as necessary to bring pump to manufacturers specifications
 
 <!--rowstart-->
 
-[Reassemble](guidelines#reassemble) reciprocating pump
+{% do Reassemble, reassemble %} reciprocating pump
 
 <!--cellbreak-->
 
@@ -78,7 +78,7 @@ Adjust valve tappets for proper operation
 
 <!--rowstart-->
 
-[Test](guidelines#evaluateinspecttest) reciprocating pump
+{% do Test, evaluateinspecttest %} reciprocating pump
 
 <!--cellbreak-->
 
