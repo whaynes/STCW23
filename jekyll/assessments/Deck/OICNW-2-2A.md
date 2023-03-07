@@ -69,7 +69,6 @@ Properly hand over a RFPNW port watch in accordance with the ordinary practice o
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

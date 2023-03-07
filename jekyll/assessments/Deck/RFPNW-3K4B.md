@@ -46,7 +46,6 @@ hand over the helm in accordance with the ordinary practice of good seamanship.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -42,7 +42,6 @@ demonstrate the proper use of a safety harness.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

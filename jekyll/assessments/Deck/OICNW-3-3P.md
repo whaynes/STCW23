@@ -39,7 +39,6 @@ Demonstrate loading route and activating route within 45 seconds.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

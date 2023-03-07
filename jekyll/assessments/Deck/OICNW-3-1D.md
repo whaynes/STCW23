@@ -41,7 +41,6 @@ Determine the range and bearing to an object.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

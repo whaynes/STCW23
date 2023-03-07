@@ -39,7 +39,6 @@ Demonstrate selecting and displaying tidal reference data within 5 minutes.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

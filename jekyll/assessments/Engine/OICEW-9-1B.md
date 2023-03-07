@@ -83,9 +83,9 @@ State requirements for overboard discharge of waste
  </tbody>
  </table>
 
-{{ "
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

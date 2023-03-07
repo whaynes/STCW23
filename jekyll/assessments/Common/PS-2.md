@@ -45,7 +45,7 @@ title:  Don and use an immersion suit
  </tbody>
  </table>
 
-{{ "Assessment is conducted during [MT-1111](MT-1111) lab." | markdownify }}
+Assessment is conducted during [MT-1111](MT-1111) lab.
 
 
 *****

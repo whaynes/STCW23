@@ -43,7 +43,6 @@ c. stating the circumstances under which CPR may be terminated (victim revived, 
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

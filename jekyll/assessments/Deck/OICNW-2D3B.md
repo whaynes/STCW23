@@ -51,7 +51,6 @@ prepare a safe and environmentally sound voyage plan, taking into account paragr
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

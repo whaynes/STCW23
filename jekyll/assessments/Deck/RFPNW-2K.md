@@ -84,7 +84,6 @@ Report the:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

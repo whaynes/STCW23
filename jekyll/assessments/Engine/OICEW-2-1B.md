@@ -44,9 +44,9 @@ Use:
  </tbody>
  </table>
 
-{{ "<%= imageref( "picture_frame", {nosize: true}) %>
+<%= imageref( "picture_frame", {nosize: true}) %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

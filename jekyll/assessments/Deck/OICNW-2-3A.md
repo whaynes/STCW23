@@ -56,7 +56,6 @@ collect and consider:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -43,7 +43,6 @@ The candidate identified:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

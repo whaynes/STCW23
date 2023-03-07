@@ -45,7 +45,6 @@ Immediately initiate either a Williamson Turn or Anderson Turn (as appropriate f
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

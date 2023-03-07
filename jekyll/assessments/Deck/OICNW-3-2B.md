@@ -39,7 +39,6 @@ Manually acquire 10 targets within 2 minutes.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

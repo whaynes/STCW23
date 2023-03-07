@@ -39,7 +39,6 @@ The candidate correctly identifies the situation or occupation of 4 of 5 vessels
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -43,7 +43,7 @@ Turn on, test, and operate the echo sounder.
  </tbody>
  </table>
 
-{{ "or [MT-3372](mt-3372). Shall be completed by the end of [MT-4371](mt-4371)." | markdownify }}
+or [MT-3372](mt-3372). Shall be completed by the end of [MT-4371](mt-4371).
 
 
 *****

@@ -44,7 +44,6 @@ title:  Firefighting self rescue
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

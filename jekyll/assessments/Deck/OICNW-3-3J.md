@@ -39,7 +39,6 @@ Demonstrate how to load and display a saved user chart within 30 seconds.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

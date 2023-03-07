@@ -40,7 +40,6 @@ Initialize a GPS receiver, determine the ship’s position, and evaluate the acc
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

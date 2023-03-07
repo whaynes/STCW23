@@ -44,7 +44,6 @@ d. demonstrate securing the patient to a long spine board, securing the torso, t
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

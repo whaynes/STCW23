@@ -43,7 +43,6 @@ Note the vessel's magnetic compass heading while aligned on the range and determ
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

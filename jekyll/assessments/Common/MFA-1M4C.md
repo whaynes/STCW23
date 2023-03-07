@@ -45,7 +45,6 @@ c. re-assessing the victim.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -41,7 +41,7 @@ Determine the appropriate courses and distances between way points and plot the 
  </tbody>
  </table>
 
-{{ "Shall be completed by the end of [MT-4371](mt-4371)" | markdownify }}
+Shall be completed by the end of [MT-4371](mt-4371)
 
 
 *****

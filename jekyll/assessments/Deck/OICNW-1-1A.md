@@ -43,7 +43,6 @@ Remove the adjustable sextant errors
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

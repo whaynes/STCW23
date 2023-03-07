@@ -46,7 +46,6 @@ e. continuing until airway cleared.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

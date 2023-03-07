@@ -41,7 +41,6 @@ Correct five charts and three publications.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

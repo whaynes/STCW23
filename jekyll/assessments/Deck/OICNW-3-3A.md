@@ -39,7 +39,6 @@ Change depth and explain within 1 minute.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

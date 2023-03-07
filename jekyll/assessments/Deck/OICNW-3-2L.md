@@ -42,7 +42,6 @@ Establish a nav line to monitor and maintain the vessel on track.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

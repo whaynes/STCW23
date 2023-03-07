@@ -68,7 +68,6 @@ demonstrate all of the following:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

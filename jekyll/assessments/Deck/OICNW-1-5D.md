@@ -40,7 +40,6 @@ Apply the compass error to the course by magnetic compass to make good the inten
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

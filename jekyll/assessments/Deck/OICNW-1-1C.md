@@ -52,7 +52,6 @@ Plot the resultant position of the star fix within 1.5 nm of the ship's GPS posi
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

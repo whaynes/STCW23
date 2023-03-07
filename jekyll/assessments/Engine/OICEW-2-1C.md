@@ -56,10 +56,10 @@ Use:
  </tbody>
  </table>
 
-{{ "
+
 <%= imageref( "pipethread", {nosize: true}) %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

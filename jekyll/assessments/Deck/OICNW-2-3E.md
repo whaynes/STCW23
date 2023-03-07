@@ -46,7 +46,6 @@ Determine and plot the vessel’s position by electronic and visual means, commu
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

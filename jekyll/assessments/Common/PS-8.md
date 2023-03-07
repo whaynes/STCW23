@@ -44,7 +44,6 @@ Include:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

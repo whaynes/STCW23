@@ -111,9 +111,9 @@ State critical temperature limits (40° F rise or 160° F max.)
  </tbody>
  </table>
 
-{{ "
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

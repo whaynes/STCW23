@@ -42,7 +42,6 @@ Apply the rules of the road correctly and maneuver the vessel to avoid the colli
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

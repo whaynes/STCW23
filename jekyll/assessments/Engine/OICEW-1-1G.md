@@ -55,7 +55,7 @@ Identify visible defects such as:
  </tbody>
  </table>
 
-{{ "### Job Specifications [specs-oicew-1-1G]
+### Job Specifications [specs-oicew-1-1G]
 
 Test shall be conducted in accordance with _ASTM Standard E1417 Visible Dye Penetrant Procedure (Type II Method C)_ or equivalent.
 
@@ -70,7 +70,7 @@ Test shall be conducted in accordance with _ASTM Standard E1417 Visible Dye Pene
   9. Record the location, size, orientation and other features of interest of any indications produced by the inspection.
   10. Clean all specimens by rinsing off the developer.
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

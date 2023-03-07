@@ -39,7 +39,6 @@ Establish an alarm area with an outer guard ring of 8 nm and an inner guard ring
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

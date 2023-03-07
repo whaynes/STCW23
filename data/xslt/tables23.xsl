@@ -20,9 +20,9 @@
 
   <xsl:template match="RECORD">
     <xsl:text>---</xsl:text>
-    <xsl:text>&cr;title: STCW Table </xsl:text>
+    <xsl:text>&cr;subtitle: STCW Table </xsl:text>
     <xsl:value-of select="Table"/>
-    <xsl:text>&cr;subtitle: </xsl:text>
+    <xsl:text>&cr;title: </xsl:text>
     <xsl:value-of select="Tables--Table_Name"/>
     <xsl:text>&cr;---&rr;</xsl:text>
 

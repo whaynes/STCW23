@@ -52,7 +52,6 @@ The master was notified immediately when one of the following occurred.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

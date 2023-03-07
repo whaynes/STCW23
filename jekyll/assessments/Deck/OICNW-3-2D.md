@@ -39,7 +39,6 @@ Switches between true and relative vectors and changes the length of the vectors
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

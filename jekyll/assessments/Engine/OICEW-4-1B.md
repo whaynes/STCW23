@@ -68,7 +68,7 @@ Clearly indicate when watchstanding responsibility is assumed
  </tbody>
  </table>
 
-{{ "###  Pre-watch debrief
+###  Pre-watch debrief
 
 **Prior to taking over the engineering watch, relieving officers shall satisfy themselves regarding at least the following:**
 
@@ -232,7 +232,7 @@ Clearly indicate when watchstanding responsibility is assumed
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

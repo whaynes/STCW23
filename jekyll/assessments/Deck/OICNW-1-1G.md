@@ -40,7 +40,6 @@ Measure the altitude of three stars and accurately record the times of the obser
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

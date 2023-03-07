@@ -67,9 +67,9 @@ Close other valves as required
  </tbody>
  </table>
 
-{{ "
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

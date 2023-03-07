@@ -40,7 +40,6 @@ Right an inverted liferaft.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

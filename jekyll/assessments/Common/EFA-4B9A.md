@@ -46,7 +46,6 @@ select the appropriate bandage(s) and/or cravat, and demonstrate the bandaging t
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -42,7 +42,6 @@ Swim while wearing an approved Type-1 PFD
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

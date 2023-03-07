@@ -40,7 +40,6 @@ Right an inverted liferaft while wearing a lifejacket.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

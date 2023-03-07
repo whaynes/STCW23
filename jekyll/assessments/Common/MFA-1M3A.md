@@ -50,7 +50,6 @@ f. re-evaluate distal pulse and neurological status.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

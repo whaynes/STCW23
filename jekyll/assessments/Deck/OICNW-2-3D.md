@@ -45,7 +45,6 @@ Identify all vessels (targets) posing a risk or danger of collision, and provide
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

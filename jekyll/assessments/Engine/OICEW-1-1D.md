@@ -68,11 +68,11 @@ Prove joint leak free
  </tbody>
  </table>
 
-{{ "### Job Specifications
+### Job Specifications
 
 <%= imageref("copperpipe", {nosize: true} )%>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

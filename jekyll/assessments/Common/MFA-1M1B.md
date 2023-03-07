@@ -44,7 +44,6 @@ perform a detailed physical assessment (secondary survey).
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

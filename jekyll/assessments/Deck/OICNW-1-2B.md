@@ -39,7 +39,6 @@ The position is within ± 1 nm of the assessor’s position.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

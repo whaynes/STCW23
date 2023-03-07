@@ -44,7 +44,6 @@ tie these four knots within 10 minutes:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -46,7 +46,6 @@ Recognize the restricted visibility take the appropriate action to navigate in r
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

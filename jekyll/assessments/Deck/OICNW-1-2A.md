@@ -42,7 +42,6 @@ Determine the bearings of at least two charted objects and plot them.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -39,7 +39,6 @@ Display CPA/TCPA target controls and change CPA/TCPA to a limit specified by ins
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

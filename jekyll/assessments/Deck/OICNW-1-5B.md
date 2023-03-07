@@ -42,7 +42,6 @@ Determine the magnetic compass error.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

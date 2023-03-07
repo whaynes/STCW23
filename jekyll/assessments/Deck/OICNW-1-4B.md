@@ -39,7 +39,6 @@ The ship’s position is saved or recorded within one minute of hearing “Man O
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

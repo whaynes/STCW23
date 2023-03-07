@@ -202,11 +202,11 @@ Disengage turning gear
  </tbody>
  </table>
 
-{{ "### Lab Manual
+### Lab Manual
 
 <%= imagelink("EN4131_Lab_Manual", "EN-4131 Lab Manual") %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

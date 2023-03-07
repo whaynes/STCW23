@@ -39,7 +39,6 @@ Designated two of the acquired targets for an alphanumeric display of the target
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

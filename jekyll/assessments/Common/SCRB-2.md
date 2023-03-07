@@ -46,7 +46,6 @@ title:  Launch, board and recover survival craft.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

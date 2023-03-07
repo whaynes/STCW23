@@ -39,7 +39,6 @@ Demonstrate loading a route plan and focusing on route within 2 minutes.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

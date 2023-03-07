@@ -46,7 +46,6 @@ The misinformation or command error was detected within time to prevent placing 
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -82,9 +82,9 @@ Close valves and secure pumps as required
  </tbody>
  </table>
 
-{{ "**Note:** Not all steps are possible on all refrigeration systems.
+**Note:** Not all steps are possible on all refrigeration systems.
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

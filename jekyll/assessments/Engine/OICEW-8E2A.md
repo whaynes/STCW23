@@ -84,9 +84,9 @@ title:  Make emergency repairs
  </tbody>
  </table>
 
-{{ "<%= imageref( "redi-clamp", {nosize: true}) %>
+<%= imageref( "redi-clamp", {nosize: true}) %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

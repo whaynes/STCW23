@@ -39,7 +39,6 @@ correctly demonstrate proper basic bleeding control techniques, taking into cons
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

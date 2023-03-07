@@ -39,7 +39,6 @@ The course to steer is within ± 5° of the assessor’s solution.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

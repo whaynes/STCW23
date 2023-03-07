@@ -68,7 +68,7 @@ Report: “The watch has been relieved.” to the officer on watch.
  </tbody>
  </table>
 
-{{ "Also supports [RFPNW-X3.4](24#RFPNW-X3\.4)." | markdownify }}
+Also supports [RFPNW-X3.4](24#RFPNW-X3\.4).
 
 
 *****

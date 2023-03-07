@@ -49,7 +49,6 @@ Explain purpose of system.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

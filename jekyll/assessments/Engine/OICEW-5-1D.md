@@ -95,11 +95,11 @@ Leave compressor lined up to start
  </tbody>
  </table>
 
-{{ "### Lab Manual
+### Lab Manual
 
 <%= imagelink("EN2111-labmanual-F15.pdf", "Auxiliary Machinery II Laboratory Manual") %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

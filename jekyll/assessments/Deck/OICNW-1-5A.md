@@ -41,7 +41,6 @@ Take a visual bearing of the range and determine gyro-compass error.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

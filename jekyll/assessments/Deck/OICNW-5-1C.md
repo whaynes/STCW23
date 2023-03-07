@@ -39,7 +39,6 @@ The candidate will, within the safe operating limits of the vessel’s propulsio
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

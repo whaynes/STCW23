@@ -47,7 +47,6 @@ For each contact:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

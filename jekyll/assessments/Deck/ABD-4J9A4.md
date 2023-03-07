@@ -41,7 +41,6 @@ perform all actions safely.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

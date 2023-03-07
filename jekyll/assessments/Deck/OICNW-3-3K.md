@@ -39,7 +39,6 @@ Demonstrate merging two previously saved user charts (two separate route plans) 
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

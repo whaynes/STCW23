@@ -41,7 +41,6 @@ Determine the set and drift of the vessel.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

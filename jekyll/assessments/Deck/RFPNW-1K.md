@@ -193,9 +193,9 @@ Carry out the helm command, *Nothing to the right (starboard)*[^Note3]
  </tbody>
  </table>
 
-{{ "[^Note1]: The assessor may select any course desired as long as it is more than 30° from the original heading.
+[^Note1]: The assessor may select any course desired as long as it is more than 30° from the original heading.
 [^Note2]: The assessor may select any course desired as long as it can be safely maintained throughout the exercise.
-[^Note3]: The assessor may select either left (port) or right (starboard)." | markdownify }}
+[^Note3]: The assessor may select either left (port) or right (starboard).
 
 
 *****

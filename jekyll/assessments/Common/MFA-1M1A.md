@@ -44,7 +44,6 @@ assess and treat, within 1 minute, life-threatening conditions, including:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -41,7 +41,6 @@ Use a parallel index line to monitor and maintain the vessel on track.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -47,7 +47,7 @@ Make no safety violations
  </tbody>
  </table>
 
-{{ "Also satisfies equivalent requirement for AB-Engine" | markdownify }}
+Also satisfies equivalent requirement for AB-Engine
 
 
 *****

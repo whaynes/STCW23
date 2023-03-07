@@ -41,7 +41,6 @@ Control the target vessels DRM by changing own ship’s speed in accordance with
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -46,7 +46,6 @@ title:  Start and operate survival craft engine
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

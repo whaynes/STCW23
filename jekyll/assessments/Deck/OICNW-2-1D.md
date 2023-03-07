@@ -41,7 +41,6 @@ Determine if risk of collision exists with approaching meeting, crossing and ove
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

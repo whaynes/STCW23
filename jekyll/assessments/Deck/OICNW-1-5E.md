@@ -40,7 +40,6 @@ Apply the compass error to the bearings by magnetic compass of at least two char
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

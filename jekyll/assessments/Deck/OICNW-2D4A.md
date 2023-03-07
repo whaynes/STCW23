@@ -49,7 +49,6 @@ maintain situational awareness with regard to:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

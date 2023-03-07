@@ -39,7 +39,6 @@ Other ships’ speed changes of at least 5 knots and/or course changes of at lea
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

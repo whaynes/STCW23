@@ -41,7 +41,6 @@ victim is successfully rescued
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

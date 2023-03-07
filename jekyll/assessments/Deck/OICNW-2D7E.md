@@ -48,7 +48,6 @@ determine the appropriate action to take.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

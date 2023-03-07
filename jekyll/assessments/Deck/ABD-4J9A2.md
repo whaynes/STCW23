@@ -54,7 +54,6 @@ tie six knots selected by the instructor from the list below within 15 minutes:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

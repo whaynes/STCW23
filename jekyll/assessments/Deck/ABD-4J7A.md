@@ -62,7 +62,6 @@ rig and unrig a bosun’s chair.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

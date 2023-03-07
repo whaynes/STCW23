@@ -49,7 +49,6 @@ Report: “The lookout is relieved.” to the officer on watch.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

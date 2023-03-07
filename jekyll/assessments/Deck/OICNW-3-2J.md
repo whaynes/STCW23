@@ -44,7 +44,6 @@ Demonstrate the trial maneuver function.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

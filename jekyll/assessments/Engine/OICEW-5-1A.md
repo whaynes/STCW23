@@ -89,9 +89,9 @@ Verify that normal and emergency power feeders are functional
  </tbody>
  </table>
 
-{{ "
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

@@ -39,7 +39,6 @@ The position of the star fix is within 2.0 nm of the assessor's solution.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

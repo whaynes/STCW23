@@ -43,7 +43,6 @@ Read the gyrocompass bearing of the sun, determines correct time of observation 
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

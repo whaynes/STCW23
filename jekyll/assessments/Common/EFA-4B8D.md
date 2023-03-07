@@ -39,7 +39,6 @@ correctly demonstrate, in 10 minutes or less,  one or more generally accepted pr
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

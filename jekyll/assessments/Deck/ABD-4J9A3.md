@@ -41,7 +41,6 @@ splice an eye splice or short splice within 15 minutes.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -42,7 +42,6 @@ Establish the CPA and TCPA for dangerous targets.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

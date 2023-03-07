@@ -39,7 +39,6 @@ Demonstrate displaying tide bars and current vectors within 1 minute.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

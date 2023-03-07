@@ -73,7 +73,7 @@ Look for:
  </tbody>
  </table>
 
-{{ "###  Recommended Turbogenerator Startup Procedure (T.S. Kennedy Specific) 
+###  Recommended Turbogenerator Startup Procedure (T.S. Kennedy Specific) 
 
 **Make preliminary checks**
 
@@ -170,7 +170,7 @@ The turbine should be started spinning without delay after the vacuum is establi
 
 When you are satisfied with the operation of the turbo-generator, you can put it on the line.
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

@@ -42,7 +42,6 @@ Demonstrate, for a period of at least one minute,  the ability to:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

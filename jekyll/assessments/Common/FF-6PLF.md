@@ -80,7 +80,6 @@ as part of a team or individually,
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -48,7 +48,6 @@ The following were recognized and correctly identified:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

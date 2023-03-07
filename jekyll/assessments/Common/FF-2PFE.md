@@ -43,7 +43,6 @@ extinguish the fire
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

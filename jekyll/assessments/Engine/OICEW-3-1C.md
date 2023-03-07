@@ -56,9 +56,9 @@ Introduce a second ground fault, and observe behavior of circuit breaker
  </tbody>
  </table>
 
-{{ "
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

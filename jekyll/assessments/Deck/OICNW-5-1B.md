@@ -41,7 +41,6 @@ Order turning the vessel left or right more than 45° from the original heading.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

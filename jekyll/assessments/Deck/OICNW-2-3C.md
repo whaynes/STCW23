@@ -44,7 +44,6 @@ The candidate notified the master immediately of the following:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -43,7 +43,6 @@ establish and maintain communication with a Vessel Traffic System (VTS).
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

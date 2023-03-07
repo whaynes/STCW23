@@ -147,14 +147,14 @@ hand-over the watch
  </tbody>
  </table>
 
-{{ "### Documents
+### Documents
 
 * <%=imagelink("Engineering_Watchstanding_Manual-W16", "Engineering Watchstanding Manual")%>
 * <%=imagelink("STCW_Chap_VIII", "STCW Chapter VIII/2")%>
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards." | markdownify }}
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
 
 
 *****

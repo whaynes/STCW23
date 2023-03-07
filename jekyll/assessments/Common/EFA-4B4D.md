@@ -39,7 +39,6 @@ follow currently accepted standards as published by the American Heart Associati
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

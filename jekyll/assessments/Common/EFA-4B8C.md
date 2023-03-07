@@ -43,7 +43,6 @@ correctly demonstrate,  in 10 minutes or less, the immobilization of a simple li
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

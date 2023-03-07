@@ -52,7 +52,6 @@ l. if pulse and breathing present, place victim in recovery position (on side).
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

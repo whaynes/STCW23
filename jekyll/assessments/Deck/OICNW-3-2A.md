@@ -52,7 +52,6 @@ Within three minutes, the candidate:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

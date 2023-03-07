@@ -49,7 +49,6 @@ Determine and plot the vessel’s position at suitable intervals, and plot or sy
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

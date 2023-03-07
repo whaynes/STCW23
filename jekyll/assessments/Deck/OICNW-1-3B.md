@@ -41,7 +41,7 @@ Identify the charts needed for the voyage.
  </tbody>
  </table>
 
-{{ "Shall be completed by the end of [MT-4371](mt-4371)" | markdownify }}
+Shall be completed by the end of [MT-4371](mt-4371)
 
 
 *****

@@ -55,7 +55,6 @@ Read the Morse code flashing light signals, record the letters and numbers of th
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

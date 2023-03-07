@@ -44,7 +44,6 @@ When entering the water:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

@@ -40,7 +40,6 @@ Demonstrate the ability to have the ARPA display past target history.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

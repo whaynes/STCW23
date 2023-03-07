@@ -14,17 +14,17 @@ This course consists of five 1-hour lectures.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-D7.1]({{site.baseurl}}/tables/31.html#OICEW-D7.1) Working knowledge of shipboard personnel management and training
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) Ability to apply task and workload management
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) Planning and co-ordination
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) Personnel assignment
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) Time and resource constraints
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) Prioritization 
-* [OICNW-C7.1]({{site.baseurl}}/tables/21.html#OICNW-C7.1) Working knowledge of shipboard personnel management and training
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) Planning and co-ordination
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) Personnel assignment
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) Time and resource constraints
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) Prioritization
+* [OICEW-D7.1]({{site.baseurl}}/tables/31.html#OICEW-D7.1) *Working knowledge of shipboard personnel management and training*
+* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Ability to apply task and workload management*
+* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Planning and co-ordination*
+* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Personnel assignment*
+* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Time and resource constraints*
+* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Prioritization*
+* [OICNW-C7.1]({{site.baseurl}}/tables/21.html#OICNW-C7.1) *Working knowledge of shipboard personnel management and training*
+* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Planning and co-ordination*
+* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Personnel assignment*
+* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Time and resource constraints*
+* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Prioritization*
 
 
 ### Topics

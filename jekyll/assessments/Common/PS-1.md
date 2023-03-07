@@ -40,7 +40,6 @@ Don and secure a lifejacket.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

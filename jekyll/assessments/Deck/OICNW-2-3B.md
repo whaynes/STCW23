@@ -52,7 +52,6 @@ execute the voyage plan in accordance with paragraph 4 and 5 of the annex to [*I
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

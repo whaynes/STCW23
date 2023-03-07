@@ -39,7 +39,6 @@ The position of the running fix is within 2 nm of the assessor’s solution.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

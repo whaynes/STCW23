@@ -39,7 +39,6 @@ The candidate will establish within 2 minutes an exclusion area on the either si
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

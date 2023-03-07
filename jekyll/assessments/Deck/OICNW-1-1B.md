@@ -40,7 +40,6 @@ Measure the altitude of the lower limb of the sun and accurately record the time
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

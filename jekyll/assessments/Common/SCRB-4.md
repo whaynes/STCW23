@@ -43,7 +43,6 @@ title:  Row and steer survival craft
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

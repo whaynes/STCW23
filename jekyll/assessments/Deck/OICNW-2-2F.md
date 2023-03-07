@@ -49,7 +49,6 @@ Properly turn the watch over to a relieving officer.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

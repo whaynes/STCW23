@@ -39,7 +39,6 @@ Complete the change within 15 seconds.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

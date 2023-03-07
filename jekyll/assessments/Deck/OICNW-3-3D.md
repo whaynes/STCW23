@@ -39,7 +39,6 @@ Display spot sounding limit control and change limit based on the own ship needs
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

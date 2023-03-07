@@ -47,7 +47,6 @@ Within three minutes, after the power was turned on:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

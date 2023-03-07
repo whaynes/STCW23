@@ -47,7 +47,6 @@ e. reasses distal neuro-vascular function.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

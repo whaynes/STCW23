@@ -39,7 +39,6 @@ Enter craft successfully.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

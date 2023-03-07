@@ -61,7 +61,6 @@ Properly keep a safe navigational watch in accordance with STCW Code Section <%=
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

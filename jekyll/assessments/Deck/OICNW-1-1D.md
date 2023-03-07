@@ -39,7 +39,6 @@ determine the altitude  within ± 1 minute of arc, after correction for index er
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

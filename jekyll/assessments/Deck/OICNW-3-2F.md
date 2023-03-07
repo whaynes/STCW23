@@ -39,7 +39,6 @@ A single target is canceled within 10 seconds.
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

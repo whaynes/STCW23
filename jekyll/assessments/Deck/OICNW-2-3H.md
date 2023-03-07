@@ -46,7 +46,6 @@ Officers were assigned to the following tasks:
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****

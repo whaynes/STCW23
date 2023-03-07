@@ -41,7 +41,6 @@ Control the target vessels DRM by changing own ship’s course in accordance wit
  </tbody>
  </table>
 
-{{ "" | markdownify }}
 
 
 *****
