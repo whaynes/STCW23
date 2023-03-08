@@ -7,7 +7,7 @@ title:  Demonstrate crane and hoist signals
 
 ### Condition
 
-{{ "Aboard ship or in a laboratory" | markdownify }}
+Aboard ship or in a laboratory
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Demonstrate crane and hoist signals
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Demonstrate the basic signals for crane operation
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Clearly give signals for:
 
 *  Hoist/Lower
@@ -40,8 +44,11 @@ Clearly give signals for:
 *  Dog everything
 
 Make no safety violations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

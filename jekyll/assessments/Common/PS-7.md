@@ -7,7 +7,7 @@ title:  Board a survival craft while wearing a lifejacket
 
 ### Condition
 
-{{ "In a swimming pool or suitable protected waters with an approved survival craft." | markdownify }}
+In a swimming pool or suitable protected waters with an approved survival craft.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Board a survival craft while wearing a lifejacket
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Swim to and enter a survival craft without assistance, while wearing a lifejacket.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Enter craft successfully.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

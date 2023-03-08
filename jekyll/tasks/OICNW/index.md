@@ -1,11 +1,10 @@
 ---
 title: OICNW Tasks
-subtitle:  officer in charge of a navigation watch
----
 
 
+### officer in charge of a navigation watch
 
-### NVIC 12-14
+#### NVIC 12-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

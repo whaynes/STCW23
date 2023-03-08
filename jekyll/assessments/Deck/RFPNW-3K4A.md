@@ -7,7 +7,7 @@ title:  Relief of the lookout
 
 ### Condition
 
-{{ "On a ship at sea or in a full mission simulator." | markdownify }}
+On a ship at sea or in a full mission simulator.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Relief of the lookout
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 hand over the lookout watch in accordance with the ordinary practice of good seamanship.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Advise the relief of:
 
 * All objects sighted and reported;  
@@ -42,8 +46,11 @@ Allow the lookout relief to acquire his or her night vision; and
 
 Report: “The lookout is relieved.” to the officer on watch.
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

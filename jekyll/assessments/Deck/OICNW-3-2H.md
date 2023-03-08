@@ -7,7 +7,7 @@ title:  Establish CPA and TCPA
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Establish CPA and TCPA
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Establish the CPA and TCPA for dangerous targets.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The candidate will determine the parameters for dangerous targets by entering:
     1. minimum CPA; and
     2. minimum TCPA.
 2. Data entry will be completed within 1 minute.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

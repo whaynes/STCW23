@@ -7,7 +7,7 @@ title:  Secure main steam turbine operation
 
 ### Condition
 
-{{ "In an approved simulator or aboard a ship in port or at anchor, given access to a main steam turbine." | markdownify }}
+In an approved simulator or aboard a ship in port or at anchor, given access to a main steam turbine.
 
 ### Performance requirement 
 
@@ -23,100 +23,156 @@ title:  Secure main steam turbine operation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} steam to main engine
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Bleed pressure using throttles
 
 Monitor main steam line pressure
 
 Secure main and bulkhead stops and guardian valve
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Place into service, placeintoservice %} jacking gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Hang _jacking gear engaged_ sign
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} main air ejector and gland seal
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Insure MUF, exhaust dump, ADT, etc. are directed to auxiliary condenser
 
 Secure air ejector before gland seal
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} main condensate system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor hotwell and dc heater level
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} main engine until cool
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Continue until LP casing temperature is about 150° F
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} main circ. system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} jacking gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Remove _jacking gear engaged_ sign
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} main lube oil system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Secure LO gravity tank
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

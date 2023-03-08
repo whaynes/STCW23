@@ -7,7 +7,7 @@ title:  Don and use an immersion suit
 
 ### Condition
 
-{{ "In a swimming pool or suitable protected waters." | markdownify }}
+In a swimming pool or suitable protected waters.
 
 ### Performance requirement 
 
@@ -23,23 +23,30 @@ title:  Don and use an immersion suit
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 1. Don an immersion suit.
 2. Enter water while wearing an immersion suit.
 2. Demonstrate ability to shift from prone to upright position while in the water wearing an immersion suit.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  Secure straps to prevent entanglement.
 *  Don suit within two minutes without assistance.
 *  Describe use of suit features: whistle, light, inflation tube, etc.
 *  Enter water using approved technique
 *  Shift position successfully.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

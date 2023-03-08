@@ -7,7 +7,7 @@ title:  Monitor engineering machinery
 
 ### Condition
 
-{{ "While on watch aboard the training ship, or on a simulator, or in a laboratory." | markdownify }}
+While on watch aboard the training ship, or on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,10 +23,11 @@ title:  Monitor engineering machinery
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 As **TG/SSDG Oiler**
 
 * {% do monitor, monitor %} the ship's electrical generators
@@ -35,19 +36,26 @@ As **TG/SSDG Oiler**
     * steam tubines and associated equipment
     * Wärtsilä diesel and associated equipment
 * record operating conditions on the *TG/SSDG Oiler's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the **TG/SSDG Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **Lower Oiler**
 
 * {% do monitor, monitor %}  the operation of the lube oil purifier, propulsion shafting and bearings and other machinery located in the Lower Engine room 
@@ -56,51 +64,72 @@ As **Lower Oiler**
 * record operating conditions on the *Lower Oiler's log*
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the **Lower Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **AMR Oiler**
 
 *  {% do monitor, monitor %}  the operation of the fuel oil purifier, the air compressor and other machinery located in the Auxiliary Engine room
 * record operating conditions on the *AMR Oiler's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the **AMR Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **Upper Oiler**
 
 * {% do monitor, monitor %}  the operation of the ship's service and control air compressors and other machinery located in the Upper Engine room  
 * {% do monitor, monitor %} the operation of the steering gear
 * record operating conditions on the *Upper Oiler's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the **Upper Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **Evaporator Oiler**
 
 * {% do monitor, monitor %}  the operation of the water-making equipment including:
@@ -112,20 +141,27 @@ As **Evaporator Oiler**
 *  {% do change over, shiftchangeover %} potable and distilled tank suction and discharge valves as required
 *  {% do test, evaluateinspecttest %} distillate chemical salinity
 * record operating conditions on the *Evaporator Oiler's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform duties for **Evaporator Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
 * ensure that potable and distilled water tanks do not overflow
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **Fireman**
 
 * {% do monitor, monitor %}  the main propulsion boilers
@@ -133,57 +169,81 @@ As **Fireman**
 * assist in the operation of the soot blower
 * assist in preparing a main-propulsion boiler for light-off, light-off, raising steam and cutting-in a boiler, when possible.
 * record operating conditions on the *Fireman's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the  **Port or Starboard Fireman** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make legible, complete, and accurate logs
 * maintain boiler water level and steam pressures with safe and appropriate limits
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **Refrigeration Oiler**
 
 *  {% do monitor, monitor %}  the operation of the ship's refrigeration and air conditioning equipment 
 * record operating conditions on the *Refrigeration Oiler's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the **Refrigeration/AC Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 As **Plant Oiler**
 
 *  {% do monitor, monitor %} the lubrication of all engine room machinery
 *  add clean oil as required 
 * record operating conditions on the *Plant Oiler's log*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform all duties of the **Plant Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
 * make thorough rounds
 * make legible, complete, and accurate logs
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 For each of the above positions, relieve and hand over the watch in accordance with good engineering practice
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  complete all routine duties before handing over the watch
 
 *  discuss current plant conditions such as those listed below before exchanging the watch
@@ -198,8 +258,11 @@ For each of the above positions, relieve and hand over the watch in accordance w
 *  seek clarification from the off-going watch before taking over the watch, if this information was not clearly understood
 
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

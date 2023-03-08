@@ -7,7 +7,7 @@ title:  Measure the altitude of the sun at meridian passage (local apparent noon
 
 ### Condition
 
-{{ "Aboard a ship at sea, given a standard marine sextant, a clear horizon, a clear or partly cloudy sky." | markdownify }}
+Aboard a ship at sea, given a standard marine sextant, a clear horizon, a clear or partly cloudy sky.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Measure the altitude of the sun at meridian passage (local apparent noon
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Measure the altitude of the sun as it transits the meridian on which the vessel is located.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 determine the altitude  within ± 1 minute of arc, after correction for index error, as compared with the altitude computed by the assessor.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

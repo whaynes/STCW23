@@ -7,7 +7,7 @@ title:  Immobilize a long bone fracture
 
 ### Condition
 
-{{ "In a graded practical exercise, given a simulated non-critical patient and assistance from a second rescuer," | markdownify }}
+In a graded practical exercise, given a simulated non-critical patient and assistance from a second rescuer,
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Immobilize a long bone fracture
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 use rigid splints to immobilize a long-bone fracture of the forearm and a bent-knee fracture.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 properly apply rigid splints, within 5 minutes, and perform the following critical elements:
 
 a. manually stabilize arm;  
@@ -40,8 +44,11 @@ d. secure splinting device(s) to extremity(ies) with appropriate materials; and
 e. reasses distal neuro-vascular function.
 
 *Note:*  Bent-knee fracture—padded board splints should be secured transversely to the medial and lateral aspects of the leg both above and below (distal to) the knee.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

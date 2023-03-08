@@ -9,7 +9,8 @@ module Jekyll
     def render(liquid_context)
        site = liquid_context.registers[:site]
        baseurl = site.config['baseurl']
-      "[#{@cnum}](#{baseurl}/courses/#{@cnum}.html)"
+       linktext = @cnum.gsub('-','&#8209;')  #non-breaking hyphen
+      "[#{linktext}](#{baseurl}/courses/#{@cnum}.html)"
     end
   end
   

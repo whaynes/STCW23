@@ -7,7 +7,7 @@ title:  External thread using a hand die
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given a hand die, proper tools, lighting, ventilation, and steel round stock or pipe of no less than 3/8 inch diameter." | markdownify }}
+In a workshop/laboratory or other safe working environment, given a hand die, proper tools, lighting, ventilation, and steel round stock or pipe of no less than 3/8 inch diameter.
 
 ### Performance requirement 
 
@@ -23,25 +23,36 @@ title:  External thread using a hand die
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} to make an external thread on 1/2" pipe
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use tools, usetools %} to {% do Fabricate, fabricate %} an external thread on the 1/2" pipe with the axis of the pipe and thread co-linear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use:
 
   * tape measure
@@ -49,8 +60,11 @@ Use:
   * pipe reamer
   * cutting oil
   * 1/2" hand pipe die
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

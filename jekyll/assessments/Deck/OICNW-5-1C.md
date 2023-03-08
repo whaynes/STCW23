@@ -7,7 +7,7 @@ title:  Emergency stop
 
 ### Condition
 
-{{ "On a ship at sea or in a full mission simulator, proceeding at a speed of at least half ahead." | markdownify }}
+On a ship at sea or in a full mission simulator, proceeding at a speed of at least half ahead.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Emergency stop
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Execute an emergency stop.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate will, within the safe operating limits of the vessel’s propulsion system, stop the vessel using maximum astern thrust and rudder cycling without deviating from the original course by more than 20°.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

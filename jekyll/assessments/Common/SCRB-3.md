@@ -7,7 +7,7 @@ title:  Start and operate survival craft engine
 
 ### Condition
 
-{{ "Using an engine in an open or enclosed survival craft, or in the laboratory." | markdownify }}
+Using an engine in an open or enclosed survival craft, or in the laboratory.
 
 ### Performance requirement 
 
@@ -23,24 +23,31 @@ title:  Start and operate survival craft engine
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 1.  Check engine fuel supply, lubrication and cooling.
 2.  Align starting system if required.
 3.  Start engine.
 4.  Check and monitor engine gages for proper operation.
 5.  Operate engine in forward, neutral and reverse.
 6.  Secure engine operation.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. All operations are performed safely.
 2. Operations comply with standard procedures.
 3.  Propulsion is available and maintained as required for maneuvering
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

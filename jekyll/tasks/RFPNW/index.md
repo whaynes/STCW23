@@ -1,11 +1,10 @@
 ---
 title: RFPNW Tasks
-subtitle:  ratings forming part of a navigation watch
----
 
 
+### ratings forming part of a navigation watch
 
-### NVIC 06-14
+#### NVIC 06-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

@@ -7,7 +7,7 @@ title:  Demonstrate proper CPR compressions for two minutes
 
 ### Condition
 
-{{ "Given a resuscitation mannequin, when asked to demonstrate proper CPR compressions for 2 minutes," | markdownify }}
+Given a resuscitation mannequin, when asked to demonstrate proper CPR compressions for 2 minutes,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate proper CPR compressions for two minutes
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate proper CPR compressions for 2 minutes.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow currently accepted standards as published by the American Heart Association and/or the American Red Cross.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

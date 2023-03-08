@@ -7,7 +7,7 @@ title:  Use of GPS position save function
 
 ### Condition
 
-{{ "On a ship underway, or a full mission ship simulator, or in a navigation laboratory, using a GPS receiver which meets IMO performance standards, when hearing “Man Overboard.”" | markdownify }}
+On a ship underway, or a full mission ship simulator, or in a navigation laboratory, using a GPS receiver which meets IMO performance standards, when hearing “Man Overboard.”
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Use of GPS position save function
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Activate the man overboard/emergency position save function.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The ship’s position is saved or recorded within one minute of hearing “Man Overboard.”
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Demonstrate actions for an unconscious adult with airway blockage
 
 ### Condition
 
-{{ "Given a resuscitation mannequin, when asked to demonstrate the proper series of actions for an adult with a foreign body airway blockage and slipping into an unconscious state," | markdownify }}
+Given a resuscitation mannequin, when asked to demonstrate the proper series of actions for an adult with a foreign body airway blockage and slipping into an unconscious state,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate actions for an unconscious adult with airway blockage
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the proper series of actions for an unconscious adult with a foreign body airway blockage until attempts are successful.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow currently accepted standards as published by the American Heart Association and/or the American Red Cross.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

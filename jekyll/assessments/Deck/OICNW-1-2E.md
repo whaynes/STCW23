@@ -7,7 +7,7 @@ title:  Determine course to steer
 
 ### Condition
 
-{{ "On a ship underway, under laboratory conditions, or in a full mission ship simulator, with the ship‘s speed of at least 10 knots, and using a plotting sheet or chart, when encountering wind and current which sets the vessel. Given adequate radar ranges and visual or electronic bearings." | markdownify }}
+On a ship underway, under laboratory conditions, or in a full mission ship simulator, with the ship‘s speed of at least 10 knots, and using a plotting sheet or chart, when encountering wind and current which sets the vessel. Given adequate radar ranges and visual or electronic bearings.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Determine course to steer
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Plot the vessel’s position on at least two successive occasions not less than 30 minutes apart, for a vessel steaming at 20 kts, and calculate set and drift by vector analysis and determine the course to steer to make the intended course.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The course to steer is within ± 5° of the assessor’s solution.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

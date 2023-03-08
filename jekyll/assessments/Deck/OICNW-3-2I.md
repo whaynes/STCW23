@@ -7,7 +7,7 @@ title:  Establish alarm area
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Establish alarm area
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Establish an alarm area with outer and inner guard rings.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Establish an alarm area with an outer guard ring of 8 nm and an inner guard ring of 4nm within 2 minutes.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Marlinspike seamanship - splicing
 
 ### Condition
 
-{{ "On board ship or in a laboratory." | markdownify }}
+On board ship or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Marlinspike seamanship - splicing
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate marlinspike seamanship skills by splicing a line.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 splice an eye splice or short splice within 15 minutes.
 
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

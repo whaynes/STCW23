@@ -7,7 +7,7 @@ title:  Measure insulation resistance
 
 ### Condition
 
-{{ "Aboard ship or in a workshop, given access to 3-phase electrical AC motor and controller, a Megger test meter, and other proper tools and safety equipment." | markdownify }}
+Aboard ship or in a workshop, given access to 3-phase electrical AC motor and controller, a Megger test meter, and other proper tools and safety equipment.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Measure insulation resistance
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Measure, evaluateinspecttest %} motor insulation resistance at motor controller
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use megger to perform insulation spot test:
 
   * de-energize motor, lockout/tagout if necessary
@@ -39,32 +43,49 @@ Use megger to perform insulation spot test:
   * select appropriate test voltage
   * energize meter for 60 seconds, or until reading stabilizes at infinity
   * read meter
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Correct insulation resistance measurement to standard temperature.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Correct reading to 40 °C using nomograph or correction chart.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Evaluate, evaluate %} insulation resistance value
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Compare corrected resistance to IEEE standard.
 
 State whether resistance value is within acceptable limits
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

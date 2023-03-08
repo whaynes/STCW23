@@ -7,7 +7,7 @@ title:  Change over control systems
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop." | markdownify }}
+On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop.
 
 ### Performance requirement 
 
@@ -23,45 +23,66 @@ title:  Change over control systems
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Change over, shiftchangeover %} propulsion throttle control
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * change from bridge control to engine room control
 * change from engine room control to bridge control
 * verify proper operation of the throttle when in engine room control
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Change over, shiftchangeover %} an engine cooling system control
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * change from automatic control to local control and vice versa
 * verify system operation in each mode and adjust as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Change over, shiftchangeover %} the bilge, ballast, or firemain system control
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * change from remote/automatic control to local control and vice versa
 * verify system operation in each mode and adjust as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

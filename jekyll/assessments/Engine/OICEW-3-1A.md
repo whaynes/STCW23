@@ -7,7 +7,7 @@ title:  Plan and use test equipment
 
 ### Condition
 
-{{ "Given a voltmeter, ammeter, ohmmeter, simple circuit with a power source, and a schematic of the circuit with at least 5 components indicated." | markdownify }}
+Given a voltmeter, ammeter, ohmmeter, simple circuit with a power source, and a schematic of the circuit with at least 5 components indicated.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Plan and use test equipment
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Describe, describeaction %} the use of electrical measuring equipment
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Indicate safety precautions
 
 Describe how to perform:
@@ -38,16 +42,23 @@ Describe how to perform:
   * resistance measurement
   * voltage measurement
   * current measurement
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} electrical circuits or components using electrical measuring equipment
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Do at least three of the following:
 
   * measure dc voltage using a DMM
@@ -61,8 +72,11 @@ Do at least three of the following:
   * determine phase rotation using a phase rotation tester
 
 Read and interpret instrument displays correctly
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Swim while wearing a lifejacket
 
 ### Condition
 
-{{ "In a swimming pool or suitable protected waters." | markdownify }}
+In a swimming pool or suitable protected waters.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Swim while wearing a lifejacket
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Swim while wearing an approved Type-1 PFD
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  Swim a distance of not less than 30 feet
 *  Assume the Heat Escape Lessening Position (HELP)
 *  Tow another person wearing a lifejacket
 *  Demonstrate survival chains, carpets, and huddles.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

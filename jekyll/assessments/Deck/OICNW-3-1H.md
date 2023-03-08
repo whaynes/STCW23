@@ -7,7 +7,7 @@ title:  Change course to control target DRM
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale in north up stabilized relative motion mode, with a ship on the starboard bow with a CPA of 0.5." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale in north up stabilized relative motion mode, with a ship on the starboard bow with a CPA of 0.5.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Change course to control target DRM
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Control the target vessels DRM by changing own ship’s course in accordance with the COLREGS.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Determined the new course to steer to achieve a CPA as specified by the assessor;
 2. Executed a turn in the appropriate direction; and
 3. Achieved a CPA of not less than -0.2 nm or more than + 0.5 nm. of that specified by the assessor.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

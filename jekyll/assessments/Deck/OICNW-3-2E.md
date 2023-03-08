@@ -7,7 +7,7 @@ title:  Designate targets
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Designate targets
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Designate two acquired targets.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Designated two of the acquired targets for an alphanumeric display of the target information within 10 seconds for each target.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

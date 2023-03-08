@@ -7,7 +7,7 @@ title:  Sweat joint
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and 1/2 inch copper tube and coupling." | markdownify }}
+In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and 1/2 inch copper tube and coupling.
 
 ### Performance requirement 
 
@@ -23,25 +23,36 @@ title:  Sweat joint
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} fabrication of sweat joint fitting
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use tools, usetools %} to {% do Fabricate, fabricate %} sweat joint fitting
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use:
 
   * propane torch
@@ -50,19 +61,29 @@ Use:
   * 95-5 lead free solder
 
 Prepare joint by cleaning and fluxing
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} joint for tightness
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Prove joint leak free
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

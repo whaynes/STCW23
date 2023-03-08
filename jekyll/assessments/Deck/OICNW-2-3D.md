@@ -7,7 +7,7 @@ title:  BRM Condition III – collision avoidance.
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea, and with a bridge team in place for navigating in congested near coastal waters with or without reduced visibility, and assigned to monitor vessel traffic using an IMO compliant ARPA. The ship is navigating near land, shoals, or with increased traffic density and/or restricted visibility." | markdownify }}
+On a ship at sea or a full mission ship simulator during an exercise at sea, and with a bridge team in place for navigating in congested near coastal waters with or without reduced visibility, and assigned to monitor vessel traffic using an IMO compliant ARPA. The ship is navigating near land, shoals, or with increased traffic density and/or restricted visibility.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  BRM Condition III – collision avoidance.
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Identify all vessels (targets) posing a risk or danger of collision, and provide appropriate information and recommendations on vessel traffic and any other situation or condition that may effect the safe navigation of the vessel to the conning officer.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The risk and danger of collision of all approaching vessels is determined within 6 minutes.
 2. The conning officer was immediately notified of the relative position of the threatening vessel, its CPA and TCPA.
 3. Course changes in accordance with the COLREGS to remove the risks of collision and avoid the close quarters situations from developing were recommended.
@@ -38,8 +42,11 @@ Identify all vessels (targets) posing a risk or danger of collision, and provide
 5. All recommended course changes provided sufficient sea room and bottom clearance for the area transited.
 6. Communication was clear, immediate, reliable and relevant.
 7. Non-essential activities were avoided.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

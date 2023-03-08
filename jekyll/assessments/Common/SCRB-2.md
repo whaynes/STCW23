@@ -7,7 +7,7 @@ title:  Launch, board and recover survival craft.
 
 ### Condition
 
-{{ "Using an actual or training survival craft and launching apparatus." | markdownify }}
+Using an actual or training survival craft and launching apparatus.
 
 ### Performance requirement 
 
@@ -23,24 +23,31 @@ title:  Launch, board and recover survival craft.
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 1. Board persons into survival craft.
 2. Lower, release and launch survival craft.
 3. Disembark persons from survival craft.
 4. recover survival craft.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Correct commands are given, clearly.
 2. All operations are performed safely and within equipment limitations.
 3. Initial actions on leaving the ship minimize threat to survival.
 3. Off-load and On-load release devices are correctly used.
 3. Equipment is operated in accordance with manufacturer’s instructions for release and resetting.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

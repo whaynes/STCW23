@@ -7,7 +7,7 @@ title:  Correction of charts and publications
 
 ### Condition
 
-{{ "On a ship, or in a navigational laboratory, given notices to mariners and uncorrected charts, and publications." | markdownify }}
+On a ship, or in a navigational laboratory, given notices to mariners and uncorrected charts, and publications.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Correction of charts and publications
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Correct five charts and three publications.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Charts and publications needing correction are identified.
 2. Corrections are correctly made to the affected charts and publications.
 3. All corrections are recorded on the chart and the chart correction record (or the chart correction spreadsheet); or for publications, on the correction page of the publication, and the publication correction card (or the publication correction spreadsheet).
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

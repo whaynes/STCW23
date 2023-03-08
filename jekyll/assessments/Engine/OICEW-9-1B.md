@@ -7,7 +7,7 @@ title:  Monitor sewage waste treatment plant
 
 ### Condition
 
-{{ "Aboard ship or in an approved simulator, given access to a sewage waste treatment plant and proper tools and equipment." | markdownify }}
+Aboard ship or in an approved simulator, given access to a sewage waste treatment plant and proper tools and equipment.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Monitor sewage waste treatment plant
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} and {% do Describe, describeequipment %} the visible components of the msd and lift station
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify and describe at least the following:
 
   * black water inlet
@@ -42,42 +46,66 @@ Identify and describe at least the following:
   * control panel
   * operating compressors
   * sludge and scum returns
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Trace, trace %} the discharge piping of the msd
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Trace system in auxiliary machinery room only
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Describe, describeaction %} the procedure to start and secure the sewage treatment plant
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * follow correct procedures
 * prevent safety and pollution violations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Apply regulations, applyregulations %} to the operation of the MSD
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 State requirements for overboard discharge of waste
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

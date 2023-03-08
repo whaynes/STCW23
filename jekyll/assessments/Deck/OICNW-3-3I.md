@@ -7,7 +7,7 @@ title:  Monitoring Sea Area - ERBL
 
 ### Condition
 
-{{ "On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS." | markdownify }}
+On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Monitoring Sea Area - ERBL
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Demonstrate how to use the ERBL. Display a secondary source for additional ERBL’s.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Demonstrate within 1 minute.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

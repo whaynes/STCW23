@@ -7,7 +7,7 @@ title:  Manage obstructed airway in a conscious victim
 
 ### Condition
 
-{{ "In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation," | markdownify }}
+In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation,
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Manage obstructed airway in a conscious victim
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate airway-management techniques and management of a choking or obstructed airway in a conscious victim.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 correctly demonstrates according to standards of the American Heart Association:
 
 a. asking the victim whether he or she is choking;  
@@ -38,8 +42,11 @@ b. if victim cannot respond, performing sub-diaphragmatic thrusts; and
 c. re-assessing the victim.
 
 *Note:*  If the victim is still choking, the candidate should repeat performing sub-diaphragmatic thrusts until victim is breathing or becomes unconscious.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

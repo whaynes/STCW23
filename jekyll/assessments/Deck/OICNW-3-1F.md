@@ -7,7 +7,7 @@ title:  Determine DRM, SRM, CPA, and TCPA
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale.
 
 ### Performance requirement 
 
@@ -23,16 +23,20 @@ title:  Determine DRM, SRM, CPA, and TCPA
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine: 1. The range and bearing to 3 other ships (meeting, crossing, and overtaking);
 2. The DRM and SRM of all other ships; and
 3. The CPA and TCPA of all vessels on the 12 mile scale with less than a 3 mile CPA.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 For each contact: 
 
 1. The range and bearing solution is completed within 30 seconds and is within the previously stated tolerances.
@@ -40,8 +44,11 @@ For each contact:
 3. The SRM solution is completed within 8 minutes of initial range and bearing and is within ± 5 knots.
 4. The CPA solution is completed within 9 minutes and is within ± 0.5 miles.
 5. The TCPA solution is completed within 10 minutes and is within ± 3 minutes.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

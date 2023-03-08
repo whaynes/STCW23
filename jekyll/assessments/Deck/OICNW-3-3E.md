@@ -7,7 +7,7 @@ title:  Operational Settings - Resume of Navigation Mode
 
 ### Condition
 
-{{ "On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS." | markdownify }}
+On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Operational Settings - Resume of Navigation Mode
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Demonstrate resumption of Navigation Mode when Own Ship’s position is not showing on the display.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Demonstrate within 15 seconds.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

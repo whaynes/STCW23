@@ -7,7 +7,7 @@ title:  Identify sound signals
 
 ### Condition
 
-{{ "In restricted visibility, on a vessel, a full mission ship simulator, or using approved laboratory equipment, written or audible test." | markdownify }}
+In restricted visibility, on a vessel, a full mission ship simulator, or using approved laboratory equipment, written or audible test.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Identify sound signals
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Identify vessels by hearing their required sound signals.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate correctly identifies the situation or occupation of 4 of 5 vessels sounding different required sound signals.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

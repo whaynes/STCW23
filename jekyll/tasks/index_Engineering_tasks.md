@@ -1,11 +1,10 @@
 ---
 title: Engineering Tasks
-subtitle:  officers in charge of an engineering watch
 ---
 
+### officers in charge of an engineering watch
 
-
-### NVIC 17-14
+#### NVIC 17-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -102,12 +101,11 @@ subtitle:  officers in charge of an engineering watch
 | 91. | [17.1]({{ site.baseurl }}/tasks/OICEW/E1701.html) | Personal Safety | [A-VI/1-1](611)<br/>[A-VI/1-2](612)<br/>[A-VI/1-3](613)<br/>[A-VI/1-4](614)|
 
 
-subtitle:  able seafarer engine
----
 
 
+### able seafarer engine
 
-### NVIC 18-14
+#### NVIC 18-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -151,12 +149,11 @@ subtitle:  able seafarer engine
 | 38. | [10.9.A]({{ site.baseurl }}/tasks/ABE/G1009A.html) | Use of personal safety equipment | {% course EN-1112%}|
 
 
-subtitle:  ratings forming part of an engineering watch
----
 
 
+### ratings forming part of an engineering watch
 
-### NVIC 07-14
+#### NVIC 07-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

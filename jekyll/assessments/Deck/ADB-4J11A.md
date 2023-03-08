@@ -7,7 +7,7 @@ title:  Trace out and describe a piping system
 
 ### Condition
 
-{{ "Aboard a vessel." | markdownify }}
+Aboard a vessel.
 
 ### Performance requirement 
 
@@ -23,10 +23,11 @@ title:  Trace out and describe a piping system
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Select and trace one of the following systems:
 
 * Bilge
@@ -34,16 +35,22 @@ Select and trace one of the following systems:
 * Fire Main
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Draw a neat diagram using a straightedge and standard symbols.
 
 Draw a diagram which accurately reflects the system.
 
 Explain purpose of system.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

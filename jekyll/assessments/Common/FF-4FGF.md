@@ -7,7 +7,7 @@ title:  Extinguish a flammable gas fire
 
 ### Condition
 
-{{ "As part of a fire team, given conditions simulating a flammable gas fire on board a vessel." | markdownify }}
+As part of a fire team, given conditions simulating a flammable gas fire on board a vessel.
 
 ### Performance requirement 
 
@@ -23,16 +23,20 @@ title:  Extinguish a flammable gas fire
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 * assess the situation and make an appropriate plan of attack
 * assist others in deploying 2 ½ inch hoselines to protect a fire team while shutting off the fuel supply to a pressurized liquid fire
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -44,8 +48,11 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

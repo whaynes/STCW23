@@ -1,11 +1,10 @@
 ---
 title: Common Tasks
-subtitle:  personal survival
 ---
 
+### personal survival
 
-
-### NVIC 08-14
+#### NVIC 08-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -41,12 +40,11 @@ subtitle:  personal survival
 | 30. | [1.14.N]({{ site.baseurl }}/tasks/PS/B0114N.html) | Simulate activating a SART | {% course LB-0201%}<br/>{% course MT-1111%}|
 
 
-subtitle:  fire prevention and fire fighting
----
 
 
+### fire prevention and fire fighting
 
-### NVIC 08-14
+#### NVIC 08-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -79,12 +77,11 @@ subtitle:  fire prevention and fire fighting
 | 27. | [3.8.D]({{ site.baseurl }}/tasks/FF/B0308D.html) | Demonstrate the proper procedures for effecting a rescue ![]({{site.baseurl}}/assets/images/new.jpg)  | [FF‑8SAR]({{site.baseurl}}/assessments/Common/FF-8SAR) in {% course FF-0108 %} |
 
 
-subtitle:  elementary first aid
----
 
 
+### elementary first aid
 
-### NVIC 08-14
+#### NVIC 08-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -118,12 +115,11 @@ subtitle:  elementary first aid
 | 28. | [4.9.A]({{ site.baseurl }}/tasks/EFA/B0409A.html) | Demonstrate bandaging technique for wound treatment ![]({{site.baseurl}}/assets/images/new.jpg)  | [EFA‑4B9A]({{site.baseurl}}/assessments/Common/EFA-4B9A) in {% course PE-0031 %} |
 
 
-subtitle:  personal safety and social responsibility
----
 
 
+### personal safety and social responsibility
 
-### NVIC 08-14
+#### NVIC 08-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -156,12 +152,11 @@ subtitle:  personal safety and social responsibility
 | 27. | [9.1.A]({{ site.baseurl }}/tasks/PSSR/B0901A.html) | Describe the effects of fatigue on seafarers | {% course EN-1112%}|
 
 
-subtitle:  survival craft and rescue boats other than fast rescue boats
----
 
 
+### survival craft and rescue boats other than fast rescue boats
 
-### NVIC 04-14
+#### NVIC 04-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -202,12 +197,11 @@ subtitle:  survival craft and rescue boats other than fast rescue boats
 | 35. | [5.1.A]({{ site.baseurl }}/tasks/SCRB/C0501A.html) | First Aid | {% course PE-0031%}<br/>{% course PE-0032%}|
 
 
-subtitle:  advanced fire fighting
----
 
 
+### advanced fire fighting
 
-### NVIC 09-14
+#### NVIC 09-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -229,12 +223,11 @@ subtitle:  advanced fire fighting
 | 16. | [4.1.C]({{ site.baseurl }}/tasks/AFF/F0401C.html) | Evaluate a fire scene and develop countermeasures to prevent, mitigate, or control similar fires | {% course FF-0108%}|
 
 
-subtitle:  medical first aid
----
 
 
+### medical first aid
 
-### NVIC 05-04
+#### NVIC 05-04
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

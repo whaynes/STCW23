@@ -7,7 +7,7 @@ title:  Immobilize and apply traction a victim with a broken femur
 
 ### Condition
 
-{{ "In a graded practical exercise, given a simulated non-critical patient and assistance from a second rescuer, and using a device to apply traction to the femur (Hare traction, Thomas D-ring, or Sager splint)," | markdownify }}
+In a graded practical exercise, given a simulated non-critical patient and assistance from a second rescuer, and using a device to apply traction to the femur (Hare traction, Thomas D-ring, or Sager splint),
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Immobilize and apply traction a victim with a broken femur
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 properly immobilize and apply traction to a simulated femoral fracture.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 properly apply, within 10 minutes, an appropriate femoral traction device (Hare traction, Thomas D-ring , or Sager splint), performing the following tasks:
 
 a. manually stabilize the leg;  
@@ -43,8 +47,11 @@ d. apply and maintain manual traction while:
         iv. applying mechanical traction;  
 e. secure supporting straps; and  
 f. re-evaluate distal pulse and neurological status.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

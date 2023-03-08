@@ -7,7 +7,7 @@ title:  Pump bilges
 
 ### Condition
 
-{{ "Aboard ship, or in an approved simulator, given the engineering log book, the pertinent standing orders, the oil record book, and proper safety equipment." | markdownify }}
+Aboard ship, or in an approved simulator, given the engineering log book, the pertinent standing orders, the oil record book, and proper safety equipment.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Pump bilges
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} a bilge pumping operation
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify space to be pumped
 
 Identify location to receive bilges
@@ -38,29 +42,43 @@ Identify location to receive bilges
 Select bilge pump to be used
 
 Insure sufficient room in slop tank, if used
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} the bilge pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Comply with all applicable regulations
 
 Prime bilge pump if necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} the bilge pump or ows
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor:
 
   * suction and discharge pressures
@@ -68,33 +86,50 @@ Monitor:
   * bilge level in space being pumped
 
 Maintain strainers as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} the bilge pump when pumping operation is complete
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Secure the bilge pump 
 
 Secure the bilge manifold
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Make appropriate entries in the *Oil Record Book*
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * make entries in accordance with ORB instructions
 * make accurate estimate of amount pumped
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

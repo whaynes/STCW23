@@ -7,7 +7,7 @@ title:  Watch augmentation
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea, when help is needed because of restricted visibility, vessel traffic or safety of navigation." | markdownify }}
+On a ship at sea or a full mission ship simulator during an exercise at sea, when help is needed because of restricted visibility, vessel traffic or safety of navigation.
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Watch augmentation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Recognize the need for additional personnel on the bridge and notify the master.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate notified the master immediately of the following:
 
 1. restricted visibility was encountered or expected;
 2. vessel traffic density or the movements of other ships caused concern;
 3. the vessel will transit restricted waters with vessel traffic;
 4. the candidate was fatigued to the point decision making is affected.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

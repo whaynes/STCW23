@@ -1,11 +1,10 @@
 ---
 title: PS Tasks
-subtitle:  personal survival
----
 
 
+### personal survival
 
-### NVIC 08-14
+#### NVIC 08-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

@@ -7,7 +7,7 @@ title:  Reciprocating pump maintenance
 
 ### Condition
 
-{{ "Aboard ship or in workshop, given a reciprocating pump and other equipment, manuals and specifications needed to complete the task." | markdownify }}
+Aboard ship or in workshop, given a reciprocating pump and other equipment, manuals and specifications needed to complete the task.
 
 ### Performance requirement 
 
@@ -23,68 +23,103 @@ title:  Reciprocating pump maintenance
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Disassemble, disassemble %} reciprocating pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check the following:
 
   * packing
   * gaskets
   * piston and cylinders
   * valves and valve seats
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Repair, repair %} reciprocating pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Replace parts as necessary to bring pump to manufacturers specifications
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} reciprocating pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Replace and adjust seals/gaskets as necessary
 
 Adjust valve tappets for proper operation
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} reciprocating pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Operate under load and inspect for abnormalities
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

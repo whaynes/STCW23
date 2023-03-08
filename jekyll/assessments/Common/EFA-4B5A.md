@@ -7,7 +7,7 @@ title:  Demonstrate proper bleeding control techniques
 
 ### Condition
 
-{{ "Given a rescue mannequin with a bleeding injury simulated or described and asked to demonstrate proper bleeding control techniques, taking into consideration the location and severity of the injury," | markdownify }}
+Given a rescue mannequin with a bleeding injury simulated or described and asked to demonstrate proper bleeding control techniques, taking into consideration the location and severity of the injury,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate proper bleeding control techniques
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 use the rescue mannequin with a simulated or described bleeding injury to demonstrate proper bleeding control techniques, taking into consideration the location and severity of the injury.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 correctly demonstrate proper basic bleeding control techniques, taking into consideration the location and severity of the injury, following currently accepted guidelines.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

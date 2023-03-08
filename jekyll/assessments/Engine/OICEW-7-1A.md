@@ -7,7 +7,7 @@ title:  Start emergency generator
 
 ### Condition
 
-{{ "Aboard ship or in an approved simulator, given access to generator and proper tools." | markdownify }}
+Aboard ship or in an approved simulator, given access to generator and proper tools.
 
 ### Performance requirement 
 
@@ -23,46 +23,67 @@ title:  Start emergency generator
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} that system is ready to start
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Meet requirements of [OICEW 7-1B](oicew71b)
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} the generator
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Turn generator mode selector switch to _manual_
 
 Turn generator starting switch to _start_
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} that generator starts properly
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * oil pressure rises
   * air dampers open
   * voltage and frequency rises
   * jacket water temperature stabilizes
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

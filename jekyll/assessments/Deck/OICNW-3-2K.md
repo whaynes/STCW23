@@ -7,7 +7,7 @@ title:  Switch stabilization modes
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Switch stabilization modes
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Switch the display from a north up relative motion sea stabilized display to a true motion ground stabilized display.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Complete the change within 15 seconds.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Switch display modes
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Switch display modes
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Switch the display from north up stabilized relative motion to true motion to head up, and state how to recognize the mode displayed.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Within 15 seconds:
  
 1. The display is switched from north up stabilized relative motion to true motion;
 2. The display is switched from true motion to head up; and,
 3. The candidate pointed to the location on the display of the information that indicates the mode displayed.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

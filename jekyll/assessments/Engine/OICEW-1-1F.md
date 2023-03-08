@@ -7,7 +7,7 @@ title:  Visual test of welded joint
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given proper tools and supplies." | markdownify }}
+In a workshop/laboratory or other safe working environment, given proper tools and supplies.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Visual test of welded joint
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} a welded joint visually
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Prepare weld for visual inspection
 
 Identify any weld defects as described by American Welding Society, such as:
@@ -39,8 +43,11 @@ Identify any weld defects as described by American Welding Society, such as:
   * Porosity
   * Cold shut
   * Excessive spatter
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

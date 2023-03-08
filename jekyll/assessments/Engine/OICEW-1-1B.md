@@ -7,7 +7,7 @@ title:  Form two steel plates using brazing process
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and two steel plates of no less than 1/8 inch thickness." | markdownify }}
+In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and two steel plates of no less than 1/8 inch thickness.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Form two steel plates using brazing process
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use Tools, usetools %} to perform brazing process 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Observe all personal and environmental safety procedures
 
 Select brazing material, flux, and tip size appropriate for the job
@@ -43,8 +47,11 @@ Preheat plates
 
 Braze according to standard brazing procedure
  
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

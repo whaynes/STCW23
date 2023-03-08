@@ -7,7 +7,7 @@ title:  Start fuel oil or lube oil purifier
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship, given access to a fuel oil or lube oil purifier." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship, given access to a fuel oil or lube oil purifier.
 
 ### Performance requirement 
 
@@ -23,41 +23,59 @@ title:  Start fuel oil or lube oil purifier
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} the valves and equipment associated with the purifier unit
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify:
 
   * suction and discharge piping
   * inlet and outlet valves
   * pumps
   * clean and dirty oil tanks
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line-up, lineup %} purifier unit
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Line up correct valves from suction to discharge
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} the purifier
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Start prime mover and bring up to speed
 
 Secure if excessive vibration is noted
@@ -69,23 +87,33 @@ Verify:
   * 10 to 15 psi discharge pressure
   * 120° F inlet temperature
   * oil level remains visible
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} the purifier until conditions stabilize
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor:
 
   * oil temperature
   * discharge pressure
   * water seal
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

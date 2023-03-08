@@ -7,7 +7,7 @@ title:  Demonstrate rigging and unrigging a bosun's chair
 
 ### Condition
 
-{{ "On board ship or in a laboratory." | markdownify }}
+On board ship or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Demonstrate rigging and unrigging a bosun's chair
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 rig and unrig a bosun’s chair.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Gather all required materials;
 2. Inspect the bosun’s chair:
 >	a. The material has not been chafed;  
@@ -55,8 +59,11 @@ rig and unrig a bosun’s chair.
 10. When raised so that feet clear the deck, secure themselves and performs a small task with both hands;
 11. Free the securing and lowers themselves to the deck; and 
 12. Unrig and stow all equipment per the manufacturer’s instructions. 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

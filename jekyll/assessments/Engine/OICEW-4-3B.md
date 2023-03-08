@@ -7,7 +7,7 @@ title:  Prepare and start main gas turbine
 
 ### Condition
 
-{{ "On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a laboratory" | markdownify }}
+On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a laboratory
 
 ### Performance requirement 
 
@@ -23,44 +23,65 @@ title:  Prepare and start main gas turbine
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} for sufficient electrical capacity
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * start and parallel a diesel or gas turbine generator as needed
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Prepare, prepare %} main gas turbine for start
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * check lube oil storage and conditioning assembly level
 * line up fuel oil system for main gas turbine engines
 * verify that turning gear is disengaged
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} main gas turbine engines
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * press *On* button
 * monitor gas turbine engines for proper start sequence 
 * place gas turbine control to *Online*
 * engage the gas turbine engine clutch to main reduction gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

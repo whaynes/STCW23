@@ -7,7 +7,7 @@ title:  Right an inverted liferaft
 
 ### Condition
 
-{{ "In a swimming pool or suitable protected waters." | markdownify }}
+In a swimming pool or suitable protected waters.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Right an inverted liferaft
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Right an inverted liferaft while wearing a lifejacket.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Raft is successfully returned to correct orientation.
 2. No safety violations observed.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

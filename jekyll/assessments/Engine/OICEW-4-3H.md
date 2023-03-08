@@ -7,7 +7,7 @@ title:  Secure main gas turbine
 
 ### Condition
 
-{{ "On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a laboratory" | markdownify }}
+On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a laboratory
 
 ### Performance requirement 
 
@@ -23,43 +23,64 @@ title:  Secure main gas turbine
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Prepare, prepare %} to secure main gas turbine
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * shift controls to main control room
 * disengage main gas turbine engines from reduction gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} main gas turbine engines 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 - press *Normal Stop Cooldown*  button
 - monitor engine for proper sequence of operation
 - monitor gas generator speed
 - monitor power turbine inlet temperature
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %}  alarms
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Respond to alarms and take corrective actions as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

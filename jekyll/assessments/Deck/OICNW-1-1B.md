@@ -7,7 +7,7 @@ title:  Measure the altitude of the sun
 
 ### Condition
 
-{{ "Aboard a ship at sea, given a standard marine sextant, a clear horizon, a visible sun, and an accurate time." | markdownify }}
+Aboard a ship at sea, given a standard marine sextant, a clear horizon, a visible sun, and an accurate time.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Measure the altitude of the sun
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Measure the altitude of the lower limb of the sun and accurately record the time of the observation.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The altitude is within ±1.0 minutes of arc, after correction for index error, as compared with the altitude measured by the assessor at the same time; and,
 2. The time is within ± 1 second of UTC at the time of observation as determined by the assessor.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

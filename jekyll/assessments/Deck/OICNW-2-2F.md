@@ -7,7 +7,7 @@ title:  Turn over a watch
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea." | markdownify }}
+On a ship at sea or a full mission ship simulator during an exercise at sea.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Turn over a watch
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Properly turn the watch over to a relieving officer.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. A DR position was plotted on the chart in use for the end of the watch.
 2. The ship's position was determined and plotted all by means appropriate to the area transited.
 3. Required weather data was read and recorded in the deck log.
@@ -42,8 +46,11 @@ Properly turn the watch over to a relieving officer.
 9. The master is notified of any doubt that the relieving officer is competent to perform his or her duties.
 10. The watch was not turned over during a maneuver or other action to avoid a hazard to navigation.
 11. The officer being relieved did not leave the bridge until informed by the relieving officer that he or she is ready to take the watch.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

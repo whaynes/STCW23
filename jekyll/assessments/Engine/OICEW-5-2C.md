@@ -7,7 +7,7 @@ title:  Bottom blow boiler
 
 ### Condition
 
-{{ "In an approved simulator or aboard a ship, given access to a main boiler." | markdownify }}
+In an approved simulator or aboard a ship, given access to a main boiler.
 
 ### Performance requirement 
 
@@ -23,32 +23,46 @@ title:  Bottom blow boiler
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Describe, describeequipment %} purpose of boiler blowdown
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 Blow down the boiler
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Raise water level to top of gage glass
 
 Open bottom blow valve
 
 When water level falls to bottom of glass, secure bottom blow valve
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

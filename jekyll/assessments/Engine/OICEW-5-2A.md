@@ -7,7 +7,7 @@ title:  Light off main boiler
 
 ### Condition
 
-{{ "In an approved simulator or aboard a ship in port or at anchor, given access to a main boiler." | markdownify }}
+In an approved simulator or aboard a ship in port or at anchor, given access to a main boiler.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Light off main boiler
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} and prepare boiler for light off
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Insure adequate water in drum
 
 Open:
@@ -38,27 +42,41 @@ Open:
   * drum vents
   * superheater vents
   * superheater drains
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} the diesel fuel oil system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Light off, start %} boiler
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Start forced draft
 
 Open dampers and purge furnace
@@ -66,16 +84,23 @@ Open dampers and purge furnace
 Light fires
 
 Correctly proportion fuel/air ratio to prevent smoke
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} boiler
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor:
 
   * water level
@@ -83,8 +108,11 @@ Monitor:
   * temperature
   * smoke
   * excess O<sub>2<sub>
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

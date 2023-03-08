@@ -7,7 +7,7 @@ title:  Monitor and operate auxiliary boiler
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, on a simulator, or in a laboratory." | markdownify }}
+On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Monitor and operate auxiliary boiler
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Monitor, monitor %} an oil-fired auxiliary boiler
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 [Check](guidelines#check), as applicable:
 
 * steam drum pressure
@@ -45,38 +49,55 @@ title:  Monitor and operate auxiliary boiler
 * flame condition through peephole
 * boiler casing, hand holes, manholes, and piping for leakage
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} an auxiliary boiler using automatic and, when available, manual controls
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * Maintain water level within acceptable limits
 * Maintain steam pressure within acceptable limits
 * Maintain exhaust within acceptable limits
 * Ensure continuous availability of fuel
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Respond, respondtoalarm %} to high and low boiler level alarms as required
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Correct situation by, 
 
 * adjusting feed pump supply pressure
 * adjusting feedwater regulator set point
 * manually regulating level with auxiliary feed valve
 * blowing down boiler to lower level, etc., as appropriate.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

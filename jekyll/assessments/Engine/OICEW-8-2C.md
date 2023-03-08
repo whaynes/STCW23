@@ -7,7 +7,7 @@ title:  Gear pump maintenance
 
 ### Condition
 
-{{ "Aboard ship or in workshop, given a gear pump and other equipment, manuals and specifications needed to complete the task." | markdownify }}
+Aboard ship or in workshop, given a gear pump and other equipment, manuals and specifications needed to complete the task.
 
 ### Performance requirement 
 
@@ -23,54 +23,82 @@ title:  Gear pump maintenance
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Disassemble, disassemble %} gear pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check the following clearances:
 
   * end plate
   * radial
   * shaft bearings
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Repair, repair %} gear pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Replace parts as necessary to bring pump to manufacturers specifications
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} gear pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Replace and adjust seals/gaskets as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

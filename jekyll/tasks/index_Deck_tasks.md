@@ -1,11 +1,10 @@
 ---
 title: Deck Tasks
-subtitle:  officer in charge of a navigation watch
 ---
 
+### officer in charge of a navigation watch
 
-
-### NVIC 12-14
+#### NVIC 12-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -123,12 +122,11 @@ subtitle:  officer in charge of a navigation watch
 | 112. | [19.4]({{ site.baseurl }}/tasks/OICNW/D1904.html) | Personal safety and social responsibilities | {% course EN-1112%}<br/>[A-VI/1-4](614)|
 
 
-subtitle:  able seafarer deck
----
 
 
+### able seafarer deck
 
-### NVIC 14-14
+#### NVIC 14-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|
@@ -201,12 +199,11 @@ subtitle:  able seafarer deck
 | 67. | [8.6.A]({{ site.baseurl }}/tasks/ABD/J0806A.html) | Demonstrate use and maintenance of hand and power tools | {% course ST-0999E%}|
 
 
-subtitle:  ratings forming part of a navigation watch
----
 
 
+### ratings forming part of a navigation watch
 
-### NVIC 06-14
+#### NVIC 06-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

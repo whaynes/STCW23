@@ -7,7 +7,7 @@ title:  Transfer fuel
 
 ### Condition
 
-{{ "Using an approved simulator or aboard ship, given proper fuel oil transfer procedures and equipment." | markdownify }}
+Using an approved simulator or aboard ship, given proper fuel oil transfer procedures and equipment.
 
 ### Performance requirement 
 
@@ -23,71 +23,106 @@ title:  Transfer fuel
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} a fuel transfer operation
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify source and destination tanks
 
 Estimate the:
 
 * amount of oil to be transferred
 * length of time to complete transfer
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} fuel transfer system between source and destination
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Correctly line up  system between selected locations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} the fuel oil transfer pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Comply with all applicable regulations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} the transfer pump until the operational requirements have been met
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor:
 
 * suction and discharge pressures
 * level in receiving tank
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} the fuel oil transfer pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Stop pump
 
 Secure all valves
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

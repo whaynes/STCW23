@@ -7,7 +7,7 @@ title:  Determine true course and speed of target vessels
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale in the relative motion north up mode, using any graphically correct method." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale in the relative motion north up mode, using any graphically correct method.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Determine true course and speed of target vessels
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine the true course and speed of three target vessels.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 For each contact: 
 
 1. Constructed a relative motion triangle on either a reflection plotter, a maneuvering board, or a transfer plotting sheet; and
 2. Solved for the target vessel’s true course and speed within 8 minutes.
 3. The candidate’s true course solution is within ± 5° and the true speed solution is within ± 5 knots.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

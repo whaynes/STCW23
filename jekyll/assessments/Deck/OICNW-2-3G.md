@@ -7,7 +7,7 @@ title:  BRM Condition II or III – navigation and collision avoidance
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea, when acting as part of the bridge team with assigned duties to monitor the vessel’s navigation and determine the risk or danger of collision with all vessels underway in open sea, using an IMO compliant ARPA, a GPS receiver and all other bridge navigational equipment normally found on a seagoing vessel." | markdownify }}
+On a ship at sea or a full mission ship simulator during an exercise at sea, when acting as part of the bridge team with assigned duties to monitor the vessel’s navigation and determine the risk or danger of collision with all vessels underway in open sea, using an IMO compliant ARPA, a GPS receiver and all other bridge navigational equipment normally found on a seagoing vessel.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  BRM Condition II or III – navigation and collision avoidance
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine and plot the vessel’s position at suitable intervals, and plot or systematically observe all approaching vessels and inform the bride team of dangers to navigation, intended course changes, and vessels which pose a risk or danger of collision.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The vessel’s position was determined and plotted at suitable intervals.
 2. All aids to navigation were identified.
 3. The bridge team was notified immediately of the following:
@@ -42,8 +46,11 @@ Determine and plot the vessel’s position at suitable intervals, and plot or sy
     1. danger or risk of collision with any approaching vessel;
     2. recommended course change to avoid the risk or danger of collision; and,
 6. Recommended speed change to avoid the risk or danger of collision if the engines are available for immediate use.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

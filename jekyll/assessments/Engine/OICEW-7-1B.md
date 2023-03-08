@@ -7,7 +7,7 @@ title:  Inspect and start a diesel engine
 
 ### Condition
 
-{{ "Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer’s technical manual." | markdownify }}
+Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer’s technical manual.
 
 ### Performance requirement 
 
@@ -23,65 +23,97 @@ title:  Inspect and start a diesel engine
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} mechanical condition of engine
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * machine is mechanically ready to run
   * no oil or water leaks observed
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} engine lubrication
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check dipstick for sufficient oil
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} engine cooling
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check expansion tank for sufficient water
 
 Check no obstructions blocking cooling fan
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} engine fuel system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check level in fuel tank
 
 Verify alignment of fuel system
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} engine starting system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 For hydraulic start:
 
   * check accumulator pressure
@@ -91,19 +123,29 @@ For Electric start:
 
   * verify battery is properly connected
   * close battery switch
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} engine
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check engine coolant and lubrication gages
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

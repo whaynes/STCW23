@@ -7,7 +7,7 @@ title:  Prepare main steam turbine for operation
 
 ### Condition
 
-{{ "In an approved simulator or aboard a ship in port or at anchor, given access to a main steam turbine." | markdownify }}
+In an approved simulator or aboard a ship in port or at anchor, given access to a main steam turbine.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Prepare main steam turbine for operation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Line Up, lineup %} and {% do Start, start %} main lube oil system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify stern tube and line shaft lube oil
 
 Verify minimum lube oil temperature
@@ -38,73 +42,111 @@ Verify minimum lube oil temperature
 Verify oil flow to all bearings
 
 Verify gravity tank overflow
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Place into service, placeintoservice %} jacking gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check for propeller obstructions and obtain _wheel clearance_
 
 Hang _jacking gear engaged_ sign
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} main circulating system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify coolant flow
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} main condensate system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 open main condensate pump vent and seal
 
 adjust main condensate recirculating valve
 
 monitor dc heater level
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} gland seal system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 line up gland exhaust
 
 adjust gland seal regulator to 1.5 psig
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} main air ejector and raise vacuum
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Direct steam to second stage
 
 Raise vacuum to approximately 20 inches Hg
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

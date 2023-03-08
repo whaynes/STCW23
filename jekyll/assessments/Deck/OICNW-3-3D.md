@@ -7,7 +7,7 @@ title:  Operational Settings - Display/Change spot sounding limits
 
 ### Condition
 
-{{ "On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS." | markdownify }}
+On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Operational Settings - Display/Change spot sounding limits
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Display spot sounding limit. Explain your choice of settings. Choose correct display mode (base, standard, custom).
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Display spot sounding limit control and change limit based on the own ship needs within 1 minute.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

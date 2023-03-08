@@ -7,7 +7,7 @@ title:  Monitoring Sea Area - Gain information
 
 ### Condition
 
-{{ "On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS." | markdownify }}
+On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Monitoring Sea Area - Gain information
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Demonstrate two ways to gain information about a charted object.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Demonstrate within 30 seconds.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

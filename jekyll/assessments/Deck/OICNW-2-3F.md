@@ -7,14 +7,14 @@ title:  BRM Condition II or III – error trapping
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea, and with a bridge team in place for navigating in congested near coastal waters with or without reduced visibility, and assigned duties as an officer in a Bridge Team, when one of the following occur: 
+On a ship at sea or a full mission ship simulator during an exercise at sea, and with a bridge team in place for navigating in congested near coastal waters with or without reduced visibility, and assigned duties as an officer in a Bridge Team, when one of the following occur: 
 
 1. an incorrect rudder order is given;
 2. a rudder or engine command is not given at the proper time;
 3. a navigational aid is misidentified;
 4. the vessel’s position is improperly fixed; or
 5. a target vessel’s movements are improperly stated.
-" | markdownify }}
+
 
 ### Performance requirement 
 
@@ -30,17 +30,24 @@ title:  BRM Condition II or III – error trapping
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Monitor vessel’s movement, recognize erroneously stated information about the vessel’s position or a target vessels movement, and notify the conning officer of specific questions regarding the vessel’s situation.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The misinformation or command error was detected within time to prevent placing vessel into danger.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

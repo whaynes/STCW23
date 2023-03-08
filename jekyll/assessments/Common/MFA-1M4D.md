@@ -7,7 +7,7 @@ title:  Manage obstructed airway in an unconscious victim
 
 ### Condition
 
-{{ "In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation," | markdownify }}
+In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation,
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Manage obstructed airway in an unconscious victim
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate airway-management techniques and management of a choking or obstructed airway in an unconscious victim.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 demonstrate, according to standards of the American Heart Association:  
 
 a. assessing (look, listen, feel);  
@@ -39,8 +43,11 @@ c. attempting rescue breathing, repositioning head if necessary;
 d. if airway blocked, performing appropriate (adult, child, infant) CPR (no abdominal thrusts or mouth sweeps); and  
 e. continuing until airway cleared.
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

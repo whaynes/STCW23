@@ -7,7 +7,7 @@ title:  Relief of the helmsman
 
 ### Condition
 
-{{ "On a ship at anchor, or on a simulator when being relieved on port watch," | markdownify }}
+On a ship at anchor, or on a simulator when being relieved on port watch,
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Relief of the helmsman
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 hand over the helm in accordance with the ordinary practice of good seamanship.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Advise the relief of:
 > a. Both the gyro and magnetic course or helm position;   
 >b. Steering mode;  
@@ -39,8 +43,11 @@ hand over the helm in accordance with the ordinary practice of good seamanship.
 2. Never turn over the helm while executing a helm order (the candidate waits until the order is completed); and
 3. Report: “The wheel (or helm) is relieved.” to the officer on watch.
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

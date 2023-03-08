@@ -7,7 +7,7 @@ title:  Use of echo sounder
 
 ### Condition
 
-{{ "On a ship underway using an echo sounder that meets IMO performance standards or a part task trainer that realistically simulates all the functions and controls of an echo sounder that meets IMO performance standards." | markdownify }}
+On a ship underway using an echo sounder that meets IMO performance standards or a part task trainer that realistically simulates all the functions and controls of an echo sounder that meets IMO performance standards.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Use of echo sounder
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Turn on, test, and operate the echo sounder.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The system was turned on.
 2. The echo sounder was tested in accordance with manufacturer recommendations.
 3. The correct GMT is noted on the echo sounder paper (if fitted).
 4. The scale selected was the lowest appropriate for the vessel’s draft and the depth of water of the area of transit.
 5. The sensitivity was adjusted to obtain proper depth reading on the display and correct trace on the paper (if fitted).
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

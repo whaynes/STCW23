@@ -7,7 +7,7 @@ title:  Detect speed and course changes of other ships
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale, in the stabilized relative motion north up mode, and with meeting of crossing targets." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale, in the stabilized relative motion north up mode, and with meeting of crossing targets.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Detect speed and course changes of other ships
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Detect speed and course changes of other ships, which result in a change in the direction or speed of relative motion.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Other ships’ speed changes of at least 5 knots and/or course changes of at least 10° were detected within one minute from the time the candidate began his or her systematic observation of the display.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

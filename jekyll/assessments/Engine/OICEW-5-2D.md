@@ -7,7 +7,7 @@ title:  Test and treat boiler water
 
 ### Condition
 
-{{ "In an approved simulator, laboratory, or aboard a ship, given access to a boiler water sample and test equipment." | markdownify }}
+In an approved simulator, laboratory, or aboard a ship, given access to a boiler water sample and test equipment.
 
 ### Performance requirement 
 
@@ -23,25 +23,36 @@ title:  Test and treat boiler water
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Describe, describeaction %} the purpose of boiler water testing
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Describes the consequences of failure to maintain boiler water quality
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} the boiler water
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Conduct the following boiler water tests:
 
   * amerzine test
@@ -52,16 +63,23 @@ Conduct the following boiler water tests:
   * conductivity test
 
 Conduct tests in accordance with vendor's recommendations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Evaluate, evaluateinspecttest %} the test results
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Compare results to operational limits
   
 Recommend corrective actions required, including:
@@ -69,21 +87,31 @@ Recommend corrective actions required, including:
 * bottom blow
 * continuous blow
 * chemical dosing as per vendor's recommendations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Simulate treating the boiler as required
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Describe safety and environmental hazards and safe handling precautions
 
 Describe expected results
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

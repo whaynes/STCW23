@@ -7,7 +7,7 @@ title:  Fix by two bearings
 
 ### Condition
 
-{{ "On a ship underway, or a full mission ship simulator, with land and aids to navigation in sight, using a standard bearing circle, alidade, or other device for taking bearings, and given a chart with a scale of no more than 1: 80,000." | markdownify }}
+On a ship underway, or a full mission ship simulator, with land and aids to navigation in sight, using a standard bearing circle, alidade, or other device for taking bearings, and given a chart with a scale of no more than 1: 80,000.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Fix by two bearings
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine the bearings of at least two charted objects and plot them.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The position is within ± 0.2 nm of the assessor’s position.
 2. Crossing angles of bearings should be not less than 30° and not more than 160° between bearings.
 3. The bearings of objects abeam or close to the beam are observed first.
 4. The chart in use is the largest scale suitable for the waters being transited.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

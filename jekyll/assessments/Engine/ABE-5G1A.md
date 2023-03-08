@@ -7,7 +7,7 @@ title:  Trace out a piping system
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, on a simulator, or in a laboratory." | markdownify }}
+On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,10 +23,11 @@ title:  Trace out a piping system
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Trace, trace %} one or more of the following systems,
 
 * lube oil service system
@@ -34,38 +35,58 @@ title:  Trace out a piping system
 * main circulating system
 * main steam cycle
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * trace system(s) selected by the assessor
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 * {% do describe, describeequipment %} the purpose of the system
 * {% do Identify, identify %} and {% do describe, describeequipment %} any system components selected by the instructor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * descriptions are accurate
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Draw a schematic diagram of the selected system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * produce a neat and accurate drawing
 * label all major components 
 * indicate system temperatures and pressures
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

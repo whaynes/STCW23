@@ -7,7 +7,7 @@ title:  Determine risk of collision
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale, with at least 5 vessels on the display." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale, with at least 5 vessels on the display.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Determine risk of collision
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine if risk of collision or danger of collision exists with all approaching vessels.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate identified: 
 
 1. All approaching vessels whose bearing did not change appreciably; and
 2. All vessels that had a CPA of less than 3 miles; and
 3. All determinations were made within 8 minutes of determining the initial range and bearing of each vessel or within 12 minutes overall.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

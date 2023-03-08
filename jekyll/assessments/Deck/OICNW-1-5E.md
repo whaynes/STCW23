@@ -7,7 +7,7 @@ title:  Position fix by magnetic compass bearings
 
 ### Condition
 
-{{ "On a ship underway or a full mission ship simulator, or in a navigational laboratory, and given a deviation table." | markdownify }}
+On a ship underway or a full mission ship simulator, or in a navigational laboratory, and given a deviation table.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Position fix by magnetic compass bearings
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Apply the compass error to the bearings by magnetic compass of at least two charted objects and plot them on the chart in use.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Compass error is correctly applied to the magnetic bearings.
 2. The position is within ± 1 nm of the assessor’s position on a chart with a scale no smaller than 1:80,000.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Demonstrate the procedure for determining if a patient has a pulse
 
 ### Condition
 
-{{ "Given a resuscitation mannequin, and asked to demonstrate the procedure for determining if a patient has a pulse," | markdownify }}
+Given a resuscitation mannequin, and asked to demonstrate the procedure for determining if a patient has a pulse,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate the procedure for determining if a patient has a pulse
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the procedure for determining if a patient has a pulse.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow currently accepted standards as published by the American Heart Association and/or the American Red Cross.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

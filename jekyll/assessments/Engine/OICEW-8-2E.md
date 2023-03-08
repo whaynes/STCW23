@@ -7,7 +7,7 @@ title:  Overhaul valve
 
 ### Condition
 
-{{ "Aboard ship or in workshop, given one of the following types of valves: safety valve, steam trap, quick closing valve, drain valve or relief valve, and other equipment needed to complete the task." | markdownify }}
+Aboard ship or in workshop, given one of the following types of valves: safety valve, steam trap, quick closing valve, drain valve or relief valve, and other equipment needed to complete the task.
 
 ### Performance requirement 
 
@@ -23,38 +23,56 @@ title:  Overhaul valve
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Disassemble, disassemble %} a globe valve
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Remove old packing from stuffing box
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} valve
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Examine disk and seat
 
 Blue-in valve disk and seat
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Repair, repair %} valve as necessary
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Machine, grind-in and bed-in valve disk and seat as required
 
 Replace bonnet gasket
@@ -62,19 +80,29 @@ Replace bonnet gasket
 Select and install new packing
 
 Take up on valve stuffing box gland
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} valve
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Prove valve leak free with hydrostatic test
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

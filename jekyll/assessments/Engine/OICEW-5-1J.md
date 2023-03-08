@@ -7,7 +7,7 @@ title:  Prepare main propulsion diesel engine for operation
 
 ### Condition
 
-{{ "In an approved simulator, in the laboratory, or aboard a ship and given access a main propulsion diesel engine." | markdownify }}
+In an approved simulator, in the laboratory, or aboard a ship and given access a main propulsion diesel engine.
 
 ### Performance requirement 
 
@@ -23,89 +23,128 @@ title:  Prepare main propulsion diesel engine for operation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Line Up, lineup %} and {% do Start, start %} seawater system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * pump is operating
   * saltwater temperature control on automatic
   * saltwater pump control on automatic
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} low temperature freshwater cooling system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * verify cooling supply to operating equipment
   * LTFW temperature control on automatic
   * LTFW pump control on automatic
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} piston cooling system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * piston cooling tank level
   * cooling water temperature, heat if necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} high temperature freshwater cooling system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * verify cooling supply to operating equipment
   * htfw temperature control on automatic
   * htfw pump control on automatic
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} injector cooling system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * injector coolant expansion tank level
   * injector coolant temperature
   * pump on auto
   * secure heating when temperature reaches 60°c
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} main lube oil system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * sufficient sump level
@@ -115,32 +154,46 @@ Check:
   * oil temperature control on auto
   * standby pump on auto
   * crosshead pump running
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} stern tube lube oil system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * tank level
   * pumps running on auto
 
 Select upper or lower tank based on draft
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} turning gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Prior to starting, check:
 
   * lube oil system is running
@@ -150,16 +203,23 @@ Prior to starting, check:
 Obtain wheel clearance
 
 Start turning gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} and {% do Start, start %} main fuel oil system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Bypass fuel oil meter while warming up
 
 Heat oil if necessary
@@ -167,36 +227,53 @@ Heat oil if necessary
 Viscosity control on auto
 
 Start fuel booster pump
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} start air system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check pressure available
 
 Drain cooler and receiver
 
 Align system
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} turning gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Stop motor
 
 Disengage turning gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

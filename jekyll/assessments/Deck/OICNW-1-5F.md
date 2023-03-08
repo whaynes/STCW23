@@ -7,7 +7,7 @@ title:  Azimuth of the sun
 
 ### Condition
 
-{{ "On a vessel, using a standard azimuth circle. Electronic nautical almanac and celestial navigation calculation software may be used." | markdownify }}
+On a vessel, using a standard azimuth circle. Electronic nautical almanac and celestial navigation calculation software may be used.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Azimuth of the sun
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Read the gyrocompass bearing of the sun, determines correct time of observation and gyro-compass error.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1.	Reads the azimuth of the sun when the repeater is level;
 2.	Notes the time of the reading;
 3.	Determines the true azimuth of the sun for the time of the reading;
 4.	Compares the gyro-compass to the true azimuth and determines gyro error; and
 5.	Determines gyro-compass error to within ± 1.0° of the assessor’s solution
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

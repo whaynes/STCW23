@@ -7,7 +7,7 @@ title:  Make emergency repairs
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, or in a laboratory or workshop." | markdownify }}
+On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 
 ### Performance requirement 
 
@@ -23,62 +23,90 @@ title:  Make emergency repairs
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} the leaking pipe 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * wear suitable protective equipment
 * lockout line
 * drain line to confirm that it is not pressurized
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Make, fabricate %} a temporary repair using a prefabricated repair clamp, or
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * install clamp in accordance with manufacturer's instructions
 * not exceed maximum torque
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Make, fabricate %} a temporary repair using a soft patch
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * fill hole with wooden wedges or plugs 
 * trim wedges or plugs flush with pipe
 * cover damaged area with rubber or gasket material
 * secure rubber in place with two layers of marlin or wire.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} repaired pipe for leakage
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * apply pressure slowly
 * note any leaks
 * propose follow-up actions
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

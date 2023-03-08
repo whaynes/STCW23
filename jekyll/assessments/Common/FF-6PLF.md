@@ -7,7 +7,7 @@ title:  Extinguish a paint locker fire
 
 ### Condition
 
-{{ "As part of a fire team, given conditions simulating a paint locker fire on board a vessel." | markdownify }}
+As part of a fire team, given conditions simulating a paint locker fire on board a vessel.
 
 ### Performance requirement 
 
@@ -23,10 +23,11 @@ title:  Extinguish a paint locker fire
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Fight a paint locker fire using foam
 
 * assess the situation and make an appropriate plan of attack
@@ -34,9 +35,12 @@ Fight a paint locker fire using foam
 * attack and extinguish a Class B fire
 * secure and clean up the foam line
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -48,20 +52,27 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Fight a paint locker fire using dry chemical
 
 * assess the situation and make an appropriate plan of attack
 * attack and extinguish a simulated 50 square foot Class B spill fire with a 20 lb dry chemical extinguisher
 * restore the extinguisher to a serviceable condition
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -73,8 +84,11 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

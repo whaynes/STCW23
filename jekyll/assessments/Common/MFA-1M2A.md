@@ -7,7 +7,7 @@ title:  Immobilize a victim with a spinal injury
 
 ### Condition
 
-{{ "In a graded practical exercise, given a simulated non-critical patient, use of a cervical immobilization device, a long spine board, and a team of  rescuers," | markdownify }}
+In a graded practical exercise, given a simulated non-critical patient, use of a cervical immobilization device, a long spine board, and a team of  rescuers,
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Immobilize a victim with a spinal injury
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
  properly immobilize the patient's spine.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 perform, within 20 minutes and in proper sequence, all of the following:
 
 a. stabilize cervical spine;  
 b. select and applies appropriate size cervical spine-immobilization device;  
 c. maintain cervical alignment and traction while directing a team performing a log-roll onto a long spine board; and  
 d. demonstrate securing the patient to a long spine board, securing the torso, then the head.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

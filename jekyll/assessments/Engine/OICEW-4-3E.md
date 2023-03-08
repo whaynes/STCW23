@@ -7,7 +7,7 @@ title:  Monitor main gas turbine operation
 
 ### Condition
 
-{{ "On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a laboratory." | markdownify }}
+On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,52 +23,80 @@ title:  Monitor main gas turbine operation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Shift, shiftchangeover %} controls 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 shift/change over controls from local or main control room to bridge control
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Adjust, adjust %} engine speed as required
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 adjust throttles to match engine order telegraph (EOT)
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} main gas turbine engine
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * monitor gas generator speed
 * monitor power turbine inlet temperature
 * monitor lube oil pressure
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} gas turbine alarms
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 respond to alarms and take corrective actions as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

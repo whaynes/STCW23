@@ -7,7 +7,7 @@ title:  Overhaul heat exchanger
 
 ### Condition
 
-{{ "Aboard ship or in workshop, given a heat exchanger and other equipment needed to complete the task." | markdownify }}
+Aboard ship or in workshop, given a heat exchanger and other equipment needed to complete the task.
 
 ### Performance requirement 
 
@@ -23,56 +23,84 @@ title:  Overhaul heat exchanger
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Disassemble, disassemble %} heat exchanger
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} heat exchanger
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Perform hydrostatic test or black light/dye test for tube and seal leakage
 
 Note indications of corrosion, erosion, and fouling
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Maintain, maintain %} heat exchanger
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 As necessary:
 
   * clean, de-scale and plug tube
   * check, clean or replace zincs
   * replace head gaskets and seals
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} heat exchanger
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Fill and prove leak free
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

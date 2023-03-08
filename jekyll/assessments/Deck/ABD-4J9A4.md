@@ -7,7 +7,7 @@ title:  Marlinspike seamanship - line handling
 
 ### Condition
 
-{{ "On board ship or in a laboratory." | markdownify }}
+On board ship or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Marlinspike seamanship - line handling
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate methods for handling lines, and wires by tying up a vessel.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow the principles of good seamanship
 
 perform all actions safely.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

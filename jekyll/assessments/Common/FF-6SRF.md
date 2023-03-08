@@ -7,7 +7,7 @@ title:  Extinguish a stateroom fire
 
 ### Condition
 
-{{ "As part of a fire team, given conditions simulating a stateroom fire on board a vessel." | markdownify }}
+As part of a fire team, given conditions simulating a stateroom fire on board a vessel.
 
 ### Performance requirement 
 
@@ -23,18 +23,22 @@ title:  Extinguish a stateroom fire
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 * assess the situation and make an appropriate plan of attack
 * command the hose line and give proper directions to extinguish the fire
 * maneuver a hose to provide uninterrupted flow of water for the attack team
 * attack and extinguish the fire
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -46,8 +50,11 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

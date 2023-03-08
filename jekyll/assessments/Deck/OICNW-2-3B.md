@@ -7,7 +7,7 @@ title:  Voyage plan - execution
 
 ### Condition
 
-{{ "On a ship, or a full mission ship simulator, when given a voyage plan." | markdownify }}
+On a ship, or a full mission ship simulator, when given a voyage plan.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Voyage plan - execution
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 execute the voyage plan in accordance with paragraph 4 and 5 of the annex to [*IMO Assembly Resolution A893(21)*](IMO_voyage_plan). 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Check the reliability and condition of the navigational equipment at frequent intervals;
 2. Apply basic information obtained from the tide tables and other navigational publications to determine under keel clearance;
 3. Fixe the vessels position at appropriate intervals;
@@ -45,8 +49,11 @@ execute the voyage plan in accordance with paragraph 4 and 5 of the annex to [*I
 12. Correctly conduct radio-communications;
 13. Monitor and correctly operate safety and alarm systems.
 14. Closely and continuously monitor the voyage plan.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Row and steer survival craft
 
 ### Condition
 
-{{ "Using a open boat or enclosed lifeboat fitted for rowing." | markdownify }}
+Using a open boat or enclosed lifeboat fitted for rowing.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Row and steer survival craft
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 1.  Row boat as directed.
 2.  Steer boat as directed.
 3.  Steer boat by compass.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. All operations are performed safely.
 2. Proper rowing commands are utilized and followed.
 3. Steering meets operational requirements with and without a compass.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

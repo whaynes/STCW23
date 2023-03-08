@@ -7,7 +7,7 @@ title:  Demonstrate action for an unresponsive person who is not breathing
 
 ### Condition
 
-{{ "Given a resuscitation mannequin, and told to take the appropriate action for an unresponsive person who is not breathing," | markdownify }}
+Given a resuscitation mannequin, and told to take the appropriate action for an unresponsive person who is not breathing,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate action for an unresponsive person who is not breathing
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the proper action to take for an unresponsive person who is not breathing
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow currently accepted standards as published by the American Heart Association and/or the American Red Cross.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

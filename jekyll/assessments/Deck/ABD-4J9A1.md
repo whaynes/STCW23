@@ -7,7 +7,7 @@ title:  Marlinspike seamanship - knots I
 
 ### Condition
 
-{{ "On board ship or in a laboratory." | markdownify }}
+On board ship or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Marlinspike seamanship - knots I
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate marlinspike seamanship skills by tying various knots.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 tie these four knots within 10 minutes:
 
 *  Bowline;  
 *  Square knot;  
 *  Clove hitch;  
 *  Sheet bend;  
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

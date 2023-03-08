@@ -7,7 +7,7 @@ title:  Operational Settings - Display/change CPA/TCPA limits
 
 ### Condition
 
-{{ "On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS." | markdownify }}
+On an operational ECDIS that meet the standards of IMO resolution MCS.232(82) 5 Dec 2006 revised performance standards for Electronic Chart Display and Information Systems (ECDIS) or an ECDIS simulator that meets applicable national and international performance standards for ECDIS.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Operational Settings - Display/change CPA/TCPA limits
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Display CPA/TCPA limits on the ECDIS unit. Change the CPA/TCPA limits based on navigational situation.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Display CPA/TCPA target controls and change CPA/TCPA to a limit specified by instructor within 45 seconds.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

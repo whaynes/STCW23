@@ -7,7 +7,7 @@ title:  Voyage plan - preparation
 
 ### Condition
 
-{{ "On a vessel, or on a simulator, or in a navigation laboratory, when given a port of departure and a port of arrival that are between 600 nm and 1,000 nm apart." | markdownify }}
+On a vessel, or on a simulator, or in a navigation laboratory, when given a port of departure and a port of arrival that are between 600 nm and 1,000 nm apart.
 
 ### Performance requirement 
 
@@ -23,17 +23,21 @@ title:  Voyage plan - preparation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 prepare a safe and environmentally sound voyage plan, taking into account paragraph 3 of the annex to  <%=imagelink('IMO_Resolution_A.893(21).pdf','*IMO Assembly Resolution A893(21)*')%>
 
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1.	Plot courses on appropriately scaled charts noting the ETA at each way point, including the final way point;
 2.	Correctly calculate and indicate courses and distances between way points on the charts;
 3.	Calculate the most direct route that avoids all hazards to navigation by a margin of safety of 3.0 nm;
@@ -44,8 +48,11 @@ prepare a safe and environmentally sound voyage plan, taking into account paragr
 8.	Create a contingency plan for alternative actions in cases of emergency;
 9.	Determine all relevant navigation information used to identify protected marine habitats, areas and sanctuaries; and
 10.	Review the voyage plan with the Master and deck officers.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

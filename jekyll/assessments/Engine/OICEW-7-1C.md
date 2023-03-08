@@ -7,7 +7,7 @@ title:  Pre-start inspection of steam turbo-generator
 
 ### Condition
 
-{{ "Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer’s technical manual." | markdownify }}
+Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer’s technical manual.
 
 ### Performance requirement 
 
@@ -23,51 +23,72 @@ title:  Pre-start inspection of steam turbo-generator
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} for electrical readiness
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Look for:
 
   * exciter brushes lowered
   * generator breaker open
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} system for operational readiness
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Look for:
 
   * all maintenance complete
   * strainers clean
   * manhole covers on
   * no loose gear, etc.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} for adequate lubrication
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Look for:
 
   * oil level at high mark on dipstick
   * no dirt, sludge or water in the oil
   * oil temperature at least 60° F
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

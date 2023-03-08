@@ -7,7 +7,7 @@ title:  Navigate in restricted visibility
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea, when visibility becomes restricted while underway." | markdownify }}
+On a ship at sea or a full mission ship simulator during an exercise at sea, when visibility becomes restricted while underway.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Navigate in restricted visibility
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Recognize the restricted visibility take the appropriate action to navigate in restricted visibility in accordance with the COLREGS in accordance with Section STCW Code <%=imagelink('STCW_Chap_VIII' , 'A-VIII/2, Part 4-1, Paragraph 45') %>.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The restricted visibility was determined.
 2. The master was notified.
 3. Steering was switched to hand steering.
@@ -39,8 +43,11 @@ Recognize the restricted visibility take the appropriate action to navigate in r
 6. Sounding of required signals was commenced.
 7. The radar or ARPA was set on the appropriate scale to scan at long range for the presence of other vessels.
 8. Approaching targets were plotted or the ARPA or radar was used to obtain early warning of risk of collision and determine the speed and direction of relative motion.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

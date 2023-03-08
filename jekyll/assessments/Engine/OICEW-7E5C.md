@@ -7,7 +7,7 @@ title:  Test engine shutdown devices
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, on a simulator, or in a laboratory." | markdownify }}
+On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,33 +23,47 @@ title:  Test engine shutdown devices
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do test, evaluateinspecttest %} low lube oil shutdown device
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * secure and drain oil supply line to lube oil pressure sensor
 * observe the engine shut down
 * restore pressure to the lube oil sensor
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do test, evaluateinspecttest %} high jacket water temperature shutdown.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * remove jacket water temperature probe from thermal well
 * immerse in hot oil bath above shutdown temperature
 * observe the engine shut down
 * restore temperature probe to original location
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

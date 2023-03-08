@@ -7,7 +7,7 @@ title:  Demonstrate immobilizing a fracture using splints and ties
 
 ### Condition
 
-{{ "Given a rescue mannequin or a volunteer patient, and given a variety of splints and ties, when asked to demonstrate the immobilization of a fracture," | markdownify }}
+Given a rescue mannequin or a volunteer patient, and given a variety of splints and ties, when asked to demonstrate the immobilization of a fracture,
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Demonstrate immobilizing a fracture using splints and ties
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the immobilization of a fracture named by the assessor using splints and ties on either the rescue mannequin or volunteer patient.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 correctly demonstrate,  in 10 minutes or less, the immobilization of a simple limb fracture named by the assessor using splints and ties on either the rescue mannequin or volunteer patient, achieving all of the following:
  
 1.  Proper traction; 
 2.  Stability; and 
 3.  Padding.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

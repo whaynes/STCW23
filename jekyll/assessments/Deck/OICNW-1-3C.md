@@ -7,7 +7,7 @@ title:  Route planning
 
 ### Condition
 
-{{ "On a ship, a full mission ship simulator, or in a navigation laboratory, when given three way points consisting of a position of departure, a position of arrival, and one other way point, with the total distance of more than 500 nm." | markdownify }}
+On a ship, a full mission ship simulator, or in a navigation laboratory, when given three way points consisting of a position of departure, a position of arrival, and one other way point, with the total distance of more than 500 nm.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Route planning
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine the appropriate courses and distances between way points and plot the intended courses on the charts selected.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Courses and distances between waypoints were correctly calculated.
 2. The route was the most direct.
 3. The courses were plotted on the appropriately scaled charts noting the ETA at each way point, including the final way point.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

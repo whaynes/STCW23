@@ -7,7 +7,7 @@ title:  Secure main boiler
 
 ### Condition
 
-{{ "In an approved simulator or aboard a ship in port or at anchor, given access to a main boiler." | markdownify }}
+In an approved simulator or aboard a ship in port or at anchor, given access to a main boiler.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Secure main boiler
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} boiler
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Reduce load on boiler
 
 Place combustion control on manual
@@ -38,32 +42,49 @@ Place combustion control on manual
 Secure fires
 
 Open superheater vents and drains
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} forced draft fan
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Monitor, monitor %} boiler until stable
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Maintain water level in drum
 
 Open drum vent before pressure falls to 0 psi
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

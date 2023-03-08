@@ -7,7 +7,7 @@ title:  Identify day shapes
 
 ### Condition
 
-{{ "In daylight, on a vessel, a full mission ship simulator, or in a laboratory using a visual test (paper or projection), or using approved laboratory equipment." | markdownify }}
+In daylight, on a vessel, a full mission ship simulator, or in a laboratory using a visual test (paper or projection), or using approved laboratory equipment.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Identify day shapes
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Identify vessels through observation of their required shapes.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate correctly identifies the situation or occupation of 4 of 5 vessels that are displaying different required shapes.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

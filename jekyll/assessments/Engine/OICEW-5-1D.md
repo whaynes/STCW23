@@ -7,7 +7,7 @@ title:  Start and secure air compressor
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship and given access to an air compressor." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship and given access to an air compressor.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Start and secure air compressor
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} unit for readiness to start
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Inspect mechanical condition of equipment
 
 Observe sufficient lubricating oil
@@ -38,58 +42,89 @@ Observe sufficient lubricating oil
 Blow down receiver and moisture traps
 
 On water cooled units, verify coolant flow
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line-up, lineup %} compressor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify compressor discharge valve is open
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} compressor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 press start button
 
 verify control set to automatic
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} operation of air compressor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify operation of unloader
 
 Verify operation of cut-in and cut-out switches
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} the air compressor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Press the stop button
 
 Leave compressor lined up to start
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

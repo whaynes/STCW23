@@ -7,7 +7,7 @@ title:  Keep a safe anchor watch
 
 ### Condition
 
-{{ "On a ship at anchor or a full mission ship simulator during an exercise at anchor." | markdownify }}
+On a ship at anchor or a full mission ship simulator during an exercise at anchor.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Keep a safe anchor watch
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Properly keep a safe anchor watch in accordance with STCW Code Section <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2, Part 4-1, Paragraph 51') %>.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Determine and plot the ship’s position;
 2. Frequently check the ship’s position by visual and radar bearings and radar ranges from the same charted objects.
 3. Establish the GPS anchor alarm.
@@ -41,16 +45,23 @@ Properly keep a safe anchor watch in accordance with STCW Code Section <%=imagel
 8. Notify the master immediately when the weather changes, visibility becomes restricted, or the anchor starts to drag.
 9. Place engines on standby and ready for immediate use where appropriate.
 10. Properly display all required lights and shapes and sound proper sound signals.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 hand over the  anchor watch in accordance with the ordinary practice of good seamanship.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Advise the relief of:
 
 * Which anchor is in use; 
@@ -61,8 +72,11 @@ Advise the relief of:
 * Anticipated weather and events (e.g., heaving anchor, pilot) that can be expected to occur during the next watch
 
 Report: “The watch has been relieved.” to the officer on watch.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Vessel traffic systems (VTS)
 
 ### Condition
 
-{{ "On a vessel underway or on a simulator." | markdownify }}
+On a vessel underway or on a simulator.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Vessel traffic systems (VTS)
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 establish and maintain communication with a Vessel Traffic System (VTS).
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Establish communications with a VTS;
 2. Provide the initial information exchange as required by the VTS;
 3. Update information during transit as required by the VTS;
 4. Update information as required by the VTS, if the vessel anchors and/or berths; and
 5. Closs communications with the VTS as the vessel departs the VTS jurisdiction.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

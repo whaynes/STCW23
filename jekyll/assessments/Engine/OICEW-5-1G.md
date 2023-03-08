@@ -7,7 +7,7 @@ title:  Shut down fresh water generator
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship and given access to a fresh water generator." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship and given access to a fresh water generator.
 
 ### Performance requirement 
 
@@ -23,42 +23,63 @@ title:  Shut down fresh water generator
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} the valves and pumps associated with the freshwater generator started in assessment [OICEW-5-1F](OICEW-5-1F)
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify:
 
   * all associated pumps
   * valves required for shutdown
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} distillate discharge to the bilge
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} the freshwater generator
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Follow the ship specific evaporator securing procedure provided during training
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Determine set and drift
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Determine set and drift
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine the set and drift of the vessel.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The display was sea stabilized.
 2. A stationery target was identified, acquired and designated.
 3. The target’s course and speed was read as the set and drift within 3 minutes.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

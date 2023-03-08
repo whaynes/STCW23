@@ -7,7 +7,7 @@ title:  Demonstrate opening of the airway and checking for breathing
 
 ### Condition
 
-{{ "Given a resuscitation mannequin, when asked to demonstrate the opening of the airway and checking for breathing," | markdownify }}
+Given a resuscitation mannequin, when asked to demonstrate the opening of the airway and checking for breathing,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate opening of the airway and checking for breathing
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the opening of the airway and checking for breathing.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow currently accepted standards as published by the American Heart Association and/or the American Red Cross.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

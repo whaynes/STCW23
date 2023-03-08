@@ -7,7 +7,7 @@ title:  Bend copper tube
 
 ### Condition
 
-{{ "In a workshop/ laboratory or other safe working environment, given 3/8 inch copper tube of at least 10 inches long, proper tools, and lighting." | markdownify }}
+In a workshop/ laboratory or other safe working environment, given 3/8 inch copper tube of at least 10 inches long, proper tools, and lighting.
 
 ### Performance requirement 
 
@@ -23,32 +23,46 @@ title:  Bend copper tube
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} to bend a copper tube to meet job specifications
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use tools, usetools %} to bend a tube to meet job specifications
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use:
 
   * tape measure
   * tubing cutter
   * tubing bender
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

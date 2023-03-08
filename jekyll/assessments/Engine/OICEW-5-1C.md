@@ -7,7 +7,7 @@ title:  Shut down refrigeration system
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship and given access to an operating refrigeration system." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship and given access to an operating refrigeration system.
 
 ### Performance requirement 
 
@@ -23,60 +23,88 @@ title:  Shut down refrigeration system
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} the refrigerant circuit
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Close the receiver outlet valve
 
 Pump down the receiver
 
 Observe suction pressure
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} the refrigeration compressor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Observe compressor stop on low pressure cut-out
 
 De-energize the compressor
 
 Close compressor suction and discharge valves
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} associated equipment
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Secure secondary refrigerant loop, if used
 
 Secure box solenoid, if shutting down
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} the cooling water supply
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Close valves and secure pumps as required
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

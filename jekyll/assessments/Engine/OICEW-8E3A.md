@@ -7,7 +7,7 @@ title:  Clean an oil purifier
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship, given access to a fuel oil or lube oil purifier." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship, given access to a fuel oil or lube oil purifier.
 
 ### Performance requirement 
 
@@ -23,77 +23,112 @@ title:  Clean an oil purifier
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Prepare, prepare %} to clean an oil purifier
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * shut down unit and secure liquid inlet and outlet valves
 * lockout and tagout the unit
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Disassemble, disassemble %} the purifier
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * follow manufacturer's instructions
 * cause no damage to components
 * use specialized tools where required
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Clean, clean %} the purifier
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * soak dirty parts in cleaning fluid
 * remove accumulated sludge from all components
 * wipe down components with clean rag
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} the purifier
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * check parts for residual oil or sludge, remove if present
 * check bowl cover gasket for suitability, replace if necessary
 * correct any observed deficiencies
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} the purifier
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * follow manufacturer's recommendations
 * install disks in correct order
 * tighten bowl ring with bowl ring wrench
 * secure bowl cover and oil supply tube
 * insure bowl can rotate freely without binding
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

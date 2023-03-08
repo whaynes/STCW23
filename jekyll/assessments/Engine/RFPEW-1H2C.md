@@ -7,7 +7,7 @@ title:  Shift and clean a basket-type duplex strainer
 
 ### Condition
 
-{{ "Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer’s technical manual." | markdownify }}
+Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer’s technical manual.
 
 ### Performance requirement 
 
@@ -23,51 +23,72 @@ title:  Shift and clean a basket-type duplex strainer
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Change over, shiftchangeover %} a basket-type strainer to a clean basket
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * ensure that a clean strainer is available
 * ensure that the clean strainer is filled
 * loosen the locking handle
 * move the changeover handle to put the clean strainer in service
 * tighten the locking handle
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Remove, {% do inspect, evaluateinspecttest %} and {% do clean, clean %} the out-of-service basket
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * ensure that pressure is relieved on the out-of-service strainer
 * carefully remove the strainer cover
 * remove the basket
 * inspect the basket and clean if necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} the strainer basket and lid
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * replace basket and cover
 * tighten the cover bolts or hold-down dogs
 * fill and pressurize the idle strainer by briefly cracking the changeover handle
 * lock changeover handle
 * check the strainer housing for leaks
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

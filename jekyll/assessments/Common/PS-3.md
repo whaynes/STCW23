@@ -7,7 +7,7 @@ title:  Jump from a height into the water
 
 ### Condition
 
-{{ "In a swimming pool or suitable protected waters." | markdownify }}
+In a swimming pool or suitable protected waters.
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Jump from a height into the water
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Enter water from an elevated platform while wearing a USCG approved Type-1 PFD.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 When entering the water:
 
 *  Enter water feet first
 *  Cross ankles
 *  Use one hand is used to secure lifejacket at opposite shoulder
 *  Cross second arm over the first, and protect mouth and nose with hand. 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Star Fix
 
 ### Condition
 
-{{ "Aboard a ship at sea, or in a navigation laboratory, when given the assumed positions, the intercepts, azimuths, and times of three star observations, and on a standard plotting sheet appropriate for the dead reckoning position." | markdownify }}
+Aboard a ship at sea, or in a navigation laboratory, when given the assumed positions, the intercepts, azimuths, and times of three star observations, and on a standard plotting sheet appropriate for the dead reckoning position.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Star Fix
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Plot the three lines of position and advance them to a common time.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The position of the star fix is within 2.0 nm of the assessor's solution.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Ballast and deballast a tank
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, on a simulator, or in a laboratory." | markdownify }}
+On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,79 +23,121 @@ title:  Ballast and deballast a tank
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} Ballasting operation
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * Select tank to fill
 * Estimate approximate time to fill
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} Ballast system to fill the ballast tank
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * connect pump suction to a sea chest
 * connect pump discharge to ballast manifold
 * connect manifold to correct tank
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} Ballast system to empty the ballast tank
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * connect pump suction to ballast manifold
 * connect pump discharge overboard
 * connect manifold to correct tank
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} and {% do operate, operate %} ballast pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * Monitor tank level
 * Stop pump when tank is full or desired draft is achieved
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} and {% do operate, operate %} ballast pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * Monitor tank level
 * Stop pump when tank is empty or desired draft is achieved
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} ballast pump and ballast system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * restore ballast pump and manifold to original configuration
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

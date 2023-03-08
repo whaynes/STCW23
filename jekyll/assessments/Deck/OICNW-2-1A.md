@@ -7,7 +7,7 @@ title:  Identify light configurations
 
 ### Condition
 
-{{ "At night, on a vessel, a full mission ship simulator, or in a laboratory using a visual test (paper or projection), or using approved laboratory equipment." | markdownify }}
+At night, on a vessel, a full mission ship simulator, or in a laboratory using a visual test (paper or projection), or using approved laboratory equipment.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Identify light configurations
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Identify vessels through observation of their light configurations.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate correctly identifies the situation or occupation of 4 of 5 vessels that have different light configurations.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

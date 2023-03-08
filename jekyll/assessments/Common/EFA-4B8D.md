@@ -7,7 +7,7 @@ title:  Demonstrate preparing patient for spinal immobilization
 
 ### Condition
 
-{{ "Given a rescue mannequin or a volunteer patient, when asked to demonstrate one or more generally accepted practices to prepare patient for spinal immobilization" | markdownify }}
+Given a rescue mannequin or a volunteer patient, when asked to demonstrate one or more generally accepted practices to prepare patient for spinal immobilization
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate preparing patient for spinal immobilization
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 use a rescue mannequin or volunteer patient to demonstrate one or more generally accepted practices to prepare patient for spinal immobilization.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 correctly demonstrate, in 10 minutes or less,  one or more generally accepted practices to prepare a patient for spinal immobilization
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

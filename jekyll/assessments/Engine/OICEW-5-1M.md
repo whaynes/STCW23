@@ -7,7 +7,7 @@ title:  Monitor main steam turbine operation
 
 ### Condition
 
-{{ "In an approved simulator or aboard a ship underway, given access to a main steam turbine." | markdownify }}
+In an approved simulator or aboard a ship underway, given access to a main steam turbine.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Monitor main steam turbine operation
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} turbine instrumentation available at console
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify these items:
 
   * lube oil pressure gage
@@ -39,16 +43,23 @@ Identify these items:
   * gland sealing pressure gage
   * main steam pressure gage and thermometer
   * ahead and astern steam chest pressure gage
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} turbine and reduction gears while underway
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor for at least one hour
 
 Monitor these items:
@@ -57,16 +68,23 @@ Monitor these items:
   * clearance indicators
   * oil sight-flow indicators
   * lp turbine casing temperature
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} turbine exhaust system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor these items:
 
   * hotwell level
@@ -74,38 +92,55 @@ Monitor these items:
   * condensate pump operation
   * main circulating pump
   * main condenser vacuum
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} the turbine lubrication system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor these items
 
   * main lube oil sump
   * main and standby lube oil pumps
   * main lube oil coolers
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} lube oil cooler
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Maintain temperature at 110° F.
 
 State normal operating temperature range
 
 State critical temperature limits (40° F rise or 160° F max.)
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

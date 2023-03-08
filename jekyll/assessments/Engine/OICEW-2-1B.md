@@ -7,7 +7,7 @@ title:  Thread a blind hole using hand taps
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given a drilling machine, proper tools, lighting, ventilation, and metal stock of no less than 1- inch thickness, with a 3/8 inch diameter blind hole perpendicular to the surface." | markdownify }}
+In a workshop/laboratory or other safe working environment, given a drilling machine, proper tools, lighting, ventilation, and metal stock of no less than 1- inch thickness, with a 3/8 inch diameter blind hole perpendicular to the surface.
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Thread a blind hole using hand taps
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use Tools, usetools %} to {% do Fabricate, fabricate %} a 3/8-16 threaded blind hole
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use:
 
   * drill Press
   * tap drill Set
   * layout tools
   * tapping lubricant
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Cut a circular hole using oxyacetylene process
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and a thin steel plate of no less than 1/4 inch thickness." | markdownify }}
+In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and a thin steel plate of no less than 1/4 inch thickness.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Cut a circular hole using oxyacetylene process
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use Tools, usetools %} to cut a circular hole using oxy-fuel process
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Observe all personal and environmental safety procedures
 
 Light and adjust torch for cutting flame
 
 Hole radius is within ±1/8" of specifications
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

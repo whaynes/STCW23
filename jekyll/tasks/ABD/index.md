@@ -1,11 +1,10 @@
 ---
 title: ABD Tasks
-subtitle:  able seafarer deck
----
 
 
+### able seafarer deck
 
-### NVIC 14-14
+#### NVIC 14-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

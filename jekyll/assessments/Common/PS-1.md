@@ -7,7 +7,7 @@ title:  Don a lifejacket
 
 ### Condition
 
-{{ "Aboard ship, or in an approved training course." | markdownify }}
+Aboard ship, or in an approved training course.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Don a lifejacket
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Don and secure a lifejacket.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  Secure straps to prevent entanglement.
 *  Don jacket within one minute without assistance.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Shut down fuel oil or lube oil purifier
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship, given access to a running fuel oil or lube oil purifier." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship, given access to a running fuel oil or lube oil purifier.
 
 ### Performance requirement 
 
@@ -23,45 +23,66 @@ title:  Shut down fuel oil or lube oil purifier
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} the purifier oil heater
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} purifier
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Close purifier suction valve
 
 Stop purifier motor
 
 Use bowl brake to bring bowl to stop
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} piping system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Close discharge valve
 
 Close other valves as required
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

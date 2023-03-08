@@ -7,7 +7,7 @@ title:  Form two steel plates using electric arc welding process
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and two steel plates of no less than 3/8 inch thickness." | markdownify }}
+In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and two steel plates of no less than 3/8 inch thickness.
 
 ### Performance requirement 
 
@@ -23,32 +23,46 @@ title:  Form two steel plates using electric arc welding process
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use Tools, usetools %} to fuse two steel plates using electric arc welding process
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Observe all personal and environmental safety procedures
 
 adjust welding machine settings as appropriate for the job
 
 Weld according to standard welding procedure
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} resulting weld
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify any evidence of lack of fill, flux entrapment, non-continuous fillet, base metal erosion, base cracks or other defects
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

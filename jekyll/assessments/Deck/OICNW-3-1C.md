@@ -7,7 +7,7 @@ title:  Identify false echoes, sea return, racons and SARTs
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Identify false echoes, sea return, racons and SARTs
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Identify false echoes, sea return, a racon and SART.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The following were recognized and correctly identified: 
 
 1. False echoes:
@@ -41,8 +45,11 @@ The following were recognized and correctly identified:
 2. Sea return;
 3. Racons; and,
 4. SARTs.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

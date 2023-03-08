@@ -7,7 +7,7 @@ title:  Watch Relief
 
 ### Condition
 
-{{ "Aboard ship while underway, or in an approved simulator, given the engineering log book, the pertinent standing orders and proper safety equipment." | markdownify }}
+Aboard ship while underway, or in an approved simulator, given the engineering log book, the pertinent standing orders and proper safety equipment.
 
 ### Performance requirement 
 
@@ -23,46 +23,67 @@ title:  Watch Relief
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} engine room and machinery in accordance with stcw code   <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2 part 4-2  Paragraph 58') %>
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * Make thorough round of engine room and auxiliary machinery spaces
 * Communicate with bridge regarding potential adverse conditions
 * Complete the **pre-watch debrief** orally with the assessor
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} that all members of the relieving watch are ready to perform their duties
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Insure: 
 
 * all members of the engineering watch are present or accounted for
 * all watch stations are manned
 * all members of the watch are not fatigued or impaired
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Relieve the watch
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Clearly indicate when watchstanding responsibility is assumed
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

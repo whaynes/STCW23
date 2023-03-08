@@ -7,7 +7,7 @@ title:  Demonstrate use of a safety harness
 
 ### Condition
 
-{{ "On board ship or in a laboratory." | markdownify }}
+On board ship or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Demonstrate use of a safety harness
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the proper use of a safety harness.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Inspect the safety harness, line and hardware;
 2. Inspect the point and area the safety harness hardware will be attached;
 3. Rig the safety harness, line, and hardware; and
 4. Brief the safety harness line handler about his/her duties (if one is assigned). 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

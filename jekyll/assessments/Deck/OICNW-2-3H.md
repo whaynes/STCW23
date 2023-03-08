@@ -7,7 +7,7 @@ title:  BRM Condition III – establish a bridge team
 
 ### Condition
 
-{{ "On a ship at sea or a full mission ship simulator during an exercise at sea, to establish a bridge team to monitor the vessel’s navigation and determine the risk or danger of collision with all vessels." | markdownify }}
+On a ship at sea or a full mission ship simulator during an exercise at sea, to establish a bridge team to monitor the vessel’s navigation and determine the risk or danger of collision with all vessels.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  BRM Condition III – establish a bridge team
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine the number of officers required safely navigating the vessel and assigning individual officers specific duties and functions as part of the bridge team.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Officers were assigned to the following tasks: 
 
 1. Conning;
@@ -39,8 +43,11 @@ Officers were assigned to the following tasks:
 4. Navigation;
 5. Communication; and,
 6. Administration.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

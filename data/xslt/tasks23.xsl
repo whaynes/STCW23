@@ -72,8 +72,8 @@
       <xsl:param name="Tasks"/>
       <xsl:result-document method="text" href="{$folder}/index_{$Label}_tasks.md">
          <xsl:text>---&cr;</xsl:text>
-          <xsl:text>title: </xsl:text>
-         <xsl:value-of select="$Label"/> Tasks&cr;<xsl:text/>
+          <xsl:text/>title: <xsl:value-of select="$Label"/> Tasks&cr;<xsl:text/>
+        <xsl:text>---</xsl:text>
          <xsl:for-each-group select="$Tasks" group-by="Table_Short_Name/DATA">
             <xsl:call-template name="build_table">
                <xsl:with-param name="rows" select="current-group()"/>
@@ -87,10 +87,8 @@
 
    <xsl:template name="build_table">
       <xsl:param name="rows"/>
-      <xsl:text/>subtitle:  <xsl:value-of
-         select="Table_Name"/>
-     <xsl:text>&cr;---&rr;</xsl:text>
-      <xsl:text/>&rr;### NVIC <xsl:value-of select="nvic_number"/>&rr;<xsl:text/>
+      <xsl:text/>&rr;### <xsl:value-of select="Table_Name"/>
+      <xsl:text/>&rr;#### NVIC <xsl:value-of select="nvic_number"/>
       <xsl:text>&rr;| No.   | Task | Description | Location |&cr;</xsl:text>
       <xsl:text>|:-----:|:----:|:------------|:-------|&cr;</xsl:text>
       <xsl:apply-templates select="$rows">

@@ -7,7 +7,7 @@ title:  Assist with fuel oil transfer
 
 ### Condition
 
-{{ "On board ship or in laboratory" | markdownify }}
+On board ship or in laboratory
 
 ### Performance requirement 
 
@@ -23,49 +23,70 @@ title:  Assist with fuel oil transfer
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 as part of a team, {% do Plan, plan %}  a fuel transfer operation
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * describe ship’s fuel filling and storage arrangements
 * conduct job hazard analysis and pre-brief
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 transfer fuel
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * assist in taking samples for testing before taking on fuel
 * assist in connecting fuel hose to manifold
 * (simulate) taking on fuel
 * use sounding equipment to measure change in tank level and rate of filling
 * complete transfer operation without incident 
 * make no safety or environmental violations
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} from fuel transfer operations
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * secure the fuel oil fill and transfer system after the task is complete
 * assist in making relevant entries in the oil record book
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

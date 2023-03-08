@@ -7,7 +7,7 @@ title:  Lathe project
 
 ### Condition
 
-{{ "In workshop, given access to a lathe, mild steel rod stock and other necessary equipment and supplies." | markdownify }}
+In workshop, given access to a lathe, mild steel rod stock and other necessary equipment and supplies.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Lathe project
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Plan, plan %} and {% do Use the lathe, usetools %} to produce a project in accordance with attached drawing
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * make a plan which reflects proper sequence of actions and is complete
 * select proper stock
 * perform lathe operations properly and safely
 * complete the project according to the plan, and within tolerances specified in the drawing
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

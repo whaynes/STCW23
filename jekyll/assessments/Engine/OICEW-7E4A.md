@@ -7,7 +7,7 @@ title:  Disassemble and reassemble an electric motor
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, on a simulator, or in a laboratory." | markdownify }}
+On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,43 +23,64 @@ title:  Disassemble and reassemble an electric motor
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Disassemble, disassemble %} a squirrel cage induction motor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * make or note match marks
 * remove end bells
 * remove rotor
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} insulation resistance and stator winding continuity
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * use 60 second insulation resistance test
 * discuss meaning of results
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} the motor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * ensure match marks align during reassembly
 * ensure rotor turns freely after reassembly
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

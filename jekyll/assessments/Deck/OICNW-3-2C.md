@@ -7,7 +7,7 @@ title:  Establish an exclusion area
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale, and in automatic acquisition." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale, and in automatic acquisition.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Establish an exclusion area
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Establish an exclusion area that suppresses the automatic acquisition of targets in that area.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The candidate will establish within 2 minutes an exclusion area on the either side of the vessel that is either described by an arc of 90° on the appropriate side of the vessel, or described by a line parallel to the vessel's track four miles from the vessel.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

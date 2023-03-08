@@ -7,7 +7,7 @@ title:  Parallel generators
 
 ### Condition
 
-{{ "Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer technical manual." | markdownify }}
+Aboard ship, in the laboratory, or in an approved simulator given access to proper equipment and manufacturer technical manual.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Parallel generators
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Start, start %} incoming generator and raise voltage
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Start prime mover and bring up to operating speed
 
 Place voltage regulator in manual
@@ -40,16 +44,23 @@ Excite field
 Adjust frequency to 60 hz
 
 Adjust voltage to system line voltage
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Synchronize, adjust %} incoming generator with bus
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Turn on synchroscope
 
 Match voltage and frequency with bus
@@ -57,23 +68,33 @@ Match voltage and frequency with bus
 Close main breaker when generators are in phase
 
 Turn off synchroscope
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Adjust, adjust %} load on incoming generator
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Transfer voltage regulator to automatic
 
 Balance active (kw) load
 
 Balance reactive (kvar) Load
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Set weather controls
 
 ### Condition
 
-{{ "On a ship underway or a full mission ship simulator, while in auto-pilot." | markdownify }}
+On a ship underway or a full mission ship simulator, while in auto-pilot.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Set weather controls
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Set the rudder and weather controls that are most suitable for the weather and sea conditions.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The weather control is set in accordance with the manufacturer’s recommendations for the prevailing sea conditions.
 2. The rudder control is set in accordance with the manufacturer’s recommendations for the prevailing sea conditions for the area transited or simulated.
 3. The rate of turn control (if fitted) is set in accordance with the standing orders.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

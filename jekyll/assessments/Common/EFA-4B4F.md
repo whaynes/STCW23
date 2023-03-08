@@ -7,7 +7,7 @@ title:  Demonstrate proper hand placements for chest compressions
 
 ### Condition
 
-{{ "Given a resuscitation mannequin, and asked to demonstrate proper hand placements for chest compressions," | markdownify }}
+Given a resuscitation mannequin, and asked to demonstrate proper hand placements for chest compressions,
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Demonstrate proper hand placements for chest compressions
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate proper hand placements for chest compressions.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow currently accepted standards as published by the American Heart Association and/or the American Red Cross.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

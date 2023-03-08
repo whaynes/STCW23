@@ -1,11 +1,10 @@
 ---
 title: MFA Tasks
-subtitle:  medical first aid
----
 
 
+### medical first aid
 
-### NVIC 05-04
+#### NVIC 05-04
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

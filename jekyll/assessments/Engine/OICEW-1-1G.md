@@ -7,7 +7,7 @@ title:  Dye-penetrant test
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given proper tools and supplies." | markdownify }}
+In a workshop/laboratory or other safe working environment, given proper tools and supplies.
 
 ### Performance requirement 
 
@@ -23,33 +23,47 @@ title:  Dye-penetrant test
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Apply, usetools %} liquid penetrant and developer
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Apply penetrant and developer according to specifications
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} component for defects
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify visible defects such as:
 
   * discontinuities
   * cracks
   * undercutting
   * porosity, etc.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

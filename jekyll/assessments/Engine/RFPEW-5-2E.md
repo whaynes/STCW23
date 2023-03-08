@@ -7,7 +7,7 @@ title:  Change and clean burner
 
 ### Condition
 
-{{ "Aboard a ship, in port or underway, or in an approved simulator or laboratory, given proper equipment." | markdownify }}
+Aboard a ship, in port or underway, or in an approved simulator or laboratory, given proper equipment.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Change and clean burner
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} and {% do Describe, describeequipment %} components of boiler burner and register
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify:
 
 * Burner and nozzle tip
@@ -41,16 +45,23 @@ Identify:
 * Register air damper
 * Flame Scanner and controls
 * Safety gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Change Over, shiftchangeover %} burner
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Determine which burner will be taken out of service
 
 Determine which burner will be lit off
@@ -66,16 +77,23 @@ Light off clean burner
 Secure dirty burner
 
 Remove dirty burner and drain burner of residual fuel oil
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Clean, clean %} and {% do Maintain, maintain %} burner
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Steam clean dirty burner
 
 Disassemble and clean burner parts as necessary
@@ -83,8 +101,11 @@ Disassemble and clean burner parts as necessary
 Inspect nozzle tips
 
 Reassemble burner
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

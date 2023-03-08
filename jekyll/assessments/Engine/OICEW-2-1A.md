@@ -7,7 +7,7 @@ title:  Drill blind hole using drilling machine
 
 ### Condition
 
-{{ "In a workshop/laboratory or other safe working environment, given a drilling machine, proper tools, lighting, ventilation, and metal stock of no less than 1- inch thickness." | markdownify }}
+In a workshop/laboratory or other safe working environment, given a drilling machine, proper tools, lighting, ventilation, and metal stock of no less than 1- inch thickness.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Drill blind hole using drilling machine
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Use Tools, usetools %} to {% do Fabricate, fabricate %} a 5/16" diameter drilled hole
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use:
 
   * drill press
   * vise
   * layout tools
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Secure main propulsion diesel engine
 
 ### Condition
 
-{{ "In an approved simulator, in the laboratory, or aboard a ship and given access a main propulsion diesel engine." | markdownify }}
+In an approved simulator, in the laboratory, or aboard a ship and given access a main propulsion diesel engine.
 
 ### Performance requirement 
 
@@ -23,27 +23,38 @@ title:  Secure main propulsion diesel engine
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} fuel supply
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Receive permission from bridge
 
 Insure shaft is stopped
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} turning gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Prior to starting, check:
 
   * lube oil system is running
@@ -53,52 +64,76 @@ Prior to starting, check:
 Obtain wheel clearance
 
 Start turning gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} cooling systems
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Secure:
 
   * LTFW pump
   * HTFW pump
   * piston cooling pump
   * injector cooling pump
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} turning gear
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Stop motor
 
 Disengage turning gear
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} Lubricating Systems
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Secure
 
   * main lube oil pump
   * cylinder lube oil pump
   * stern tube lube oil pump
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

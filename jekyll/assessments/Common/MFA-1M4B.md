@@ -7,7 +7,7 @@ title:  Use a AED
 
 ### Condition
 
-{{ "In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation, simulating a patient in pulseless V-tach, V-tach over the maximum rate, or V-fib, and an Automated External Defibrillator (AED)," | markdownify }}
+In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation, simulating a patient in pulseless V-tach, V-tach over the maximum rate, or V-fib, and an Automated External Defibrillator (AED),
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Use a AED
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate the proper set-up and simulate the use of an AED.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 correctly demonstrate, according to standards of the American Heart Association:
 
 a. attaching AED to pulseless victim over 12 years-of-age and 90 pounds;   
 b. activating AED according to operating procedures; and  
 c. stating the circumstances under which CPR may be terminated (victim revived, unsafe to continue, too exhausted to continue, relieved by competent provider).
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

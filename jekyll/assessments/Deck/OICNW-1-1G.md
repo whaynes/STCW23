@@ -7,7 +7,7 @@ title:  Measure the altitude of at least 3 stars
 
 ### Condition
 
-{{ "Aboard a ship at sea, given a standard marine sextant, a clear horizon, a clear or partly cloudy sky, and an accurate time, during a single twilight." | markdownify }}
+Aboard a ship at sea, given a standard marine sextant, a clear horizon, a clear or partly cloudy sky, and an accurate time, during a single twilight.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Measure the altitude of at least 3 stars
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Measure the altitude of three stars and accurately record the times of the observation of each star.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The altitude is within ± 2 minutes of arc, after correction for index error, as compared with the altitude measured by the assessor at the same time; and,
 2. The time is within ± 2 seconds of UTC at the time of observation as determined by the assessor.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

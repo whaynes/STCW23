@@ -7,7 +7,7 @@ title:  Use of lifeboat equipment
 
 ### Condition
 
-{{ "In an approved course, with equipment found on a survival crft." | markdownify }}
+In an approved course, with equipment found on a survival crft.
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Use of lifeboat equipment
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Discuss or demonstrate the use of equipment available in the survival craft.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Include:
 
 1.  initial actions on boarding to enhance chances of survival
 2.  streaming drogues or sea-anchors
 3.  survival craft equipment
 4.  operation of location devices, including radio equipment and pyrotechnic distress signals.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Chart selection
 
 ### Condition
 
-{{ "On a ship, or in a navigational laboratory, given a voyage of at least 500 NM between the port of departure and the port of arrival, given the appropriate chart catalog." | markdownify }}
+On a ship, or in a navigational laboratory, given a voyage of at least 500 NM between the port of departure and the port of arrival, given the appropriate chart catalog.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Chart selection
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Identify the charts needed for the voyage.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The name and number of the charts are correctly identified and recorded.
 2. The charts selected are the largest scales appropriate for the area transited.
 3. There is no gap in chart coverage for any portion of the voyage requiring coastal navigation and departure and arrival at any port.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

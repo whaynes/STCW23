@@ -7,7 +7,7 @@ title:  Set up and maintain radar display
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Set up and maintain radar display
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Set up and maintain the radar display.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Within three minutes, after the power was turned on: 
 
 1. The set was switched from standby to transmit;
@@ -40,8 +44,11 @@ Within three minutes, after the power was turned on:
 5. The brilliance control was adjusted;
 6. The sea clutter and rain clutter controls were adjusted to suppress the rain and sea clutter without losing targets;
 7. The north up stabilized relative motion was selected.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Respond to engine room alarms
 
 ### Condition
 
-{{ "Aboard ship or in a suitable engine room simulator, given appropriate alarms." | markdownify }}
+Aboard ship or in a suitable engine room simulator, given appropriate alarms.
 
 ### Performance requirement 
 
@@ -23,38 +23,52 @@ title:  Respond to engine room alarms
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Monitor, monitor %} the simulated plant
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Respond, respondtoalarm %} to alarms such as:
 
 * high or low boiler water level
 * high or low steam pressure
 * low vacuum
 * etc
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 For each alarm that occurs:
 
   * acknowledge the alarm
   * confirm alarm condition
   * assess cause of alarm condition
   * take corrective action
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

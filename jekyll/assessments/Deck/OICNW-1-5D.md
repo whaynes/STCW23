@@ -7,7 +7,7 @@ title:  Determine course to steer by magnetic compass
 
 ### Condition
 
-{{ "On a ship underway or a full mission ship simulator, and given a deviation table." | markdownify }}
+On a ship underway or a full mission ship simulator, and given a deviation table.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Determine course to steer by magnetic compass
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Apply the compass error to the course by magnetic compass to make good the intended true course.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Compass error is correctly applied to the magnetic course.
 2. The solution is ± 2° of the assessor’s solution.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

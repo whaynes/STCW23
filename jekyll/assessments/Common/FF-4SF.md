@@ -7,7 +7,7 @@ title:  Extinguish a smoldering fire
 
 ### Condition
 
-{{ "As part of a fire team, given conditions simulating a smoldering fire on board a vessel." | markdownify }}
+As part of a fire team, given conditions simulating a smoldering fire on board a vessel.
 
 ### Performance requirement 
 
@@ -23,19 +23,23 @@ title:  Extinguish a smoldering fire
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 * assess the situation and make an appropriate plan of attack
 * attack a smoldering fire in a closed room using an all-purpose nozzle
 * maneuver the hose line to maintain an uninterrupted flow of water
 * control and extinguish the fire
 * demonstrate proper fire overhaul
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -47,8 +51,11 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

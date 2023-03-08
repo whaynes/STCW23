@@ -1,11 +1,10 @@
 ---
 title: SCRB Tasks
-subtitle:  survival craft and rescue boats other than fast rescue boats
----
 
 
+### survival craft and rescue boats other than fast rescue boats
 
-### NVIC 04-14
+#### NVIC 04-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

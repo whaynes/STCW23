@@ -7,7 +7,7 @@ title:  Set up and maintain an ARPA display
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA)." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA).
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Set up and maintain an ARPA display
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Set up and maintain the ARPA display.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Within three minutes, the candidate: 
 
 1. Turned the power on;
@@ -45,8 +49,11 @@ Within three minutes, the candidate:
  10. Display selected is north up stabilized, relative motion.
  11. Select proper gyro course and speed input.
  12. Select sea stabilized mode.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

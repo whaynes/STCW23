@@ -7,7 +7,7 @@ title:  Start and secure oily water separator
 
 ### Condition
 
-{{ "On a vessel of at least 1,000 HP, or in a laboratory or workshop." | markdownify }}
+On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 
 ### Performance requirement 
 
@@ -23,39 +23,60 @@ title:  Start and secure oily water separator
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Line up, lineup %} and {% do put into service, PlaceintoService %} the oily water separator / oil content monitor system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} the operation of the oily water separator
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 observe operation of oil content meter
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Secure, secure %} the oily water separator / oil content monitor system
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

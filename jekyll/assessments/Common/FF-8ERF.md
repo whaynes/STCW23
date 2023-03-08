@@ -7,7 +7,7 @@ title:  Extinguish an engine room fire
 
 ### Condition
 
-{{ "As part of a fire team, given conditions simulating an engine room fire on a vessel." | markdownify }}
+As part of a fire team, given conditions simulating an engine room fire on a vessel.
 
 ### Performance requirement 
 
@@ -23,10 +23,11 @@ title:  Extinguish an engine room fire
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Fight an engine room fire using foam
 
 * assess the situation and make an appropriate plan of attack
@@ -34,9 +35,12 @@ Fight an engine room fire using foam
 * attack and extinguish a simulated 50 square foot Class B spill fire
 * secure and clean up the foam line
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -48,21 +52,28 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Fight a class B fire using dry chemical extinguisher
 
 * assess the situation and make an appropriate plan of attack
 * attack and extinguish a simulated 50 square foot Class B spill fire with a 20 lb. dry chemical extinguisher
 * restore the extinguisher to serviceable condition 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -74,12 +85,16 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Fight a fire using hose and water
 
 * assess the situation and make an appropriate plan of attack
@@ -88,9 +103,12 @@ Fight a fire using hose and water
 * attack and extinguish the fire
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 as part of a team or individually,
 
 * sound proper alarm prior to fire attack
@@ -102,23 +120,33 @@ as part of a team or individually,
 * rescue, remove, and treat casualties, if any
 * demonstrate correct technique
 * successfully extinguish fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 * use SCBA while in a space involved in fire
 
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * ascertain that the air supply is adequate for the attack of all fires 
 * service their air supply without assistance from the staff
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

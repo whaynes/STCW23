@@ -7,7 +7,7 @@ title:  Use various types of portable fire extinguishers to extinguish smaller f
 
 ### Condition
 
-{{ "Given a fire and various portable fire extinguishers" | markdownify }}
+Given a fire and various portable fire extinguishers
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Use various types of portable fire extinguishers to extinguish smaller f
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Extinguish the fire
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 select appropriate extinguisher
 
 use correct technique
 
 extinguish the fire
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

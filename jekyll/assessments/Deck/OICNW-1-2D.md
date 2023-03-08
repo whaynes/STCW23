@@ -7,7 +7,7 @@ title:  Plot the ship’s DR position
 
 ### Condition
 
-{{ "On a ship underway or under laboratory conditions, and using a plotting sheet or chart, given the vessel's speed and course made good for the past four hours." | markdownify }}
+On a ship underway or under laboratory conditions, and using a plotting sheet or chart, given the vessel's speed and course made good for the past four hours.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Plot the ship’s DR position
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Plot the ship’s DR position for every hour (or more frequently if required) for the duration of the watch.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The position is within ± 1 nm of the assessor’s position.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

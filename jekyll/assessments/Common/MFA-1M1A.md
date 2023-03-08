@@ -7,7 +7,7 @@ title:  Assess and treat life-threatening conditions
 
 ### Condition
 
-{{ "In a graded practical exercise, given a simulated non-critical patient," | markdownify }}
+In a graded practical exercise, given a simulated non-critical patient,
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Assess and treat life-threatening conditions
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
  perform an initial assessment (primary survey).
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 assess and treat, within 1 minute, life-threatening conditions, including:  
   
 1.  level of responsiveness;    
 2.  breathing;    
 3.  circulation; and    
 4.  severe bleeding.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

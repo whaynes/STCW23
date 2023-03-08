@@ -1,11 +1,10 @@
 ---
 title: OICEW Tasks
-subtitle:  officers in charge of an engineering watch
----
 
 
+### officers in charge of an engineering watch
 
-### NVIC 17-14
+#### NVIC 17-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

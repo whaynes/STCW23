@@ -7,7 +7,7 @@ title:  Perform a detailed physical assessment
 
 ### Condition
 
-{{ "In a graded practical exercise, given a simulated non-critical patient," | markdownify }}
+In a graded practical exercise, given a simulated non-critical patient,
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Perform a detailed physical assessment
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 perform a detailed physical assessment (secondary survey).
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1.  observe and record, within 10 minutes, all of the following:  
     * temperature (+2°F);  
     * pulse (+6, rhythm, and strength);  
     * respiration (+6, depth, rhythm, and character); and  
     * blood pressure (+10 mm Hg systolic and diastolic); and  
 2.   performs a head-to-toe assessment to identify any deformities, contusions, abrasions, penetrations, burns, tenderness, lacerations, or swelling.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

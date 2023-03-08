@@ -1,11 +1,10 @@
 ---
 title: PSSR Tasks
-subtitle:  personal safety and social responsibility
----
 
 
+### personal safety and social responsibility
 
-### NVIC 08-14
+#### NVIC 08-14
 
 | No.   | Task | Description | Location |
 |:-----:|:----:|:------------|:-------|

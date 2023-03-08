@@ -7,7 +7,7 @@ title:  Parallel indexing
 
 ### Condition
 
-{{ "On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale in relative motion north up mode, with aids to navigation and a coastline displayed on the display." | markdownify }}
+On an operational radar or radar simulator that meets the standards of 33 CFR 164.38 and other applicable national and international performance standards, set on the 12 mile scale in relative motion north up mode, with aids to navigation and a coastline displayed on the display.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Parallel indexing
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Use a parallel index line to monitor and maintain the vessel on track.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Constructed a parallel index line through the edge of the known hazard to navigation or land mass; and,
 2. Monitored the vessel’s movement in relation to the parallel index line or an electronic display of the distance off the index line to determine if the vessel moved toward the hazard or landmass.
 3. The vessel must not drift more than 10 % of the set distance toward the parallel index line.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Adjust a sextant
 
 ### Condition
 
-{{ "On a ship underway or in a laboratory with a clear horizon, given a standard marine sextant with a total index error of no more than 2'." | markdownify }}
+On a ship underway or in a laboratory with a clear horizon, given a standard marine sextant with a total index error of no more than 2'.
 
 ### Performance requirement 
 
@@ -23,21 +23,28 @@ title:  Adjust a sextant
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Remove the adjustable sextant errors
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The errors are removed in the following order:
     1. Perpendicularity;
     2. Side error;  
     3. Parallelism
 2. The index error is less than 1.0 minutes of arc.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

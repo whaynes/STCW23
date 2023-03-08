@@ -7,7 +7,7 @@ title:  Keep a safe navigation watch
 
 ### Condition
 
-{{ "On a ship underway or a full mission ship simulator during an exercise at sea." | markdownify }}
+On a ship underway or a full mission ship simulator during an exercise at sea.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Keep a safe navigation watch
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Properly keep a safe navigational watch in accordance with STCW Code Section <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2, Part 4-1, Paragraphs 24 to 50') %>.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The voyage plan was closely and continuously monitored.
 2. A proper look out was maintained by all available means.
 3. A safe speed was maintained through out the watch period.
@@ -54,8 +58,11 @@ Properly keep a safe navigational watch in accordance with STCW Code Section <%=
 21. Running lights were checked throughout the watch period.
 22. The master was notified as directed by all master’s or standing orders.
 23. All required log entries were made.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

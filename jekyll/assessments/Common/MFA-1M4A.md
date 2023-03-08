@@ -7,7 +7,7 @@ title:  Perform CPR
 
 ### Condition
 
-{{ "In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation," | markdownify }}
+In a graded practical exercise, given an adult manikin designed for cardio-pulmonary resuscitation,
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Perform CPR
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate airway-management techniques and management of a patient in cardiac arrest.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 correctly demonstrate, according to standards of the American Heart Association, the following:
 
 a. assessing responsiveness;  
@@ -45,8 +49,11 @@ i. after performing 1 minute CPR, reassess breathing and pulse;
 j. if no pulse or breathing, continue CPR;  
 k. if pulse but no breathing, continue rescue breathing; and  
 l. if pulse and breathing present, place victim in recovery position (on side).
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

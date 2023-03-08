@@ -7,7 +7,7 @@ title:  Situational awareness
 
 ### Condition
 
-{{ "On a vessel underway, or on a simulator in clear visibility with light to moderate traffic." | markdownify }}
+On a vessel underway, or on a simulator in clear visibility with light to moderate traffic.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Situational awareness
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate, through the course of a full watch, the integration of navigational, bridge resource management, and seamanship skills.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 maintain situational awareness with regard to:
 
 1. Hazards to navigation;
@@ -42,8 +46,11 @@ maintain situational awareness with regard to:
 7. Location and duties of watch partners;
 8. Limitations in propulsion and steering systems; and 
 9. Maintaining appropriate communications.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

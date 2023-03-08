@@ -7,7 +7,7 @@ title:  Maneuver for man overboard
 
 ### Condition
 
-{{ "On a ship at sea or in a full mission simulator, upon receiving notification of a Man-Overboard." | markdownify }}
+On a ship at sea or in a full mission simulator, upon receiving notification of a Man-Overboard.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Maneuver for man overboard
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Immediately initiate either a Williamson Turn or Anderson Turn (as appropriate for conditions), return the vessel to the MOB, and give the command to launch the rescue boat.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Order full rudder to the side of MOB and place engines on stand by (do not reduce speed);
 2. Simulate releasing the lighted buoy;
 3. Sound MOB signal if other vessels are in sight;
@@ -38,8 +42,11 @@ Immediately initiate either a Williamson Turn or Anderson Turn (as appropriate f
 5. Simulate a “Pan Pan” call on the VHF notifying any vessels in vicinity of the MOB;
 6. Complete the recovery turn;
 7. State that the rescue boat would be prepared for launch; or scrambling nets rigged on correct side of the vessel; 8. State that when on the reciprocal of the original course, the vessel will be slowed and stopped within .1 nm of the MOB to begin the recovery/search.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

@@ -7,7 +7,7 @@ title:  Flashing Light
 
 ### Condition
 
-{{ "On a ship or in a laboratory using a device by which sends flashing light messages at a speed of 4 wpm; when sent two messages, the first consisting of the following: 
+On a ship or in a laboratory using a device by which sends flashing light messages at a speed of 4 wpm; when sent two messages, the first consisting of the following: 
 
 1. DE followed by a four-(4) letter identity signal, sent once;
 2. YU: Indicating that a Code Group follows, sent once;
@@ -20,7 +20,7 @@ and the second consisting of:
 2. YU: Indicating that a Code Group follows; sent once;
 3. Text: Five three character code groups, each of which is sent twice;
 4. Ending: AR.
-" | markdownify }}
+
 
 ### Performance requirement 
 
@@ -36,20 +36,27 @@ and the second consisting of:
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Read the Morse code flashing light signals, record the letters and numbers of the entire message, and interpret the code groups in accordance with H.O. 102.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Record the letters of the message; and,
 2. Achieve a minimum passing score of 70% scored as follows:
     1. three points are given for each correct character of the five random five letter groups for a possible total of 75 points; and 
     2.  five points are given for each correct plain language interpretation (candidate must look up the meaning of the code groups in H.O. 102) of each of the five code groups for a possible total of 25 points.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

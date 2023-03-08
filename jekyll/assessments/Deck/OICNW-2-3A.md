@@ -7,7 +7,7 @@ title:  Voyage plan - appraisal
 
 ### Condition
 
-{{ "On a ship, a full mission ship simulator, or in a navigation laboratory, when given a port of departure and a port of arrival more than 500 miles apart." | markdownify }}
+On a ship, a full mission ship simulator, or in a navigation laboratory, when given a port of departure and a port of arrival more than 500 miles apart.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Voyage plan - appraisal
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 collect and consider the information required to plan a safe and environmentally sound voyage plan, taking into account paragraph 2 of the annex to [*IMO Assembly Resolution A893(21)*](IMO_voyage_plan).
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 collect and consider: 
 
 1. The condition of the vessel, its stability, equipment, operational limitations, draft and maneuvering characteristics;
@@ -49,8 +53,11 @@ collect and consider:
 14. Port information, including emergency response capability.
 
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

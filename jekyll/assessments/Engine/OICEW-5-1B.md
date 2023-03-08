@@ -7,7 +7,7 @@ title:  Start refrigeration system
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship and given access to a refrigeration system that has been secured." | markdownify }}
+Using an approved simulator, in the laboratory, or aboard ship and given access to a refrigeration system that has been secured.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Start refrigeration system
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} the valves and equipment associated with the refrigeration unit
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify:
 
   * compressor suction valve
@@ -38,66 +42,101 @@ Identify:
   * cooling water supply
   * thermal expansion valve
   * solenoid valve
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} compressor lubrication
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify visible oil level
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} refrigerant level
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify visible receiver level
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line-up, lineup %} refrigeration unit
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Line up cooling water supply
 
 LIne up refrigerant circuit
 
 Leave compressor suction valve closed
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} associated equipment
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Energize box solenoids
 
 Start diffuser fans, brine pumps, etc. as required
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} the refrigeration compressor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Gradually open compressor suction valve
 
 Verify:
@@ -105,24 +144,34 @@ Verify:
   * circulation water is flowing
   * oil pressure rises upon starting
   * oil level remains visible
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} the refrigeration unit until conditions stabilize
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor:
 
   * suction pressure
   * discharge pressure
   * box temperatures
   * operation of pressure switches
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

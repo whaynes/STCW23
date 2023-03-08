@@ -7,7 +7,7 @@ title:  Centrifugal pump maintenance (mechanical seal)
 
 ### Condition
 
-{{ "Aboard ship or in workshop, given a centrifugal pump and other equipment, manuals and specifications needed to complete the task." | markdownify }}
+Aboard ship or in workshop, given a centrifugal pump and other equipment, manuals and specifications needed to complete the task.
 
 ### Performance requirement 
 
@@ -23,84 +23,126 @@ title:  Centrifugal pump maintenance (mechanical seal)
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Secure, secure %} and {% do Lock-out, lockouttagout %} the split case centrifugal pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Disassemble, disassemble %} the pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow disassembly procedure in the laboratory manual
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check the following:
 
   * packing, or seals
   * gasket
   * impeller wear
   * shaft bearings
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Repair, repair %} centrifugal pump
 
 * replace mechanical seal 
 * lubricate grease lubricated
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * replace seal according to procedure in the laboratory manual
 * use proper grade and amount of grease 
 * replace or repair other parts as necessary to bring pump to manufacturer's specifications
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Reassemble, reassemble %} centrifugal pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Follow procedure in laboratory manual
 
 Adjust seals/gaskets as necessary
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} centrifugal pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Operate under load and inspect for abnormalities
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

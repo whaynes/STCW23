@@ -7,9 +7,9 @@ title:  Start fresh water generator
 
 ### Condition
 
-{{ "Using an approved simulator, in the laboratory, or aboard ship and given access to a steam heated flash-type, jacket water heated Nyrex-type or a reverse osmosis fresh water generator as selected by the assessor.
+Using an approved simulator, in the laboratory, or aboard ship and given access to a steam heated flash-type, jacket water heated Nyrex-type or a reverse osmosis fresh water generator as selected by the assessor.
 
-" | markdownify }}
+
 
 ### Performance requirement 
 
@@ -25,54 +25,79 @@ title:  Start fresh water generator
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} the valves and pumps associated with the freshwater generator selected by the assessor
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 identify:
 
   * all associated pumps
   * valves required for startup
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} the selected freshwater generator
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 follow the ship specific evaporator starting procedure provided during training
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Line up, lineup %} the discharge to meet operational requirements
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Before proceeding:
 
   * check that selected tank is not full
   * state salinity limits for tank selected
   * check that discharge salinity is within limits
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} the freshwater generator until operations stabilize
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check, as appropriate:
 
   * discharge salinity
@@ -81,8 +106,11 @@ Check, as appropriate:
   * liquid levels
   * pump operations
   * chemical feed
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

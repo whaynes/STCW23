@@ -7,7 +7,7 @@ title:  Engineering watchkeeping
 
 ### Condition
 
-{{ "While performing the duties of the *Cadet Engineer* or *Assistant Cadet Engineer* of the watch aboard the training ship, or on a simulator, or in a laboratory." | markdownify }}
+While performing the duties of the *Cadet Engineer* or *Assistant Cadet Engineer* of the watch aboard the training ship, or on a simulator, or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,30 +23,41 @@ title:  Engineering watchkeeping
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 make a thorough round before taking over the watch
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  meet the standards set forth in assessment [OICEW-4-1A](oicew41a) *Inspect machinery spaces before assuming watch*
 
 
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 take over the watch
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  take over the watch in accordance with  STCW Code A-VIII/2 part 4-2  [**principles to be observed in keeping an engineering watch**](principles#4-2) 
 
 *  meet the standards set forth in assessment [OICEW-4-1B](OICEW-4-1B) (Watch relief)
@@ -55,93 +66,138 @@ take over the watch
 
 *  seek clarification from the off-going watch before taking over the watch if plant conditions, standing orders, special instructions, etc., are not clearly understood
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 perform the watch
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * perform the watch in accordance with the [**principles to be observed in keeping an engineering watch**](principles#4-2)
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 respond to alarms
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * acknowledge alarm
 * verify alarm condition
 * assess cause of alarm condition
 * take corrective action, or request assistance if necessary
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 operate internal communications systems
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * communicates with bridge via sound-powered phone 
 * answer the phone by stating location, rank, and name, and rank
 * simulates communication via two-way radio
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 respond to bells during maneuvering
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * record shaft counter and fuel oil meter reading at standby, departure, and arrival
 * acknowledge bridge commands by matching engine order telegraph with order from the bridge
 * quickly adjust throttles to meet bridge command without causing boiler pressure to exceed limits
 * make appropriate and legible entries into bell book to record all bridge command and responses
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 fill out the logbook
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * enter accurate data
 * make neat entries in blue or black ink
 * keep logbook clean
 * note any changes in machinery status, significant events, or casualties
 * make corrections with a single line only and initial
 * sign log at end of watch
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 hand-over the watch
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 *  complete all routine duties before handing over the watch
 * hand over the watch in accordance with the [**principles to be observed in keeping an engineering watch**](principles#4-2)
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

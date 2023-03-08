@@ -7,7 +7,7 @@ title:  Don and use a self-contained breathing apparatus
 
 ### Condition
 
-{{ "While dressed in a fire fighter’s outfit, without gloves on" | markdownify }}
+While dressed in a fire fighter’s outfit, without gloves on
 
 ### Performance requirement 
 
@@ -23,16 +23,20 @@ title:  Don and use a self-contained breathing apparatus
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Don a self-contained breathing apparatus
 
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1.  Quickly don a SCBA using one or more of these methods:
 
     *	Off the wall
@@ -46,23 +50,33 @@ Don a self-contained breathing apparatus
 
 
 
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Use the self-contained breathing apparatus
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 demonstrate all of the following:
 
 * Normal breathing;
 * Changing the bottle; and
 * Emergency breathing.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

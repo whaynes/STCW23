@@ -7,7 +7,7 @@ title:  Course change of more than 45°
 
 ### Condition
 
-{{ "On a ship at sea or in a full mission simulator." | markdownify }}
+On a ship at sea or in a full mission simulator.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Course change of more than 45°
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Order turning the vessel left or right more than 45° from the original heading.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Order the turn left or right more than 45° from the original heading by applying a minimum of 10° and a maximum of 20° of rudder;
 2. Reduce rudder as the ship approaches the new course; and,
 3. Steady on the new course without over shooting the course by more than 10°
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

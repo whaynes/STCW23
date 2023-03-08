@@ -7,7 +7,7 @@ title:  Test steering gear and internal communications
 
 ### Condition
 
-{{ "Aboard ship at steering room station or in an approved simulator." | markdownify }}
+Aboard ship at steering room station or in an approved simulator.
 
 ### Performance requirement 
 
@@ -23,43 +23,61 @@ title:  Test steering gear and internal communications
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Check, check %} steering gear is ready for operation
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Check:
 
   * machinery oil levels
   * general condition of equipment and space
   * system line-up is as per posted chart
   * trick wheels are disengaged
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 Establish and {% do test, evaluateinspecttest %} communications with bridge
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use sound powered phone or vhf radio.
 
 Use correct procedures and terminology
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Start, start %} and {% do Test, evaluateinspecttest %} each motor and pump
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Insure that the steering engine and the rudder are synchronized in the midship position before starting or stopping pumps
 
 Have bridge operate each main steering engine assembly through full range of travel in normal mode and nfu mode
@@ -71,19 +89,29 @@ Verify operation of rudder angle indicator system with bridge
 Note rudder travel time from stop to stop
 
 Note any unusual operation, noises or leakage
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Check, check %} alternate power sources
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Verify that normal and emergency power feeders are functional
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

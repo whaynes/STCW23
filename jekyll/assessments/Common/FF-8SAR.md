@@ -7,7 +7,7 @@ title:  Search and Rescue
 
 ### Condition
 
-{{ "As part of a fire team, given conditions simulating an engine room fire on a vessel." | markdownify }}
+As part of a fire team, given conditions simulating an engine room fire on a vessel.
 
 ### Performance requirement 
 
@@ -23,19 +23,26 @@ title:  Search and Rescue
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 * search a fire compartment while a fire is burning
 * locate and rescue a mannequin
 * remove it from the compartment
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 victim is successfully rescued
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

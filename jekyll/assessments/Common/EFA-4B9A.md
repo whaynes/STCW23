@@ -7,7 +7,7 @@ title:  Demonstrate bandaging technique for wound treatment
 
 ### Condition
 
-{{ "Given a roller bandage, a triangular bandage, a tubular rolled bandage and a cravat, when asked to demonstrate bandaging techniques for wound treatment for each injury site indicated," | markdownify }}
+Given a roller bandage, a triangular bandage, a tubular rolled bandage and a cravat, when asked to demonstrate bandaging techniques for wound treatment for each injury site indicated,
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Demonstrate bandaging technique for wound treatment
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 select the appropriate bandage(s) and/or cravat, and demonstrate the bandaging technique for wound treatment for each injury site indicated.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * select the proper bandage(s) and/or cravat
 
 * correctly demonstrate the bandaging technique for wound treatment that holds dressing securely in place, but does not interfere with circulation  3 of any 4 of the following injury sites (named by the assessor) in the time frame indicated:
@@ -39,8 +43,11 @@ select the appropriate bandage(s) and/or cravat, and demonstrate the bandaging t
 2.  Chest or back (10 minutes; uses triangular bandage); 
 3.  Shoulder or hip (10 minutes; uses cravat and triangular bandages); or 
 4.  Hand or foot (5 minutes; uses triangular bandage).
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

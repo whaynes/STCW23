@@ -7,7 +7,7 @@ title:  Marlinspike seamanship - knots II
 
 ### Condition
 
-{{ "On board ship or in a laboratory." | markdownify }}
+On board ship or in a laboratory.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Marlinspike seamanship - knots II
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 demonstrate marlinspike seamanship skills by tying various knots.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 tie six knots selected by the instructor from the list below within 15 minutes:
 
 *  Carrick bend;  
@@ -47,8 +51,11 @@ tie six knots selected by the instructor from the list below within 15 minutes:
 *  Barrel hitch;  
 *  Round turn and two half hitches; and  
 *  Double becket bend.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

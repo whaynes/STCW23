@@ -7,7 +7,7 @@ title:  Troubleshoot electrical motor control system
 
 ### Condition
 
-{{ "Aboard ship, in a workshop, or using a appropriate simulator, given the schematic of and access to the electrical control system, proper tools and safety equipment." | markdownify }}
+Aboard ship, in a workshop, or using a appropriate simulator, given the schematic of and access to the electrical control system, proper tools and safety equipment.
 
 ### Performance requirement 
 
@@ -23,54 +23,82 @@ title:  Troubleshoot electrical motor control system
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Inspect, evaluateinspecttest %} circuit
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Test system operation
 
 Note symptoms of faulty operation
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Identify, identify %} possible causes of observed symptoms
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
 
 
 
-<!--rowend-->
+<tr><td>
 
-
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Test, evaluateinspecttest %} controller circuits to locate faults
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Use meters to systematically discover cause of fault
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Repair, repair %} system to clear fault and restore normal operation
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify and replace faulty component
 
 Complete all operations safely and within time limit and efficiently to receive credit for fault
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

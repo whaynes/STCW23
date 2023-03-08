@@ -7,7 +7,7 @@ title:  Notify Master when appropriate
 
 ### Condition
 
-{{ "On a ship underway or a full mission ship simulator during an exercise at sea." | markdownify }}
+On a ship underway or a full mission ship simulator during an exercise at sea.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Notify Master when appropriate
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Notify the master as instructed, and when in doubt of other vessels’ intentions, or in any circumstances that affect the routine navigation of the vessel in accordance with STCW Code Section <%=imagelink('STCW_Chap_VIII' , 'A-VIII/2, Part 4-1, Paragraph 40') %>.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The master was notified immediately when one of the following occurred.
 
 1. Restricted visibility was encountered or expected.
@@ -45,8 +49,11 @@ The master was notified immediately when one of the following occurred.
 10. Any hazard to navigation that posed a threat to the vessel was noticed.
 11. Any doubt about the ship’s safety or other emergency arose.
 12. Any changes are made to the voyage plan
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

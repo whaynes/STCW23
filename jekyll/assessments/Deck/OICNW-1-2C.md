@@ -7,7 +7,7 @@ title:  Fix by tangent bearings of two identified objects
 
 ### Condition
 
-{{ "On an operational marine radar or a radar simulator that meets applicable national and international performance standards, with land and buoys displayed, and given a chart with a scale of no more than 1: 80,000." | markdownify }}
+On an operational marine radar or a radar simulator that meets applicable national and international performance standards, with land and buoys displayed, and given a chart with a scale of no more than 1: 80,000.
 
 ### Performance requirement 
 
@@ -23,17 +23,24 @@ title:  Fix by tangent bearings of two identified objects
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine two or more tangent bearings measured from identified-charted objects or points of land and plot them.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 The position is within ± 1 nm of the assessor’s position.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

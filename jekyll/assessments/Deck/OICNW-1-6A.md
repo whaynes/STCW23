@@ -7,7 +7,7 @@ title:  Steering gear test
 
 ### Condition
 
-{{ "On a vessel or a full mission ship simulator." | markdownify }}
+On a vessel or a full mission ship simulator.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Steering gear test
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Conduct the pre-departure test of the vessel’s steering gear.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The steering control system is turned on.
 2. The steering gyro repeater is aligned with the master gyro-compass.
 3. After the required warm up period, the controls for switching pumps and motors between the port and starboard steering systems are tested.
@@ -38,8 +42,11 @@ Conduct the pre-departure test of the vessel’s steering gear.
     1. When the control is switched to hand steering, the rudder is tested throughout its full range of motion.
     2. When the control is switched to non follow-up, the rudder is tested throughout its full range of motion.
 5. Change the steering mode from auto plot to hand and back.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

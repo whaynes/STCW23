@@ -7,7 +7,7 @@ title:  Keep afloat without a lifejacket
 
 ### Condition
 
-{{ "In a swimming pool or suitable protected waters of sufficient depth." | markdownify }}
+In a swimming pool or suitable protected waters of sufficient depth.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Keep afloat without a lifejacket
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Keep afloat without a lifejacket.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Demonstrate, for a period of at least one minute,  the ability to:
 
 *  Float on back
 *  Tread water.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

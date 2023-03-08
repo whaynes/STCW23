@@ -7,7 +7,7 @@ title:  Monitor oily water separator system
 
 ### Condition
 
-{{ "Aboard ship or in an approved simulator, given access to an oily water separator system and proper tools and equipment." | markdownify }}
+Aboard ship or in an approved simulator, given access to an oily water separator system and proper tools and equipment.
 
 ### Performance requirement 
 
@@ -23,14 +23,18 @@ title:  Monitor oily water separator system
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Identify, identify %} and {% do Describe, describeequipment %} the visible components of the ows.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Identify and describe at least the following:
 
   * suction line
@@ -45,47 +49,71 @@ Identify and describe at least the following:
   * operating pressure
   * waste oil discharge
   * oil level probe
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Trace, trace %} the suction and discharge of the OWS.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Trace system for current operating condition
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Monitor, monitor %} the OWS.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Monitor OWS for at least one hour
 
 Check bilge level
 
 Maintain OWS log
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Apply regulations, applyregulations %} to the operation of the OWS
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Know permissible oil content for discharge
 
 Fill out sample _Oil Record Book_
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

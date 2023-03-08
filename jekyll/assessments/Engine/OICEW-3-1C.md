@@ -7,7 +7,7 @@ title:  Detect location of grounds
 
 ### Condition
 
-{{ "Aboard ship, in a workshop, or using an approved simulator, given access to an electrical distribution system, and proper tools and safety equipment." | markdownify }}
+Aboard ship, in a workshop, or using an approved simulator, given access to an electrical distribution system, and proper tools and safety equipment.
 
 ### Performance requirement 
 
@@ -23,34 +23,48 @@ title:  Detect location of grounds
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 {% do Describe, describeequipment %} operation of ground fault detection systems
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Define a ground fault
 
 State common causes of ground faults
 
 State behavior of ground lamps
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
 
 
-<!--rowstart-->
 
+<tr><td>
+
+{% capture behavior %}
 {% do Operate, operate %} ground fault simulator
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 Introduce ground fault and observe behavior of ground lamps
 
 Introduce a second ground fault, and observe behavior of circuit breaker
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

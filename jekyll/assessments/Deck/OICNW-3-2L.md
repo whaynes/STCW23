@@ -7,7 +7,7 @@ title:  Navigation lines
 
 ### Condition
 
-{{ "On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale, using 2 nav marks and one nav line." | markdownify }}
+On an operational ARPA that meet the standards of 33 CFR 164.38 (or an ARPA simulator that meets applicable national and international performance standards for ARPA), with the ARPA on the 12 mile scale, using 2 nav marks and one nav line.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Navigation lines
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Establish a nav line to monitor and maintain the vessel on track.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. Constructs a nav line between the 2 nav marks and through the seaward edge of the known hazard to navigation or land mass;
 2. Positions the VRM at a distance named by the assessor from the edge of the nav line; and
 3. Monitors the vessel’ movement to determine if the edge of the VRM moves inside the nav line.
 4. The VRM must not drift more than 10 % of the VRM distance inside the nav line.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

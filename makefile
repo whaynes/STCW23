@@ -22,11 +22,12 @@ JEKYLL    = $(PRJ)/jekyll
 # OUTPUT Directories 
 # files here are rebuild generated, can be wiped
 ##
-XML        = $(SOURCE)/xml
-SITE       = $(OUT)/_site
-TABLES     = $(JEKYLL)/tables
-COURSES    = $(JEKYLL)/courses
-TASKS      = $(JEKYLL)/tasks
+XML          = $(SOURCE)/xml
+SITE         = $(OUT)/_site
+TABLES       = $(JEKYLL)/tables
+COURSES      = $(JEKYLL)/courses
+TASKS        = $(JEKYLL)/tasks
+ASSESSMENTS  = $(JEKYLL)/assessments
 #
 #################################################
 # Local and remote webserver document locations
@@ -45,6 +46,7 @@ all:
 	make tables
 	make courses
 	make tasks
+	make assessments
 
 
 tables:
@@ -55,6 +57,10 @@ courses:
 
 tasks:
 	java -jar $(SAXON) -s:$(XML)/tasks.xml -xsl:$(XSL)/tasks23.xsl -o:$(TASKS)/out.html
+	
+assessments:
+	java -jar $(SAXON) -s:$(XML)/assessments.xml -xsl:$(XSL)/assessments23.xsl -o:$(TASKS)/out.html
+
 
 
 open: 

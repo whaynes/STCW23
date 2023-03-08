@@ -7,7 +7,7 @@ title:  Position fix by GPS
 
 ### Condition
 
-{{ "On a ship underway, or a full mission ship simulator, or in a navigation laboratory, using a GPS receiver which meets IMO performance standards." | markdownify }}
+On a ship underway, or a full mission ship simulator, or in a navigation laboratory, using a GPS receiver which meets IMO performance standards.
 
 ### Performance requirement 
 
@@ -23,18 +23,25 @@ title:  Position fix by GPS
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Initialize a GPS receiver, determine the ship’s position, and evaluate the accuracy of that position.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The system was initialized.
 2. The indicators of position accuracy were determined
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

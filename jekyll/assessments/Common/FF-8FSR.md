@@ -7,7 +7,7 @@ title:  Firefighting self rescue
 
 ### Condition
 
-{{ "A dark, confined space maze containing scuttles and manways as small as 24 inches in diameter, which simulates an engineering space on fire.  " | markdownify }}
+A dark, confined space maze containing scuttles and manways as small as 24 inches in diameter, which simulates an engineering space on fire.  
 
 ### Performance requirement 
 
@@ -23,22 +23,29 @@ title:  Firefighting self rescue
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 * enter a dark, confined space maze in full turnout gear
 
 * locate and exit the space
 
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 * exit space without running out of air
 
 * report to the instructor with a full SCBA air supply after completing the maze to simulate lost person reporting to ship’s command
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>

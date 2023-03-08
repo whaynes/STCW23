@@ -7,7 +7,7 @@ title:  Determine magnetic compass error
 
 ### Condition
 
-{{ "On a ship underway or a full mission ship simulator or in a laboratory, with both a magnetic and gyrocompass." | markdownify }}
+On a ship underway or a full mission ship simulator or in a laboratory, with both a magnetic and gyrocompass.
 
 ### Performance requirement 
 
@@ -23,20 +23,27 @@ title:  Determine magnetic compass error
  </tr>
  </thead>
  <tbody>
+ 
 
+<tr><td>
 
-<!--rowstart-->
-
+{% capture behavior %}
 Determine the magnetic compass error.
+{% endcapture %}
+{{ behavior | markdownify }}
 
-<!--cellbreak-->
+</td><td>
 
+{% capture standard %}
 1. The magnetic heading is compared to the corrected gyro heading (corrected for a known gyro error).
 2. The magnetic compass error is determined and properly labeled.
 3. The solution is ± 1° of the assessor’s solution.
 4. The error is correctly recorded in the compass record book.
+{%endcapture %}
+{{ standard | markdownify }}
 
-<!--rowend-->
+</td></tr>
+
 
 
  </tbody>
