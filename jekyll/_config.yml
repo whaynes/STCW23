@@ -28,8 +28,18 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "page"
   
-      
+  
+collections:
+  courses:
+    output: true
+    sort_by: CNum
       
 description: >- # this means to ignore newlines until "baseurl:"
   

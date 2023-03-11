@@ -1,7 +1,0 @@
-STCW 2023 Draft
-
-9/25/22	
-	Made copy of STCW18 Final Folder
-	Renamed Database to stcw2023.fmp12
-
-2/21/23  Initialized git Repository
