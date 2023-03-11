@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{% assign courses = site.courses | where: "major", page.major | sort: "cnum"  %}
+
+
+<table class='sortable'>
+<tr>
+<th  style='text-align:center'>No.</th> 
+<th>Course Number</th>
+<th>Course Name</th>
+</tr>
+
+{% for course in courses %}
+<tr>
+<td  style='text-align:center'>{{forloop.index}}.</td> 
+<td><a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
+<td>{{course.title}}</td>
+{% endfor %}
+
+
+</table>
+
+
+
+

@@ -1,0 +1,96 @@
+---
+number: "OICEW-10E1B"
+subtitle: "Assessment OICEW-10E1B"
+title: "Start and secure oily water separator"
+category: "Engine"
+status: "New"
+cnum: "EN-3131"
+---
+### Condition
+
+On a vessel of at least 1,000 HP, or in a laboratory or workshop.
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+ 
+
+<tr><td>
+
+{% capture behavior %}
+{% do Line up, lineup %} and {% do put into service, PlaceintoService %} the oily water separator / oil content monitor system
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+{% do Check, check %} the operation of the oily water separator
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+observe operation of oil content meter
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+{% do Secure, secure %} the oily water separator / oil content monitor system
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+ </tbody>
+ </table>
+
+### Location
+
+Assessed in  {% course  EN-3131 %}  *Steam Generators*.
+
+This assessment supports KUP [OICEW-A5.3]({{site.baseurl}}/tables/31.html#OICEW-A5.3)
+
+***
+
+
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.

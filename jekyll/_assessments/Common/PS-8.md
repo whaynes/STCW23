@@ -1,0 +1,62 @@
+---
+number: "PS-8"
+subtitle: "Assessment PS-8"
+title: "Use of lifeboat equipment"
+category: "Common"
+status: "Old"
+cnum: "LB-0201"
+---
+### Condition
+
+In an approved course, with equipment found on a survival crft.
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+ 
+
+<tr><td>
+
+{% capture behavior %}
+Discuss or demonstrate the use of equipment available in the survival craft.
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Include:
+
+1.  initial actions on boarding to enhance chances of survival
+2.  streaming drogues or sea-anchors
+3.  survival craft equipment
+4.  operation of location devices, including radio equipment and pyrotechnic distress signals.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+ </tbody>
+ </table>
+
+### Location
+
+Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
+
+This assessment supports KUP [PS-X1.3]({{site.baseurl}}/tables/611.html#PS-X1.3)
+
+***
+

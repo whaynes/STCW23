@@ -1,0 +1,82 @@
+---
+number: "OICEW-1-1C"
+subtitle: "Assessment OICEW-1-1C"
+title: "Form two steel plates using electric arc welding process"
+category: "Engine"
+status: "Old"
+cnum: "EN-2112"
+---
+### Condition
+
+In a workshop/laboratory or other safe working environment, given proper tools, lighting, ventilation, and two steel plates of no less than 3/8 inch thickness.
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+ 
+
+<tr><td>
+
+{% capture behavior %}
+{% do Use Tools, usetools %} to fuse two steel plates using electric arc welding process
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Observe all personal and environmental safety procedures
+
+adjust welding machine settings as appropriate for the job
+
+Weld according to standard welding procedure
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+{% do Inspect, evaluateinspecttest %} resulting weld
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Identify any evidence of lack of fill, flux entrapment, non-continuous fillet, base metal erosion, base cracks or other defects
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+ </tbody>
+ </table>
+
+### Location
+
+Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
+
+This assessment supports KUP [OICEW-C1.6]({{site.baseurl}}/tables/31.html#OICEW-C1.6)
+
+***
+
+
+
+See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.

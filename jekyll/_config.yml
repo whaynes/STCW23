@@ -34,12 +34,21 @@ defaults:
       type: "courses"
     values:
       layout: "page"
-  
+  -
+    scope:
+      path: ""
+      type: "assessments"
+    values:
+      layout: "page"
+
   
 collections:
   courses:
     output: true
     sort_by: CNum
+  assessments:
+    output: true
+    sort_by: number
       
 description: >- # this means to ignore newlines until "baseurl:"
   

@@ -1,26 +1,10 @@
 ---
 title: "Common STCW Courses" 
+major: "D/E"
+layout: course_index
 ---
-{% assign courses = site.courses | where: "major", "D/E" | sort: "cnum"  %}
 
-
-<table class='eighty sortable'>
-<thead>
-<tr>
-<th>No.</th> 
-<th>Course Number</th>
-<th>Course Name</th>
-</tr>
-<tbody>
-{% for course in courses %}
-<tr>
-<td>{{forloop.index}}.</td> 
-<td><a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
-<td>{{course.title}}</td>
-{% endfor %}
-</tbody>
-</table>
-
+{{ page.title | flatify}}
 
 
 

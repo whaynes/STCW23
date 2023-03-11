@@ -1,0 +1,72 @@
+---
+number: "ABD-4J9A2"
+subtitle: "Assessment ABD-4J9A2"
+title: "Marlinspike seamanship - knots II"
+category: "Deck"
+status: "New"
+cnum: "MT-2231"
+---
+### Condition
+
+On board ship or in a laboratory.
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+ 
+
+<tr><td>
+
+{% capture behavior %}
+demonstrate marlinspike seamanship skills by tying various knots.
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+tie six knots selected by the instructor from the list below within 15 minutes:
+
+*  Carrick bend;  
+*  Rolling hitch;  
+*  Stopper hitch;  
+*  French bowline;  
+*  Stage hitch;  
+*  Running bowline;  
+*  Bowline on a bight;  
+*  Fisherman’s bend;  
+*  Timber hitch;  
+*  Cat’s paw;  
+*  Figure eight;  
+*  Barrel hitch;  
+*  Round turn and two half hitches; and  
+*  Double becket bend.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+ </tbody>
+ </table>
+
+### Location
+
+Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
+
+This assessment supports KUP [ABD-C1.2]({{site.baseurl}}/tables/25.html#ABD-C1.2)
+
+***
+

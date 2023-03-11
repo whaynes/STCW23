@@ -1,0 +1,60 @@
+---
+number: "ABD-5J10B"
+subtitle: "Assessment ABD-5J10B"
+title: "Demonstrate use of a safety harness"
+category: "Deck"
+status: "New"
+cnum: "ST-0999D"
+---
+### Condition
+
+On board ship or in a laboratory.
+
+### Performance requirement 
+
+<table width='100%' class='Guidelines'>
+ <thead>
+ <tr>
+     <th class='thirty'>Behavior</th>
+     <th class='seventy'>Standard</th>
+ </tr>
+ <tr>
+     <td><em>The student will:</em></td>
+     <td><em>During assessment, the student shall, at a minimum:</em></td>
+ </tr>
+ </thead>
+ <tbody>
+ 
+
+<tr><td>
+
+{% capture behavior %}
+demonstrate the proper use of a safety harness.
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+1. Inspect the safety harness, line and hardware;
+2. Inspect the point and area the safety harness hardware will be attached;
+3. Rig the safety harness, line, and hardware; and
+4. Brief the safety harness line handler about his/her duties (if one is assigned). 
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+ </tbody>
+ </table>
+
+### Location
+
+Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
+
+This assessment supports KUP [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1)
+
+***
+
