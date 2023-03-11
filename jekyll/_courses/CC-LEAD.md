@@ -69,7 +69,7 @@ This course consists of five 1-hour lectures.
 
 ### For more information, see 
 
-* <%= imagelink("CC-LEAD-F18-Syllabus.pdf") %> 
+* {% imagelink CC-LEAD-F18-Syllabus.pdf %} 
 
 
 

@@ -63,7 +63,7 @@ This course consists of five 1-hour lectures.
 
 ### For more information, see 
 
-* <%= imagelink("CC-LEAD-F18-Syllabus.pdf") %> 
+* {% imagelink CC-LEAD-F18-Syllabus.pdf %} 
 
 
 
@@ -241,11 +241,11 @@ None
 
 ### For more information, see 
 
-* <%= imagelink("EN1112-Stanton-F15.pdf") %> 
-* <%= imagelink("EN-1112-F16-syllabus-GILL-ESS.pdf") %> 
-* <%= imagelink("EN-1112-MMA _OSHA_Student_Booklet_2017_v4.pdf") %> 
-* <%= imagelink("EN-1112-F17_osha_syllabus.pdf") %> 
-* <%= imagelink("EN-1112-Lab_Manual_2017.pdf") %> 
+* {% imagelink EN1112-Stanton-F15.pdf %} 
+* {% imagelink EN-1112-F16-syllabus-GILL-ESS.pdf %} 
+* {% imagelink EN-1112-MMA _OSHA_Student_Booklet_2017_v4.pdf %} 
+* {% imagelink EN-1112-F17_osha_syllabus.pdf %} 
+* {% imagelink EN-1112-Lab_Manual_2017.pdf %} 
 
 
 
@@ -347,10 +347,10 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN-1211-Gill-S16.pdf") %> 
-* <%= imagelink("EN-1211-Humphrey-S16.pdf") %> 
-* <%= imagelink("EN-1211-Splaine-S16.pdf") %> 
-* <%= imagelink("EN1211-labmanual-F15.pdf") %> 
+* {% imagelink EN-1211-Gill-S16.pdf %} 
+* {% imagelink EN-1211-Humphrey-S16.pdf %} 
+* {% imagelink EN-1211-Splaine-S16.pdf %} 
+* {% imagelink EN1211-labmanual-F15.pdf %} 
 
 
 
@@ -390,7 +390,7 @@ This course satisfies all the STCW objectives of [EN-1211](EN-1211) Auxiliary Ma
 
 ### For more information, see 
 
-* <%= imagelink("EN-1222-McClellan-S16.pdf") %> 
+* {% imagelink EN-1222-McClellan-S16.pdf %} 
 
 
 
@@ -461,10 +461,10 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN2111-Gill-F15.pdf") %> 
-* <%= imagelink("EN2111-Humprey-F15.pdf") %> 
-* <%= imagelink("EN2111-Trudeau-F15.pdf") %> 
-* <%= imagelink("EN2111-labmanual-F15.pdf") %> 
+* {% imagelink EN2111-Gill-F15.pdf %} 
+* {% imagelink EN2111-Humprey-F15.pdf %} 
+* {% imagelink EN2111-Trudeau-F15.pdf %} 
+* {% imagelink EN2111-labmanual-F15.pdf %} 
 
 
 
@@ -559,9 +559,9 @@ This course consists of one hour a week of instruction for a semester, twelve 3-
 
 ### For more information, see 
 
-* <%= imagelink("EN2112-Mahoney-F15.pdf") %> 
-* <%= imagelink("EN-2112-Mahoney-S16.pdf") %> 
-* <%= imagelink("EN2112-MTTmanual-F15.pdf") %> 
+* {% imagelink EN2112-Mahoney-F15.pdf %} 
+* {% imagelink EN-2112-Mahoney-S16.pdf %} 
+* {% imagelink EN2112-MTTmanual-F15.pdf %} 
 
 
 
@@ -672,9 +672,9 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 ### For more information, see 
 
-* <%= imagelink("EN-2231-McClellan-W16.pdf") %> 
-* <%= imagelink("EN-2231-3c-labs-W16.pdf") %> 
-* <%= imagelink("Engineering_Training_Program-W16.pdf") %> 
+* {% imagelink EN-2231-McClellan-W16.pdf %} 
+* {% imagelink EN-2231-3c-labs-W16.pdf %} 
+* {% imagelink Engineering_Training_Program-W16.pdf %} 
 
 
 
@@ -725,9 +725,9 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN-2232-Hibbert-S16.pdf") %> 
-* <%= imagelink("EN-2232-Splaine-S16.pdf") %> 
-* <%= imagelink("EN-2232-Trudeau-S16.pdf") %> 
+* {% imagelink EN-2232-Hibbert-S16.pdf %} 
+* {% imagelink EN-2232-Splaine-S16.pdf %} 
+* {% imagelink EN-2232-Trudeau-S16.pdf %} 
 
 
 
@@ -804,10 +804,10 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 ### For more information, see 
 
-* <%= imagelink("EN3111-Gillis-F15.pdf") %> 
-* <%= imagelink("EN3111-McDonald-F15.pdf") %> 
-* <%= imagelink("EN3111-Torino-F15.pdf") %> 
-* <%= imagelink("EN-3111-Gillis-S16.pdf") %> 
+* {% imagelink EN3111-Gillis-F15.pdf %} 
+* {% imagelink EN3111-McDonald-F15.pdf %} 
+* {% imagelink EN3111-Torino-F15.pdf %} 
+* {% imagelink EN-3111-Gillis-S16.pdf %} 
 
 
 
@@ -878,9 +878,9 @@ High Voltage switchgear.
 
 ### For more information, see 
 
-* <%= imagelink("EN-3111L-EmachLabSyllabusF16.pdf") %> 
-* <%= imagelink("EN-3111L-Haynes-S16.pdf") %> 
-* <%= imagelink("EN-3111L-lab_manual.pdf") %> 
+* {% imagelink EN-3111L-EmachLabSyllabusF16.pdf %} 
+* {% imagelink EN-3111L-Haynes-S16.pdf %} 
+* {% imagelink EN-3111L-lab_manual.pdf %} 
 
 
 
@@ -962,10 +962,10 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN3131-McClellan-F15.pdf") %> 
-* <%= imagelink("EN3131-McDonnell-F15.pdf") %> 
-* <%= imagelink("EN3131-Trudeau-F15.pdf") %> 
-* <%= imagelink("EN3131-syllabus-F18-albani.pdf") %> 
+* {% imagelink EN3131-McClellan-F15.pdf %} 
+* {% imagelink EN3131-McDonnell-F15.pdf %} 
+* {% imagelink EN3131-Trudeau-F15.pdf %} 
+* {% imagelink EN3131-syllabus-F18-albani.pdf %} 
 
 
 
@@ -1030,9 +1030,9 @@ This course consists of three 1-hour classes a week for a semester, twelve 2-hou
 
 ### For more information, see 
 
-* <%= imagelink("EN-3212-Torino-S16.pdf") %> 
-* <%= imagelink("EN-3212-DiMassa-S16.pdf") %> 
-* <%= imagelink("EN-3212-Bausch-S16.pdf") %> 
+* {% imagelink EN-3212-Torino-S16.pdf %} 
+* {% imagelink EN-3212-DiMassa-S16.pdf %} 
+* {% imagelink EN-3212-Bausch-S16.pdf %} 
 
 
 
@@ -1102,8 +1102,8 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN-3213-Phelan-S16.pdf") %> 
-* <%= imagelink("EN3213-labmanual-F15.pdf") %> 
+* {% imagelink EN-3213-Phelan-S16.pdf %} 
+* {% imagelink EN3213-labmanual-F15.pdf %} 
 
 
 
@@ -1183,9 +1183,9 @@ At the completion of the course, the student will
 
 ### For more information, see 
 
-* <%= imagelink("EN3216-Bausch-F15.pdf") %> 
-* <%= imagelink("EN3216-Gillis-F15.pdf") %> 
-* <%= imagelink("EN-3216-Gillis-Hibbert-S16.pdf") %> 
+* {% imagelink EN3216-Bausch-F15.pdf %} 
+* {% imagelink EN3216-Gillis-F15.pdf %} 
+* {% imagelink EN-3216-Gillis-Hibbert-S16.pdf %} 
 
 
 
@@ -1241,7 +1241,7 @@ This course consists of an approximately 60-day long experience on a commercial 
 
 ### For more information, see 
 
-* <%= imagelink("EN3232-SeaProject-S18.pdf") %> 
+* {% imagelink EN3232-SeaProject-S18.pdf %} 
 
 
 
@@ -1308,9 +1308,9 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN-3233-McClellan-S16.pdf") %> 
-* <%= imagelink("EN-3233-McDonnell-S16.pdf") %> 
-* <%= imagelink("EN-3233-Trudeau-S16.pdf") %> 
+* {% imagelink EN-3233-McClellan-S16.pdf %} 
+* {% imagelink EN-3233-McDonnell-S16.pdf %} 
+* {% imagelink EN-3233-Trudeau-S16.pdf %} 
 
 
 
@@ -1345,7 +1345,7 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 ### For more information, see 
 
-* <%= imagelink("EN-3603-Bausch-S16.pdf") %> 
+* {% imagelink EN-3603-Bausch-S16.pdf %} 
 
 
 
@@ -1383,9 +1383,9 @@ This course consists of twelve 2-hour labs, and weekly quizzes.
 
 ### For more information, see 
 
-* <%= imagelink("EN-4112-thermo-fluids-lab-manual.pdf") %> 
-* <%= imagelink("EN-4112-Frain-S16.pdf") %> 
-* <%= imagelink("EN-4122-Murray-S16.pdf") %> 
+* {% imagelink EN-4112-thermo-fluids-lab-manual.pdf %} 
+* {% imagelink EN-4112-Frain-S16.pdf %} 
+* {% imagelink EN-4122-Murray-S16.pdf %} 
 
 
 
@@ -1442,9 +1442,9 @@ This course consists of three 1-hour classes a week for a semester, six 6-hour l
 
 ### For more information, see 
 
-* <%= imagelink("EN4131-Hibbert-F15.pdf") %> 
-* <%= imagelink("EN4131-Splaine-F15.pdf") %> 
-* <%= imagelink("EN4131_Lab_Manual.pdf") %> 
+* {% imagelink EN4131-Hibbert-F15.pdf %} 
+* {% imagelink EN4131-Splaine-F15.pdf %} 
+* {% imagelink EN4131_Lab_Manual.pdf %} 
 
 
 
@@ -1522,8 +1522,8 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 ### For more information, see 
 
-* <%= imagelink("EN-4151-Murray-S16.pdf") %> 
-* <%= imagelink("EN-4151-F16-syllabus-Murray.pdf") %> 
+* {% imagelink EN-4151-Murray-S16.pdf %} 
+* {% imagelink EN-4151-F16-syllabus-Murray.pdf %} 
 
 
 
@@ -1634,10 +1634,10 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 ### For more information, see 
 
-* <%= imagelink("EN-4231-McClellan-W16.pdf") %> 
-* <%= imagelink("EN-4231-1c-labs-W16.pdf") %> 
-* <%= imagelink("Engineering_Training_Program-W16.pdf") %> 
-* <%= imagelink("Engineering_Watchstanding_Manual-W16.pdf") %> 
+* {% imagelink EN-4231-McClellan-W16.pdf %} 
+* {% imagelink EN-4231-1c-labs-W16.pdf %} 
+* {% imagelink Engineering_Training_Program-W16.pdf %} 
+* {% imagelink Engineering_Watchstanding_Manual-W16.pdf %} 
 
 
 
@@ -1694,7 +1694,7 @@ At the conclusion of the course the student will be able to
 
 ### For more information, see 
 
-* <%= imagelink("EN-4234-Splaine-S16.pdf") %> 
+* {% imagelink EN-4234-Splaine-S16.pdf %} 
 
 
 
@@ -1767,11 +1767,11 @@ This course consists of two hour lecture, and 8-hour practical.
 
 ### For more information, see 
 
-* <%= imagelink("FF0102-BMFF_Course_Outline.pdf") %> 
-* <%= imagelink("FF0102-BMFF_Skills_Evaluation.pdf") %> 
-* <%= imagelink("FF0102-BMFF_Course_Framework.pdf") %> 
-* <%= imagelink("FF0102-4c_FF_Study_Guide.pdf") %> 
-* <%= imagelink("FF0102_4C_FF_LECTURE_2016.pdf") %> 
+* {% imagelink FF0102-BMFF_Course_Outline.pdf %} 
+* {% imagelink FF0102-BMFF_Skills_Evaluation.pdf %} 
+* {% imagelink FF0102-BMFF_Course_Framework.pdf %} 
+* {% imagelink FF0102-4c_FF_Study_Guide.pdf %} 
+* {% imagelink FF0102_4C_FF_LECTURE_2016.pdf %} 
 
 
 
@@ -1827,8 +1827,8 @@ Advanced Fire Fighting (AFF) is available to any student who has completed Basic
 
 ### For more information, see 
 
-* <%= imagelink("FF0104-AMFF_3_C_FF_Course_Framework.pdf") %> 
-* <%= imagelink("FF0104-AMFF_Skills_Evaluation.pdf") %> 
+* {% imagelink FF0104-AMFF_3_C_FF_Course_Framework.pdf %} 
+* {% imagelink FF0104-AMFF_Skills_Evaluation.pdf %} 
 
 
 
@@ -1886,8 +1886,8 @@ This course consists of two hour lecture, and 8-hour practical.
 
 ### For more information, see 
 
-* <%= imagelink("FF0106-AMFF_2_C_FF_Course_Framework.pdf") %> 
-* <%= imagelink("FF0106-AMFF_Skills_Evaluation.pdf") %> 
+* {% imagelink FF0106-AMFF_2_C_FF_Course_Framework.pdf %} 
+* {% imagelink FF0106-AMFF_Skills_Evaluation.pdf %} 
 
 
 
@@ -1957,9 +1957,9 @@ This course consists of two hour lecture, and 8-hour practical.
 
 ### For more information, see 
 
-* <%= imagelink("FF0108-AMFF_Course_Outline.pdf") %> 
-* <%= imagelink("FF0108-AMFF_1_C_FF_Course_Framework.pdf") %> 
-* <%= imagelink("FF0108-AMFF_Skills_Evaluation.pdf") %> 
+* {% imagelink FF0108-AMFF_Course_Outline.pdf %} 
+* {% imagelink FF0108-AMFF_1_C_FF_Course_Framework.pdf %} 
+* {% imagelink FF0108-AMFF_Skills_Evaluation.pdf %} 
 
 
 
@@ -1994,8 +1994,8 @@ This course consists of three 1-hour classes a week for a semester and extensive
 
 ### For more information, see 
 
-* <%= imagelink("HU-1111-Syllabus-JMA-F18.pdf") %> 
-* <%= imagelink("HU-1111-syllabus-F16.pdf") %> 
+* {% imagelink HU-1111-Syllabus-JMA-F18.pdf %} 
+* {% imagelink HU-1111-syllabus-F16.pdf %} 
 
 
 
@@ -2039,8 +2039,8 @@ This course consists of four 2-hour practical assessment blocks.
 
 ### For more information, see 
 
-* <%= imagelink("LB-0201_lifeboat.pdf") %> 
-* <%= imagelink("LB-0201-Lifeboatmen_Notes_Edition_8.pdf") %> 
+* {% imagelink LB-0201_lifeboat.pdf %} 
+* {% imagelink LB-0201-Lifeboatmen_Notes_Edition_8.pdf %} 
 
 
 
@@ -2101,7 +2101,7 @@ This course consists of 1-hour practical.
 
 ### For more information, see 
 
-* <%= imagelink("LB-0203-Bosansquet-Immersion_suit.pdf") %> 
+* {% imagelink LB-0203-Bosansquet-Immersion_suit.pdf %} 
 
 
 
@@ -3069,7 +3069,7 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 ### For more information, see 
 
-* <%= imagelink("MT-2371-2017-Third-Class-Sea-Term-Manual.pdf") %> 
+* {% imagelink MT-2371-2017-Third-Class-Sea-Term-Manual.pdf %} 
 
 
 
@@ -3918,7 +3918,7 @@ This course consists of an approximately 60-day long shipboard experence on a co
 
 ### For more information, see 
 
-* <%= imagelink("MT-3372-2nd-Class-Commercial-Sea-Project-Summer-2018.pdf") %> 
+* {% imagelink MT-3372-2nd-Class-Commercial-Sea-Project-Summer-2018.pdf %} 
 
 
 
@@ -4663,7 +4663,7 @@ All requirements must be completed by the end of [Sea Term IV: Marine Transporta
 
 ### For more information, see 
 
-* <%= imagelink("MT-4253_Watchkeeping_Debrief.pdf") %> 
+* {% imagelink MT-4253_Watchkeeping_Debrief.pdf %} 
 
 
 
@@ -4798,8 +4798,8 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 ### For more information, see 
 
-* <%= imagelink("MT-4371-2017-First-Class-Sea-Term-Manual.pdf") %> 
-* <%= imagelink("MT-4371-2017-Cel-Nav-Project.pdf") %> 
+* {% imagelink MT-4371-2017-First-Class-Sea-Term-Manual.pdf %} 
+* {% imagelink MT-4371-2017-Cel-Nav-Project.pdf %} 
 
 
 
@@ -4878,7 +4878,7 @@ This course consists of four 3-hour modules.
 
 ### For more information, see 
 
-* <%= imagelink("PE-0031_CPR.pdf") %> 
+* {% imagelink PE-0031_CPR.pdf %} 
 
 
 
@@ -4998,7 +4998,7 @@ This course consists of 14 2-hour practicals.
 
 ### For more information, see 
 
-* <%= imagelink("PE-0032-F18-Syllabus.pdf") %> 
+* {% imagelink PE-0032-F18-Syllabus.pdf %} 
 
 
 
@@ -5063,7 +5063,7 @@ This course consists of 1-hour lecture, and 8-hour practical.
 
 ### For more information, see 
 
-* <%= imagelink("PS-0301-F18-Syllabus.pdf") %> 
+* {% imagelink PS-0301-F18-Syllabus.pdf %} 
 
 
 
@@ -5121,7 +5121,7 @@ This course consists of four 1-hour lectures.
 
 ### For more information, see 
 
-* <%= imagelink("SR-0401-F18-PSSR-Syllabus.pdf") %> 
+* {% imagelink SR-0401-F18-PSSR-Syllabus.pdf %} 
 
 
 
@@ -5186,9 +5186,9 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 ### For more information, see 
 
-* <%= imagelink("SS-4123-syllabus-taft-F18.pdf") %> 
-* <%= imagelink("SS-4123-F16-syllabus-Dennehy.pdf") %> 
-* <%= imagelink("SS-4123-Law-F16s.pdf") %> 
+* {% imagelink SS-4123-syllabus-taft-F18.pdf %} 
+* {% imagelink SS-4123-F16-syllabus-Dennehy.pdf %} 
+* {% imagelink SS-4123-Law-F16s.pdf %} 
 
 
 
@@ -5349,7 +5349,7 @@ This course consists of deck watchstanding, training and maintenance, for approx
 
 ### For more information, see 
 
-* <%= imagelink("ST-0999D-2017-Fourth-Class-MT-Sea-Term-Manual.pdf") %> 
+* {% imagelink ST-0999D-2017-Fourth-Class-MT-Sea-Term-Manual.pdf %} 
 
 
 
@@ -5428,9 +5428,9 @@ This course consists of engineering watchstanding, training and maintenance, for
 
 ### For more information, see 
 
-* <%= imagelink("ST-0999E-McClellan-W16.pdf") %> 
-* <%= imagelink("ST-0999E-4c-labs-W16.pdf") %> 
-* <%= imagelink("Fire_Handout-W16.pdf") %> 
+* {% imagelink ST-0999E-McClellan-W16.pdf %} 
+* {% imagelink ST-0999E-4c-labs-W16.pdf %} 
+* {% imagelink Fire_Handout-W16.pdf %} 
 
 
 
@@ -5507,8 +5507,8 @@ Those who successfully complete this course should be able to demonstrate suffic
 
 ### For more information, see 
 
-* <%= imagelink("VPDSD_Framework.pdf") %> 
-* <%= imagelink("VPDSD_Syllabus_2018.pdf") %> 
+* {% imagelink VPDSD_Framework.pdf %} 
+* {% imagelink VPDSD_Syllabus_2018.pdf %} 
 
 
 
@@ -5545,7 +5545,7 @@ This lab is counted towards workshop skills for STCW purposes.
 
 ### For more information, see 
 
-* <%= imagelink("EN-3212L-ElectronicsLabManualF18.pdf") %> 
+* {% imagelink EN-3212L-ElectronicsLabManualF18.pdf %} 
 
 
 
@@ -5580,7 +5580,7 @@ This lab is counted towards workshop skills for STCW purposes.
 
 ### For more information, see 
 
-* <%= imagelink("EN-3112L-StrengthLabs.pdf") %> 
+* {% imagelink EN-3112L-StrengthLabs.pdf %} 
 
 
 

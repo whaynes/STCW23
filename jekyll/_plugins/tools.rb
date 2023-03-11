@@ -1,4 +1,19 @@
 module Jekyll
+
+class ImageLink < Liquid::Tag
+
+    def initialize(tag_name, text, tokens)
+      super
+      @file = text.strip
+    end
+
+    def render(liquid_context)
+       site = liquid_context.registers[:site]
+       baseurl = site.config['baseurl']
+      "[#{@file}](images/#{@file})"
+    end
+  end
+
   class CourseLink < Liquid::Tag
 
     def initialize(tag_name, text, tokens)
@@ -63,6 +78,7 @@ module Jekyll
   end
 end
 
+Liquid::Template.register_tag('imagelink', Jekyll::ImageLink)
 Liquid::Template.register_tag('course', Jekyll::CourseLink)
 Liquid::Template.register_tag('practical', Jekyll::PracticalLink)
 Liquid::Template.register_tag('table', Jekyll::TableLink)

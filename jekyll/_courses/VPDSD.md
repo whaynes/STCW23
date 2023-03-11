@@ -77,8 +77,8 @@ Those who successfully complete this course should be able to demonstrate suffic
 
 ### For more information, see 
 
-* <%= imagelink("VPDSD_Framework.pdf") %> 
-* <%= imagelink("VPDSD_Syllabus_2018.pdf") %> 
+* {% imagelink VPDSD_Framework.pdf %} 
+* {% imagelink VPDSD_Syllabus_2018.pdf %} 
 
 
 
