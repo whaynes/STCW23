@@ -5,15 +5,13 @@
 <!ENTITY nbsp "&#160;" > 
 ]>
 <!-- This stylesheet writes index files to the tasks folder for each table -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-   xmlns:h="http://www.w3.org/1999/xhtml"
-   xpath-default-namespace="http://www.filemaker.com/fmpdsoresult" version="2.0">
-   <xsl:strip-space elements="*"/>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
    <xsl:output method="text"/>
-   <xsl:variable name="folder">../../jekyll/tasks</xsl:variable>
+   <xsl:variable name="folder">../../jekyll/_tasks</xsl:variable>
 
-   <xsl:template match="/">
-      <xsl:call-template name="Index"/>
+   <xsl:template match="/tasks">
+      <xsl:apply-templates select="task"/>
+     <!--xsl:call-template name="Index"/>
       <xsl:call-template name="EachNVIC"/>
       <xsl:call-template name="GroupOfTasks">
          <xsl:with-param name="Label">Engineering</xsl:with-param>
@@ -26,9 +24,19 @@
       <xsl:call-template name="GroupOfTasks">
          <xsl:with-param name="Label">Common</xsl:with-param>
          <xsl:with-param name="Tasks" select="//ROW[Major[normalize-space() = 'MTRA MENG'] ] |//ROW[Major[normalize-space() = 'MENG MTRA'] ]"/>
-      </xsl:call-template>
-
+      </xsl:call-template-->
    </xsl:template>
+  
+  <xsl:template match="task" >   
+    <xsl:result-document method="text" href="{$folder}/{@table}/{@taskNo}.md">
+      <xsl:text>---&cr;</xsl:text>
+      <xsl:text>taskNo: </xsl:text><xsl:value-of select="@taskNo"/>
+      <xsl:text>&cr;title: "</xsl:text><xsl:value-of select="@name"/>"<xsl:text/>
+      <xsl:text>&cr;subtitle: "Task </xsl:text><xsl:value-of select="@taskNo"/>"<xsl:text/>
+      <xsl:text>"&cr;---&cr;</xsl:text>
+      <xsl:value-of select="markdown"/>
+    </xsl:result-document>
+  </xsl:template>
 
    <xsl:template name="Index">
       <!-- makes the main index page -->
