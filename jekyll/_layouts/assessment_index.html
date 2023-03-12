@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign assessments = site.assessments | where: "category",  page.category | sort: "number"  %}
+{% assign assessments = site.assessments | where: "category",  page.category |  sort: "number"  %}
 
 
 <table class='sortable'>
@@ -15,6 +15,7 @@ layout: page
 </tr>
 
 {% for assessment in assessments %}
+{% if assessment.number != 'nil' %}
 <tr>
 <td  style='text-align:center'>{{forloop.index}}.</td> 
 <td><a href='{{ assessment.url | absolute_url}}'>{{assessment.number}} </a></td> 
@@ -23,6 +24,7 @@ layout: page
 <a href='{{site.baseurl}}/courses/{{assessment.cnum}}'>{{assessment.cnum | replace: "-", "&#8209;" }}</a>
 </td>
 <td><b>{{assessment.status}}</b></td>
+{% endif %}
 {% endfor %}
 
 </table>

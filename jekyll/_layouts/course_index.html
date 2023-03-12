@@ -13,10 +13,12 @@ layout: page
 </tr>
 
 {% for course in courses %}
+{% if course.cnum != nil %}
 <tr>
 <td  style='text-align:center'>{{forloop.index}}.</td> 
 <td><a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
 <td>{{course.title}}</td>
+{% endif %}
 {% endfor %}
 
 
