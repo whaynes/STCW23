@@ -1,0 +1,31 @@
+---
+layout: page
+---
+
+{% assign tables = page.tables %}
+
+<ol style='columns: 3'>
+{% for table in tables %}
+<li><a href='#{{table}}'>{{ table }}</a> </li>
+{% endfor %}
+</ol>
+
+
+{% for table in tables %}
+{% capture tasks %}
+{% include_relative {{table }}/index.md  %}
+{% endcapture %}
+
+<div id={{table}} class='toggle' >
+{{ tasks | markdownify  }}
+</div>
+{% endfor %}
+
+
+
+
+</table>
+
+{{content}}
+
+

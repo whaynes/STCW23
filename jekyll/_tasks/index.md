@@ -1,7 +1,7 @@
 ---
 title: "Assessment Tasks"
 subtitle: USCG NVICs mapped to MMA Tasks 
-task_number: 0
+task_number: nil
 ---
 
 |NVIC  | Name | MMA Tasks | D/E |

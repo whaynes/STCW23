@@ -26,7 +26,7 @@
       <xsl:text>---&cr;</xsl:text>
       <xsl:text>title: "Assessment Tasks"&cr;</xsl:text>
       <xsl:text>subtitle: USCG NVICs mapped to MMA Tasks &cr;</xsl:text>
-      <xsl:text>task_number: 0&cr;</xsl:text>
+      <xsl:text>task_number: nil&cr;</xsl:text>
       <xsl:text>---&rr;</xsl:text>
       <xsl:text>|NVIC  | Name | MMA Tasks | D/E |&cr;</xsl:text>
       <xsl:text>|:-----:|:-----|:--------|:---:|&cr;</xsl:text>
@@ -47,7 +47,7 @@
     <xsl:result-document method="text" href="{$folder}/{current-grouping-key()}/index.md">
       <xsl:text>---&cr;</xsl:text>
       <xsl:text>title: </xsl:text><xsl:value-of select="current-grouping-key()"/> Tasks&cr;<xml:text/>
-      <xsl:text>task_number: 0&cr;</xsl:text>
+      <xsl:text>task_number: nil&cr;</xsl:text>
       <xsl:text>---&cr;</xsl:text>
       <xsl:call-template name="build_table"><xsl:with-param name="rows" select="current-group()"/>
       </xsl:call-template>

@@ -12,7 +12,7 @@
 #  File in these locations should not be deleted
 #  Change/Edit as needed
 #
-PRJ       = /Users/whaynes/Library/CloudStorage/GoogleDrive-whaynes\@maritime.edu/My\ Drive/academics/stcw/Website\ Source/STCW23
+PRJ       = /Users/whaynes/jekyll/STCW23
 DB        = $(SOURCE)/stcw2023.fmp12
 SOURCE    = $(PRJ)/data
 XSL       = $(SOURCE)/xslt
