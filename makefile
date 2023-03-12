@@ -56,21 +56,9 @@ courses:
 	java -jar $(SAXON) -s:$(XML)/courses.xml -xsl:$(XSL)/courses23.xsl -o:$(COURSES)/out.html
 
 tasks:
-	java -jar $(SAXON) -s:$(XML)/tasks.xml -xsl:$(XSL)/tasks23.xsl -o:$(TASKS)/out.html
+	java -jar $(SAXON) -s:$(XML)/tasks.xml -xsl:$(XSL)/tasks23.xsl -o:out.html
 	
 assessments:
 	java -jar $(SAXON) -s:$(XML)/assessments.xml -xsl:$(XSL)/assessments23.xsl -o:$(TASKS)/out.html
 
 
-
-open: 
-	open $(JEKYLL)/temp
-	
-	
-clean: 
-	-rm -r $(LOCALDIR)/*
-	-rm -r $(SITE)
-	
-publish: 
-	cp -R  $(SITE)/ $(LOCALDIR)
-	open -a $(BROWSER) $(LOCALURL)

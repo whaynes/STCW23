@@ -40,6 +40,12 @@ defaults:
       type: "assessments"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "tasks"
+    values:
+      layout: "page"
 
   
 collections:
@@ -49,6 +55,9 @@ collections:
   assessments:
     output: true
     sort_by: number
+  tasks:
+    output: true
+    sort_by: task_number
       
 description: >- # this means to ignore newlines until "baseurl:"
   
