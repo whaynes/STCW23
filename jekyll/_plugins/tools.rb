@@ -42,9 +42,8 @@ end
 class AssessmentLink < MMDLink
   def initialize(tag_name, text, tokens)
     super
-    @folder='_assessments'
+    @folder='assessments'
     @linktext=@file
-    @file=@file.sub('-','/') 
   end
 end
 

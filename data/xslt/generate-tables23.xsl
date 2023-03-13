@@ -15,9 +15,9 @@
    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="no" />
    <xsl:strip-space elements="*" />
    <xsl:preserve-space elements="text" />
-   <xsl:variable name="path">../tables</xsl:variable>
+   <xsl:variable name="path">../../jekyll/_tables</xsl:variable>
    
-   <xsl:template match="/ROOT">
+   <xsl:template match="/RECORDS">
       <!-- main entrance point -->
       <xsl:call-template name="buildPages" />
       <xsl:call-template name="buildIndexes" />
@@ -25,7 +25,7 @@
    
    <xsl:template name="buildPages">
       <xsl:for-each-group select="RECORD" group-by="Table">
-         <xsl:result-document href="{$path}/{Tables--TableNo}.html">
+         <xsl:result-document href="{$path}/{TableNo}.html">
             <xsl:apply-templates select="."/>
          </xsl:result-document>
       </xsl:for-each-group>
@@ -41,17 +41,17 @@
          <xsl:with-param name="doc" select="'index_common_tables.md'" />
          <xsl:with-param name="title" select="'Common'" />
          <!-- Courses for both majors are "common" -->
-         <xsl:with-param name="range" select="RECORD[contains(Tables--Major,'MENG') and contains(Tables--Major,'MTRA')]" />
+         <xsl:with-param name="range" select="RECORD[contains(Major,'MENG') and contains(Major,'MTRA')]" />
       </xsl:call-template>
       <xsl:call-template name="index">
          <xsl:with-param name="doc" select="'index_deck_tables.md'" />
          <xsl:with-param name="title" select="'Deck'" />
-         <xsl:with-param name="range" select="RECORD[Tables--Major='MTRA']" />
+         <xsl:with-param name="range" select="RECORD[Major='MTRA']" />
       </xsl:call-template>
       <xsl:call-template name="index">
          <xsl:with-param name="doc" select="'index_eng_tables.md'" />
          <xsl:with-param name="title" select="'Engineering'" />
-         <xsl:with-param name="range" select="RECORD[Tables--Major='MENG']" />
+         <xsl:with-param name="range" select="RECORD[Major='MENG']" />
       </xsl:call-template>
    </xsl:template>
    

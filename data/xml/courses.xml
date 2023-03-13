@@ -291,9 +291,9 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate proficiency in the following skills:**
 
-* [ABE‑1‑6A]( {{site.baseurl}}/assessments/Engine/ABE-1-6A) *Assist with fuel oil transfer*
-* [OICEW‑8E2A]( {{site.baseurl}}/assessments/Engine/OICEW-8E2A) *Make emergency repairs* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [RFPEW‑1H2C]( {{site.baseurl}}/assessments/Engine/RFPEW-1H2C) *Shift and clean a basket-type duplex strainer* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABE-1-6A %} *Assist with fuel oil transfer*
+* {% assessment OICEW-8E2A %} *Make emergency repairs* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment RFPEW-1H2C %} *Shift and clean a basket-type duplex strainer* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -425,10 +425,10 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑5‑1D]( {{site.baseurl}}/assessments/Engine/OICEW-5-1D) *Start and secure air compressor*
-* [OICEW‑8‑2A]( {{site.baseurl}}/assessments/Engine/OICEW-8-2A) *Centrifugal pump maintenance (mechanical seal)*
-* [OICEW‑8‑2B]( {{site.baseurl}}/assessments/Engine/OICEW-8-2B) *Reciprocating pump maintenance*
-* [OICEW‑8E2B]( {{site.baseurl}}/assessments/Engine/OICEW-8E2B) *Centrifugal pump maintenance (packing)* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-5-1D %} *Start and secure air compressor*
+* {% assessment OICEW-8-2A %} *Centrifugal pump maintenance (mechanical seal)*
+* {% assessment OICEW-8-2B %} *Reciprocating pump maintenance*
+* {% assessment OICEW-8E2B %} *Centrifugal pump maintenance (packing)* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -501,12 +501,12 @@ This course consists of one hour a week of instruction for a semester, twelve 3-
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑1‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-1-1A) *Cut a circular hole using oxyacetylene process*
-* [OICEW‑1‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-1-1B) *Form two steel plates using brazing process*
-* [OICEW‑1‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-1-1C) *Form two steel plates using electric arc welding process*
-* [OICEW‑1‑1F]( {{site.baseurl}}/assessments/Engine/OICEW-1-1F) *Visual test of welded joint*
-* [OICEW‑1‑1G]( {{site.baseurl}}/assessments/Engine/OICEW-1-1G) *Dye-penetrant test*
-* [OICEW‑8‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-8-1A) *Lathe project*
+* {% assessment OICEW-1-1A %} *Cut a circular hole using oxyacetylene process*
+* {% assessment OICEW-1-1B %} *Form two steel plates using brazing process*
+* {% assessment OICEW-1-1C %} *Form two steel plates using electric arc welding process*
+* {% assessment OICEW-1-1F %} *Visual test of welded joint*
+* {% assessment OICEW-1-1G %} *Dye-penetrant test*
+* {% assessment OICEW-8-1A %} *Lathe project*
 
 ### Topics
 
@@ -597,19 +597,19 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate proficiency in the following skills:**
 
-* [RFPEW‑5‑2E]( {{site.baseurl}}/assessments/Engine/RFPEW-5-2E) *Change and clean burner*
-* [OICEW‑5‑1M]( {{site.baseurl}}/assessments/Engine/OICEW-5-1M) *Monitor main steam turbine operation*
-* [OICEW‑6‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-6-1B) *Operate fire pump*
-* [OICEW‑6‑2A]( {{site.baseurl}}/assessments/Engine/OICEW-6-2A) *Pump bilges*
-* [OICEW‑8‑2C]( {{site.baseurl}}/assessments/Engine/OICEW-8-2C) *Gear pump maintenance*
-* [OICEW‑8‑2D]( {{site.baseurl}}/assessments/Engine/OICEW-8-2D) *Inspect valve manifold*
-* [OICEW‑8‑2E]( {{site.baseurl}}/assessments/Engine/OICEW-8-2E) *Overhaul valve*
-* [OICEW‑8‑2F]( {{site.baseurl}}/assessments/Engine/OICEW-8-2F) *Overhaul heat exchanger*
-* [OICEW‑9‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-9-1B) *Monitor sewage waste treatment plant*
-* [OICEW‑9‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-9-1C) *Monitor oily water separator system*
-* [OICEW‑8E2D]( {{site.baseurl}}/assessments/Engine/OICEW-8E2D) *Replace flange gasket* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICEW‑4‑1D]( {{site.baseurl}}/assessments/Engine/OICEW-4-1D) *Monitor engineering machinery* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [ABE‑5G1A]( {{site.baseurl}}/assessments/Engine/ABE-5G1A) *Trace out a piping system* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment RFPEW-5-2E %} *Change and clean burner*
+* {% assessment OICEW-5-1M %} *Monitor main steam turbine operation*
+* {% assessment OICEW-6-1B %} *Operate fire pump*
+* {% assessment OICEW-6-2A %} *Pump bilges*
+* {% assessment OICEW-8-2C %} *Gear pump maintenance*
+* {% assessment OICEW-8-2D %} *Inspect valve manifold*
+* {% assessment OICEW-8-2E %} *Overhaul valve*
+* {% assessment OICEW-8-2F %} *Overhaul heat exchanger*
+* {% assessment OICEW-9-1B %} *Monitor sewage waste treatment plant*
+* {% assessment OICEW-9-1C %} *Monitor oily water separator system*
+* {% assessment OICEW-8E2D %} *Replace flange gasket* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-4-1D %} *Monitor engineering machinery* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABE-5G1A %} *Trace out a piping system* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -826,9 +826,9 @@ Concurrent attendance or successful completion of [EN-3111](en-3111.html).
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑3‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-3-1A) *Plan and use test equipment*
-* [OICEW‑3‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-3-1B) *Troubleshoot electrical motor control system*
-* [OICEW‑7‑1E]( {{site.baseurl}}/assessments/Engine/OICEW-7-1E) *Parallel generators*
+* {% assessment OICEW-3-1A %} *Plan and use test equipment*
+* {% assessment OICEW-3-1B %} *Troubleshoot electrical motor control system*
+* {% assessment OICEW-7-1E %} *Parallel generators*
 
 ### Topics
 
@@ -908,15 +908,15 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑4‑2A]( {{site.baseurl}}/assessments/Engine/OICEW-4-2A) *Respond to engine room alarms*
-* [OICEW‑5‑2A]( {{site.baseurl}}/assessments/Engine/OICEW-5-2A) *Light off main boiler*
-* [OICEW‑5‑2B]( {{site.baseurl}}/assessments/Engine/OICEW-5-2B) *Secure main boiler*
-* [OICEW‑5‑2C]( {{site.baseurl}}/assessments/Engine/OICEW-5-2C) *Bottom blow boiler*
-* [OICEW‑5‑2D]( {{site.baseurl}}/assessments/Engine/OICEW-5-2D) *Test and treat boiler water*
-* [OICEW‑6‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-6-1A) *Transfer fuel*
-* [OICEW‑10E1B]( {{site.baseurl}}/assessments/Engine/OICEW-10E1B) *Start and secure oily water separator* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICEW‑4E3I]( {{site.baseurl}}/assessments/Engine/OICEW-4E3I) *Monitor and operate auxiliary boiler* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICEW‑5E2B]( {{site.baseurl}}/assessments/Engine/OICEW-5E2B) *Ballast and deballast a tank* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-4-2A %} *Respond to engine room alarms*
+* {% assessment OICEW-5-2A %} *Light off main boiler*
+* {% assessment OICEW-5-2B %} *Secure main boiler*
+* {% assessment OICEW-5-2C %} *Bottom blow boiler*
+* {% assessment OICEW-5-2D %} *Test and treat boiler water*
+* {% assessment OICEW-6-1A %} *Transfer fuel*
+* {% assessment OICEW-10E1B %} *Start and secure oily water separator* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-4E3I %} *Monitor and operate auxiliary boiler* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-5E2B %} *Ballast and deballast a tank* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -1060,8 +1060,8 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑5‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-5-1B) *Start refrigeration system*
-* [OICEW‑5‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-5-1C) *Shut down refrigeration system*
+* {% assessment OICEW-5-1B %} *Start refrigeration system*
+* {% assessment OICEW-5-1C %} *Shut down refrigeration system*
 
 ### Topics
 
@@ -1269,14 +1269,14 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑5‑1H]( {{site.baseurl}}/assessments/Engine/OICEW-5-1H) *Start fuel oil or lube oil purifier*
-* [OICEW‑5‑1I]( {{site.baseurl}}/assessments/Engine/OICEW-5-1I) *Shut down fuel oil or lube oil purifier*
-* [OICEW‑7‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-7-1C) *Pre-start inspection of steam turbo-generator*
-* [OICEW‑7‑1D]( {{site.baseurl}}/assessments/Engine/OICEW-7-1D) *Connect ship service diesel generator to main switchboard*
-* [OICEW‑4‑3B]( {{site.baseurl}}/assessments/Engine/OICEW-4-3B) *Prepare and start main gas turbine*
-* [OICEW‑4‑3E]( {{site.baseurl}}/assessments/Engine/OICEW-4-3E) *Monitor main gas turbine operation*
-* [OICEW‑4‑3H]( {{site.baseurl}}/assessments/Engine/OICEW-4-3H) *Secure main gas turbine*
-* [OICEW‑1E2A]( {{site.baseurl}}/assessments/Engine/OICEW-1E2A) *Change over control systems* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-5-1H %} *Start fuel oil or lube oil purifier*
+* {% assessment OICEW-5-1I %} *Shut down fuel oil or lube oil purifier*
+* {% assessment OICEW-7-1C %} *Pre-start inspection of steam turbo-generator*
+* {% assessment OICEW-7-1D %} *Connect ship service diesel generator to main switchboard*
+* {% assessment OICEW-4-3B %} *Prepare and start main gas turbine*
+* {% assessment OICEW-4-3E %} *Monitor main gas turbine operation*
+* {% assessment OICEW-4-3H %} *Secure main gas turbine*
+* {% assessment OICEW-1E2A %} *Change over control systems* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -1409,12 +1409,12 @@ This course consists of three 1-hour classes a week for a semester, six 6-hour l
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑5‑1J]( {{site.baseurl}}/assessments/Engine/OICEW-5-1J) *Prepare main propulsion diesel engine for operation*
-* [OICEW‑5‑1K]( {{site.baseurl}}/assessments/Engine/OICEW-5-1K) *Secure main propulsion diesel engine*
-* [OICEW‑7‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-7-1A) *Start emergency generator*
-* [OICEW‑7‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-7-1B) *Inspect and start a diesel engine*
-* [OICEW‑8E3A]( {{site.baseurl}}/assessments/Engine/OICEW-8E3A) *Clean an oil purifier* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICEW‑7E5C]( {{site.baseurl}}/assessments/Engine/OICEW-7E5C) *Test engine shutdown devices* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-5-1J %} *Prepare main propulsion diesel engine for operation*
+* {% assessment OICEW-5-1K %} *Secure main propulsion diesel engine*
+* {% assessment OICEW-7-1A %} *Start emergency generator*
+* {% assessment OICEW-7-1B %} *Inspect and start a diesel engine*
+* {% assessment OICEW-8E3A %} *Clean an oil purifier* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-7E5C %} *Test engine shutdown devices* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -1561,18 +1561,18 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑3‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-3-1C) *Detect location of grounds*
-* [OICEW‑3‑1D]( {{site.baseurl}}/assessments/Engine/OICEW-3-1D) *Measure insulation resistance*
-* [OICEW‑3‑1E]( {{site.baseurl}}/assessments/Engine/OICEW-3-1E) *Determine phase rotation	*
-* [OICEW‑4‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-4-1A) *Inspect machinery spaces before assuming watch*
-* [OICEW‑4‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-4-1B) *Watch Relief*
-* [OICEW‑5‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-5-1A) *Test steering gear and internal communications*
-* [OICEW‑5‑1F]( {{site.baseurl}}/assessments/Engine/OICEW-5-1F) *Start fresh water generator *
-* [OICEW‑5‑1G]( {{site.baseurl}}/assessments/Engine/OICEW-5-1G) *Shut down fresh water generator*
-* [OICEW‑5‑1L]( {{site.baseurl}}/assessments/Engine/OICEW-5-1L) *Prepare main steam turbine for operation*
-* [OICEW‑5‑1N]( {{site.baseurl}}/assessments/Engine/OICEW-5-1N) *Secure main steam turbine operation*
-* [OICEW‑7E4A]( {{site.baseurl}}/assessments/Engine/OICEW-7E4A) *Disassemble and reassemble an electric motor* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICEW‑4‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-4-1C) *Engineering watchkeeping* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-3-1C %} *Detect location of grounds*
+* {% assessment OICEW-3-1D %} *Measure insulation resistance*
+* {% assessment OICEW-3-1E %} *Determine phase rotation	*
+* {% assessment OICEW-4-1A %} *Inspect machinery spaces before assuming watch*
+* {% assessment OICEW-4-1B %} *Watch Relief*
+* {% assessment OICEW-5-1A %} *Test steering gear and internal communications*
+* {% assessment OICEW-5-1F %} *Start fresh water generator *
+* {% assessment OICEW-5-1G %} *Shut down fresh water generator*
+* {% assessment OICEW-5-1L %} *Prepare main steam turbine for operation*
+* {% assessment OICEW-5-1N %} *Secure main steam turbine operation*
+* {% assessment OICEW-7E4A %} *Disassemble and reassemble an electric motor* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICEW-4-1C %} *Engineering watchkeeping* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 
 ### Topics
@@ -1727,8 +1727,8 @@ This course consists of two hour lecture, and 8-hour practical.
 
 **Demonstrate proficiency in the following skills:**
 
-* [FF‑2PFE]( {{site.baseurl}}/assessments/Common/FF-2PFE) *Use various types of portable fire extinguishers to extinguish smaller fires.*
-* [FF‑2SBA]( {{site.baseurl}}/assessments/Common/FF-2SBA) *Don and use a self-contained breathing apparatus*
+* {% assessment FF-2PFE %} *Use various types of portable fire extinguishers to extinguish smaller fires.*
+* {% assessment FF-2SBA %} *Don and use a self-contained breathing apparatus*
 
 ### Topics
 
@@ -1798,9 +1798,9 @@ Advanced Fire Fighting (AFF) is available to any student who has completed Basic
 
 **Demonstrate proficiency in the following skills:**
 
-* [FF‑4SF]( {{site.baseurl}}/assessments/Common/FF-4SF) *Extinguish a smoldering fire* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [FF‑4PCF]( {{site.baseurl}}/assessments/Common/FF-4PCF) *Extinguish a petrochemical fire* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [FF‑4FGF]( {{site.baseurl}}/assessments/Common/FF-4FGF) *Extinguish a flammable gas fire* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-4SF %} *Extinguish a smoldering fire* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-4PCF %} *Extinguish a petrochemical fire* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-4FGF %} *Extinguish a flammable gas fire* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -1861,8 +1861,8 @@ This course consists of two hour lecture, and 8-hour practical.
 
 **Demonstrate proficiency in the following skills:**
 
-* [FF‑6SRF]( {{site.baseurl}}/assessments/Common/FF-6SRF) *Extinguish a stateroom fire* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [FF‑6PLF]( {{site.baseurl}}/assessments/Common/FF-6PLF) *Extinguish a paint locker fire* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-6SRF %} *Extinguish a stateroom fire* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-6PLF %} *Extinguish a paint locker fire* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -1930,9 +1930,9 @@ This course consists of two hour lecture, and 8-hour practical.
 
 **Demonstrate proficiency in the following skills:**
 
-* [FF‑8ERF]( {{site.baseurl}}/assessments/Common/FF-8ERF) *Extinguish an engine room fire* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [FF‑8FSR]( {{site.baseurl}}/assessments/Common/FF-8FSR) *Firefighting self rescue* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [FF‑8SAR]( {{site.baseurl}}/assessments/Common/FF-8SAR) *Search and Rescue* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-8ERF %} *Extinguish an engine room fire* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-8FSR %} *Firefighting self rescue* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment FF-8SAR %} *Search and Rescue* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -2011,10 +2011,10 @@ This course consists of four 2-hour practical assessment blocks.
 
 **Demonstrate proficiency in the following skills:**
 
-* [SCRB‑2]( {{site.baseurl}}/assessments/Common/SCRB-2) *Launch, board and recover survival craft.*
-* [SCRB‑3]( {{site.baseurl}}/assessments/Common/SCRB-3) *Start and operate survival craft engine*
-* [SCRB‑4]( {{site.baseurl}}/assessments/Common/SCRB-4) *Row and steer survival craft*
-* [PS‑8]( {{site.baseurl}}/assessments/Common/PS-8) *Use of lifeboat equipment*
+* {% assessment SCRB-2 %} *Launch, board and recover survival craft.*
+* {% assessment SCRB-3 %} *Start and operate survival craft engine*
+* {% assessment SCRB-4 %} *Row and steer survival craft*
+* {% assessment PS-8 %} *Use of lifeboat equipment*
 
 ### Topics
 
@@ -2075,7 +2075,7 @@ This course consists of 1-hour practical.
 
 **Demonstrate proficiency in the following skills:**
 
-* [PS‑2]( {{site.baseurl}}/assessments/Common/PS-2) *Don and use an immersion suit*
+* {% assessment PS-2 %} *Don and use an immersion suit*
 
 ### Topics
 
@@ -2206,7 +2206,7 @@ This course consists of two 1-1/2-hour lectures and one 2-hour lab per week for 
 
 **Demonstrate proficiency in the following skills:**
 
-* [ABD‑4J9A1]( {{site.baseurl}}/assessments/Deck/ABD-4J9A1) *Marlinspike seamanship - knots I* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABD-4J9A1 %} *Marlinspike seamanship - knots I* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -2372,10 +2372,10 @@ This course serves as a pre-requisite for [MT-2371](mt-2371.html) *Sea Term II* 
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑1‑2D]( {{site.baseurl}}/assessments/Deck/OICNW-1-2D) *Plot the ship’s DR position*
-* [OICNW‑1‑2E]( {{site.baseurl}}/assessments/Deck/OICNW-1-2E) *Determine course to steer*
-* [OICNW‑1‑5D]( {{site.baseurl}}/assessments/Deck/OICNW-1-5D) *Determine course to steer by magnetic compass*
-* [OICNW‑1‑5E]( {{site.baseurl}}/assessments/Deck/OICNW-1-5E) *Position fix by magnetic compass bearings*
+* {% assessment OICNW-1-2D %} *Plot the ship’s DR position*
+* {% assessment OICNW-1-2E %} *Determine course to steer*
+* {% assessment OICNW-1-5D %} *Determine course to steer by magnetic compass*
+* {% assessment OICNW-1-5E %} *Position fix by magnetic compass bearings*
 
 ### Topics
 
@@ -2536,9 +2536,9 @@ This course consists of three 1-hour lectures a week for a semester with practic
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑2‑1A]( {{site.baseurl}}/assessments/Deck/OICNW-2-1A) *Identify light configurations*
-* [OICNW‑2‑1B]( {{site.baseurl}}/assessments/Deck/OICNW-2-1B) *Identify day shapes*
-* [OICNW‑2‑1C]( {{site.baseurl}}/assessments/Deck/OICNW-2-1C) *Identify sound signals*
+* {% assessment OICNW-2-1A %} *Identify light configurations*
+* {% assessment OICNW-2-1B %} *Identify day shapes*
+* {% assessment OICNW-2-1C %} *Identify sound signals*
 
 ### Topics
 
@@ -2738,10 +2738,10 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 **Demonstrate proficiency in the following skills:**
 
-* [ABD‑4J7A]( {{site.baseurl}}/assessments/Deck/ABD-4J7A) *Demonstrate rigging and unrigging a bosun's chair* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [ABD‑4J9A2]( {{site.baseurl}}/assessments/Deck/ABD-4J9A2) *Marlinspike seamanship - knots II* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [ABD‑4J9A3]( {{site.baseurl}}/assessments/Deck/ABD-4J9A3) *Marlinspike seamanship - splicing* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [ABD‑4J9A4]( {{site.baseurl}}/assessments/Deck/ABD-4J9A4) *Marlinspike seamanship - line handling* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABD-4J7A %} *Demonstrate rigging and unrigging a bosun's chair* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABD-4J9A2 %} *Marlinspike seamanship - knots II* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABD-4J9A3 %} *Marlinspike seamanship - splicing* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABD-4J9A4 %} *Marlinspike seamanship - line handling* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -3100,18 +3100,18 @@ This course is a pre-requisite for [MT-3222](mt-3222.html) *Automatic Radar Plot
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑1‑2B]( {{site.baseurl}}/assessments/Deck/OICNW-1-2B) *Fix by two ranges*
-* [OICNW‑1‑2C]( {{site.baseurl}}/assessments/Deck/OICNW-1-2C) *Fix by tangent bearings of two identified objects*
-* [OICNW‑3‑1A]( {{site.baseurl}}/assessments/Deck/OICNW-3-1A) *Set up and maintain radar display*
-* [OICNW‑3‑1B]( {{site.baseurl}}/assessments/Deck/OICNW-3-1B) *Switch display modes*
-* [OICNW‑3‑1C]( {{site.baseurl}}/assessments/Deck/OICNW-3-1C) *Identify false echoes, sea return, racons and SARTs*
-* [OICNW‑3‑1D]( {{site.baseurl}}/assessments/Deck/OICNW-3-1D) *Determine range and bearing*
-* [OICNW‑3‑1F]( {{site.baseurl}}/assessments/Deck/OICNW-3-1F) *Determine DRM, SRM, CPA, and TCPA*
-* [OICNW‑3‑1G]( {{site.baseurl}}/assessments/Deck/OICNW-3-1G) *Detect speed and course changes of other ships*
-* [OICNW‑3‑1H]( {{site.baseurl}}/assessments/Deck/OICNW-3-1H) *Change course to control target DRM*
-* [OICNW‑3‑1I]( {{site.baseurl}}/assessments/Deck/OICNW-3-1I) *Change speed to control target DRM*
-* [OICNW‑3‑1J]( {{site.baseurl}}/assessments/Deck/OICNW-3-1J) *Determine true course and speed of target vessels*
-* [OICNW‑3‑1K]( {{site.baseurl}}/assessments/Deck/OICNW-3-1K) *Parallel indexing*
+* {% assessment OICNW-1-2B %} *Fix by two ranges*
+* {% assessment OICNW-1-2C %} *Fix by tangent bearings of two identified objects*
+* {% assessment OICNW-3-1A %} *Set up and maintain radar display*
+* {% assessment OICNW-3-1B %} *Switch display modes*
+* {% assessment OICNW-3-1C %} *Identify false echoes, sea return, racons and SARTs*
+* {% assessment OICNW-3-1D %} *Determine range and bearing*
+* {% assessment OICNW-3-1F %} *Determine DRM, SRM, CPA, and TCPA*
+* {% assessment OICNW-3-1G %} *Detect speed and course changes of other ships*
+* {% assessment OICNW-3-1H %} *Change course to control target DRM*
+* {% assessment OICNW-3-1I %} *Change speed to control target DRM*
+* {% assessment OICNW-3-1J %} *Determine true course and speed of target vessels*
+* {% assessment OICNW-3-1K %} *Parallel indexing*
 
 ### Topics
 
@@ -3446,20 +3446,20 @@ This course is a pre-requisite for [MT-3224](mt-3224.html) *Electronic Chart Dis
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑3‑2A]( {{site.baseurl}}/assessments/Deck/OICNW-3-2A) *Set up and maintain an ARPA display*
-* [OICNW‑3‑1E]( {{site.baseurl}}/assessments/Deck/OICNW-3-1E) *Determine risk of collision*
-* [OICNW‑3‑2B]( {{site.baseurl}}/assessments/Deck/OICNW-3-2B) *Manual target acquisition*
-* [OICNW‑3‑2C]( {{site.baseurl}}/assessments/Deck/OICNW-3-2C) *Establish an exclusion area*
-* [OICNW‑3‑2D]( {{site.baseurl}}/assessments/Deck/OICNW-3-2D) *Set vector characteristics*
-* [OICNW‑3‑2E]( {{site.baseurl}}/assessments/Deck/OICNW-3-2E) *Designate targets*
-* [OICNW‑3‑2F]( {{site.baseurl}}/assessments/Deck/OICNW-3-2F) *Cancel targets*
-* [OICNW‑3‑2G]( {{site.baseurl}}/assessments/Deck/OICNW-3-2G) *Target history*
-* [OICNW‑3‑2H]( {{site.baseurl}}/assessments/Deck/OICNW-3-2H) *Establish CPA and TCPA*
-* [OICNW‑3‑2I]( {{site.baseurl}}/assessments/Deck/OICNW-3-2I) *Establish alarm area*
-* [OICNW‑3‑2J]( {{site.baseurl}}/assessments/Deck/OICNW-3-2J) *Trial Maneuver*
-* [OICNW‑3‑2K]( {{site.baseurl}}/assessments/Deck/OICNW-3-2K) *Switch stabilization modes*
-* [OICNW‑3‑2L]( {{site.baseurl}}/assessments/Deck/OICNW-3-2L) *Navigation lines*
-* [OICNW‑3‑2M]( {{site.baseurl}}/assessments/Deck/OICNW-3-2M) *Determine set and drift*
+* {% assessment OICNW-3-2A %} *Set up and maintain an ARPA display*
+* {% assessment OICNW-3-1E %} *Determine risk of collision*
+* {% assessment OICNW-3-2B %} *Manual target acquisition*
+* {% assessment OICNW-3-2C %} *Establish an exclusion area*
+* {% assessment OICNW-3-2D %} *Set vector characteristics*
+* {% assessment OICNW-3-2E %} *Designate targets*
+* {% assessment OICNW-3-2F %} *Cancel targets*
+* {% assessment OICNW-3-2G %} *Target history*
+* {% assessment OICNW-3-2H %} *Establish CPA and TCPA*
+* {% assessment OICNW-3-2I %} *Establish alarm area*
+* {% assessment OICNW-3-2J %} *Trial Maneuver*
+* {% assessment OICNW-3-2K %} *Switch stabilization modes*
+* {% assessment OICNW-3-2L %} *Navigation lines*
+* {% assessment OICNW-3-2M %} *Determine set and drift*
 
 ### Topics
 
@@ -3517,24 +3517,24 @@ This course consists of one 1-hour lecture and one 2-hour lab per week for a sem
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑3‑3A]( {{site.baseurl}}/assessments/Deck/OICNW-3-3A) *Operational Settings - Safety Depth*
-* [OICNW‑3‑3B]( {{site.baseurl}}/assessments/Deck/OICNW-3-3B) *Operational Settings - Display/Change Safety contour*
-* [OICNW‑3‑3C]( {{site.baseurl}}/assessments/Deck/OICNW-3-3C) *Operational Settings - Display/change CPA/TCPA limits*
-* [OICNW‑3‑3D]( {{site.baseurl}}/assessments/Deck/OICNW-3-3D) *Operational Settings - Display/Change spot sounding limits*
-* [OICNW‑3‑3E]( {{site.baseurl}}/assessments/Deck/OICNW-3-3E) *Operational Settings - Resume of Navigation Mode*
-* [OICNW‑3‑3F]( {{site.baseurl}}/assessments/Deck/OICNW-3-3F) *Monitoring Sea Area - Chart Scaling*
-* [OICNW‑3‑3G]( {{site.baseurl}}/assessments/Deck/OICNW-3-3G) *Monitoring Sea Area - Chart selection*
-* [OICNW‑3‑3H]( {{site.baseurl}}/assessments/Deck/OICNW-3-3H) *Monitoring Sea Area - Gain information*
-* [OICNW‑3‑3I]( {{site.baseurl}}/assessments/Deck/OICNW-3-3I) *Monitoring Sea Area - ERBL*
-* [OICNW‑3‑3J]( {{site.baseurl}}/assessments/Deck/OICNW-3-3J) *Display User Charts *
-* [OICNW‑3‑3K]( {{site.baseurl}}/assessments/Deck/OICNW-3-3K) *Merge User Charts*
-* [OICNW‑3‑3L]( {{site.baseurl}}/assessments/Deck/OICNW-3-3L) *Display Route Plans*
-* [OICNW‑3‑3M]( {{site.baseurl}}/assessments/Deck/OICNW-3-3M) *Modify Waypoints*
-* [OICNW‑3‑3N]( {{site.baseurl}}/assessments/Deck/OICNW-3-3N) *Check revised route for safety*
-* [OICNW‑3‑3O]( {{site.baseurl}}/assessments/Deck/OICNW-3-3O) *Convert Route Plan to Passage Plan*
-* [OICNW‑3‑3P]( {{site.baseurl}}/assessments/Deck/OICNW-3-3P) *Convert Route Plan to a Route*
-* [OICNW‑3‑3Q]( {{site.baseurl}}/assessments/Deck/OICNW-3-3Q) *Environmental Data - Identify tidal data*
-* [OICNW‑3‑3R]( {{site.baseurl}}/assessments/Deck/OICNW-3-3R) *Environmental Data - Display tide bars and current vectors*
+* {% assessment OICNW-3-3A %} *Operational Settings - Safety Depth*
+* {% assessment OICNW-3-3B %} *Operational Settings - Display/Change Safety contour*
+* {% assessment OICNW-3-3C %} *Operational Settings - Display/change CPA/TCPA limits*
+* {% assessment OICNW-3-3D %} *Operational Settings - Display/Change spot sounding limits*
+* {% assessment OICNW-3-3E %} *Operational Settings - Resume of Navigation Mode*
+* {% assessment OICNW-3-3F %} *Monitoring Sea Area - Chart Scaling*
+* {% assessment OICNW-3-3G %} *Monitoring Sea Area - Chart selection*
+* {% assessment OICNW-3-3H %} *Monitoring Sea Area - Gain information*
+* {% assessment OICNW-3-3I %} *Monitoring Sea Area - ERBL*
+* {% assessment OICNW-3-3J %} *Display User Charts *
+* {% assessment OICNW-3-3K %} *Merge User Charts*
+* {% assessment OICNW-3-3L %} *Display Route Plans*
+* {% assessment OICNW-3-3M %} *Modify Waypoints*
+* {% assessment OICNW-3-3N %} *Check revised route for safety*
+* {% assessment OICNW-3-3O %} *Convert Route Plan to Passage Plan*
+* {% assessment OICNW-3-3P %} *Convert Route Plan to a Route*
+* {% assessment OICNW-3-3Q %} *Environmental Data - Identify tidal data*
+* {% assessment OICNW-3-3R %} *Environmental Data - Display tide bars and current vectors*
 
 ### Topics
 
@@ -4188,13 +4188,13 @@ enrolled in this course must have previously successfully satisfied the followin
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑1‑2A]( {{site.baseurl}}/assessments/Deck/OICNW-1-2A) *Fix by two bearings*
-* [OICNW‑1‑5A]( {{site.baseurl}}/assessments/Deck/OICNW-1-5A) *Determine gyro compass error by bearing of range*
-* [OICNW‑1‑5B]( {{site.baseurl}}/assessments/Deck/OICNW-1-5B) *Determine magnetic compass error*
-* [OICNW‑1‑5C]( {{site.baseurl}}/assessments/Deck/OICNW-1-5C) *Determine magnetic compass deviation*
-* [OICNW‑5‑1A]( {{site.baseurl}}/assessments/Deck/OICNW-5-1A) *Maneuver for man overboard*
-* [OICNW‑5‑1B]( {{site.baseurl}}/assessments/Deck/OICNW-5-1B) *Course change of more than 45°*
-* [OICNW‑5‑1C]( {{site.baseurl}}/assessments/Deck/OICNW-5-1C) *Emergency stop*
+* {% assessment OICNW-1-2A %} *Fix by two bearings*
+* {% assessment OICNW-1-5A %} *Determine gyro compass error by bearing of range*
+* {% assessment OICNW-1-5B %} *Determine magnetic compass error*
+* {% assessment OICNW-1-5C %} *Determine magnetic compass deviation*
+* {% assessment OICNW-5-1A %} *Maneuver for man overboard*
+* {% assessment OICNW-5-1B %} *Course change of more than 45°*
+* {% assessment OICNW-5-1C %} *Emergency stop*
 
 ### Topics
 
@@ -4608,34 +4608,34 @@ This course consists of at least two 45-minute full mission ship simulator exerc
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑1‑3A]( {{site.baseurl}}/assessments/Deck/OICNW-1-3A) *Correction of charts and publications*
-* [OICNW‑2‑1D]( {{site.baseurl}}/assessments/Deck/OICNW-2-1D) *Determine risk of collision*
-* [OICNW‑2‑1E]( {{site.baseurl}}/assessments/Deck/OICNW-2-1E) *Maneuver to avoid risk of collision -- meeting*
-* [OICNW‑2‑1F]( {{site.baseurl}}/assessments/Deck/OICNW-2-1F) *Maneuver to avoid risk of collision -- overtaking*
-* [OICNW‑2‑2B]( {{site.baseurl}}/assessments/Deck/OICNW-2-2B) *Keep a safe navigation watch*
-* [OICNW‑2‑2C]( {{site.baseurl}}/assessments/Deck/OICNW-2-2C) *Notify Master when appropriate*
-* [OICNW‑2‑2D]( {{site.baseurl}}/assessments/Deck/OICNW-2-2D) *Keep a safe anchor watch* ![]({{site.baseurl}}/assets/images/mod.jpg)
-* [OICNW‑2‑2E]( {{site.baseurl}}/assessments/Deck/OICNW-2-2E) *Navigate in restricted visibility*
-* [OICNW‑2‑2F]( {{site.baseurl}}/assessments/Deck/OICNW-2-2F) *Turn over a watch*
-* [OICNW‑2‑3A]( {{site.baseurl}}/assessments/Deck/OICNW-2-3A) *Voyage plan - appraisal*
-* [OICNW‑2‑3B]( {{site.baseurl}}/assessments/Deck/OICNW-2-3B) *Voyage plan - execution*
-* [OICNW‑2‑3C]( {{site.baseurl}}/assessments/Deck/OICNW-2-3C) *Watch augmentation*
-* [OICNW‑2‑3D]( {{site.baseurl}}/assessments/Deck/OICNW-2-3D) *BRM Condition III – collision avoidance.*
-* [OICNW‑2‑3E]( {{site.baseurl}}/assessments/Deck/OICNW-2-3E) *BRM Condition III – navigation*
-* [OICNW‑2‑3F]( {{site.baseurl}}/assessments/Deck/OICNW-2-3F) *BRM Condition II or III – error trapping*
-* [OICNW‑2‑3G]( {{site.baseurl}}/assessments/Deck/OICNW-2-3G) *BRM Condition II or III – navigation and collision avoidance*
-* [OICNW‑2‑3H]( {{site.baseurl}}/assessments/Deck/OICNW-2-3H) *BRM Condition III – establish a bridge team*
-* [OICNW‑4‑1A]( {{site.baseurl}}/assessments/Deck/OICNW-4-1A) *Flashing Light*
-* [OICNW‑2D1E]( {{site.baseurl}}/assessments/Deck/OICNW-2D1E) *Maneuver to avoid risk of collision - crossing* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICNW‑2D3B]( {{site.baseurl}}/assessments/Deck/OICNW-2D3B) *Voyage plan - preparation* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICNW‑2D4A]( {{site.baseurl}}/assessments/Deck/OICNW-2D4A) *Situational awareness* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICNW‑2D6A]( {{site.baseurl}}/assessments/Deck/OICNW-2D6A) *Vessel traffic systems (VTS)* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [OICNW‑2D7E]( {{site.baseurl}}/assessments/Deck/OICNW-2D7E) *BRM Condition II or III - prioritization* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [ADB‑4J11A]( {{site.baseurl}}/assessments/Deck/ADB-4J11A) *Trace out and describe a piping system* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [RFPNW‑1K]( {{site.baseurl}}/assessments/Deck/RFPNW-1K) *Helmsman* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [RFPNW‑3K4B]( {{site.baseurl}}/assessments/Deck/RFPNW-3K4B) *Relief of the helmsman* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [RFPNW‑2K]( {{site.baseurl}}/assessments/Deck/RFPNW-2K) *Lookout* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [RFPNW‑3K4A]( {{site.baseurl}}/assessments/Deck/RFPNW-3K4A) *Relief of the lookout* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICNW-1-3A %} *Correction of charts and publications*
+* {% assessment OICNW-2-1D %} *Determine risk of collision*
+* {% assessment OICNW-2-1E %} *Maneuver to avoid risk of collision -- meeting*
+* {% assessment OICNW-2-1F %} *Maneuver to avoid risk of collision -- overtaking*
+* {% assessment OICNW-2-2B %} *Keep a safe navigation watch*
+* {% assessment OICNW-2-2C %} *Notify Master when appropriate*
+* {% assessment OICNW-2-2D %} *Keep a safe anchor watch* ![]({{site.baseurl}}/assets/images/mod.jpg)
+* {% assessment OICNW-2-2E %} *Navigate in restricted visibility*
+* {% assessment OICNW-2-2F %} *Turn over a watch*
+* {% assessment OICNW-2-3A %} *Voyage plan - appraisal*
+* {% assessment OICNW-2-3B %} *Voyage plan - execution*
+* {% assessment OICNW-2-3C %} *Watch augmentation*
+* {% assessment OICNW-2-3D %} *BRM Condition III – collision avoidance.*
+* {% assessment OICNW-2-3E %} *BRM Condition III – navigation*
+* {% assessment OICNW-2-3F %} *BRM Condition II or III – error trapping*
+* {% assessment OICNW-2-3G %} *BRM Condition II or III – navigation and collision avoidance*
+* {% assessment OICNW-2-3H %} *BRM Condition III – establish a bridge team*
+* {% assessment OICNW-4-1A %} *Flashing Light*
+* {% assessment OICNW-2D1E %} *Maneuver to avoid risk of collision - crossing* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICNW-2D3B %} *Voyage plan - preparation* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICNW-2D4A %} *Situational awareness* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICNW-2D6A %} *Vessel traffic systems (VTS)* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment OICNW-2D7E %} *BRM Condition II or III - prioritization* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ADB-4J11A %} *Trace out and describe a piping system* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment RFPNW-1K %} *Helmsman* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment RFPNW-3K4B %} *Relief of the helmsman* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment RFPNW-2K %} *Lookout* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment RFPNW-3K4A %} *Relief of the lookout* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -4682,22 +4682,22 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICNW‑1‑1A]( {{site.baseurl}}/assessments/Deck/OICNW-1-1A) *Adjust a sextant*
-* [OICNW‑1‑1B]( {{site.baseurl}}/assessments/Deck/OICNW-1-1B) *Measure the altitude of the sun*
-* [OICNW‑1‑1C]( {{site.baseurl}}/assessments/Deck/OICNW-1-1C) *Obtain a celestial fix * ![]({{site.baseurl}}/assets/images/mod.jpg)
-* [OICNW‑1‑1D]( {{site.baseurl}}/assessments/Deck/OICNW-1-1D) *Measure the altitude of the sun at meridian passage (local apparent noon)*
-* [OICNW‑1‑1E]( {{site.baseurl}}/assessments/Deck/OICNW-1-1E) *Celestial running fix*
-* [OICNW‑1‑1F]( {{site.baseurl}}/assessments/Deck/OICNW-1-1F) *Star Fix*
-* [OICNW‑1‑1G]( {{site.baseurl}}/assessments/Deck/OICNW-1-1G) *Measure the altitude of at least 3 stars*
-* [OICNW‑1‑3B]( {{site.baseurl}}/assessments/Deck/OICNW-1-3B) *Chart selection*
-* [OICNW‑1‑3C]( {{site.baseurl}}/assessments/Deck/OICNW-1-3C) *Route planning*
-* [OICNW‑1‑4A]( {{site.baseurl}}/assessments/Deck/OICNW-1-4A) *Position fix by GPS*
-* [OICNW‑1‑4B]( {{site.baseurl}}/assessments/Deck/OICNW-1-4B) *Use of GPS position save function*
-* [OICNW‑1‑4D]( {{site.baseurl}}/assessments/Deck/OICNW-1-4D) *Use of echo sounder*
-* [OICNW‑1‑5F]( {{site.baseurl}}/assessments/Deck/OICNW-1-5F) *Azimuth of the sun* ![]({{site.baseurl}}/assets/images/mod.jpg)
-* [OICNW‑1‑6A]( {{site.baseurl}}/assessments/Deck/OICNW-1-6A) *Steering gear test*
-* [OICNW‑1‑6B]( {{site.baseurl}}/assessments/Deck/OICNW-1-6B) *Set weather controls*
-* [OICNW‑2‑2A]( {{site.baseurl}}/assessments/Deck/OICNW-2-2A) *Watch relief* ![]({{site.baseurl}}/assets/images/mod.jpg)
+* {% assessment OICNW-1-1A %} *Adjust a sextant*
+* {% assessment OICNW-1-1B %} *Measure the altitude of the sun*
+* {% assessment OICNW-1-1C %} *Obtain a celestial fix * ![]({{site.baseurl}}/assets/images/mod.jpg)
+* {% assessment OICNW-1-1D %} *Measure the altitude of the sun at meridian passage (local apparent noon)*
+* {% assessment OICNW-1-1E %} *Celestial running fix*
+* {% assessment OICNW-1-1F %} *Star Fix*
+* {% assessment OICNW-1-1G %} *Measure the altitude of at least 3 stars*
+* {% assessment OICNW-1-3B %} *Chart selection*
+* {% assessment OICNW-1-3C %} *Route planning*
+* {% assessment OICNW-1-4A %} *Position fix by GPS*
+* {% assessment OICNW-1-4B %} *Use of GPS position save function*
+* {% assessment OICNW-1-4D %} *Use of echo sounder*
+* {% assessment OICNW-1-5F %} *Azimuth of the sun* ![]({{site.baseurl}}/assets/images/mod.jpg)
+* {% assessment OICNW-1-6A %} *Steering gear test*
+* {% assessment OICNW-1-6B %} *Set weather controls*
+* {% assessment OICNW-2-2A %} *Watch relief* ![]({{site.baseurl}}/assets/images/mod.jpg)
 
 ### Topics
 
@@ -4830,17 +4830,17 @@ This course consists of four 3-hour modules.
 
 **Demonstrate proficiency in the following skills:**
 
-* [EFA‑4B4B]( {{site.baseurl}}/assessments/Common/EFA-4B4B) *Demonstrate opening of the airway and checking for breathing* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B4D]( {{site.baseurl}}/assessments/Common/EFA-4B4D) *Demonstrate action for an unresponsive person who is not breathing* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B4E]( {{site.baseurl}}/assessments/Common/EFA-4B4E) *Demonstrate the procedure for determining if a patient has a pulse* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B4F]( {{site.baseurl}}/assessments/Common/EFA-4B4F) *Demonstrate proper hand placements for chest compressions* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B4G]( {{site.baseurl}}/assessments/Common/EFA-4B4G) *Demonstrate proper CPR compressions for two minutes* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B4H]( {{site.baseurl}}/assessments/Common/EFA-4B4H) *Demonstrate actions for a conscious adult with airway blockage* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B4I]( {{site.baseurl}}/assessments/Common/EFA-4B4I) *Demonstrate actions for an unconscious adult with airway blockage* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B5A]( {{site.baseurl}}/assessments/Common/EFA-4B5A) *Demonstrate proper bleeding control techniques* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B8C]( {{site.baseurl}}/assessments/Common/EFA-4B8C) *Demonstrate immobilizing a fracture using splints and ties* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B8D]( {{site.baseurl}}/assessments/Common/EFA-4B8D) *Demonstrate preparing patient for spinal immobilization* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [EFA‑4B9A]( {{site.baseurl}}/assessments/Common/EFA-4B9A) *Demonstrate bandaging technique for wound treatment* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4B %} *Demonstrate opening of the airway and checking for breathing* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4D %} *Demonstrate action for an unresponsive person who is not breathing* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4E %} *Demonstrate the procedure for determining if a patient has a pulse* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4F %} *Demonstrate proper hand placements for chest compressions* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4G %} *Demonstrate proper CPR compressions for two minutes* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4H %} *Demonstrate actions for a conscious adult with airway blockage* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B4I %} *Demonstrate actions for an unconscious adult with airway blockage* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B5A %} *Demonstrate proper bleeding control techniques* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B8C %} *Demonstrate immobilizing a fracture using splints and ties* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B8D %} *Demonstrate preparing patient for spinal immobilization* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment EFA-4B9A %} *Demonstrate bandaging technique for wound treatment* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -4915,15 +4915,15 @@ This course consists of 14 2-hour practicals.
 
 **Demonstrate proficiency in the following skills:**
 
-* [MFA‑1M1A]( {{site.baseurl}}/assessments/Common/MFA-1M1A) *Assess and treat life-threatening conditions* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M1B]( {{site.baseurl}}/assessments/Common/MFA-1M1B) *Perform a detailed physical assessment* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M2A]( {{site.baseurl}}/assessments/Common/MFA-1M2A) *Immobilize a victim with a spinal injury* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M3A]( {{site.baseurl}}/assessments/Common/MFA-1M3A) *Immobilize and apply traction a victim with a broken femur* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M3B]( {{site.baseurl}}/assessments/Common/MFA-1M3B) *Immobilize a long bone fracture* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M4A]( {{site.baseurl}}/assessments/Common/MFA-1M4A) *Perform CPR* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M4B]( {{site.baseurl}}/assessments/Common/MFA-1M4B) *Use a AED* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M4C]( {{site.baseurl}}/assessments/Common/MFA-1M4C) *Manage obstructed airway in a conscious victim* ![]({{site.baseurl}}/assets/images/new.jpg)
-* [MFA‑1M4D]( {{site.baseurl}}/assessments/Common/MFA-1M4D) *Manage obstructed airway in an unconscious victim* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M1A %} *Assess and treat life-threatening conditions* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M1B %} *Perform a detailed physical assessment* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M2A %} *Immobilize a victim with a spinal injury* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M3A %} *Immobilize and apply traction a victim with a broken femur* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M3B %} *Immobilize a long bone fracture* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M4A %} *Perform CPR* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M4B %} *Use a AED* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M4C %} *Manage obstructed airway in a conscious victim* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment MFA-1M4D %} *Manage obstructed airway in an unconscious victim* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -5019,13 +5019,13 @@ This course consists of 1-hour lecture, and 8-hour practical.
 
 **Demonstrate proficiency in the following skills:**
 
-* [SCRB‑1]( {{site.baseurl}}/assessments/Common/SCRB-1) *Right an inverted lifefraft *
-* [PS‑1]( {{site.baseurl}}/assessments/Common/PS-1) *Don a lifejacket*
-* [PS‑3]( {{site.baseurl}}/assessments/Common/PS-3) *Jump from a height into the water*
-* [PS‑5]( {{site.baseurl}}/assessments/Common/PS-5) *Swim while wearing a lifejacket*
-* [PS‑6]( {{site.baseurl}}/assessments/Common/PS-6) *Keep afloat without a lifejacket*
-* [PS‑7]( {{site.baseurl}}/assessments/Common/PS-7) *Board a survival craft while wearing a lifejacket*
-* [PS‑4]( {{site.baseurl}}/assessments/Common/PS-4) *Right an inverted liferaft*
+* {% assessment SCRB-1 %} *Right an inverted lifefraft *
+* {% assessment PS-1 %} *Don a lifejacket*
+* {% assessment PS-3 %} *Jump from a height into the water*
+* {% assessment PS-5 %} *Swim while wearing a lifejacket*
+* {% assessment PS-6 %} *Keep afloat without a lifejacket*
+* {% assessment PS-7 %} *Board a survival craft while wearing a lifejacket*
+* {% assessment PS-4 %} *Right an inverted liferaft*
 
 ### Topics
 
@@ -5271,8 +5271,8 @@ This course consists of deck watchstanding, training and maintenance, for approx
 
 **Demonstrate proficiency in the following skills:**
 
-* [ABDE‑DE‑1]( {{site.baseurl}}/assessments/Common/ABDE-DE-1) *Demonstrate crane and hoist signals*
-* [ABD‑5J10B]( {{site.baseurl}}/assessments/Deck/ABD-5J10B) *Demonstrate use of a safety harness* ![]({{site.baseurl}}/assets/images/new.jpg)
+* {% assessment ABDE-DE-1 %} *Demonstrate crane and hoist signals*
+* {% assessment ABD-5J10B %} *Demonstrate use of a safety harness* ![]({{site.baseurl}}/assets/images/new.jpg)
 
 ### Topics
 
@@ -5380,11 +5380,11 @@ This course consists of engineering watchstanding, training and maintenance, for
 
 **Demonstrate proficiency in the following skills:**
 
-* [OICEW‑1‑1D]( {{site.baseurl}}/assessments/Engine/OICEW-1-1D) *Sweat joint*
-* [OICEW‑1‑1E]( {{site.baseurl}}/assessments/Engine/OICEW-1-1E) *Bend copper tube*
-* [OICEW‑2‑1A]( {{site.baseurl}}/assessments/Engine/OICEW-2-1A) *Drill blind hole using drilling machine*
-* [OICEW‑2‑1B]( {{site.baseurl}}/assessments/Engine/OICEW-2-1B) *Thread a blind hole using hand taps*
-* [OICEW‑2‑1C]( {{site.baseurl}}/assessments/Engine/OICEW-2-1C) *External thread using a hand die*
+* {% assessment OICEW-1-1D %} *Sweat joint*
+* {% assessment OICEW-1-1E %} *Bend copper tube*
+* {% assessment OICEW-2-1A %} *Drill blind hole using drilling machine*
+* {% assessment OICEW-2-1B %} *Thread a blind hole using hand taps*
+* {% assessment OICEW-2-1C %} *External thread using a hand die*
 
 ### Topics
 

@@ -46,6 +46,12 @@ defaults:
       type: "tasks"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "tables"
+    values:
+      layout: "page"
 
   
 collections:
@@ -58,6 +64,10 @@ collections:
   tasks:
     output: true
     sort_by: task_number
+  tables:
+    output: true
+    sort_by: table_number
+
       
 description: >- # this means to ignore newlines until "baseurl:"
   

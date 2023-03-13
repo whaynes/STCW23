@@ -14,7 +14,7 @@
 
 <!-- write out a page for each assessment -->
   <xsl:template match="assessment">
-    <xsl:result-document method="text" href="{$folder}/{@category}/{@number}.md">
+    <xsl:result-document method="text" href="{$folder}/{@number}.md">
       <xsl:text>---</xsl:text>
       <xsl:text>&cr;number: "</xsl:text><xsl:value-of select="@number"/>"<xsl:text/>
       <xsl:text>&cr;subtitle: "Assessment </xsl:text><xsl:value-of select="@number"/>"<xsl:text/>

@@ -2796,8 +2796,10 @@
 <Table_Short_Name pos="1">ABE</Table_Short_Name>
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
-<Method_Name pos="1"/>
+<Method_Name pos="1">Demonstrate crane and hoist signals</Method_Name>
 <Method_Name pos="2">Shipboard Maintenance</Method_Name>
+<status pos="1">Old</status>
+<mmd_link_to_this_assessment pos="1">{% assessment ABDE-DE-1 %} in {% course ST-0999D %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course CC-MANT %}</mmd_link_to_this_course>
 </RECORD>
 <RECORD>

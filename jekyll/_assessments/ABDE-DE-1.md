@@ -63,4 +63,4 @@ This assessment supports KUP [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1
 
 ***
 
-Also satisfies equivalent requirement for AB-Engine
+Also satisfies equivalent requirement for AB-Engine:  [ABE-A8.2]({{site.baseurl}}/tables/35.html#ABE-A8.2)

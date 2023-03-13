@@ -23,7 +23,15 @@
     <xsl:text>&cr;subtitle: STCW Table </xsl:text>
     <xsl:value-of select="Table"/>
     <xsl:text>&cr;title: </xsl:text>
-    <xsl:value-of select="Tables--Table_Name"/>
+    <xsl:value-of select="Table_Name"/>
+    <xsl:text>&cr;table_number: </xsl:text>
+    <xsl:value-of select="TableNo"/>
+    <xsl:text>&cr;Major: </xsl:text>
+    <xsl:choose>
+        <xsl:when test="Major='MENG'">E</xsl:when>
+         <xsl:when test="Major='MTRA'">D</xsl:when>
+        <xsl:otherwise>D/E</xsl:otherwise>
+      </xsl:choose>
     <xsl:text>&cr;---&rr;</xsl:text>
 
     <xsl:variable name="table" select="current-group()"/>
@@ -48,7 +56,7 @@
                 <xsl:text>&rr;</xsl:text>
                 <td rowspan="{count(current-group())}" class='competence'>
                   <xsl:attribute name="id" 
-            select="concat(Tables--Table_Short_Name, '-', FunctionNo, CompetenceNo)"/>
+            select="concat(Table_Short_Name, '-', FunctionNo, CompetenceNo)"/>
 
                   <p>{{ "&cr;<xsl:value-of select="current-group()[1]/competence"/>" | markdownify }}</p>
                 </td>
@@ -67,7 +75,7 @@
                   <xsl:text>&rr;</xsl:text>
                   <td class='location'>
                     <xsl:text>{{"&cr;</xsl:text>
-                    <xsl:for-each select="distinct-values(Courses_K--CourseNo | Courses_P--CourseNo)">
+                    <xsl:for-each select="distinct-values(CourseNo)">
                       <xsl:text>&cr;[</xsl:text>
                       <xsl:value-of select="replace(., '-', '&#x2011;')"/>](/stcw23/courses/<xsl:value-of select="."/>.html)<xsl:text/>
                       <xsl:if test="not(position() = last())"><xsl:text>\\</xsl:text></xsl:if>
@@ -101,11 +109,12 @@
       <xsl:value-of select="$title"/>
       <xsl:text>)&cr;</xsl:text>
       <xsl:text>subtitle: and associated STCW Tables&cr;</xsl:text>
+      <xsl:text>table_number: nil&cr;</xsl:text>
       <xsl:text>---&rr;</xsl:text>
       <xsl:text>&rr;|  NVIC Tasks  |    STCW Table     |  Name   |</xsl:text>
       <xsl:text>&cr;|:-------------|:------------|:--------------|&cr;</xsl:text>
       <xsl:for-each-group select="$range" group-by="Table">
-        <xsl:text/>| <xsl:call-template name="TaskLink"/> | [<xsl:value-of select="Table"/>](<xsl:value-of select="Tables--TableNo"/>.html) | <xsl:value-of select="Tables--Table_Name"/> | &cr;<xsl:text/>
+        <xsl:text/>| <xsl:call-template name="TaskLink"/> | [<xsl:value-of select="Table"/>](<xsl:value-of select="TableNo"/>.html) | <xsl:value-of select="Table_Name"/> | &cr;<xsl:text/>
       </xsl:for-each-group>
       <xsl:text>{: .sortable }</xsl:text>
     </xsl:result-document>
@@ -113,11 +122,11 @@
 
 
   <xsl:template name="TaskLink">
-    <xsl:if test="count(NVIC_Tasks_1--taskNo)">
+    <xsl:if test="count(taskNo)">
       <xsl:text>[</xsl:text>
-      <xsl:value-of select="Tables--Table_Short_Name"/>
+      <xsl:value-of select="Table_Short_Name"/>
       <xsl:text> Tasks](index_</xsl:text>
-      <xsl:value-of select="translate(Tables--Table_Short_Name, '-', '')"/>
+      <xsl:value-of select="translate(Table_Short_Name, '-', '')"/>
       <xsl:text>.html)</xsl:text>
     </xsl:if>
   </xsl:template>

@@ -4,6 +4,9 @@ layout: page
 
 {% assign tables = page.tables %}
 
+{{content}}
+
+
 <ol style='columns: 3'>
 {% for table in tables %}
 <li><a href='#{{table}}'>{{ table }}</a> </li>
@@ -26,6 +29,6 @@ layout: page
 
 </table>
 
-{{content}}
+
 
 
