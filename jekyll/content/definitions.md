@@ -41,7 +41,7 @@ NVIC Task
 :	A knowledge, understanding, or proficiency identified and numbered by the USCG, which is satisfied at MMA by either: 
 :  1) completing a course which contains the knowledge or understanding, or 
 :  2) completing a MMA practical assessment to demonstrate the proficiency, or
-:  3) completing all elements of a relavant STCW table (e.g. firefighting, first aid).  
+:  3) completing all elements of a relevant STCW table (e.g. firefighting, first aid).  
 
 ### Assessment of competence
 
@@ -63,8 +63,14 @@ Behavior
 Standard
 :  The standard specifies the criteria for determining acceptable proficiency.
 
-Example
-:Condition: On a basketball court with a standard ball and net.
-:Behavior:  Shoot free throws for one minute.
-:Standard:  Score at least 10 points.
+### Example
+
+Condition
+: On a basketball court with a standard ball and net.
+
+Behavior
+:  Shoot free throws for one minute.
+
+Standard
+:  Make at least five baskets.
 
