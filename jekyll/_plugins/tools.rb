@@ -47,17 +47,10 @@ class AssessmentLink < MMDLink
   end
 end
 
-class ImageLink < Liquid::Tag
-
+class ImageLink < MMDLink
     def initialize(tag_name, text, tokens)
       super
-      @file = text.strip
-    end
-
-    def render(liquid_context)
-       site = liquid_context.registers[:site]
-       baseurl = site.config['baseurl']
-      "[#{@file}](#{baseurl}/assets/images/#{@file})"
+      @folder='assets/images'
     end
   end
 
