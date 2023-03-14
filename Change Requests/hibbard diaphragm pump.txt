@@ -1,0 +1,12 @@
+Will Hibbard  3/13/23
+
+1. Replace Reciprocating pump maintenance assessment 8-2B (done in aux 1)
+with Diaphragm pump maintenance lab (to be one on ship with 3/c)
+
+This will better satisfyl NIVC 17-14 task 9.1.c, which calls for diaphragm pump maintenance.
+
+2.  Talk to Jim Albani about any simulator assessments which would be better done on the new ship.
+
+3.  Move gage glass lab from 3/c on ship to Steam Generator lab.
+
+
