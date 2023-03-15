@@ -1,98 +1,43 @@
 module Jekyll
 
-class MMDLink < Liquid::Tag
+  class MMALink < Liquid::Tag
 
- def initialize(tag_name, text, tokens)
-      super
-      args=text.split(",")
-      @file = args[0]
-      @linktext = args[1]
-      @folder=""
-    end
-
-    def render(liquid_context)
-       site = liquid_context.registers[:site]
-       baseurl = site.config['baseurl']       
-      "[#{@linktext}](#{site.baseurl}/#{@folder}/#{@file.strip})"
-    end
-  end
-
-class CourseLink < MMDLink
-  def initialize(tag_name, text, tokens)
-    super
-    @folder='courses'
-    @linktext = "#{@file.gsub('-','&#8209;')}"  #non-breaking hyphen
-  end
-end
-
-class TableLink < MMDLink
-  def initialize(tag_name, text, tokens)
-    super
-    @folder='tables'
-  end
-end
-
-class TaskLink < MMDLink
-	def initialize(tag_name, text, tokens)
-		super
-		@folder='tasks'
-	end
-end
-
-class AssessmentLink < MMDLink
-  def initialize(tag_name, text, tokens)
-    super
-    @folder='assessments'
-    @linktext=@file
-  end
-end
-
-class ImageLink < MMDLink
     def initialize(tag_name, text, tokens)
       super
-      @folder='assets/images'
+      @file, @linktext = text.split(",")
+      @linktext = @file if @linktext.nil? #no linktext given
+      @path = tag_name + 's/'  # default case
+      case tag_name
+      when 'do'
+        @path = 'content/guidelines.html#'
+        @linktext.gsub!(/\s+\/\)\(/, '')
+      when 'course'
+        @linktext = @linktext.gsub('-', '&#8209;')  #non-breaking hyphen
+      when 'practical'
+        @path = 'assessments/'
+        @linktext = 'CHECK ME (plug-in)'
+      when 'imagelink'
+        @path = 'assets/images/'
+      end
+    end
+
+    def render(context)
+      puts @linktext
+      @linktext = Liquid::Template.parse(@linktext).render(context)
+      puts @linktext
+      site = context.registers[:site]
+      baseurl = site.config['baseurl']
+      "[#{@linktext}](#{site.baseurl}/#{@path}#{@file.strip})"
     end
   end
 
-
-  class PracticalLink < Liquid::Tag
-  
-  def initialize(tag_name, text, tokens)
-      super
-      @text = text.strip
-    end
-
-    def render(liquid_context)
-       site = liquid_context.registers[:site]
-       baseurl = site.config['baseurl']
-       "(== Practical #{baseurl}/tasks/#{@text}==)"
-    end
-  end
-  
-  class GuideLink < Liquid::Tag
-  
-  def initialize(tag_name, text, tokens)
-      super
-      @text = text.split(",")
-    end
-
-    def render(liquid_context)
-       site = liquid_context.registers[:site]
-       baseurl = site.config['baseurl']
-       linktext = @text[0].strip
-       anchor = @text[1]
-       if anchor == nil
-       		anchor = linktext.gsub(/\s+\/\)\(/,'')
-       	end
-        "[#{linktext}](#{site.baseurl}/content/guidelines.html##{anchor.strip})"
-    end
-  end
 end
 
-Liquid::Template.register_tag('imagelink', Jekyll::ImageLink)
-Liquid::Template.register_tag('course', Jekyll::CourseLink)
-Liquid::Template.register_tag('practical', Jekyll::PracticalLink)
-Liquid::Template.register_tag('table', Jekyll::TableLink)
-Liquid::Template.register_tag('do', Jekyll::GuideLink)
-Liquid::Template.register_tag('task', Jekyll::TaskLink)
-Liquid::Template.register_tag('assessment', Jekyll::AssessmentLink)
+Liquid::Template.register_tag('imagelink', Jekyll::MMALink)
+Liquid::Template.register_tag('course', Jekyll::MMALink)
+Liquid::Template.register_tag('practical', Jekyll::MMALink)
+Liquid::Template.register_tag('table', Jekyll::MMALink)
+Liquid::Template.register_tag('do', Jekyll::MMALink)
+Liquid::Template.register_tag('task', Jekyll::MMALink)
+Liquid::Template.register_tag('assessment', Jekyll::MMALink)
+Liquid::Template.register_tag('test', Jekyll::MMALink)
