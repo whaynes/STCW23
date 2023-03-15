@@ -22,9 +22,7 @@ module Jekyll
     end
 
     def render(context)
-      puts @linktext
       @linktext = Liquid::Template.parse(@linktext).render(context)
-      puts @linktext
       site = context.registers[:site]
       baseurl = site.config['baseurl']
       "[#{@linktext}](#{site.baseurl}/#{@path}#{@file.strip})"

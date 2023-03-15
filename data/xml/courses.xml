@@ -9,17 +9,17 @@ This course consists of five 1-hour lectures.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-D7.1]({{site.baseurl}}/tables/31.html#OICEW-D7.1) *Working knowledge of shipboard personnel management and training*
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Ability to apply task and workload management*
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Planning and co-ordination*
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Personnel assignment*
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Time and resource constraints*
-* [OICEW-D7.3]({{site.baseurl}}/tables/31.html#OICEW-D7.3) *Prioritization*
-* [OICNW-C7.1]({{site.baseurl}}/tables/21.html#OICNW-C7.1) *Working knowledge of shipboard personnel management and training*
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Planning and co-ordination*
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Personnel assignment*
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Time and resource constraints*
-* [OICNW-C7.3]({{site.baseurl}}/tables/21.html#OICNW-C7.3) *Prioritization*
+* {% table 31.html#OICEW-D7.1, OICEW-D7.1 %} *Working knowledge of shipboard personnel management and training*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Ability to apply task and workload management*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Planning and co-ordination*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Personnel assignment*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Time and resource constraints*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Prioritization*
+* {% table 21.html#OICNW-C7.1, OICNW-C7.1 %} *Working knowledge of shipboard personnel management and training*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Planning and co-ordination*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Personnel assignment*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Time and resource constraints*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Prioritization*
 
 
 ### Topics
@@ -81,21 +81,21 @@ None
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-A8.1]({{site.baseurl}}/tables/35.html#ABE-A8.1) *Safe operation of hatches, watertight doors, ports and related equipment*
-* [ABE-B1.1]({{site.baseurl}}/tables/35.html#ABE-B1.1) *Ability to use painting materials and equipment*
-* [ABE-B1.1]({{site.baseurl}}/tables/35.html#ABE-B1.1) *Ability to use cleaning materials and equipment*
-* [ABE-B1.2]({{site.baseurl}}/tables/35.html#ABE-B1.2) *Ability to understand and execute routine maintenance and repair procedures*
-* [ABE-B1.3]({{site.baseurl}}/tables/35.html#ABE-B1.3) *Knowledge of surface preparation techniques*
-* [ABE-B1.4]({{site.baseurl}}/tables/35.html#ABE-B1.4) *Knowledge of safe disposal of waste materials*
-* [ABE-B1.5]({{site.baseurl}}/tables/35.html#ABE-B1.5) *Understanding manufacturer’s safety guidelines and shipboard instructions*
-* [ABE-C1.1]({{site.baseurl}}/tables/35.html#ABE-C1.1) *Knowledge of procedures for safe handling, stowage and securing of stores*
-* [ABD-D1.5]({{site.baseurl}}/tables/25.html#ABD-D1.5) *Knowledge of safe disposal of waste materials*
-* [ABD-D1.4]({{site.baseurl}}/tables/25.html#ABD-D1.4) *Understanding manufacturer’s safety guidelines and shipboard instructions*
-* [ABD-D1.3]({{site.baseurl}}/tables/25.html#ABD-D1.3) *Knowledge of surface preparation techniques*
-* [ABD-D1.2]({{site.baseurl}}/tables/25.html#ABD-D1.2) *Ability to understand and execute routine maintenance and repair procedures*
-* [ABD-D1.1]({{site.baseurl}}/tables/25.html#ABD-D1.1) *Ability to use painting, lubrication and cleaning materials and equipment*
-* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) *Hatches and hatch covers*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Hatches, watertight doors, ports, and related equipment*
+* {% table 35.html#ABE-A8.1, ABE-A8.1 %} *Safe operation of hatches, watertight doors, ports and related equipment*
+* {% table 35.html#ABE-B1.1, ABE-B1.1 %} *Ability to use painting materials and equipment*
+* {% table 35.html#ABE-B1.1, ABE-B1.1 %} *Ability to use cleaning materials and equipment*
+* {% table 35.html#ABE-B1.2, ABE-B1.2 %} *Ability to understand and execute routine maintenance and repair procedures*
+* {% table 35.html#ABE-B1.3, ABE-B1.3 %} *Knowledge of surface preparation techniques*
+* {% table 35.html#ABE-B1.4, ABE-B1.4 %} *Knowledge of safe disposal of waste materials*
+* {% table 35.html#ABE-B1.5, ABE-B1.5 %} *Understanding manufacturer’s safety guidelines and shipboard instructions*
+* {% table 35.html#ABE-C1.1, ABE-C1.1 %} *Knowledge of procedures for safe handling, stowage and securing of stores*
+* {% table 25.html#ABD-D1.5, ABD-D1.5 %} *Knowledge of safe disposal of waste materials*
+* {% table 25.html#ABD-D1.4, ABD-D1.4 %} *Understanding manufacturer’s safety guidelines and shipboard instructions*
+* {% table 25.html#ABD-D1.3, ABD-D1.3 %} *Knowledge of surface preparation techniques*
+* {% table 25.html#ABD-D1.2, ABD-D1.2 %} *Ability to understand and execute routine maintenance and repair procedures*
+* {% table 25.html#ABD-D1.1, ABD-D1.1 %} *Ability to use painting, lubrication and cleaning materials and equipment*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Hatches and hatch covers*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Hatches, watertight doors, ports, and related equipment*
 
 
 ### Topics
@@ -132,46 +132,46 @@ None
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPEW-A1.3]({{site.baseurl}}/tables/34.html#RFPEW-A1.3) *Safe working practices as related to engine-room operations*
-* [RFPEW-A3.2]({{site.baseurl}}/tables/34.html#RFPEW-A3.2) *Know escape routes from machinery spaces*
-* [ABE-A9.1]({{site.baseurl}}/tables/35.html#ABE-A9.1) *Safe use and operation of electrical equipment*
-* [ABE-A9.1]({{site.baseurl}}/tables/35.html#ABE-A9.1) *Safety precautions before commencing work or repair*
-* [ABE-A9.1]({{site.baseurl}}/tables/35.html#ABE-A9.1) *Electrical isolation procedures*
-* [ABE-A9.1]({{site.baseurl}}/tables/35.html#ABE-A9.1) *Electrical emergency procedures*
-* [ABE-A9.2]({{site.baseurl}}/tables/35.html#ABE-A9.2) *Knowledge of the causes of electric shock*
-* [ABE-A9.2]({{site.baseurl}}/tables/35.html#ABE-A9.2) *Precautions to be observed to prevent shock*
+* {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %} *Safe working practices as related to engine-room operations*
+* {% table 34.html#RFPEW-A3.2, RFPEW-A3.2 %} *Know escape routes from machinery spaces*
+* {% table 35.html#ABE-A9.1, ABE-A9.1 %} *Safe use and operation of electrical equipment*
+* {% table 35.html#ABE-A9.1, ABE-A9.1 %} *Safety precautions before commencing work or repair*
+* {% table 35.html#ABE-A9.1, ABE-A9.1 %} *Electrical isolation procedures*
+* {% table 35.html#ABE-A9.1, ABE-A9.1 %} *Electrical emergency procedures*
+* {% table 35.html#ABE-A9.2, ABE-A9.2 %} *Knowledge of the causes of electric shock*
+* {% table 35.html#ABE-A9.2, ABE-A9.2 %} *Precautions to be observed to prevent shock*
 *  *Electrical safety*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Lockout/tag-out*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Mechanical safety*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Permit to work systems*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Working in enclosed spaces*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Lifting techniques and methods of preventing back injury*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Chemical and biohazard safety*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Personal safety equipment*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Characteristics of lubricating oil systems*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Characteristics of fuel oil systems*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Characteristics of cooling systems*
-* [OICEW-C1.5]({{site.baseurl}}/tables/31.html#OICEW-C1.5) *Safety measures to be taken to ensure a safe working environment*
-* [OICEW-C2.1]({{site.baseurl}}/tables/31.html#OICEW-C2.1) *Safety measures to be taken for repair and maintenance*
-* [OICEW-C2.1]({{site.baseurl}}/tables/31.html#OICEW-C2.1) *Safe isolation of shipboard machinery and equipment before personnel are permitted to work*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Working in enclosed spaces*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Permit to work systems*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Lifting techniques and methods of preventing back injury*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Electrical safety*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Mechanical safety*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Chemical and biohazard safety*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Personal safety equipment*
-* [OICEW-D8.4]({{site.baseurl}}/tables/31.html#OICEW-D8.4) *Knowledge of personal safety*
-* [PSSR-X3.1]({{site.baseurl}}/tables/614.html#PSSR-X3.1) *Importance of adhering to safe working practices at all times*
-* [PSSR-X3.2]({{site.baseurl}}/tables/614.html#PSSR-X3.2) *Safety and protective devices available to protect against potential hazards aboard ship*
-* [PSSR-X3.3]({{site.baseurl}}/tables/614.html#PSSR-X3.3) *Precautions to be taken prior to entering enclosed spaces*
-* [PSSR-X6.1]({{site.baseurl}}/tables/614.html#PSSR-X6.1) *Importance of obtaining the necessary rest*
-* [PSSR-X6.2]({{site.baseurl}}/tables/614.html#PSSR-X6.2) *Effects of sleep, schedules, and the circadian rhythm on fatigue*
-* [PSSR-X6.3]({{site.baseurl}}/tables/614.html#PSSR-X6.3) *Effects of physical stressors on seafarers*
-* [PSSR-X6.4]({{site.baseurl}}/tables/614.html#PSSR-X6.4) *Effects of environmental stressors in and outside the ship and their impact on seafarers*
-* [PSSR-X6.5]({{site.baseurl}}/tables/614.html#PSSR-X6.5) *Effects of schedule changes on seafarer fatigue*
-* [OICNW-C8.4]({{site.baseurl}}/tables/21.html#OICNW-C8.4) *Knowledge of personal safety*
-* [TOPS-X3.2]({{site.baseurl}}/tables/5111.html#TOPS-X3.2) *Protective clothing and equipment*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Lockout/tag-out*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Mechanical safety*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Permit to work systems*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Working in enclosed spaces*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Lifting techniques and methods of preventing back injury*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Chemical and biohazard safety*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Personal safety equipment*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Characteristics of lubricating oil systems*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Characteristics of fuel oil systems*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Characteristics of cooling systems*
+* {% table 31.html#OICEW-C1.5, OICEW-C1.5 %} *Safety measures to be taken to ensure a safe working environment*
+* {% table 31.html#OICEW-C2.1, OICEW-C2.1 %} *Safety measures to be taken for repair and maintenance*
+* {% table 31.html#OICEW-C2.1, OICEW-C2.1 %} *Safe isolation of shipboard machinery and equipment before personnel are permitted to work*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Working in enclosed spaces*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Permit to work systems*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Lifting techniques and methods of preventing back injury*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Electrical safety*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Mechanical safety*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Chemical and biohazard safety*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Personal safety equipment*
+* {% table 31.html#OICEW-D8.4, OICEW-D8.4 %} *Knowledge of personal safety*
+* {% table 614.html#PSSR-X3.1, PSSR-X3.1 %} *Importance of adhering to safe working practices at all times*
+* {% table 614.html#PSSR-X3.2, PSSR-X3.2 %} *Safety and protective devices available to protect against potential hazards aboard ship*
+* {% table 614.html#PSSR-X3.3, PSSR-X3.3 %} *Precautions to be taken prior to entering enclosed spaces*
+* {% table 614.html#PSSR-X6.1, PSSR-X6.1 %} *Importance of obtaining the necessary rest*
+* {% table 614.html#PSSR-X6.2, PSSR-X6.2 %} *Effects of sleep, schedules, and the circadian rhythm on fatigue*
+* {% table 614.html#PSSR-X6.3, PSSR-X6.3 %} *Effects of physical stressors on seafarers*
+* {% table 614.html#PSSR-X6.4, PSSR-X6.4 %} *Effects of environmental stressors in and outside the ship and their impact on seafarers*
+* {% table 614.html#PSSR-X6.5, PSSR-X6.5 %} *Effects of schedule changes on seafarer fatigue*
+* {% table 21.html#OICNW-C8.4, OICNW-C8.4 %} *Knowledge of personal safety*
+* {% table 5111.html#TOPS-X3.2, TOPS-X3.2 %} *Protective clothing and equipment*
 
 
 ### Topics
@@ -269,25 +269,25 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-A5.1]({{site.baseurl}}/tables/35.html#ABE-A5.1) *Basic knowledge of the function of auxiliary machinery*
-* [ABE-A5.1]({{site.baseurl}}/tables/35.html#ABE-A5.1) *Basic knowledge of the operation of auxiliary machinery*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Knowledge of oil transfer operations*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Preparations for fueling and transfer operations*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Procedures for connecting and disconnecting fueling and transfer hoses*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Procedures relating to incidents that may arise during fueling or transferring operation*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Procedures for securing from fueling and transfer operations*
-* [ABE-A8.1]({{site.baseurl}}/tables/35.html#ABE-A8.1) *Safe operation of valves and pumps*
-* [ABE-A8.1]({{site.baseurl}}/tables/35.html#ABE-A8.1) *Safe operation of hoists and lifting equipment*
-* [ABE-B1.1]({{site.baseurl}}/tables/35.html#ABE-B1.1) *Ability to use lubrication materials and equipment*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of pumps*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of heat exchanges*
-* [OICEW-A5.2]({{site.baseurl}}/tables/31.html#OICEW-A5.2) *Operation of pumping systems*
-* [OICEW-A5.2]({{site.baseurl}}/tables/31.html#OICEW-A5.2) *Routine pumping operations*
-* [OICEW-C1.4]({{site.baseurl}}/tables/31.html#OICEW-C1.4) *Methods for carrying out safe emergency/temporary repairs*
-* [OICEW-C1.7]({{site.baseurl}}/tables/31.html#OICEW-C1.7) *Use of various types of sealants and packings*
-* [OICEW-C2.2]({{site.baseurl}}/tables/31.html#OICEW-C2.2) *Appropriate basic mechanical knowledge and skills*
-* [OICEW-C2.5]({{site.baseurl}}/tables/31.html#OICEW-C2.5) *Design characteristics and selection of materials in construction of equipment*
-* [OICEW-C2.6]({{site.baseurl}}/tables/31.html#OICEW-C2.6) *Interpretation of machinery drawings and handbooks*
+* {% table 35.html#ABE-A5.1, ABE-A5.1 %} *Basic knowledge of the function of auxiliary machinery*
+* {% table 35.html#ABE-A5.1, ABE-A5.1 %} *Basic knowledge of the operation of auxiliary machinery*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Knowledge of oil transfer operations*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Preparations for fueling and transfer operations*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Procedures for connecting and disconnecting fueling and transfer hoses*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Procedures relating to incidents that may arise during fueling or transferring operation*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Procedures for securing from fueling and transfer operations*
+* {% table 35.html#ABE-A8.1, ABE-A8.1 %} *Safe operation of valves and pumps*
+* {% table 35.html#ABE-A8.1, ABE-A8.1 %} *Safe operation of hoists and lifting equipment*
+* {% table 35.html#ABE-B1.1, ABE-B1.1 %} *Ability to use lubrication materials and equipment*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of pumps*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of heat exchanges*
+* {% table 31.html#OICEW-A5.2, OICEW-A5.2 %} *Operation of pumping systems*
+* {% table 31.html#OICEW-A5.2, OICEW-A5.2 %} *Routine pumping operations*
+* {% table 31.html#OICEW-C1.4, OICEW-C1.4 %} *Methods for carrying out safe emergency/temporary repairs*
+* {% table 31.html#OICEW-C1.7, OICEW-C1.7 %} *Use of various types of sealants and packings*
+* {% table 31.html#OICEW-C2.2, OICEW-C2.2 %} *Appropriate basic mechanical knowledge and skills*
+* {% table 31.html#OICEW-C2.5, OICEW-C2.5 %} *Design characteristics and selection of materials in construction of equipment*
+* {% table 31.html#OICEW-C2.6, OICEW-C2.6 %} *Interpretation of machinery drawings and handbooks*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -412,16 +412,16 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A1.2]({{site.baseurl}}/tables/31.html#OICEW-A1.2) *Change-over of remote/automatic to local control of all systems*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of air compressors*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of fresh water generators*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of steering gear*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of deck machinery*
-* [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3) *Preparation, operation, fault detection and measures to prevent damage for auxiliary prime movers and associated systems*
-* [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3) *Preparation, operation, fault detection and measures to prevent damage for auxiliary machinery*
-* [OICEW-C2.3]({{site.baseurl}}/tables/31.html#OICEW-C2.3) *Dismantling, adjustment and reassembling of machinery and equipment*
-* [OICEW-C2.4]({{site.baseurl}}/tables/31.html#OICEW-C2.4) *The use of appropriate specialized tools*
-* [OICEW-C2.7]({{site.baseurl}}/tables/31.html#OICEW-C2.7) *The interpretation of piping, hydraulic and pneumatic diagrams*
+* {% table 31.html#OICEW-A1.2, OICEW-A1.2 %} *Change-over of remote/automatic to local control of all systems*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of air compressors*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of fresh water generators*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of steering gear*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of deck machinery*
+* {% table 31.html#OICEW-A4.3, OICEW-A4.3 %} *Preparation, operation, fault detection and measures to prevent damage for auxiliary prime movers and associated systems*
+* {% table 31.html#OICEW-A4.3, OICEW-A4.3 %} *Preparation, operation, fault detection and measures to prevent damage for auxiliary machinery*
+* {% table 31.html#OICEW-C2.3, OICEW-C2.3 %} *Dismantling, adjustment and reassembling of machinery and equipment*
+* {% table 31.html#OICEW-C2.4, OICEW-C2.4 %} *The use of appropriate specialized tools*
+* {% table 31.html#OICEW-C2.7, OICEW-C2.7 %} *The interpretation of piping, hydraulic and pneumatic diagrams*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -486,18 +486,18 @@ This course consists of one hour a week of instruction for a semester, twelve 3-
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-B1.6]({{site.baseurl}}/tables/35.html#ABE-B1.6) *Knowledge of the application, maintenance and use of hand tools*
-* [ABE-B1.6]({{site.baseurl}}/tables/35.html#ABE-B1.6) *Knowledge of the application, maintenance and use of power tools*
-* [ABE-B1.6]({{site.baseurl}}/tables/35.html#ABE-B1.6) *Knowledge of the application, maintenance and use of measuring instruments*
-* [ABE-B1.6]({{site.baseurl}}/tables/35.html#ABE-B1.6) *Knowledge of the application, maintenance and use of machine tools*
-* [ABE-B1.7]({{site.baseurl}}/tables/35.html#ABE-B1.7) *Knowledge of metalwork*
-* [OICEW-C1.2]({{site.baseurl}}/tables/31.html#OICEW-C1.2) *Characteristics and limitations of processes used for fabrication and repair*
-* [OICEW-C1.3]({{site.baseurl}}/tables/31.html#OICEW-C1.3) *Properties and parameters considered in the fabrication and repair of systems and components*
-* [OICEW-C1.5]({{site.baseurl}}/tables/31.html#OICEW-C1.5) *Safety measures for using hand tools*
-* [OICEW-C1.5]({{site.baseurl}}/tables/31.html#OICEW-C1.5) *Safety measures for using machine tools*
-* [OICEW-C1.5]({{site.baseurl}}/tables/31.html#OICEW-C1.5) *Safety measures for using measuring instruments*
-* [OICEW-C1.6]({{site.baseurl}}/tables/31.html#OICEW-C1.6) *Use of machine tools*
-* [OICEW-C2.4]({{site.baseurl}}/tables/31.html#OICEW-C2.4) *The use of measuring instruments*
+* {% table 35.html#ABE-B1.6, ABE-B1.6 %} *Knowledge of the application, maintenance and use of hand tools*
+* {% table 35.html#ABE-B1.6, ABE-B1.6 %} *Knowledge of the application, maintenance and use of power tools*
+* {% table 35.html#ABE-B1.6, ABE-B1.6 %} *Knowledge of the application, maintenance and use of measuring instruments*
+* {% table 35.html#ABE-B1.6, ABE-B1.6 %} *Knowledge of the application, maintenance and use of machine tools*
+* {% table 35.html#ABE-B1.7, ABE-B1.7 %} *Knowledge of metalwork*
+* {% table 31.html#OICEW-C1.2, OICEW-C1.2 %} *Characteristics and limitations of processes used for fabrication and repair*
+* {% table 31.html#OICEW-C1.3, OICEW-C1.3 %} *Properties and parameters considered in the fabrication and repair of systems and components*
+* {% table 31.html#OICEW-C1.5, OICEW-C1.5 %} *Safety measures for using hand tools*
+* {% table 31.html#OICEW-C1.5, OICEW-C1.5 %} *Safety measures for using machine tools*
+* {% table 31.html#OICEW-C1.5, OICEW-C1.5 %} *Safety measures for using measuring instruments*
+* {% table 31.html#OICEW-C1.6, OICEW-C1.6 %} *Use of machine tools*
+* {% table 31.html#OICEW-C2.4, OICEW-C2.4 %} *The use of measuring instruments*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -584,16 +584,16 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-A5.2]({{site.baseurl}}/tables/35.html#ABE-A5.2) *Basic understanding of main propulsion machinery control pressures, temperatures and levels*
-* [ABE-A5.2]({{site.baseurl}}/tables/35.html#ABE-A5.2) *Basic understanding of auxiliary machinery control pressures, temperatures and levels*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Knowledge of the function and operation of fuel system*
-* [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1) *Ability to correctly measure and report fuel tank levels*
-* [ABE-A7.1]({{site.baseurl}}/tables/35.html#ABE-A7.1) *Knowledge of the safe function, operation and maintenance of the bilge and ballast systems*
-* [ABE-A7.1]({{site.baseurl}}/tables/35.html#ABE-A7.1) *Knowledge of how to report incidents associated with transfer operations*
-* [ABE-A7.1]({{site.baseurl}}/tables/35.html#ABE-A7.1) *Ability to correctly measure and report ballast tank levels*
-* [OICEW-A5.2]({{site.baseurl}}/tables/31.html#OICEW-A5.2) *Operation of bilge, ballast and cargo pumping systems*
-* [OICEW-A5.3]({{site.baseurl}}/tables/31.html#OICEW-A5.3) *Oily-water separators requirements*
-* [OICEW-A5.3]({{site.baseurl}}/tables/31.html#OICEW-A5.3) *Oily-water separators operation*
+* {% table 35.html#ABE-A5.2, ABE-A5.2 %} *Basic understanding of main propulsion machinery control pressures, temperatures and levels*
+* {% table 35.html#ABE-A5.2, ABE-A5.2 %} *Basic understanding of auxiliary machinery control pressures, temperatures and levels*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Knowledge of the function and operation of fuel system*
+* {% table 35.html#ABE-A6.1, ABE-A6.1 %} *Ability to correctly measure and report fuel tank levels*
+* {% table 35.html#ABE-A7.1, ABE-A7.1 %} *Knowledge of the safe function, operation and maintenance of the bilge and ballast systems*
+* {% table 35.html#ABE-A7.1, ABE-A7.1 %} *Knowledge of how to report incidents associated with transfer operations*
+* {% table 35.html#ABE-A7.1, ABE-A7.1 %} *Ability to correctly measure and report ballast tank levels*
+* {% table 31.html#OICEW-A5.2, OICEW-A5.2 %} *Operation of bilge, ballast and cargo pumping systems*
+* {% table 31.html#OICEW-A5.3, OICEW-A5.3 %} *Oily-water separators requirements*
+* {% table 31.html#OICEW-A5.3, OICEW-A5.3 %} *Oily-water separators operation*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -693,10 +693,10 @@ This course consists of three 1-hour classes a week for a semester, six 4-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-A5.1]({{site.baseurl}}/tables/35.html#ABE-A5.1) *Basic knowledge of the function of main propulsion machinery*
-* [ABE-A5.1]({{site.baseurl}}/tables/35.html#ABE-A5.1) *Basic knowledge of the operation of main propulsion machinery*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of marine diesel engines*
-* [OICEW-A4.2]({{site.baseurl}}/tables/31.html#OICEW-A4.2) *Safety and emergency procedures for operation of propulsion plant machinery*
+* {% table 35.html#ABE-A5.1, ABE-A5.1 %} *Basic knowledge of the function of main propulsion machinery*
+* {% table 35.html#ABE-A5.1, ABE-A5.1 %} *Basic knowledge of the operation of main propulsion machinery*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of marine diesel engines*
+* {% table 31.html#OICEW-A4.2, OICEW-A4.2 %} *Safety and emergency procedures for operation of propulsion plant machinery*
 
 
 ### Topics
@@ -748,23 +748,23 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Basic configuration and operation principles of electrical generators*
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Basic configuration and operation principles of electrical distribution systems*
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Preparing, starting, paralleling and changing over generators*
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Basic configuration and operation principles of electrical motorrs*
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Electrical motor starting methodologies*
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Basic configuration and operation principles of high-voltage installations*
-* [OICEW-B2.1]({{site.baseurl}}/tables/31.html#OICEW-B2.1) *Safety requirements for working on shipboard electrical systems*
-* [OICEW-B2.1]({{site.baseurl}}/tables/31.html#OICEW-B2.1) *Safe isolation of electrical equipment required before personnel are permitted to work on such equipment*
-* [OICEW-B2.2]({{site.baseurl}}/tables/31.html#OICEW-B2.2) *Maintenance and repair of electrical system equipment*
-* [OICEW-B2.2]({{site.baseurl}}/tables/31.html#OICEW-B2.2) *Maintenance and repair of electrical switchboards*
-* [OICEW-B2.2]({{site.baseurl}}/tables/31.html#OICEW-B2.2) *Maintenance and repair of electric motors and generators*
-* [OICEW-B2.2]({{site.baseurl}}/tables/31.html#OICEW-B2.2) *Maintenance and repair of DC electrical systems and equipment*
-* [OICEW-B2.3]({{site.baseurl}}/tables/31.html#OICEW-B2.3) *Detection of electric malfunctions*
-* [OICEW-B2.3]({{site.baseurl}}/tables/31.html#OICEW-B2.3) *Location of faults causing electrical malfunctions*
-* [OICEW-B2.3]({{site.baseurl}}/tables/31.html#OICEW-B2.3) *Measures to prevent damage caused by electrical malfunctions*
-* [OICEW-B2.4]({{site.baseurl}}/tables/31.html#OICEW-B2.4) *Construction of electrical testing and measuring equipment*
-* [OICEW-B2.4]({{site.baseurl}}/tables/31.html#OICEW-B2.4) *Operation of electrical testing and measuring equipment*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Basic configuration and operation principles of electrical generators*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Basic configuration and operation principles of electrical distribution systems*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Preparing, starting, paralleling and changing over generators*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Basic configuration and operation principles of electrical motorrs*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Electrical motor starting methodologies*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Basic configuration and operation principles of high-voltage installations*
+* {% table 31.html#OICEW-B2.1, OICEW-B2.1 %} *Safety requirements for working on shipboard electrical systems*
+* {% table 31.html#OICEW-B2.1, OICEW-B2.1 %} *Safe isolation of electrical equipment required before personnel are permitted to work on such equipment*
+* {% table 31.html#OICEW-B2.2, OICEW-B2.2 %} *Maintenance and repair of electrical system equipment*
+* {% table 31.html#OICEW-B2.2, OICEW-B2.2 %} *Maintenance and repair of electrical switchboards*
+* {% table 31.html#OICEW-B2.2, OICEW-B2.2 %} *Maintenance and repair of electric motors and generators*
+* {% table 31.html#OICEW-B2.2, OICEW-B2.2 %} *Maintenance and repair of DC electrical systems and equipment*
+* {% table 31.html#OICEW-B2.3, OICEW-B2.3 %} *Detection of electric malfunctions*
+* {% table 31.html#OICEW-B2.3, OICEW-B2.3 %} *Location of faults causing electrical malfunctions*
+* {% table 31.html#OICEW-B2.3, OICEW-B2.3 %} *Measures to prevent damage caused by electrical malfunctions*
+* {% table 31.html#OICEW-B2.4, OICEW-B2.4 %} *Construction of electrical testing and measuring equipment*
+* {% table 31.html#OICEW-B2.4, OICEW-B2.4 %} *Operation of electrical testing and measuring equipment*
 
 
 ### Topics
@@ -900,11 +900,11 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPEW-A2.1]({{site.baseurl}}/tables/34.html#RFPEW-A2.1) *Safe operation of boilers*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of marine boilers*
-* [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3) *Preparation, operation, fault detection and measures to prevent damage for steam boiler and associated auxiliaries*
-* [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3) *Preparation, operation, fault detection and measures to prevent damage for steam systems*
-* [OICEW-B1.2]({{site.baseurl}}/tables/31.html#OICEW-B1.2) *Steam boiler automatic controls*
+* {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %} *Safe operation of boilers*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of marine boilers*
+* {% table 31.html#OICEW-A4.3, OICEW-A4.3 %} *Preparation, operation, fault detection and measures to prevent damage for steam boiler and associated auxiliaries*
+* {% table 31.html#OICEW-A4.3, OICEW-A4.3 %} *Preparation, operation, fault detection and measures to prevent damage for steam systems*
+* {% table 31.html#OICEW-B1.2, OICEW-B1.2 %} *Steam boiler automatic controls*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -988,9 +988,9 @@ This course consists of three 1-hour classes a week for a semester, twelve 2-hou
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-B1.2]({{site.baseurl}}/tables/31.html#OICEW-B1.2) *Configuration and operation principles of electronic equipment*
-* [OICEW-B1.2]({{site.baseurl}}/tables/31.html#OICEW-B1.2) *Characteristics of basic electronic circuit elements*
-* [OICEW-B2.6]({{site.baseurl}}/tables/31.html#OICEW-B2.6) *The interpretation of electrical and simple electronic diagrams*
+* {% table 31.html#OICEW-B1.2, OICEW-B1.2 %} *Configuration and operation principles of electronic equipment*
+* {% table 31.html#OICEW-B1.2, OICEW-B1.2 %} *Characteristics of basic electronic circuit elements*
+* {% table 31.html#OICEW-B2.6, OICEW-B2.6 %} *The interpretation of electrical and simple electronic diagrams*
 
 
 ### Topics
@@ -1055,8 +1055,8 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of refrigeration, air-conditioning and ventilation systems*
-* [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3) *Preparation, operation, fault detection and measures to prevent damage for refrigeration, air-conditioning and ventilation systems*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of refrigeration, air-conditioning and ventilation systems*
+* {% table 31.html#OICEW-A4.3, OICEW-A4.3 %} *Preparation, operation, fault detection and measures to prevent damage for refrigeration, air-conditioning and ventilation systems*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1118,18 +1118,18 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of automatic control systems*
-* [OICEW-A5.1]({{site.baseurl}}/tables/31.html#OICEW-A5.1) *Operational characteristics of control systems*
-* [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1) *Basic configuration and operation principles of sequential control circuits and associated devices*
-* [OICEW-B1.2]({{site.baseurl}}/tables/31.html#OICEW-B1.2) *Flowchart for automatic and control systems*
-* [OICEW-B1.2]({{site.baseurl}}/tables/31.html#OICEW-B1.2) *Functions, characteristics and features of control systems for machinery items*
-* [OICEW-B1.3]({{site.baseurl}}/tables/31.html#OICEW-B1.3) *Various automatic control methodologies and characteristics*
-* [OICEW-B1.3]({{site.baseurl}}/tables/31.html#OICEW-B1.3) *Proportional–Integral–Derivative (PID) control characteristics*
-* [OICEW-B1.3]({{site.baseurl}}/tables/31.html#OICEW-B1.3) *Associated system devices for process control*
-* [OICEW-B2.5]({{site.baseurl}}/tables/31.html#OICEW-B2.5) *Function and performance tests of electrical and electronic monitoring systems*
-* [OICEW-B2.5]({{site.baseurl}}/tables/31.html#OICEW-B2.5) *Function and performance tests of electrical and electronic automatic control devices*
-* [OICEW-B2.5]({{site.baseurl}}/tables/31.html#OICEW-B2.5) *Function and performance tests of electrical and electronic protective devices*
-* [OICEW-B1.3]({{site.baseurl}}/tables/31.html#OICEW-B1.3) *Configuration and operation principles of control systems*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of automatic control systems*
+* {% table 31.html#OICEW-A5.1, OICEW-A5.1 %} *Operational characteristics of control systems*
+* {% table 31.html#OICEW-B1.1, OICEW-B1.1 %} *Basic configuration and operation principles of sequential control circuits and associated devices*
+* {% table 31.html#OICEW-B1.2, OICEW-B1.2 %} *Flowchart for automatic and control systems*
+* {% table 31.html#OICEW-B1.2, OICEW-B1.2 %} *Functions, characteristics and features of control systems for machinery items*
+* {% table 31.html#OICEW-B1.3, OICEW-B1.3 %} *Various automatic control methodologies and characteristics*
+* {% table 31.html#OICEW-B1.3, OICEW-B1.3 %} *Proportional–Integral–Derivative (PID) control characteristics*
+* {% table 31.html#OICEW-B1.3, OICEW-B1.3 %} *Associated system devices for process control*
+* {% table 31.html#OICEW-B2.5, OICEW-B2.5 %} *Function and performance tests of electrical and electronic monitoring systems*
+* {% table 31.html#OICEW-B2.5, OICEW-B2.5 %} *Function and performance tests of electrical and electronic automatic control devices*
+* {% table 31.html#OICEW-B2.5, OICEW-B2.5 %} *Function and performance tests of electrical and electronic protective devices*
+* {% table 31.html#OICEW-B1.3, OICEW-B1.3 %} *Configuration and operation principles of control systems*
 
 
 ### Topics
@@ -1262,10 +1262,10 @@ This course consists of three 1-hour classes a week for a semester, six 3-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of marine steam turbines*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of marine gas turbines*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of shafting installations, including propellers*
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Basic construction and operation principles of purifiers*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of marine steam turbines*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of marine gas turbines*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of shafting installations, including propellers*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Basic construction and operation principles of purifiers*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1360,9 +1360,9 @@ This course consists of twelve 2-hour labs, and weekly quizzes.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1) *Principles of fluid flow*
-* [OICEW-A5.1]({{site.baseurl}}/tables/31.html#OICEW-A5.1) *Operational characteristics of pumps*
-* [OICEW-A5.1]({{site.baseurl}}/tables/31.html#OICEW-A5.1) *Operational characteristics of piping systems*
+* {% table 31.html#OICEW-A4.1, OICEW-A4.1 %} *Principles of fluid flow*
+* {% table 31.html#OICEW-A5.1, OICEW-A5.1 %} *Operational characteristics of pumps*
+* {% table 31.html#OICEW-A5.1, OICEW-A5.1 %} *Operational characteristics of piping systems*
 
 
 ### Topics 
@@ -1403,9 +1403,9 @@ This course consists of three 1-hour classes a week for a semester, six 6-hour l
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A4.2]({{site.baseurl}}/tables/31.html#OICEW-A4.2) *Safety and emergency procedures for operation of propulsion plant control systems*
-* [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3) *Preparation, operation, fault detection and measures to prevent damage for main engine and associated auxiliaries*
-* [OICEW-B1.2]({{site.baseurl}}/tables/31.html#OICEW-B1.2) *Main propulsion plant operational control systems*
+* {% table 31.html#OICEW-A4.2, OICEW-A4.2 %} *Safety and emergency procedures for operation of propulsion plant control systems*
+* {% table 31.html#OICEW-A4.3, OICEW-A4.3 %} *Preparation, operation, fault detection and measures to prevent damage for main engine and associated auxiliaries*
+* {% table 31.html#OICEW-B1.2, OICEW-B1.2 %} *Main propulsion plant operational control systems*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1471,11 +1471,11 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-C1.1]({{site.baseurl}}/tables/31.html#OICEW-C1.1) *Characteristics and limitations of materials used in construction and repair of ships and equipment*
-* [OICEW-D2.1]({{site.baseurl}}/tables/31.html#OICEW-D2.1) *Working knowledge and application of stability, trim and stress tables, diagrams and stress-calculating equipment*
-* [OICEW-D2.2]({{site.baseurl}}/tables/31.html#OICEW-D2.2) *Understanding of the fundamentals of watertight integrity*
-* [OICEW-D2.3]({{site.baseurl}}/tables/31.html#OICEW-D2.3) *Understanding of fundamental actions to be taken in the event of partial loss of intact buoyancy*
-* [OICEW-D2.4]({{site.baseurl}}/tables/31.html#OICEW-D2.4) *General knowledge of the principal structural members of a ship and the proper names for the various parts*
+* {% table 31.html#OICEW-C1.1, OICEW-C1.1 %} *Characteristics and limitations of materials used in construction and repair of ships and equipment*
+* {% table 31.html#OICEW-D2.1, OICEW-D2.1 %} *Working knowledge and application of stability, trim and stress tables, diagrams and stress-calculating equipment*
+* {% table 31.html#OICEW-D2.2, OICEW-D2.2 %} *Understanding of the fundamentals of watertight integrity*
+* {% table 31.html#OICEW-D2.3, OICEW-D2.3 %} *Understanding of fundamental actions to be taken in the event of partial loss of intact buoyancy*
+* {% table 31.html#OICEW-D2.4, OICEW-D2.4 %} *General knowledge of the principal structural members of a ship and the proper names for the various parts*
 
 
 ### Topics
@@ -1546,18 +1546,18 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABE-A4.1]({{site.baseurl}}/tables/35.html#ABE-A4.1) *Ability to communicate with the officer of the watch*
-* [ABE-A4.2]({{site.baseurl}}/tables/35.html#ABE-A4.2) *Procedures for the relief and handover of a watch*
-* [ABE-A4.2]({{site.baseurl}}/tables/35.html#ABE-A4.2) *Procedures for maintenance of an engineering watch*
-* [ABE-A4.3]({{site.baseurl}}/tables/35.html#ABE-A4.3) *Information required to maintain a safe engineering watch*
-* [ABE-A9.1]({{site.baseurl}}/tables/35.html#ABE-A9.1) *Different voltages on board*
-* [OICEW-A1.1]({{site.baseurl}}/tables/31.html#OICEW-A1.1) *Duties associated with taking over and accepting a watch*
-* [OICEW-A1.1]({{site.baseurl}}/tables/31.html#OICEW-A1.1) *Routine duties undertaken during a watch*
-* [OICEW-A1.1]({{site.baseurl}}/tables/31.html#OICEW-A1.1) *Maintenance of the machinery space logs*
-* [OICEW-A1.1]({{site.baseurl}}/tables/31.html#OICEW-A1.1) *Significance of the machinery space readings taken*
-* [OICEW-A1.1]({{site.baseurl}}/tables/31.html#OICEW-A1.1) *Duties associated with handing over a watch*
-* [OICEW-A1.2]({{site.baseurl}}/tables/31.html#OICEW-A1.2) *Watchstanding safety and emergency procedures*
-* [OICEW-A1.3]({{site.baseurl}}/tables/31.html#OICEW-A1.3) *Safety precautions to be observed during a watch*
+* {% table 35.html#ABE-A4.1, ABE-A4.1 %} *Ability to communicate with the officer of the watch*
+* {% table 35.html#ABE-A4.2, ABE-A4.2 %} *Procedures for the relief and handover of a watch*
+* {% table 35.html#ABE-A4.2, ABE-A4.2 %} *Procedures for maintenance of an engineering watch*
+* {% table 35.html#ABE-A4.3, ABE-A4.3 %} *Information required to maintain a safe engineering watch*
+* {% table 35.html#ABE-A9.1, ABE-A9.1 %} *Different voltages on board*
+* {% table 31.html#OICEW-A1.1, OICEW-A1.1 %} *Duties associated with taking over and accepting a watch*
+* {% table 31.html#OICEW-A1.1, OICEW-A1.1 %} *Routine duties undertaken during a watch*
+* {% table 31.html#OICEW-A1.1, OICEW-A1.1 %} *Maintenance of the machinery space logs*
+* {% table 31.html#OICEW-A1.1, OICEW-A1.1 %} *Significance of the machinery space readings taken*
+* {% table 31.html#OICEW-A1.1, OICEW-A1.1 %} *Duties associated with handing over a watch*
+* {% table 31.html#OICEW-A1.2, OICEW-A1.2 %} *Watchstanding safety and emergency procedures*
+* {% table 31.html#OICEW-A1.3, OICEW-A1.3 %} *Safety precautions to be observed during a watch*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1652,22 +1652,22 @@ This course consists of two four-hour classes.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A1.4]({{site.baseurl}}/tables/31.html#OICEW-A1.4) *Allocation, assignment, and prioritization of resources*
-* [OICEW-A1.4]({{site.baseurl}}/tables/31.html#OICEW-A1.4) *Effective communication*
-* [OICEW-A1.4]({{site.baseurl}}/tables/31.html#OICEW-A1.4) *Assertiveness and leadership*
-* [OICEW-A1.4]({{site.baseurl}}/tables/31.html#OICEW-A1.4) *Obtaining and maintaining situational awareness*
-* [OICEW-A1.4]({{site.baseurl}}/tables/31.html#OICEW-A1.4) *Consideration of team experience*
-* [OICEW-D7.5]({{site.baseurl}}/tables/31.html#OICEW-D7.5) *Knowledge and ability to apply decision-making techniques*
-* [OICEW-D7.5]({{site.baseurl}}/tables/31.html#OICEW-D7.5) *Situation and risk assessment*
-* [OICEW-D7.5]({{site.baseurl}}/tables/31.html#OICEW-D7.5) *Identify and consider generated options*
-* [OICEW-D7.5]({{site.baseurl}}/tables/31.html#OICEW-D7.5) *Selecting course of action*
-* [OICEW-D7.5]({{site.baseurl}}/tables/31.html#OICEW-D7.5) *Evaluation of outcome effectiveness*
-* [OICEW-D7.4]({{site.baseurl}}/tables/31.html#OICEW-D7.4) *Knowledge and ability to apply effective resource management*
-* [OICEW-D7.4]({{site.baseurl}}/tables/31.html#OICEW-D7.4) *Allocation, assignment, and prioritization of resources*
-* [OICEW-D7.4]({{site.baseurl}}/tables/31.html#OICEW-D7.4) *Effective communication on board and ashore*
-* [OICEW-D7.4]({{site.baseurl}}/tables/31.html#OICEW-D7.4) *Decisions reflect consideration of team experiences*
-* [OICEW-D7.4]({{site.baseurl}}/tables/31.html#OICEW-D7.4) *Assertiveness and leadership, including motivation*
-* [OICEW-D7.4]({{site.baseurl}}/tables/31.html#OICEW-D7.4) *Obtaining and maintaining situational awareness*
+* {% table 31.html#OICEW-A1.4, OICEW-A1.4 %} *Allocation, assignment, and prioritization of resources*
+* {% table 31.html#OICEW-A1.4, OICEW-A1.4 %} *Effective communication*
+* {% table 31.html#OICEW-A1.4, OICEW-A1.4 %} *Assertiveness and leadership*
+* {% table 31.html#OICEW-A1.4, OICEW-A1.4 %} *Obtaining and maintaining situational awareness*
+* {% table 31.html#OICEW-A1.4, OICEW-A1.4 %} *Consideration of team experience*
+* {% table 31.html#OICEW-D7.5, OICEW-D7.5 %} *Knowledge and ability to apply decision-making techniques*
+* {% table 31.html#OICEW-D7.5, OICEW-D7.5 %} *Situation and risk assessment*
+* {% table 31.html#OICEW-D7.5, OICEW-D7.5 %} *Identify and consider generated options*
+* {% table 31.html#OICEW-D7.5, OICEW-D7.5 %} *Selecting course of action*
+* {% table 31.html#OICEW-D7.5, OICEW-D7.5 %} *Evaluation of outcome effectiveness*
+* {% table 31.html#OICEW-D7.4, OICEW-D7.4 %} *Knowledge and ability to apply effective resource management*
+* {% table 31.html#OICEW-D7.4, OICEW-D7.4 %} *Allocation, assignment, and prioritization of resources*
+* {% table 31.html#OICEW-D7.4, OICEW-D7.4 %} *Effective communication on board and ashore*
+* {% table 31.html#OICEW-D7.4, OICEW-D7.4 %} *Decisions reflect consideration of team experiences*
+* {% table 31.html#OICEW-D7.4, OICEW-D7.4 %} *Assertiveness and leadership, including motivation*
+* {% table 31.html#OICEW-D7.4, OICEW-D7.4 %} *Obtaining and maintaining situational awareness*
 
 
 ### Topics
@@ -1709,21 +1709,21 @@ This course consists of two hour lecture, and 8-hour practical.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPEW-A3.3]({{site.baseurl}}/tables/34.html#RFPEW-A3.3) *Familiarity with use of fire-fighting equipment*
-* [FF-X1.3]({{site.baseurl}}/tables/612.html#FF-X1.3) *The elements of fire and explosion (the fire triangle)*
-* [FF-X1.4]({{site.baseurl}}/tables/612.html#FF-X1.4) *Types and sources of ignition*
-* [FF-X1.5]({{site.baseurl}}/tables/612.html#FF-X1.5) *Flammable materials, fire hazards and spread of fire*
-* [FF-X1.6]({{site.baseurl}}/tables/612.html#FF-X1.6) *The need for constant vigilance*
-* [FF-X1.7]({{site.baseurl}}/tables/612.html#FF-X1.7) *Actions to be taken on board ship*
-* [FF-X1.8]({{site.baseurl}}/tables/612.html#FF-X1.8) *Fire and smoke detection and automatic alarm systems*
-* [FF-X1.9]({{site.baseurl}}/tables/612.html#FF-X1.9) *Classification of fire and applicable extinguishing agents*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *fire-fighter’s outfits*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *personal equipment*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *fire-fighting appliances and equipment*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *fire-fighting methods*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *fire-fighting agents*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *fire-fighting procedures*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *use of breathing apparatus for fighting fires and effecting rescues*
+* {% table 34.html#RFPEW-A3.3, RFPEW-A3.3 %} *Familiarity with use of fire-fighting equipment*
+* {% table 612.html#FF-X1.3, FF-X1.3 %} *The elements of fire and explosion (the fire triangle)*
+* {% table 612.html#FF-X1.4, FF-X1.4 %} *Types and sources of ignition*
+* {% table 612.html#FF-X1.5, FF-X1.5 %} *Flammable materials, fire hazards and spread of fire*
+* {% table 612.html#FF-X1.6, FF-X1.6 %} *The need for constant vigilance*
+* {% table 612.html#FF-X1.7, FF-X1.7 %} *Actions to be taken on board ship*
+* {% table 612.html#FF-X1.8, FF-X1.8 %} *Fire and smoke detection and automatic alarm systems*
+* {% table 612.html#FF-X1.9, FF-X1.9 %} *Classification of fire and applicable extinguishing agents*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *fire-fighter’s outfits*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *personal equipment*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *fire-fighting appliances and equipment*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *fire-fighting methods*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *fire-fighting agents*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *fire-fighting procedures*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *use of breathing apparatus for fighting fires and effecting rescues*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1789,12 +1789,12 @@ Advanced Fire Fighting (AFF) is available to any student who has completed Basic
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [AFF-X1.06]({{site.baseurl}}/tables/63.html#AFF-X1.06) *Fire-fighting process hazards (dry distillation, chemical reactions, boiler uptake fires, etc.)*
-* [AFF-X1.02]({{site.baseurl}}/tables/63.html#AFF-X1.02) *Use of water for fire-extinguishing, the effect on ship stability, precautions and corrective procedures*
-* [AFF-X1.03]({{site.baseurl}}/tables/63.html#AFF-X1.03) *Communication and coordination during fire-fighting operations*
-* [AFF-X1.04]({{site.baseurl}}/tables/63.html#AFF-X1.04) *Ventilation control, including smoke extraction*
-* [AFF-X1.05]({{site.baseurl}}/tables/63.html#AFF-X1.05) *Control of fuel and electrical systems*
-* [AFF-X1.09]({{site.baseurl}}/tables/63.html#AFF-X1.09) *Management and control of injured persons*
+* {% table 63.html#AFF-X1.06, AFF-X1.06 %} *Fire-fighting process hazards (dry distillation, chemical reactions, boiler uptake fires, etc.)*
+* {% table 63.html#AFF-X1.02, AFF-X1.02 %} *Use of water for fire-extinguishing, the effect on ship stability, precautions and corrective procedures*
+* {% table 63.html#AFF-X1.03, AFF-X1.03 %} *Communication and coordination during fire-fighting operations*
+* {% table 63.html#AFF-X1.04, AFF-X1.04 %} *Ventilation control, including smoke extraction*
+* {% table 63.html#AFF-X1.05, AFF-X1.05 %} *Control of fuel and electrical systems*
+* {% table 63.html#AFF-X1.09, AFF-X1.09 %} *Management and control of injured persons*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1843,21 +1843,21 @@ This course consists of two hour lecture, and 8-hour practical.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [AFF-X1.07]({{site.baseurl}}/tables/63.html#AFF-X1.07) *Fire fighting involving dangerous goods*
-* [AFF-X1.08]({{site.baseurl}}/tables/63.html#AFF-X1.08) *Fire precautions and hazards associated with the storage and handling of materials (paints, etc.)*
-* [AFF-X1.10]({{site.baseurl}}/tables/63.html#AFF-X1.10) *Procedures for coordination with shore-based fire fighters*
-* [AFF-X2.1]({{site.baseurl}}/tables/63.html#AFF-X2.1) *Preparation of contingency plans for fire parties*
-* [AFF-X2.2]({{site.baseurl}}/tables/63.html#AFF-X2.2) *Composition and allocation of personnel to fire parties*
-* [AFF-X2.3]({{site.baseurl}}/tables/63.html#AFF-X2.3) *Strategies and tactics for control of fires in various parts of the ship*
-* [AFF-X3.1]({{site.baseurl}}/tables/63.html#AFF-X3.1) *Fire-detection systems*
-* [AFF-X3.1]({{site.baseurl}}/tables/63.html#AFF-X3.1) *fixed fire-extinguishing systems*
-* [AFF-X3.1]({{site.baseurl}}/tables/63.html#AFF-X3.1) *portable and mobile fire-extinguishing equipment*
-* [AFF-X3.1]({{site.baseurl}}/tables/63.html#AFF-X3.1) *appliances, pumps and rescue, salvage, life-support, personal protective and communication equipment*
-* [AFF-X1.01]({{site.baseurl}}/tables/63.html#AFF-X1.01) *Fire-fighting procedures at sea and in port, with particular emphasis on organization, tactics and command*
-* [AFF-X1.03]({{site.baseurl}}/tables/63.html#AFF-X1.03) *Communication and coordination during fire-fighting operations*
-* [AFF-X1.04]({{site.baseurl}}/tables/63.html#AFF-X1.04) *Ventilation control, including smoke extraction*
-* [AFF-X1.05]({{site.baseurl}}/tables/63.html#AFF-X1.05) *Control of fuel and electrical systems*
-* [AFF-X1.09]({{site.baseurl}}/tables/63.html#AFF-X1.09) *Management and control of injured persons*
+* {% table 63.html#AFF-X1.07, AFF-X1.07 %} *Fire fighting involving dangerous goods*
+* {% table 63.html#AFF-X1.08, AFF-X1.08 %} *Fire precautions and hazards associated with the storage and handling of materials (paints, etc.)*
+* {% table 63.html#AFF-X1.10, AFF-X1.10 %} *Procedures for coordination with shore-based fire fighters*
+* {% table 63.html#AFF-X2.1, AFF-X2.1 %} *Preparation of contingency plans for fire parties*
+* {% table 63.html#AFF-X2.2, AFF-X2.2 %} *Composition and allocation of personnel to fire parties*
+* {% table 63.html#AFF-X2.3, AFF-X2.3 %} *Strategies and tactics for control of fires in various parts of the ship*
+* {% table 63.html#AFF-X3.1, AFF-X3.1 %} *Fire-detection systems*
+* {% table 63.html#AFF-X3.1, AFF-X3.1 %} *fixed fire-extinguishing systems*
+* {% table 63.html#AFF-X3.1, AFF-X3.1 %} *portable and mobile fire-extinguishing equipment*
+* {% table 63.html#AFF-X3.1, AFF-X3.1 %} *appliances, pumps and rescue, salvage, life-support, personal protective and communication equipment*
+* {% table 63.html#AFF-X1.01, AFF-X1.01 %} *Fire-fighting procedures at sea and in port, with particular emphasis on organization, tactics and command*
+* {% table 63.html#AFF-X1.03, AFF-X1.03 %} *Communication and coordination during fire-fighting operations*
+* {% table 63.html#AFF-X1.04, AFF-X1.04 %} *Ventilation control, including smoke extraction*
+* {% table 63.html#AFF-X1.05, AFF-X1.05 %} *Control of fuel and electrical systems*
+* {% table 63.html#AFF-X1.09, AFF-X1.09 %} *Management and control of injured persons*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1902,31 +1902,31 @@ This course consists of two hour lecture, and 8-hour practical.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-D3.1]({{site.baseurl}}/tables/31.html#OICEW-D3.1) *Ability to organize fire drills*
-* [OICEW-D3.2]({{site.baseurl}}/tables/31.html#OICEW-D3.2) *Knowledge of classes and chemistry of fire*
-* [OICEW-D3.3]({{site.baseurl}}/tables/31.html#OICEW-D3.3) *Knowledge of fire-fighting systems*
-* [OICEW-D3.4]({{site.baseurl}}/tables/31.html#OICEW-D3.4) *Action to be taken in the event of fire, including fires involving oil systems*
-* [OICEW-D8.2]({{site.baseurl}}/tables/31.html#OICEW-D8.2) *Knowledge of fire prevention and ability to fight and extinguish fires*
-* [OICNW-C3.1]({{site.baseurl}}/tables/21.html#OICNW-C3.1) *Ability to organize fire drills*
-* [OICNW-C3.2]({{site.baseurl}}/tables/21.html#OICNW-C3.2) *Knowledge of classes and chemistry of fire*
-* [OICNW-C3.3]({{site.baseurl}}/tables/21.html#OICNW-C3.3) *Knowledge of fire-fighting systems*
-* [OICNW-C3.4]({{site.baseurl}}/tables/21.html#OICNW-C3.4) *Knowledge of action to be taken in the event of fire, including fires involving oil systems*
-* [OICNW-C8.2]({{site.baseurl}}/tables/21.html#OICNW-C8.2) *Knowledge of fire prevention and ability to fight and extinguish fires*
-* [TOPS-X4.1]({{site.baseurl}}/tables/5111.html#TOPS-X4.1) *Tanker fire response organization and action to be taken*
-* [TOPS-X4.2]({{site.baseurl}}/tables/5111.html#TOPS-X4.2) *Fire hazards associated with cargo handling and transportation of hazardous and noxious liquids in bulk*
-* [TOPS-X4.3]({{site.baseurl}}/tables/5111.html#TOPS-X4.3) *Fire-fighting agents used to extinguish oil and chemical fires*
-* [TOPS-X4.4]({{site.baseurl}}/tables/5111.html#TOPS-X4.4) *Fixed fire-fighting foam system operations*
-* [TOPS-X4.5]({{site.baseurl}}/tables/5111.html#TOPS-X4.5) *Portable fire-fighting foam operations*
-* [TOPS-X4.6]({{site.baseurl}}/tables/5111.html#TOPS-X4.6) *Fixed dry chemical system operations*
-* [TOPS-X4.7]({{site.baseurl}}/tables/5111.html#TOPS-X4.7) *Spill containment in relation to fire-fighting operations*
-* [AFF-X1.01]({{site.baseurl}}/tables/63.html#AFF-X1.01) *Fire-fighting procedures at sea and in port, with particular emphasis on organization, tactics and command*
-* [AFF-X1.02]({{site.baseurl}}/tables/63.html#AFF-X1.02) *Use of water for fire-extinguishing, the effect on ship stability, precautions and corrective procedures*
-* [AFF-X1.03]({{site.baseurl}}/tables/63.html#AFF-X1.03) *Communication and coordination during fire-fighting operations*
-* [AFF-X1.04]({{site.baseurl}}/tables/63.html#AFF-X1.04) *Ventilation control, including smoke extraction*
-* [AFF-X1.05]({{site.baseurl}}/tables/63.html#AFF-X1.05) *Control of fuel and electrical systems*
-* [AFF-X1.09]({{site.baseurl}}/tables/63.html#AFF-X1.09) *Management and control of injured persons*
-* [AFF-X3.2]({{site.baseurl}}/tables/63.html#AFF-X3.2) *Requirements for statutory and classification surveys*
-* [AFF-X4.1]({{site.baseurl}}/tables/63.html#AFF-X4.1) *Assessment of cause of incidents involving fire*
+* {% table 31.html#OICEW-D3.1, OICEW-D3.1 %} *Ability to organize fire drills*
+* {% table 31.html#OICEW-D3.2, OICEW-D3.2 %} *Knowledge of classes and chemistry of fire*
+* {% table 31.html#OICEW-D3.3, OICEW-D3.3 %} *Knowledge of fire-fighting systems*
+* {% table 31.html#OICEW-D3.4, OICEW-D3.4 %} *Action to be taken in the event of fire, including fires involving oil systems*
+* {% table 31.html#OICEW-D8.2, OICEW-D8.2 %} *Knowledge of fire prevention and ability to fight and extinguish fires*
+* {% table 21.html#OICNW-C3.1, OICNW-C3.1 %} *Ability to organize fire drills*
+* {% table 21.html#OICNW-C3.2, OICNW-C3.2 %} *Knowledge of classes and chemistry of fire*
+* {% table 21.html#OICNW-C3.3, OICNW-C3.3 %} *Knowledge of fire-fighting systems*
+* {% table 21.html#OICNW-C3.4, OICNW-C3.4 %} *Knowledge of action to be taken in the event of fire, including fires involving oil systems*
+* {% table 21.html#OICNW-C8.2, OICNW-C8.2 %} *Knowledge of fire prevention and ability to fight and extinguish fires*
+* {% table 5111.html#TOPS-X4.1, TOPS-X4.1 %} *Tanker fire response organization and action to be taken*
+* {% table 5111.html#TOPS-X4.2, TOPS-X4.2 %} *Fire hazards associated with cargo handling and transportation of hazardous and noxious liquids in bulk*
+* {% table 5111.html#TOPS-X4.3, TOPS-X4.3 %} *Fire-fighting agents used to extinguish oil and chemical fires*
+* {% table 5111.html#TOPS-X4.4, TOPS-X4.4 %} *Fixed fire-fighting foam system operations*
+* {% table 5111.html#TOPS-X4.5, TOPS-X4.5 %} *Portable fire-fighting foam operations*
+* {% table 5111.html#TOPS-X4.6, TOPS-X4.6 %} *Fixed dry chemical system operations*
+* {% table 5111.html#TOPS-X4.7, TOPS-X4.7 %} *Spill containment in relation to fire-fighting operations*
+* {% table 63.html#AFF-X1.01, AFF-X1.01 %} *Fire-fighting procedures at sea and in port, with particular emphasis on organization, tactics and command*
+* {% table 63.html#AFF-X1.02, AFF-X1.02 %} *Use of water for fire-extinguishing, the effect on ship stability, precautions and corrective procedures*
+* {% table 63.html#AFF-X1.03, AFF-X1.03 %} *Communication and coordination during fire-fighting operations*
+* {% table 63.html#AFF-X1.04, AFF-X1.04 %} *Ventilation control, including smoke extraction*
+* {% table 63.html#AFF-X1.05, AFF-X1.05 %} *Control of fuel and electrical systems*
+* {% table 63.html#AFF-X1.09, AFF-X1.09 %} *Management and control of injured persons*
+* {% table 63.html#AFF-X3.2, AFF-X3.2 %} *Requirements for statutory and classification surveys*
+* {% table 63.html#AFF-X4.1, AFF-X4.1 %} *Assessment of cause of incidents involving fire*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -1974,7 +1974,7 @@ This course consists of three 1-hour classes a week for a semester and extensive
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [GMDSS-11.14]({{site.baseurl}}/tables/42.html#GMDSS-11.14) *English language, both written and spoken, for the communication of information relevant to safety of life at sea*
+* {% table 42.html#GMDSS-11.14, GMDSS-11.14 %} *English language, both written and spoken, for the communication of information relevant to safety of life at sea*
 
 
 ### Topics
@@ -2116,93 +2116,93 @@ This course consists of two 1-1/2-hour lectures and one 2-hour lab per week for 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPEW-A1.5]({{site.baseurl}}/tables/34.html#RFPEW-A1.5) *Use of internal communication systems*
-* [RFPEW-A3.1]({{site.baseurl}}/tables/34.html#RFPEW-A3.1) *Knowledge of emergency duties*
-* [OICEW-A1.3]({{site.baseurl}}/tables/31.html#OICEW-A1.3) *Immediate actions to be taken in the event of fire or accident, with particular reference to oil systems*
-* [OICEW-A3.1]({{site.baseurl}}/tables/31.html#OICEW-A3.1) *Operation of all internal communication systems on board*
-* [OICEW-D4.1]({{site.baseurl}}/tables/31.html#OICEW-D4.1) *Ability to organize abandon ship drills*
-* [OICEW-D4.1]({{site.baseurl}}/tables/31.html#OICEW-D4.1) *Knowledge of the operation of survival craft and rescue boats*
-* [OICEW-D4.1]({{site.baseurl}}/tables/31.html#OICEW-D4.1) *Launching appliances and arrangements*
-* [OICEW-D4.1]({{site.baseurl}}/tables/31.html#OICEW-D4.1) *Survival craft equipment*
-* [OICEW-D4.1]({{site.baseurl}}/tables/31.html#OICEW-D4.1) *Radio life-saving appliances, satellite EPIRBs and SARTs*
-* [ABD-A1.3]({{site.baseurl}}/tables/25.html#ABD-A1.3) *Information required to maintain a safe navigation watch*
-* [ABD-A1.2]({{site.baseurl}}/tables/25.html#ABD-A1.2) *Procedures for the relief and handover of a watch*
-* [ABD-A1.2]({{site.baseurl}}/tables/25.html#ABD-A1.2) *Procedures for maintenance of a navigational watch*
-* [ABD-A1.1]({{site.baseurl}}/tables/25.html#ABD-A1.1) *Ability to understand orders*
-* [ABD-C4.2]({{site.baseurl}}/tables/25.html#ABD-C4.2) *Knowledge of survival at sea techniques*
-* [ABD-C4.1]({{site.baseurl}}/tables/25.html#ABD-C4.1) *Knowledge of the operation of survival craft and rescue boats*
-* [ABD-C4.1]({{site.baseurl}}/tables/25.html#ABD-C4.1) *Knowledge of survival craft and rescue boats launching appliances and arrangements*
-* [ABD-C4.1]({{site.baseurl}}/tables/25.html#ABD-C4.1) *Knowledge of survival craft and rescue boats equipment*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Line handling*
-* [OICEW-D8.1]({{site.baseurl}}/tables/31.html#OICEW-D8.1) *Knowledge of personal survival techniques*
-* [PS-X1.1]({{site.baseurl}}/tables/611.html#PS-X1.1) *Types of emergency situations which may occur, such as collision, fire, foundering*
-* [PS-X1.2]({{site.baseurl}}/tables/611.html#PS-X1.2) *Types of life-saving appliances normally carried on ships*
-* [PS-X1.3]({{site.baseurl}}/tables/611.html#PS-X1.3) *Equipment in survival craft*
-* [PS-X1.4]({{site.baseurl}}/tables/611.html#PS-X1.4) *Location of personal life-saving appliances*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Value of training and drills*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Personal protective clothing and equipment*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Need to be ready for any emergency*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Actions to be taken when called to survival craft stations*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Actions to be taken when required to abandon ship*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Actions to be taken when in the water*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Actions to be taken when aboard a survival craft*
-* [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5) *Main dangers to survivors*
-* [PSSR-X1.9]({{site.baseurl}}/tables/614.html#PSSR-X1.9) *Types of emergency which may occur, such as collision, fire, foundering*
-* [PSSR-X1.10]({{site.baseurl}}/tables/614.html#PSSR-X1.10) *Knowledge of shipboard contingency plans for response to emergencies*
-* [PSSR-X1.11]({{site.baseurl}}/tables/614.html#PSSR-X1.11) *Emergency signals and specific duties allocated to crew members in the muster list*
-* [PSSR-X1.11]({{site.baseurl}}/tables/614.html#PSSR-X1.11) *Muster stations*
-* [PSSR-X1.11]({{site.baseurl}}/tables/614.html#PSSR-X1.11) *Correct use of personal safety equipment (survival gear)*
-* [PSSR-X1.12]({{site.baseurl}}/tables/614.html#PSSR-X1.12) *Action to take on discovering potential emergency, including fire, collision, foundering and ingress of water into the ship*
-* [PSSR-X1.13]({{site.baseurl}}/tables/614.html#PSSR-X1.13) *Action to take on hearing emergency alarm signals*
-* [PSSR-X1.14]({{site.baseurl}}/tables/614.html#PSSR-X1.14) *Value of training and drills*
-* [PSSR-X1.15]({{site.baseurl}}/tables/614.html#PSSR-X1.15) *Escape routes*
-* [PSSR-X1.15]({{site.baseurl}}/tables/614.html#PSSR-X1.15) *Internal communication and alarm systems*
-* [RFPNW-X2.1]({{site.baseurl}}/tables/24.html#RFPNW-X2.1) *Responsibilities of a look-out*
-* [RFPNW-X2.1]({{site.baseurl}}/tables/24.html#RFPNW-X2.1) *Reporting the approximate bearing of a sound signal, light or other object in degrees or points*
-* [RFPNW-X3.1]({{site.baseurl}}/tables/24.html#RFPNW-X3.1) *Shipboard terms and definitions*
-* [RFPNW-X3.3]({{site.baseurl}}/tables/24.html#RFPNW-X3.3) *Ability to understand orders*
-* [RFPNW-X3.3]({{site.baseurl}}/tables/24.html#RFPNW-X3.3) *Ability to communicate with the officer of the watch on matters relevant to watchkeeping duties*
-* [RFPNW-X3.4]({{site.baseurl}}/tables/24.html#RFPNW-X3.4) *Procedures for the relief, maintenance and handover of a watch*
-* [RFPNW-X3.5]({{site.baseurl}}/tables/24.html#RFPNW-X3.5) *Information required to maintain a safe watch*
-* [RFPNW-X4.1]({{site.baseurl}}/tables/24.html#RFPNW-X4.1) *Knowledge of emergency duties and alarm signals*
-* [RFPNW-X4.2]({{site.baseurl}}/tables/24.html#RFPNW-X4.2) *Knowledge of pyrotechnic distress signals; satellite EPIRBs and SARTs*
-* [RFPNW-X4.3]({{site.baseurl}}/tables/24.html#RFPNW-X4.3) *Avoidance of false distress alerts and action to be taken in event of accidental activation*
-* [OICNW-A5.1]({{site.baseurl}}/tables/21.html#OICNW-A5.1) *Precautions for the protection and safety of passengers in emergency situations*
-* [OICNW-C4.1]({{site.baseurl}}/tables/21.html#OICNW-C4.1) *Ability to organize abandon ship drills*
-* [OICNW-C4.1]({{site.baseurl}}/tables/21.html#OICNW-C4.1) *Knowledge of the operation of survival craft and rescue boats*
-* [OICNW-C4.1]({{site.baseurl}}/tables/21.html#OICNW-C4.1) *Launching appliances and arrangements*
-* [OICNW-C4.1]({{site.baseurl}}/tables/21.html#OICNW-C4.1) *Survival craft equipment*
-* [OICNW-C4.1]({{site.baseurl}}/tables/21.html#OICNW-C4.1) *Radio life-saving appliances, satellite EPIRBs and SARTs*
-* [OICNW-C8.1]({{site.baseurl}}/tables/21.html#OICNW-C8.1) *Knowledge of personal survival techniques*
-* [OICNW-A5.3]({{site.baseurl}}/tables/21.html#OICNW-A5.3) *Appreciation of the procedures to be followed for responding to emergencies which arise in port*
-* [PSSR-X4.1]({{site.baseurl}}/tables/614.html#PSSR-X4.1) *Understand the principles of, and barriers to, effective communication between individuals and teams within the ship*
-* [PSSR-X4.2]({{site.baseurl}}/tables/614.html#PSSR-X4.2) *Ability to establish and maintain effective communications*
-* [PSSR-X5.1]({{site.baseurl}}/tables/614.html#PSSR-X5.1) *Importance of maintaining good human and working relationships aboard ship*
-* [PSSR-X5.2]({{site.baseurl}}/tables/614.html#PSSR-X5.2) *Basic teamworking principles and practice, including conflict resolution*
-* [SCRB-X1.1]({{site.baseurl}}/tables/621.html#SCRB-X1.1) *Construction and outfit of survival craft and rescue boats and individual items of their equipment*
-* [SCRB-X1.2]({{site.baseurl}}/tables/621.html#SCRB-X1.2) *Particular characteristics and facilities of survival craft and rescue boats*
-* [SCRB-X1.3]({{site.baseurl}}/tables/621.html#SCRB-X1.3) *Various types of device used for launching survival craft and rescue boats*
-* [SCRB-X1.4]({{site.baseurl}}/tables/621.html#SCRB-X1.4) *Methods of launching survival craft into a rough sea*
-* [SCRB-X1.5]({{site.baseurl}}/tables/621.html#SCRB-X1.5) *Methods of recovering survival craft*
-* [SCRB-X1.6]({{site.baseurl}}/tables/621.html#SCRB-X1.6) *Action to be taken after leaving the ship*
-* [SCRB-X1.7]({{site.baseurl}}/tables/621.html#SCRB-X1.7) *Methods of launching and recovering rescue boats in a rough sea*
-* [SCRB-X1.8]({{site.baseurl}}/tables/621.html#SCRB-X1.8) *Dangers associated with use of on-load release devices*
-* [SCRB-X1.9]({{site.baseurl}}/tables/621.html#SCRB-X1.9) *Knowledge of maintenance procedures for survival craft*
-* [SCRB-X2.1]({{site.baseurl}}/tables/621.html#SCRB-X2.1) *Methods of starting and operating a survival craft engine and its accessories together with the use of the fire extinguisher provided*
-* [SCRB-X3.1]({{site.baseurl}}/tables/621.html#SCRB-X3.1) *Handling survival craft in rough weather*
-* [SCRB-X3.2]({{site.baseurl}}/tables/621.html#SCRB-X3.2) *Use of painter, sea-anchor and all other equipment*
-* [SCRB-X3.3]({{site.baseurl}}/tables/621.html#SCRB-X3.3) *Apportionment of food and water in survival craft*
-* [SCRB-X3.4]({{site.baseurl}}/tables/621.html#SCRB-X3.4) *Action taken to maximize detectability and location of survival craft*
-* [SCRB-X3.5]({{site.baseurl}}/tables/621.html#SCRB-X3.5) *Method of helicopter rescue*
-* [SCRB-X3.6]({{site.baseurl}}/tables/621.html#SCRB-X3.6) *Effects of hypothermia and its prevention*
-* [SCRB-X3.7]({{site.baseurl}}/tables/621.html#SCRB-X3.7) *Use of rescue boats and motor lifeboats for marshalling liferafts and rescue of survivors and persons in the sea*
-* [SCRB-X3.8]({{site.baseurl}}/tables/621.html#SCRB-X3.8) *Beaching survival craft*
-* [SCRB-X4.1]({{site.baseurl}}/tables/621.html#SCRB-X4.1) *Radio life-saving appliances carried in survival craft, including satellite EPIRBs and SARTs*
-* [SCRB-X4.2]({{site.baseurl}}/tables/621.html#SCRB-X4.2) *Pyrotechnic distress signals*
-* [FF-X1.1]({{site.baseurl}}/tables/612.html#FF-X1.1) *Shipboard fire-fighting organization*
-* [FF-X1.2]({{site.baseurl}}/tables/612.html#FF-X1.2) *Location of fire-fighting appliances and emergency escape routes*
-* [FF-X2.1]({{site.baseurl}}/tables/612.html#FF-X2.1) *Fire-fighting equipment and its location on board*
-* [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2) *fixed installations*
+* {% table 34.html#RFPEW-A1.5, RFPEW-A1.5 %} *Use of internal communication systems*
+* {% table 34.html#RFPEW-A3.1, RFPEW-A3.1 %} *Knowledge of emergency duties*
+* {% table 31.html#OICEW-A1.3, OICEW-A1.3 %} *Immediate actions to be taken in the event of fire or accident, with particular reference to oil systems*
+* {% table 31.html#OICEW-A3.1, OICEW-A3.1 %} *Operation of all internal communication systems on board*
+* {% table 31.html#OICEW-D4.1, OICEW-D4.1 %} *Ability to organize abandon ship drills*
+* {% table 31.html#OICEW-D4.1, OICEW-D4.1 %} *Knowledge of the operation of survival craft and rescue boats*
+* {% table 31.html#OICEW-D4.1, OICEW-D4.1 %} *Launching appliances and arrangements*
+* {% table 31.html#OICEW-D4.1, OICEW-D4.1 %} *Survival craft equipment*
+* {% table 31.html#OICEW-D4.1, OICEW-D4.1 %} *Radio life-saving appliances, satellite EPIRBs and SARTs*
+* {% table 25.html#ABD-A1.3, ABD-A1.3 %} *Information required to maintain a safe navigation watch*
+* {% table 25.html#ABD-A1.2, ABD-A1.2 %} *Procedures for the relief and handover of a watch*
+* {% table 25.html#ABD-A1.2, ABD-A1.2 %} *Procedures for maintenance of a navigational watch*
+* {% table 25.html#ABD-A1.1, ABD-A1.1 %} *Ability to understand orders*
+* {% table 25.html#ABD-C4.2, ABD-C4.2 %} *Knowledge of survival at sea techniques*
+* {% table 25.html#ABD-C4.1, ABD-C4.1 %} *Knowledge of the operation of survival craft and rescue boats*
+* {% table 25.html#ABD-C4.1, ABD-C4.1 %} *Knowledge of survival craft and rescue boats launching appliances and arrangements*
+* {% table 25.html#ABD-C4.1, ABD-C4.1 %} *Knowledge of survival craft and rescue boats equipment*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Line handling*
+* {% table 31.html#OICEW-D8.1, OICEW-D8.1 %} *Knowledge of personal survival techniques*
+* {% table 611.html#PS-X1.1, PS-X1.1 %} *Types of emergency situations which may occur, such as collision, fire, foundering*
+* {% table 611.html#PS-X1.2, PS-X1.2 %} *Types of life-saving appliances normally carried on ships*
+* {% table 611.html#PS-X1.3, PS-X1.3 %} *Equipment in survival craft*
+* {% table 611.html#PS-X1.4, PS-X1.4 %} *Location of personal life-saving appliances*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Value of training and drills*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Personal protective clothing and equipment*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Need to be ready for any emergency*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Actions to be taken when called to survival craft stations*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Actions to be taken when required to abandon ship*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Actions to be taken when in the water*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Actions to be taken when aboard a survival craft*
+* {% table 611.html#PS-X1.5, PS-X1.5 %} *Main dangers to survivors*
+* {% table 614.html#PSSR-X1.9, PSSR-X1.9 %} *Types of emergency which may occur, such as collision, fire, foundering*
+* {% table 614.html#PSSR-X1.10, PSSR-X1.10 %} *Knowledge of shipboard contingency plans for response to emergencies*
+* {% table 614.html#PSSR-X1.11, PSSR-X1.11 %} *Emergency signals and specific duties allocated to crew members in the muster list*
+* {% table 614.html#PSSR-X1.11, PSSR-X1.11 %} *Muster stations*
+* {% table 614.html#PSSR-X1.11, PSSR-X1.11 %} *Correct use of personal safety equipment (survival gear)*
+* {% table 614.html#PSSR-X1.12, PSSR-X1.12 %} *Action to take on discovering potential emergency, including fire, collision, foundering and ingress of water into the ship*
+* {% table 614.html#PSSR-X1.13, PSSR-X1.13 %} *Action to take on hearing emergency alarm signals*
+* {% table 614.html#PSSR-X1.14, PSSR-X1.14 %} *Value of training and drills*
+* {% table 614.html#PSSR-X1.15, PSSR-X1.15 %} *Escape routes*
+* {% table 614.html#PSSR-X1.15, PSSR-X1.15 %} *Internal communication and alarm systems*
+* {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %} *Responsibilities of a look-out*
+* {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %} *Reporting the approximate bearing of a sound signal, light or other object in degrees or points*
+* {% table 24.html#RFPNW-X3.1, RFPNW-X3.1 %} *Shipboard terms and definitions*
+* {% table 24.html#RFPNW-X3.3, RFPNW-X3.3 %} *Ability to understand orders*
+* {% table 24.html#RFPNW-X3.3, RFPNW-X3.3 %} *Ability to communicate with the officer of the watch on matters relevant to watchkeeping duties*
+* {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %} *Procedures for the relief, maintenance and handover of a watch*
+* {% table 24.html#RFPNW-X3.5, RFPNW-X3.5 %} *Information required to maintain a safe watch*
+* {% table 24.html#RFPNW-X4.1, RFPNW-X4.1 %} *Knowledge of emergency duties and alarm signals*
+* {% table 24.html#RFPNW-X4.2, RFPNW-X4.2 %} *Knowledge of pyrotechnic distress signals; satellite EPIRBs and SARTs*
+* {% table 24.html#RFPNW-X4.3, RFPNW-X4.3 %} *Avoidance of false distress alerts and action to be taken in event of accidental activation*
+* {% table 21.html#OICNW-A5.1, OICNW-A5.1 %} *Precautions for the protection and safety of passengers in emergency situations*
+* {% table 21.html#OICNW-C4.1, OICNW-C4.1 %} *Ability to organize abandon ship drills*
+* {% table 21.html#OICNW-C4.1, OICNW-C4.1 %} *Knowledge of the operation of survival craft and rescue boats*
+* {% table 21.html#OICNW-C4.1, OICNW-C4.1 %} *Launching appliances and arrangements*
+* {% table 21.html#OICNW-C4.1, OICNW-C4.1 %} *Survival craft equipment*
+* {% table 21.html#OICNW-C4.1, OICNW-C4.1 %} *Radio life-saving appliances, satellite EPIRBs and SARTs*
+* {% table 21.html#OICNW-C8.1, OICNW-C8.1 %} *Knowledge of personal survival techniques*
+* {% table 21.html#OICNW-A5.3, OICNW-A5.3 %} *Appreciation of the procedures to be followed for responding to emergencies which arise in port*
+* {% table 614.html#PSSR-X4.1, PSSR-X4.1 %} *Understand the principles of, and barriers to, effective communication between individuals and teams within the ship*
+* {% table 614.html#PSSR-X4.2, PSSR-X4.2 %} *Ability to establish and maintain effective communications*
+* {% table 614.html#PSSR-X5.1, PSSR-X5.1 %} *Importance of maintaining good human and working relationships aboard ship*
+* {% table 614.html#PSSR-X5.2, PSSR-X5.2 %} *Basic teamworking principles and practice, including conflict resolution*
+* {% table 621.html#SCRB-X1.1, SCRB-X1.1 %} *Construction and outfit of survival craft and rescue boats and individual items of their equipment*
+* {% table 621.html#SCRB-X1.2, SCRB-X1.2 %} *Particular characteristics and facilities of survival craft and rescue boats*
+* {% table 621.html#SCRB-X1.3, SCRB-X1.3 %} *Various types of device used for launching survival craft and rescue boats*
+* {% table 621.html#SCRB-X1.4, SCRB-X1.4 %} *Methods of launching survival craft into a rough sea*
+* {% table 621.html#SCRB-X1.5, SCRB-X1.5 %} *Methods of recovering survival craft*
+* {% table 621.html#SCRB-X1.6, SCRB-X1.6 %} *Action to be taken after leaving the ship*
+* {% table 621.html#SCRB-X1.7, SCRB-X1.7 %} *Methods of launching and recovering rescue boats in a rough sea*
+* {% table 621.html#SCRB-X1.8, SCRB-X1.8 %} *Dangers associated with use of on-load release devices*
+* {% table 621.html#SCRB-X1.9, SCRB-X1.9 %} *Knowledge of maintenance procedures for survival craft*
+* {% table 621.html#SCRB-X2.1, SCRB-X2.1 %} *Methods of starting and operating a survival craft engine and its accessories together with the use of the fire extinguisher provided*
+* {% table 621.html#SCRB-X3.1, SCRB-X3.1 %} *Handling survival craft in rough weather*
+* {% table 621.html#SCRB-X3.2, SCRB-X3.2 %} *Use of painter, sea-anchor and all other equipment*
+* {% table 621.html#SCRB-X3.3, SCRB-X3.3 %} *Apportionment of food and water in survival craft*
+* {% table 621.html#SCRB-X3.4, SCRB-X3.4 %} *Action taken to maximize detectability and location of survival craft*
+* {% table 621.html#SCRB-X3.5, SCRB-X3.5 %} *Method of helicopter rescue*
+* {% table 621.html#SCRB-X3.6, SCRB-X3.6 %} *Effects of hypothermia and its prevention*
+* {% table 621.html#SCRB-X3.7, SCRB-X3.7 %} *Use of rescue boats and motor lifeboats for marshalling liferafts and rescue of survivors and persons in the sea*
+* {% table 621.html#SCRB-X3.8, SCRB-X3.8 %} *Beaching survival craft*
+* {% table 621.html#SCRB-X4.1, SCRB-X4.1 %} *Radio life-saving appliances carried in survival craft, including satellite EPIRBs and SARTs*
+* {% table 621.html#SCRB-X4.2, SCRB-X4.2 %} *Pyrotechnic distress signals*
+* {% table 612.html#FF-X1.1, FF-X1.1 %} *Shipboard fire-fighting organization*
+* {% table 612.html#FF-X1.2, FF-X1.2 %} *Location of fire-fighting appliances and emergency escape routes*
+* {% table 612.html#FF-X2.1, FF-X2.1 %} *Fire-fighting equipment and its location on board*
+* {% table 612.html#FF-X2.2, FF-X2.2 %} *fixed installations*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -2270,10 +2270,10 @@ This course serves as a pre-requisite for  [MT-2121](mt-2121.html) *Deep Sea Nav
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A1.02]({{site.baseurl}}/tables/21.html#OICNW-A1.02) *Ability to determine the ship’s position by use of landmarks*
-* [OICNW-A1.02]({{site.baseurl}}/tables/21.html#OICNW-A1.02) *Ability to determine the ship’s position by use of aids to navigation, including lighthouses, beacons and buoys*
-* [OICNW-A1.02]({{site.baseurl}}/tables/21.html#OICNW-A1.02) *Ability to determine the ship’s position by use of dead reckoning, taking into account winds, tides, currents and estimated speed*
-* [OICNW-A1.06]({{site.baseurl}}/tables/21.html#OICNW-A1.06) *Knowledge of the principles of magnetic and gyro-compasses*
+* {% table 21.html#OICNW-A1.02, OICNW-A1.02 %} *Ability to determine the ship’s position by use of landmarks*
+* {% table 21.html#OICNW-A1.02, OICNW-A1.02 %} *Ability to determine the ship’s position by use of aids to navigation, including lighthouses, beacons and buoys*
+* {% table 21.html#OICNW-A1.02, OICNW-A1.02 %} *Ability to determine the ship’s position by use of dead reckoning, taking into account winds, tides, currents and estimated speed*
+* {% table 21.html#OICNW-A1.06, OICNW-A1.06 %} *Knowledge of the principles of magnetic and gyro-compasses*
 
 
 ### Topics
@@ -2365,10 +2365,10 @@ This course serves as a pre-requisite for [MT-2371](mt-2371.html) *Sea Term II* 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A1.03]({{site.baseurl}}/tables/21.html#OICNW-A1.03) *Thorough knowledge of and ability to use nautical charts, and publications, such as sailing directions, tide tables, notices to mariners, radio navigational warnings and ships’ routeing information*
-* [OICNW-A1.05]({{site.baseurl}}/tables/21.html#OICNW-A1.05) *Ability to operate echo sounder equipment and apply the information correctly*
-* [OICNW-A1.07]({{site.baseurl}}/tables/21.html#OICNW-A1.07) *Ability to determine errors of the magnetic and gyro-compasses, using terrestrial means,*
-* [OICNW-A1.07]({{site.baseurl}}/tables/21.html#OICNW-A1.07) *Allow for errors in magnetic and gyro-compasses*
+* {% table 21.html#OICNW-A1.03, OICNW-A1.03 %} *Thorough knowledge of and ability to use nautical charts, and publications, such as sailing directions, tide tables, notices to mariners, radio navigational warnings and ships’ routeing information*
+* {% table 21.html#OICNW-A1.05, OICNW-A1.05 %} *Ability to operate echo sounder equipment and apply the information correctly*
+* {% table 21.html#OICNW-A1.07, OICNW-A1.07 %} *Ability to determine errors of the magnetic and gyro-compasses, using terrestrial means,*
+* {% table 21.html#OICNW-A1.07, OICNW-A1.07 %} *Allow for errors in magnetic and gyro-compasses*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -2451,16 +2451,16 @@ This course consists of three 1-hour lectures a week for a semester with a compr
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-B2.1]({{site.baseurl}}/tables/21.html#OICNW-B2.1) *Knowledge and ability to explain where to look for damage and defects most commonly encountered due to: corrosion*
-* [OICNW-B2.1]({{site.baseurl}}/tables/21.html#OICNW-B2.1) *Knowledge and ability to explain where to look for damage and defects most commonly encountered due to: severe weather conditions*
-* [OICNW-B2.2]({{site.baseurl}}/tables/21.html#OICNW-B2.2) *Ability to state which parts of the ship shall be inspected each time in order to cover all parts within a given period of time*
-* [OICNW-B2.3]({{site.baseurl}}/tables/21.html#OICNW-B2.3) *Identify those elements of the ship structure which are critical to the safety of the ship*
-* [OICNW-B2.4]({{site.baseurl}}/tables/21.html#OICNW-B2.4) *State the causes of corrosion in cargo spaces and ballast tanks and how corrosion can be identified and prevented*
-* [OICNW-B2.5]({{site.baseurl}}/tables/21.html#OICNW-B2.5) *Knowledge of procedures on how the inspections shall be carried out*
-* [OICNW-B2.6]({{site.baseurl}}/tables/21.html#OICNW-B2.6) *Ability to explain how to ensure reliable detection of defects and damages*
-* [OICNW-B2.7]({{site.baseurl}}/tables/21.html#OICNW-B2.7) *Understanding of the purpose of the “enhanced survey programme”*
-* [OICNW-C2.4]({{site.baseurl}}/tables/21.html#OICNW-C2.4) *General knowledge of the principal structural members of a ship and the proper names for the various parts*
-* [OICNW-C2.1]({{site.baseurl}}/tables/21.html#OICNW-C2.1) *Working knowledge and application of stress tables, diagrams and stress-calculating equipment*
+* {% table 21.html#OICNW-B2.1, OICNW-B2.1 %} *Knowledge and ability to explain where to look for damage and defects most commonly encountered due to: corrosion*
+* {% table 21.html#OICNW-B2.1, OICNW-B2.1 %} *Knowledge and ability to explain where to look for damage and defects most commonly encountered due to: severe weather conditions*
+* {% table 21.html#OICNW-B2.2, OICNW-B2.2 %} *Ability to state which parts of the ship shall be inspected each time in order to cover all parts within a given period of time*
+* {% table 21.html#OICNW-B2.3, OICNW-B2.3 %} *Identify those elements of the ship structure which are critical to the safety of the ship*
+* {% table 21.html#OICNW-B2.4, OICNW-B2.4 %} *State the causes of corrosion in cargo spaces and ballast tanks and how corrosion can be identified and prevented*
+* {% table 21.html#OICNW-B2.5, OICNW-B2.5 %} *Knowledge of procedures on how the inspections shall be carried out*
+* {% table 21.html#OICNW-B2.6, OICNW-B2.6 %} *Ability to explain how to ensure reliable detection of defects and damages*
+* {% table 21.html#OICNW-B2.7, OICNW-B2.7 %} *Understanding of the purpose of the “enhanced survey programme”*
+* {% table 21.html#OICNW-C2.4, OICNW-C2.4 %} *General knowledge of the principal structural members of a ship and the proper names for the various parts*
+* {% table 21.html#OICNW-C2.1, OICNW-C2.1 %} *Working knowledge and application of stress tables, diagrams and stress-calculating equipment*
 
 
 ### Topics
@@ -2532,7 +2532,7 @@ This course consists of three 1-hour lectures a week for a semester with practic
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A2.1]({{site.baseurl}}/tables/21.html#OICNW-A2.1) *Thorough knowledge of the content, application and intent of the International Regulations for Preventing Collisions at Sea, 1972, as amended*
+* {% table 21.html#OICNW-A2.1, OICNW-A2.1 %} *Thorough knowledge of the content, application and intent of the International Regulations for Preventing Collisions at Sea, 1972, as amended*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -2618,8 +2618,8 @@ This course serves as a pre-requisite for [MT-3371](mt-3371.html) *Sea Term III*
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A1.01]({{site.baseurl}}/tables/21.html#OICNW-A1.01) *Use celestial bodies to determine the ship’s position*
-* [OICNW-A1.07]({{site.baseurl}}/tables/21.html#OICNW-A1.07) *Ability to determine errors of the magnetic and gyro-compasses, using celestial means*
+* {% table 21.html#OICNW-A1.01, OICNW-A1.01 %} *Use celestial bodies to determine the ship’s position*
+* {% table 21.html#OICNW-A1.07, OICNW-A1.07 %} *Ability to determine errors of the magnetic and gyro-compasses, using celestial means*
 
 
 ### Topics
@@ -2720,21 +2720,21 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABD-C1.4]({{site.baseurl}}/tables/25.html#ABD-C1.4) *Knowledge of hoisting and dipping flags and the main single-flag signals. (A, B, G, H, O, P, Q)*
-* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) *Use and handling of deck and cargo-handling gear and equipment*
-* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) *Access arrangements*
-* [ABD-C1.2]({{site.baseurl}}/tables/25.html#ABD-C1.2) *Rig and unrig bosun’s chairs and staging*
-* [ABD-C1.2]({{site.baseurl}}/tables/25.html#ABD-C1.2) *Rig and unrig pilot ladders, hoists, rat-guards and gangways*
-* [ABD-C1.2]({{site.baseurl}}/tables/25.html#ABD-C1.2) *Use marlin spike seamanship skills, including the proper use of knots, splices and stoppers*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Function and uses of winches, windlasses, capstans and related equipment*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Fibre and wire ropes, cables and chains, including their construction, use, markings, maintenance and proper stowage*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Ability to use and understand basic signals for the operation of equipment, including winches, windlasses, cranes, and hoists*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Ability to operate anchoring equipment under various conditions, such as anchoring, weighing anchor, securing for sea, and in emergencies*
-* [ABD-A2.2]({{site.baseurl}}/tables/25.html#ABD-A2.2) *Working knowledge of the procedures and order of events associated with mooring to a buoy or buoys*
-* [ABD-A2.1]({{site.baseurl}}/tables/25.html#ABD-A2.1) *Function of mooring and tug lines and how each line functions as part of an overall system*
-* [ABD-A2.1]({{site.baseurl}}/tables/25.html#ABD-A2.1) *Capacities, safe working loads, and breaking strengths of mooring equipment, including mooring wires, synthetic and fibre lines, winches, anchor windlasses, capstans, bitts, chocks and bollards*
-* [ABD-A2.1]({{site.baseurl}}/tables/25.html#ABD-A2.1) *Procedures and order of events for making fast and letting go mooring and tug lines and wires, including towing line*
-* [ABD-A2.1]({{site.baseurl}}/tables/25.html#ABD-A2.1) *Procedures and order of events for the use of anchors in various operation*
+* {% table 25.html#ABD-C1.4, ABD-C1.4 %} *Knowledge of hoisting and dipping flags and the main single-flag signals. (A, B, G, H, O, P, Q)*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Use and handling of deck and cargo-handling gear and equipment*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Access arrangements*
+* {% table 25.html#ABD-C1.2, ABD-C1.2 %} *Rig and unrig bosun’s chairs and staging*
+* {% table 25.html#ABD-C1.2, ABD-C1.2 %} *Rig and unrig pilot ladders, hoists, rat-guards and gangways*
+* {% table 25.html#ABD-C1.2, ABD-C1.2 %} *Use marlin spike seamanship skills, including the proper use of knots, splices and stoppers*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Function and uses of winches, windlasses, capstans and related equipment*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Fibre and wire ropes, cables and chains, including their construction, use, markings, maintenance and proper stowage*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Ability to use and understand basic signals for the operation of equipment, including winches, windlasses, cranes, and hoists*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Ability to operate anchoring equipment under various conditions, such as anchoring, weighing anchor, securing for sea, and in emergencies*
+* {% table 25.html#ABD-A2.2, ABD-A2.2 %} *Working knowledge of the procedures and order of events associated with mooring to a buoy or buoys*
+* {% table 25.html#ABD-A2.1, ABD-A2.1 %} *Function of mooring and tug lines and how each line functions as part of an overall system*
+* {% table 25.html#ABD-A2.1, ABD-A2.1 %} *Capacities, safe working loads, and breaking strengths of mooring equipment, including mooring wires, synthetic and fibre lines, winches, anchor windlasses, capstans, bitts, chocks and bollards*
+* {% table 25.html#ABD-A2.1, ABD-A2.1 %} *Procedures and order of events for making fast and letting go mooring and tug lines and wires, including towing line*
+* {% table 25.html#ABD-A2.1, ABD-A2.1 %} *Procedures and order of events for the use of anchors in various operation*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -2966,11 +2966,11 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPNW-X1.3]({{site.baseurl}}/tables/24.html#RFPNW-X1.3) *Change-over from automatic pilot to hand steering and vice versa*
-* [OICNW-A1.08]({{site.baseurl}}/tables/21.html#OICNW-A1.08) *Knowledge of steering control systems*
-* [OICNW-A1.08]({{site.baseurl}}/tables/21.html#OICNW-A1.08) *Steering system operational procedures*
-* [OICNW-A1.08]({{site.baseurl}}/tables/21.html#OICNW-A1.08) *Steering system change-over from manual to automatic control and vice versa*
-* [OICNW-A1.08]({{site.baseurl}}/tables/21.html#OICNW-A1.08) *Adjustment of steering system controls for optimum performance*
+* {% table 24.html#RFPNW-X1.3, RFPNW-X1.3 %} *Change-over from automatic pilot to hand steering and vice versa*
+* {% table 21.html#OICNW-A1.08, OICNW-A1.08 %} *Knowledge of steering control systems*
+* {% table 21.html#OICNW-A1.08, OICNW-A1.08 %} *Steering system operational procedures*
+* {% table 21.html#OICNW-A1.08, OICNW-A1.08 %} *Steering system change-over from manual to automatic control and vice versa*
+* {% table 21.html#OICNW-A1.08, OICNW-A1.08 %} *Adjustment of steering system controls for optimum performance*
 
 
 ### Topics
@@ -3091,12 +3091,12 @@ This course is a pre-requisite for [MT-3222](mt-3222.html) *Automatic Radar Plot
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A2.5]({{site.baseurl}}/tables/21.html#OICNW-A2.5) *Knowledge of blind pilotage techniques*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *Ability to operate and to interpret and analyse information obtained from radar*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *detection of misrepresentation of information, false echoes, sea return, etc., racons and SARTs*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *application of the International Regulations for Preventing Collisions at Sea, 1972, as amended*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *plotting techniques and relative- and true- motion concepts*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *parallel indexing*
+* {% table 21.html#OICNW-A2.5, OICNW-A2.5 %} *Knowledge of blind pilotage techniques*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *Ability to operate and to interpret and analyse information obtained from radar*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *detection of misrepresentation of information, false echoes, sea return, etc., racons and SARTs*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *application of the International Regulations for Preventing Collisions at Sea, 1972, as amended*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *plotting techniques and relative- and true- motion concepts*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *parallel indexing*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -3193,10 +3193,10 @@ Successful completion of  SM-2121 *College Physics I* or SM-2123 *Engineering Ph
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A1.09]({{site.baseurl}}/tables/21.html#OICNW-A1.09) *Ability to use and interpret information obtained from shipborne meteorological instruments*
-* [OICNW-A1.10]({{site.baseurl}}/tables/21.html#OICNW-A1.10) *Knowledge of the characteristics of the various weather systems*
-* [OICNW-A1.10]({{site.baseurl}}/tables/21.html#OICNW-A1.10) *Weather system reporting procedures and recording systems*
-* [OICNW-A1.11]({{site.baseurl}}/tables/21.html#OICNW-A1.11) *Ability to apply the meteorological information available*
+* {% table 21.html#OICNW-A1.09, OICNW-A1.09 %} *Ability to use and interpret information obtained from shipborne meteorological instruments*
+* {% table 21.html#OICNW-A1.10, OICNW-A1.10 %} *Knowledge of the characteristics of the various weather systems*
+* {% table 21.html#OICNW-A1.10, OICNW-A1.10 %} *Weather system reporting procedures and recording systems*
+* {% table 21.html#OICNW-A1.11, OICNW-A1.11 %} *Ability to apply the meteorological information available*
 
 
 ### Topics
@@ -3265,41 +3265,41 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) *Pipeline systems – bilge and ballast suctions and wells*
-* [OICNW-B1.3]({{site.baseurl}}/tables/21.html#OICNW-B1.3) *Ability to establish and maintain effective communications during loading and unloading*
-* [TOPS-X1.1]({{site.baseurl}}/tables/5111.html#TOPS-X1.1) *types of oil and chemical tankers*
-* [TOPS-X1.1]({{site.baseurl}}/tables/5111.html#TOPS-X1.1) *tanker general arrangement and construction*
-* [TOPS-X1.2]({{site.baseurl}}/tables/5111.html#TOPS-X1.2) *cargo piping systems and valves*
-* [TOPS-X1.2]({{site.baseurl}}/tables/5111.html#TOPS-X1.2) *cargo pumps*
-* [TOPS-X1.2]({{site.baseurl}}/tables/5111.html#TOPS-X1.2) *cargo oading and unloading*
-* [TOPS-X1.2]({{site.baseurl}}/tables/5111.html#TOPS-X1.2) *cargo tank cleaning, purging, gas-freeing and inerting*
-* [TOPS-X1.3]({{site.baseurl}}/tables/5111.html#TOPS-X1.3) *oil and chemical pressure and temperature, including vapour pressure/temperature relationship*
-* [TOPS-X1.3]({{site.baseurl}}/tables/5111.html#TOPS-X1.3) *types of electrostatic charge generation*
-* [TOPS-X1.3]({{site.baseurl}}/tables/5111.html#TOPS-X1.3) *chemical symbols*
-* [TOPS-X1.4]({{site.baseurl}}/tables/5111.html#TOPS-X1.4) *Knowledge and understanding of tanker safety culture and safety management*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *operations health hazards (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *environmental hazards (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *reactivity hazards (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *corrosion hazards (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *explosion and flammability hazards  (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *sources of ignition, including electrostatic hazards (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *toxicity hazards  (tanker operations)*
-* [TOPS-X2.1]({{site.baseurl}}/tables/5111.html#TOPS-X2.1) *vapour leaks and clouds (tanker operations)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *inerting, water padding, drying agents and monitoring techniques (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *anti-static measures (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *ventilation (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *segregation (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *cargo inhibition (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *importance of cargo compatibility (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *atmospheric control (tanker hazards)*
-* [TOPS-X2.2]({{site.baseurl}}/tables/5111.html#TOPS-X2.2) *gas testing (tanker hazards)*
-* [TOPS-X3.1]({{site.baseurl}}/tables/5111.html#TOPS-X3.1) *Function and proper use of gas-measuring instruments and similar equipment*
-* [TOPS-X3.3]({{site.baseurl}}/tables/5111.html#TOPS-X3.3) *ship/shore safety checklist (tanker safety)*
-* [TOPS-X5.1]({{site.baseurl}}/tables/5111.html#TOPS-X5.1) *Basic knowledge of emergency procedures, including emergency shutdown*
-* [TOPS-X6.1]({{site.baseurl}}/tables/5111.html#TOPS-X6.1) *Basic knowledge of the effects of oil and chemical pollution on human and marine life*
-* [TOPS-X6.2]({{site.baseurl}}/tables/5111.html#TOPS-X6.2) *Basic knowledge of shipboard procedures to prevent pollution*
-* [TOPS-X6.3]({{site.baseurl}}/tables/5111.html#TOPS-X6.3) *report relevant information to the responsible persons (spill response)*
-* [TOPS-X6.3]({{site.baseurl}}/tables/5111.html#TOPS-X6.3) *assist in implementing shipboard spill-containment procedures (spill response)*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Pipeline systems – bilge and ballast suctions and wells*
+* {% table 21.html#OICNW-B1.3, OICNW-B1.3 %} *Ability to establish and maintain effective communications during loading and unloading*
+* {% table 5111.html#TOPS-X1.1, TOPS-X1.1 %} *types of oil and chemical tankers*
+* {% table 5111.html#TOPS-X1.1, TOPS-X1.1 %} *tanker general arrangement and construction*
+* {% table 5111.html#TOPS-X1.2, TOPS-X1.2 %} *cargo piping systems and valves*
+* {% table 5111.html#TOPS-X1.2, TOPS-X1.2 %} *cargo pumps*
+* {% table 5111.html#TOPS-X1.2, TOPS-X1.2 %} *cargo oading and unloading*
+* {% table 5111.html#TOPS-X1.2, TOPS-X1.2 %} *cargo tank cleaning, purging, gas-freeing and inerting*
+* {% table 5111.html#TOPS-X1.3, TOPS-X1.3 %} *oil and chemical pressure and temperature, including vapour pressure/temperature relationship*
+* {% table 5111.html#TOPS-X1.3, TOPS-X1.3 %} *types of electrostatic charge generation*
+* {% table 5111.html#TOPS-X1.3, TOPS-X1.3 %} *chemical symbols*
+* {% table 5111.html#TOPS-X1.4, TOPS-X1.4 %} *Knowledge and understanding of tanker safety culture and safety management*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *operations health hazards (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *environmental hazards (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *reactivity hazards (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *corrosion hazards (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *explosion and flammability hazards  (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *sources of ignition, including electrostatic hazards (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *toxicity hazards  (tanker operations)*
+* {% table 5111.html#TOPS-X2.1, TOPS-X2.1 %} *vapour leaks and clouds (tanker operations)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *inerting, water padding, drying agents and monitoring techniques (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *anti-static measures (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *ventilation (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *segregation (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *cargo inhibition (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *importance of cargo compatibility (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *atmospheric control (tanker hazards)*
+* {% table 5111.html#TOPS-X2.2, TOPS-X2.2 %} *gas testing (tanker hazards)*
+* {% table 5111.html#TOPS-X3.1, TOPS-X3.1 %} *Function and proper use of gas-measuring instruments and similar equipment*
+* {% table 5111.html#TOPS-X3.3, TOPS-X3.3 %} *ship/shore safety checklist (tanker safety)*
+* {% table 5111.html#TOPS-X5.1, TOPS-X5.1 %} *Basic knowledge of emergency procedures, including emergency shutdown*
+* {% table 5111.html#TOPS-X6.1, TOPS-X6.1 %} *Basic knowledge of the effects of oil and chemical pollution on human and marine life*
+* {% table 5111.html#TOPS-X6.2, TOPS-X6.2 %} *Basic knowledge of shipboard procedures to prevent pollution*
+* {% table 5111.html#TOPS-X6.3, TOPS-X6.3 %} *report relevant information to the responsible persons (spill response)*
+* {% table 5111.html#TOPS-X6.3, TOPS-X6.3 %} *assist in implementing shipboard spill-containment procedures (spill response)*
 
 
 ### Topics
@@ -3365,11 +3365,11 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A1.04]({{site.baseurl}}/tables/21.html#OICNW-A1.04) *Ability to determine the ship’s position by use of electronic navigational aids*
-* [OICNW-A8.1]({{site.baseurl}}/tables/21.html#OICNW-A8.1) *Ability to use the International Code of Signals*
-* [OICNW-A8.2]({{site.baseurl}}/tables/21.html#OICNW-A8.2) *Ability to transmit and receive, by Morse light, distress signal SOS*
-* [OICNW-A8.2]({{site.baseurl}}/tables/21.html#OICNW-A8.2) *visual signalling of single-letter signals as also specified in the International Code of Signals*
-* [GMDSS-11.14]({{site.baseurl}}/tables/42.html#GMDSS-11.14) *use of the International Code of Signals and the IMO Standard Marine Communication Phrases*
+* {% table 21.html#OICNW-A1.04, OICNW-A1.04 %} *Ability to determine the ship’s position by use of electronic navigational aids*
+* {% table 21.html#OICNW-A8.1, OICNW-A8.1 %} *Ability to use the International Code of Signals*
+* {% table 21.html#OICNW-A8.2, OICNW-A8.2 %} *Ability to transmit and receive, by Morse light, distress signal SOS*
+* {% table 21.html#OICNW-A8.2, OICNW-A8.2 %} *visual signalling of single-letter signals as also specified in the International Code of Signals*
+* {% table 42.html#GMDSS-11.14, GMDSS-11.14 %} *use of the International Code of Signals and the IMO Standard Marine Communication Phrases*
 
 
 ### Topics
@@ -3432,17 +3432,17 @@ This course is a pre-requisite for [MT-3224](mt-3224.html) *Electronic Chart Dis
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A3.1]({{site.baseurl}}/tables/21.html#OICNW-A3.1) *Knowledge of the fundamentals of radar and automatic radar plotting aids (ARPA)*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *factors affecting performance and accuracy*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *setting up and maintaining displays*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *range and bearing; course and speed of other ships; time and distance of closest approach of crossing, meeting overtaking ships*
-* [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2) *identification of critical echoes; detecting course and speed changes of other ships; effect of changes in own ship’s course or speed or both*
-* [OICNW-A3.3]({{site.baseurl}}/tables/21.html#OICNW-A3.3) *Principal types of ARPA, their display characteristics, performance standards and the dangers of over-reliance on ARPA*
-* [OICNW-A3.4]({{site.baseurl}}/tables/21.html#OICNW-A3.4) *system performance and accuracy, tracking capabilities and limitations, and processing delays*
-* [OICNW-A3.4]({{site.baseurl}}/tables/21.html#OICNW-A3.4) *use of operational warnings and system tests*
-* [OICNW-A3.4]({{site.baseurl}}/tables/21.html#OICNW-A3.4) *methods of target acquisition and their limitations*
-* [OICNW-A3.4]({{site.baseurl}}/tables/21.html#OICNW-A3.4) *true and relative vectors, graphic representation of target information and danger areas*
-* [OICNW-A3.4]({{site.baseurl}}/tables/21.html#OICNW-A3.4) *deriving and analysing information, critical echoes, exclusion areas and trial manoeuvres*
+* {% table 21.html#OICNW-A3.1, OICNW-A3.1 %} *Knowledge of the fundamentals of radar and automatic radar plotting aids (ARPA)*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *factors affecting performance and accuracy*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *setting up and maintaining displays*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *range and bearing; course and speed of other ships; time and distance of closest approach of crossing, meeting overtaking ships*
+* {% table 21.html#OICNW-A3.2, OICNW-A3.2 %} *identification of critical echoes; detecting course and speed changes of other ships; effect of changes in own ship’s course or speed or both*
+* {% table 21.html#OICNW-A3.3, OICNW-A3.3 %} *Principal types of ARPA, their display characteristics, performance standards and the dangers of over-reliance on ARPA*
+* {% table 21.html#OICNW-A3.4, OICNW-A3.4 %} *system performance and accuracy, tracking capabilities and limitations, and processing delays*
+* {% table 21.html#OICNW-A3.4, OICNW-A3.4 %} *use of operational warnings and system tests*
+* {% table 21.html#OICNW-A3.4, OICNW-A3.4 %} *methods of target acquisition and their limitations*
+* {% table 21.html#OICNW-A3.4, OICNW-A3.4 %} *true and relative vectors, graphic representation of target information and danger areas*
+* {% table 21.html#OICNW-A3.4, OICNW-A3.4 %} *deriving and analysing information, critical echoes, exclusion areas and trial manoeuvres*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -3505,15 +3505,15 @@ This course consists of one 1-hour lecture and one 2-hour lab per week for a sem
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A4.1]({{site.baseurl}}/tables/21.html#OICNW-A4.1) *thorough understanding of Electronic Navigational Chart (ENC) data, data accuracy, presentation rules, display options and other chart data formats*
-* [OICNW-A4.1]({{site.baseurl}}/tables/21.html#OICNW-A4.1) *the dangers of over-reliance*
-* [OICNW-A4.1]({{site.baseurl}}/tables/21.html#OICNW-A4.1) *familiarity with the functions of ECDIS required by performance standards in force*
-* [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2) *use of functions that are integrated with other navigation systems in various installations, including proper functioning and adjustment to desired settings*
-* [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2) *safe monitoring and adjustment of information, including own position, sea area display, mode and orientation, chart data displayed, route monitoring, user-created information layers, contacts (when interfaced with AIS and/or radar tracking) and radar overlay functions (when interfaced)*
-* [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2) *confirmation of vessel position by alternative means*
-* [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2) *efficient use of settings to ensure conformance to operational procedures, including alarm parameters for anti-grounding, proximity to contacts and special areas, completeness of chart data and chart update status, and backup arrangements*
-* [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2) *adjustment of settings and values to suit the present conditions*
-* [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2) *situational awareness while using ECDIS including safe water and proximity of hazards, set and drift, chart data and scale selection, suitability of route, contact detection and management, and integrity of sensors*
+* {% table 21.html#OICNW-A4.1, OICNW-A4.1 %} *thorough understanding of Electronic Navigational Chart (ENC) data, data accuracy, presentation rules, display options and other chart data formats*
+* {% table 21.html#OICNW-A4.1, OICNW-A4.1 %} *the dangers of over-reliance*
+* {% table 21.html#OICNW-A4.1, OICNW-A4.1 %} *familiarity with the functions of ECDIS required by performance standards in force*
+* {% table 21.html#OICNW-A4.2, OICNW-A4.2 %} *use of functions that are integrated with other navigation systems in various installations, including proper functioning and adjustment to desired settings*
+* {% table 21.html#OICNW-A4.2, OICNW-A4.2 %} *safe monitoring and adjustment of information, including own position, sea area display, mode and orientation, chart data displayed, route monitoring, user-created information layers, contacts (when interfaced with AIS and/or radar tracking) and radar overlay functions (when interfaced)*
+* {% table 21.html#OICNW-A4.2, OICNW-A4.2 %} *confirmation of vessel position by alternative means*
+* {% table 21.html#OICNW-A4.2, OICNW-A4.2 %} *efficient use of settings to ensure conformance to operational procedures, including alarm parameters for anti-grounding, proximity to contacts and special areas, completeness of chart data and chart update status, and backup arrangements*
+* {% table 21.html#OICNW-A4.2, OICNW-A4.2 %} *adjustment of settings and values to suit the present conditions*
+* {% table 21.html#OICNW-A4.2, OICNW-A4.2 %} *situational awareness while using ECDIS including safe water and proximity of hazards, set and drift, chart data and scale selection, suitability of route, contact detection and management, and integrity of sensors*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -3710,14 +3710,14 @@ Successful completion of [MT-2231](mt-2231.html) *Basic Seamanship* and [MT-2141
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) *Ramps, side/bow/stern doors or elevators*
-* [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3) *Cranes, derricks, winches*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Function and uses of hoists, cranes, booms, and related equipment*
-* [ABD-B1.2]({{site.baseurl}}/tables/25.html#ABD-B1.2) *Basic knowledge of and precautions to observe in connection with particular types of cargo*
-* [ABD-B1.2]({{site.baseurl}}/tables/25.html#ABD-B1.2) *Identification of IMDG labelling*
-* [ABD-B1.1]({{site.baseurl}}/tables/25.html#ABD-B1.1) *Procedures for safe handling, stowage and securing of cargoes and stores, including dangerous, hazardous and harmful substances and liquids*
-* [OICNW-B1.2]({{site.baseurl}}/tables/21.html#OICNW-B1.2) *Knowledge of safe handling, stowage and securing of cargoes, including dangerous, hazardous and harmful cargoes, and their effect on the safety of life and of the ship*
-* [OICNW-B2.1]({{site.baseurl}}/tables/21.html#OICNW-B2.1) *Knowledge and ability to explain where to look for damage and defects most commonly encountered due to: loading and unloading operations*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Ramps, side/bow/stern doors or elevators*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Cranes, derricks, winches*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Function and uses of hoists, cranes, booms, and related equipment*
+* {% table 25.html#ABD-B1.2, ABD-B1.2 %} *Basic knowledge of and precautions to observe in connection with particular types of cargo*
+* {% table 25.html#ABD-B1.2, ABD-B1.2 %} *Identification of IMDG labelling*
+* {% table 25.html#ABD-B1.1, ABD-B1.1 %} *Procedures for safe handling, stowage and securing of cargoes and stores, including dangerous, hazardous and harmful substances and liquids*
+* {% table 21.html#OICNW-B1.2, OICNW-B1.2 %} *Knowledge of safe handling, stowage and securing of cargoes, including dangerous, hazardous and harmful cargoes, and their effect on the safety of life and of the ship*
+* {% table 21.html#OICNW-B2.1, OICNW-B2.1 %} *Knowledge and ability to explain where to look for damage and defects most commonly encountered due to: loading and unloading operations*
 
 
 ### Topics
@@ -3933,14 +3933,14 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [GMDSS-11.14]({{site.baseurl}}/tables/42.html#GMDSS-11.14) *search and rescue radiocommunications*
-* [GMDSS-11.14]({{site.baseurl}}/tables/42.html#GMDSS-11.14) *procedures in the International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual*
-* [GMDSS-11.14]({{site.baseurl}}/tables/42.html#GMDSS-11.14) *means to prevent the transmission of false distress alerts and the procedures to mitigate the effects of such alerts*
-* [GMDSS-11.14]({{site.baseurl}}/tables/42.html#GMDSS-11.14) *ship reporting systems*
-* [GMDSS-12.1]({{site.baseurl}}/tables/42.html#GMDSS-12.1) *provision of radio services in emergencies - abandon ship*
-* [GMDSS-12.1]({{site.baseurl}}/tables/42.html#GMDSS-12.1) *provision of radio services in emergencies - fire on board ship*
-* [GMDSS-12.1]({{site.baseurl}}/tables/42.html#GMDSS-12.1) *provision of radio services in emergencies - partial or full breakdown of radio installations*
-* [GMDSS-12.2]({{site.baseurl}}/tables/42.html#GMDSS-12.2) *Preventive measures for the safety of ship and personnel in connection with hazards related to radio equipment, including electrical and non-ionizing radiation hazards*
+* {% table 42.html#GMDSS-11.14, GMDSS-11.14 %} *search and rescue radiocommunications*
+* {% table 42.html#GMDSS-11.14, GMDSS-11.14 %} *procedures in the International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual*
+* {% table 42.html#GMDSS-11.14, GMDSS-11.14 %} *means to prevent the transmission of false distress alerts and the procedures to mitigate the effects of such alerts*
+* {% table 42.html#GMDSS-11.14, GMDSS-11.14 %} *ship reporting systems*
+* {% table 42.html#GMDSS-12.1, GMDSS-12.1 %} *provision of radio services in emergencies - abandon ship*
+* {% table 42.html#GMDSS-12.1, GMDSS-12.1 %} *provision of radio services in emergencies - fire on board ship*
+* {% table 42.html#GMDSS-12.1, GMDSS-12.1 %} *provision of radio services in emergencies - partial or full breakdown of radio installations*
+* {% table 42.html#GMDSS-12.2, GMDSS-12.2 %} *Preventive measures for the safety of ship and personnel in connection with hazards related to radio equipment, including electrical and non-ionizing radiation hazards*
 
 
 ### Topics
@@ -3990,16 +3990,16 @@ This course consists of three 1-hour lectures and one 2-hour lab per week for a 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A5.2]({{site.baseurl}}/tables/21.html#OICNW-A5.2) *Initial action to be taken following a collision or a grounding*
-* [OICNW-A5.2]({{site.baseurl}}/tables/21.html#OICNW-A5.2) *Initial damage assessment and control*
-* [OICNW-A5.3]({{site.baseurl}}/tables/21.html#OICNW-A5.3) *Appreciation of the procedures to be followed for rescuing persons from the sea*
-* [OICNW-A6.1]({{site.baseurl}}/tables/21.html#OICNW-A6.1) *Knowledge of the contents of the International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual*
-* [OICNW-A9.1]({{site.baseurl}}/tables/21.html#OICNW-A9.1) *the effects of deadweight, draught, trim, speed and under-keel clearance on turning circles and stopping distances*
-* [OICNW-A9.1]({{site.baseurl}}/tables/21.html#OICNW-A9.1) *the effects of wind and current on ship handling*
-* [OICNW-A9.1]({{site.baseurl}}/tables/21.html#OICNW-A9.1) *manoeuvres and procedures for the rescue of person overboard*
-* [OICNW-A9.1]({{site.baseurl}}/tables/21.html#OICNW-A9.1) *squat, shallow-water and similar effects*
-* [OICNW-A9.1]({{site.baseurl}}/tables/21.html#OICNW-A9.1) *proper procedures for anchoring and mooring*
-* [OICNW-A5.3]({{site.baseurl}}/tables/21.html#OICNW-A5.3) *Appreciation of the procedures to be followed for assisting a ship in distress*
+* {% table 21.html#OICNW-A5.2, OICNW-A5.2 %} *Initial action to be taken following a collision or a grounding*
+* {% table 21.html#OICNW-A5.2, OICNW-A5.2 %} *Initial damage assessment and control*
+* {% table 21.html#OICNW-A5.3, OICNW-A5.3 %} *Appreciation of the procedures to be followed for rescuing persons from the sea*
+* {% table 21.html#OICNW-A6.1, OICNW-A6.1 %} *Knowledge of the contents of the International Aeronautical and Maritime Search and Rescue (IAMSAR) Manual*
+* {% table 21.html#OICNW-A9.1, OICNW-A9.1 %} *the effects of deadweight, draught, trim, speed and under-keel clearance on turning circles and stopping distances*
+* {% table 21.html#OICNW-A9.1, OICNW-A9.1 %} *the effects of wind and current on ship handling*
+* {% table 21.html#OICNW-A9.1, OICNW-A9.1 %} *manoeuvres and procedures for the rescue of person overboard*
+* {% table 21.html#OICNW-A9.1, OICNW-A9.1 %} *squat, shallow-water and similar effects*
+* {% table 21.html#OICNW-A9.1, OICNW-A9.1 %} *proper procedures for anchoring and mooring*
+* {% table 21.html#OICNW-A5.3, OICNW-A5.3 %} *Appreciation of the procedures to be followed for assisting a ship in distress*
 
 
 ### Topics
@@ -4167,24 +4167,24 @@ enrolled in this course must have previously successfully satisfied the followin
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPNW-X3.2]({{site.baseurl}}/tables/24.html#RFPNW-X3.2) *Use of appropriate internal communication and alarm systems*
-* [OICNW-A2.2]({{site.baseurl}}/tables/21.html#OICNW-A2.2) *Thorough knowledge of the Principles to be observed in keeping a navigational watch*
-* [OICNW-A2.4]({{site.baseurl}}/tables/21.html#OICNW-A2.4) *The use of information from navigational equipment for maintaining a safe navigational watch*
-* [OICNW-A2.6]({{site.baseurl}}/tables/21.html#OICNW-A2.6) *The use of reporting in accordance with the General Principles for Ship Reporting Systems and with VTS procedures*
-* [OICNW-A2.7]({{site.baseurl}}/tables/21.html#OICNW-A2.7) *BRM allocation, assignment, and prioritization of resources*
-* [OICNW-A2.7]({{site.baseurl}}/tables/21.html#OICNW-A2.7) *BRM effective communication*
-* [OICNW-A2.7]({{site.baseurl}}/tables/21.html#OICNW-A2.7) *BRM assertiveness and leadership*
-* [OICNW-A2.7]({{site.baseurl}}/tables/21.html#OICNW-A2.7) *BRM obtaining and maintaining situational awareness*
-* [OICNW-A2.7]({{site.baseurl}}/tables/21.html#OICNW-A2.7) *BRM consideration of team experience*
-* [OICNW-C7.4]({{site.baseurl}}/tables/21.html#OICNW-C7.4) *BRM allocation, assignment, and prioritization of resources*
-* [OICNW-C7.4]({{site.baseurl}}/tables/21.html#OICNW-C7.4) *BRM effective communication onboard and ashore*
-* [OICNW-C7.4]({{site.baseurl}}/tables/21.html#OICNW-C7.4) *BRM decisions reflect consideration of team experiences*
-* [OICNW-C7.4]({{site.baseurl}}/tables/21.html#OICNW-C7.4) *BRM assertiveness and leadership, including motivation*
-* [OICNW-C7.4]({{site.baseurl}}/tables/21.html#OICNW-C7.4) *BRM obtaining and maintaining situational awareness*
-* [OICNW-C7.5]({{site.baseurl}}/tables/21.html#OICNW-C7.5) *Decision Making: situation and risk assessment*
-* [OICNW-C7.5]({{site.baseurl}}/tables/21.html#OICNW-C7.5) *Decision Making: identify and consider generated options*
-* [OICNW-C7.5]({{site.baseurl}}/tables/21.html#OICNW-C7.5) *Decision Making: selecting course of action*
-* [OICNW-C7.5]({{site.baseurl}}/tables/21.html#OICNW-C7.5) *Decision Making: evaluation of outcome effectiveness*
+* {% table 24.html#RFPNW-X3.2, RFPNW-X3.2 %} *Use of appropriate internal communication and alarm systems*
+* {% table 21.html#OICNW-A2.2, OICNW-A2.2 %} *Thorough knowledge of the Principles to be observed in keeping a navigational watch*
+* {% table 21.html#OICNW-A2.4, OICNW-A2.4 %} *The use of information from navigational equipment for maintaining a safe navigational watch*
+* {% table 21.html#OICNW-A2.6, OICNW-A2.6 %} *The use of reporting in accordance with the General Principles for Ship Reporting Systems and with VTS procedures*
+* {% table 21.html#OICNW-A2.7, OICNW-A2.7 %} *BRM allocation, assignment, and prioritization of resources*
+* {% table 21.html#OICNW-A2.7, OICNW-A2.7 %} *BRM effective communication*
+* {% table 21.html#OICNW-A2.7, OICNW-A2.7 %} *BRM assertiveness and leadership*
+* {% table 21.html#OICNW-A2.7, OICNW-A2.7 %} *BRM obtaining and maintaining situational awareness*
+* {% table 21.html#OICNW-A2.7, OICNW-A2.7 %} *BRM consideration of team experience*
+* {% table 21.html#OICNW-C7.4, OICNW-C7.4 %} *BRM allocation, assignment, and prioritization of resources*
+* {% table 21.html#OICNW-C7.4, OICNW-C7.4 %} *BRM effective communication onboard and ashore*
+* {% table 21.html#OICNW-C7.4, OICNW-C7.4 %} *BRM decisions reflect consideration of team experiences*
+* {% table 21.html#OICNW-C7.4, OICNW-C7.4 %} *BRM assertiveness and leadership, including motivation*
+* {% table 21.html#OICNW-C7.4, OICNW-C7.4 %} *BRM obtaining and maintaining situational awareness*
+* {% table 21.html#OICNW-C7.5, OICNW-C7.5 %} *Decision Making: situation and risk assessment*
+* {% table 21.html#OICNW-C7.5, OICNW-C7.5 %} *Decision Making: identify and consider generated options*
+* {% table 21.html#OICNW-C7.5, OICNW-C7.5 %} *Decision Making: selecting course of action*
+* {% table 21.html#OICNW-C7.5, OICNW-C7.5 %} *Decision Making: evaluation of outcome effectiveness*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -4259,10 +4259,10 @@ A strong foundation in algebra and trigonometry is a pre-requisite for this cour
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-B1.1]({{site.baseurl}}/tables/21.html#OICNW-B1.1) *Knowledge of the effect of cargo, including heavy lifts, on the seaworthiness and stability of the ship*
-* [OICNW-C2.1]({{site.baseurl}}/tables/21.html#OICNW-C2.1) *Working knowledge and application of stability and trim tables and diagrams*
-* [OICNW-C2.2]({{site.baseurl}}/tables/21.html#OICNW-C2.2) *Understanding of fundamental actions to be taken in the event of partial loss of intact buoyancy*
-* [OICNW-C2.3]({{site.baseurl}}/tables/21.html#OICNW-C2.3) *Understanding of the fundamentals of watertight integrity*
+* {% table 21.html#OICNW-B1.1, OICNW-B1.1 %} *Knowledge of the effect of cargo, including heavy lifts, on the seaworthiness and stability of the ship*
+* {% table 21.html#OICNW-C2.1, OICNW-C2.1 %} *Working knowledge and application of stability and trim tables and diagrams*
+* {% table 21.html#OICNW-C2.2, OICNW-C2.2 %} *Understanding of fundamental actions to be taken in the event of partial loss of intact buoyancy*
+* {% table 21.html#OICNW-C2.3, OICNW-C2.3 %} *Understanding of the fundamentals of watertight integrity*
 
 
 ### Topics
@@ -4411,12 +4411,12 @@ This course consists of two 1-1/2-hour lectures a week for a semester with a com
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [TOPS-X3.2]({{site.baseurl}}/tables/5111.html#TOPS-X3.2) *breathing apparatus and tank-evacuating equipment*
-* [TOPS-X3.2]({{site.baseurl}}/tables/5111.html#TOPS-X3.2) *rescue and escape equipment*
-* [TOPS-X3.3]({{site.baseurl}}/tables/5111.html#TOPS-X3.3) *precautions to be taken when entering enclosed spaces (tanker safety)*
-* [TOPS-X3.3]({{site.baseurl}}/tables/5111.html#TOPS-X3.3) *precautions to be taken before and during repair and maintenance work (tanker safety)*
-* [TOPS-X3.3]({{site.baseurl}}/tables/5111.html#TOPS-X3.3) *safety measures for hot and cold work (tanker safety)*
-* [TOPS-X3.3]({{site.baseurl}}/tables/5111.html#TOPS-X3.3) *electrical safety (tanker safety)*
+* {% table 5111.html#TOPS-X3.2, TOPS-X3.2 %} *breathing apparatus and tank-evacuating equipment*
+* {% table 5111.html#TOPS-X3.2, TOPS-X3.2 %} *rescue and escape equipment*
+* {% table 5111.html#TOPS-X3.3, TOPS-X3.3 %} *precautions to be taken when entering enclosed spaces (tanker safety)*
+* {% table 5111.html#TOPS-X3.3, TOPS-X3.3 %} *precautions to be taken before and during repair and maintenance work (tanker safety)*
+* {% table 5111.html#TOPS-X3.3, TOPS-X3.3 %} *safety measures for hot and cold work (tanker safety)*
+* {% table 5111.html#TOPS-X3.3, TOPS-X3.3 %} *electrical safety (tanker safety)*
 
 
 ### Topics
@@ -4678,13 +4678,13 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICNW-A2.3]({{site.baseurl}}/tables/21.html#OICNW-A2.3) *The use of routeing in accordance with the General Provisions on Ships’ Routeing*
+* {% table 21.html#OICNW-A2.3, OICNW-A2.3 %} *The use of routeing in accordance with the General Provisions on Ships’ Routeing*
 
 **Demonstrate proficiency in the following skills:**
 
 * {% assessment OICNW-1-1A %} *Adjust a sextant*
 * {% assessment OICNW-1-1B %} *Measure the altitude of the sun*
-* {% assessment OICNW-1-1C %} *Obtain a celestial fix * ![]({{site.baseurl}}/assets/images/mod.jpg)
+* {% assessment OICNW-1-1C %} *Obtain a celestial fix* ![]({{site.baseurl}}/assets/images/mod.jpg)
 * {% assessment OICNW-1-1D %} *Measure the altitude of the sun at meridian passage (local apparent noon)*
 * {% assessment OICNW-1-1E %} *Celestial running fix*
 * {% assessment OICNW-1-1F %} *Star Fix*
@@ -4814,19 +4814,19 @@ This course consists of four 3-hour modules.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [BFA-X1.1]({{site.baseurl}}/tables/613.html#BFA-X1.1) *Assessment of needs of casualties and threats to own safety*
-* [BFA-X1.2]({{site.baseurl}}/tables/613.html#BFA-X1.2) *Appreciation of body structure and functions*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Position casualty*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Apply resuscitation techniques*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Control bleeding*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Apply appropriate measures of basic shock management*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Apply appropriate measures in event of burns and scalds, including accidents caused by electric current*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Rescue and transport a casualty*
-* [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3) *Improvise bandages and use materials in the emergency kit*
-* [OICNW-C8.3]({{site.baseurl}}/tables/21.html#OICNW-C8.3) *Knowledge of elementary first aid*
-* [OICEW-D8.3]({{site.baseurl}}/tables/31.html#OICEW-D8.3) *Knowledge of elementary first aid*
-* [SCRB-X5.1]({{site.baseurl}}/tables/621.html#SCRB-X5.1) *Use of the first-aid kit and resuscitation techniques*
-* [SCRB-X5.2]({{site.baseurl}}/tables/621.html#SCRB-X5.2) *Management of injured persons, including control of bleeding and shock*
+* {% table 613.html#BFA-X1.1, BFA-X1.1 %} *Assessment of needs of casualties and threats to own safety*
+* {% table 613.html#BFA-X1.2, BFA-X1.2 %} *Appreciation of body structure and functions*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Position casualty*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Apply resuscitation techniques*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Control bleeding*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Apply appropriate measures of basic shock management*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Apply appropriate measures in event of burns and scalds, including accidents caused by electric current*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Rescue and transport a casualty*
+* {% table 613.html#BFA-X1.3, BFA-X1.3 %} *Improvise bandages and use materials in the emergency kit*
+* {% table 21.html#OICNW-C8.3, OICNW-C8.3 %} *Knowledge of elementary first aid*
+* {% table 31.html#OICEW-D8.3, OICEW-D8.3 %} *Knowledge of elementary first aid*
+* {% table 621.html#SCRB-X5.1, SCRB-X5.1 %} *Use of the first-aid kit and resuscitation techniques*
+* {% table 621.html#SCRB-X5.2, SCRB-X5.2 %} *Management of injured persons, including control of bleeding and shock*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -4893,25 +4893,25 @@ This course consists of 14 2-hour practicals.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-D5.1]({{site.baseurl}}/tables/31.html#OICEW-D5.1) *Practical application of medical guides and advice by radio*
-* [OICEW-D5.1]({{site.baseurl}}/tables/31.html#OICEW-D5.1) *Ability to take effective action in the case of accidents or illnesses that are likely to occur on board*
-* [OICNW-C5.1]({{site.baseurl}}/tables/21.html#OICNW-C5.1) *Practical application of medical guides and advice by radio,*
-* [OICNW-C5.1]({{site.baseurl}}/tables/21.html#OICNW-C5.1) *Ability to take effective action based on such knowledge in the case of accidents or illnesses that are likely to occur on board ship*
-* [TOPS-X3.2]({{site.baseurl}}/tables/5111.html#TOPS-X3.2) *resuscitators*
-* [TOPS-X3.4]({{site.baseurl}}/tables/5111.html#TOPS-X3.4) *Basic knowledge of first aid with reference to a Material Safety Data Sheet (MSDS)*
-* [AFA-X1.01]({{site.baseurl}}/tables/641.html#AFA-X1.01) *First-aid kit*
-* [AFA-X1.02]({{site.baseurl}}/tables/641.html#AFA-X1.02) *Body structure and function*
-* [AFA-X1.03]({{site.baseurl}}/tables/641.html#AFA-X1.03) *Toxicological hazards on board*
-* [AFA-X1.03]({{site.baseurl}}/tables/641.html#AFA-X1.03) *use of the Medical First Aid Guide for Use in Accidents Involving Dangerous Goods (MFAG)*
-* [AFA-X1.04]({{site.baseurl}}/tables/641.html#AFA-X1.04) *Examination of casualty or patient*
-* [AFA-X1.05]({{site.baseurl}}/tables/641.html#AFA-X1.05) *Spinal injuries*
-* [AFA-X1.06]({{site.baseurl}}/tables/641.html#AFA-X1.06) *Burns, scalds and effects of heat and cold*
-* [AFA-X1.07]({{site.baseurl}}/tables/641.html#AFA-X1.07) *Fractures, dislocations and muscular injuries*
-* [AFA-X1.08]({{site.baseurl}}/tables/641.html#AFA-X1.08) *Medical care of rescued persons*
-* [AFA-X1.09]({{site.baseurl}}/tables/641.html#AFA-X1.09) *Radio medical advice*
-* [AFA-X1.12]({{site.baseurl}}/tables/641.html#AFA-X1.12) *Cardiac arrest, drowning and asphyxia*
-* [AFA-X1.10]({{site.baseurl}}/tables/641.html#AFA-X1.10) *Pharmacology*
-* [AFA-X1.11]({{site.baseurl}}/tables/641.html#AFA-X1.11) *Sterilization*
+* {% table 31.html#OICEW-D5.1, OICEW-D5.1 %} *Practical application of medical guides and advice by radio*
+* {% table 31.html#OICEW-D5.1, OICEW-D5.1 %} *Ability to take effective action in the case of accidents or illnesses that are likely to occur on board*
+* {% table 21.html#OICNW-C5.1, OICNW-C5.1 %} *Practical application of medical guides and advice by radio,*
+* {% table 21.html#OICNW-C5.1, OICNW-C5.1 %} *Ability to take effective action based on such knowledge in the case of accidents or illnesses that are likely to occur on board ship*
+* {% table 5111.html#TOPS-X3.2, TOPS-X3.2 %} *resuscitators*
+* {% table 5111.html#TOPS-X3.4, TOPS-X3.4 %} *Basic knowledge of first aid with reference to a Material Safety Data Sheet (MSDS)*
+* {% table 641.html#AFA-X1.01, AFA-X1.01 %} *First-aid kit*
+* {% table 641.html#AFA-X1.02, AFA-X1.02 %} *Body structure and function*
+* {% table 641.html#AFA-X1.03, AFA-X1.03 %} *Toxicological hazards on board*
+* {% table 641.html#AFA-X1.03, AFA-X1.03 %} *use of the Medical First Aid Guide for Use in Accidents Involving Dangerous Goods (MFAG)*
+* {% table 641.html#AFA-X1.04, AFA-X1.04 %} *Examination of casualty or patient*
+* {% table 641.html#AFA-X1.05, AFA-X1.05 %} *Spinal injuries*
+* {% table 641.html#AFA-X1.06, AFA-X1.06 %} *Burns, scalds and effects of heat and cold*
+* {% table 641.html#AFA-X1.07, AFA-X1.07 %} *Fractures, dislocations and muscular injuries*
+* {% table 641.html#AFA-X1.08, AFA-X1.08 %} *Medical care of rescued persons*
+* {% table 641.html#AFA-X1.09, AFA-X1.09 %} *Radio medical advice*
+* {% table 641.html#AFA-X1.12, AFA-X1.12 %} *Cardiac arrest, drowning and asphyxia*
+* {% table 641.html#AFA-X1.10, AFA-X1.10 %} *Pharmacology*
+* {% table 641.html#AFA-X1.11, AFA-X1.11 %} *Sterilization*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -5013,9 +5013,9 @@ This course consists of 1-hour lecture, and 8-hour practical.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-D4.1]({{site.baseurl}}/tables/31.html#OICEW-D4.1) *Immersion suits and thermal protective aids*
-* [OICNW-C4.1]({{site.baseurl}}/tables/21.html#OICNW-C4.1) *Immersion suits and thermal protective aids*
-* [SCRB-X3.6]({{site.baseurl}}/tables/621.html#SCRB-X3.6) *use of protective covers and garments, including immersion suits and thermal protective aids*
+* {% table 31.html#OICEW-D4.1, OICEW-D4.1 %} *Immersion suits and thermal protective aids*
+* {% table 21.html#OICNW-C4.1, OICNW-C4.1 %} *Immersion suits and thermal protective aids*
+* {% table 621.html#SCRB-X3.6, SCRB-X3.6 %} *use of protective covers and garments, including immersion suits and thermal protective aids*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -5078,12 +5078,12 @@ This course consists of four 1-hour lectures.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [PSSR-X5.3]({{site.baseurl}}/tables/614.html#PSSR-X5.3) *Social responsibilities*
-* [PSSR-X5.3]({{site.baseurl}}/tables/614.html#PSSR-X5.3) *employment conditions*
-* [PSSR-X5.3]({{site.baseurl}}/tables/614.html#PSSR-X5.3) *individual rights and obligations*
-* [PSSR-X5.3]({{site.baseurl}}/tables/614.html#PSSR-X5.3) *dangers of drug and alcohol abuse*
-* [OICEW-D8.4]({{site.baseurl}}/tables/31.html#OICEW-D8.4) *Knowledge of social responsibilities*
-* [OICNW-C8.4]({{site.baseurl}}/tables/21.html#OICNW-C8.4) *Knowledge of social responsibilities*
+* {% table 614.html#PSSR-X5.3, PSSR-X5.3 %} *Social responsibilities*
+* {% table 614.html#PSSR-X5.3, PSSR-X5.3 %} *employment conditions*
+* {% table 614.html#PSSR-X5.3, PSSR-X5.3 %} *individual rights and obligations*
+* {% table 614.html#PSSR-X5.3, PSSR-X5.3 %} *dangers of drug and alcohol abuse*
+* {% table 31.html#OICEW-D8.4, OICEW-D8.4 %} *Knowledge of social responsibilities*
+* {% table 21.html#OICNW-C8.4, OICNW-C8.4 %} *Knowledge of social responsibilities*
 
 
 ### Topics
@@ -5136,11 +5136,11 @@ This course consists of three 1-hour classes a week for a semester and a compreh
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-D6.1]({{site.baseurl}}/tables/31.html#OICEW-D6.1) *Basic working knowledge of the relevant IMO conventions concerning safety of life at sea, security and protection of the marine environment*
-* [OICEW-D7.2]({{site.baseurl}}/tables/31.html#OICEW-D7.2) *A knowledge of related international maritime conventions and recommendations, and national legislation*
-* [PSSR-X3.4]({{site.baseurl}}/tables/614.html#PSSR-X3.4) *Familiarization with international measures concerning accident prevention and occupational health*
-* [OICNW-C6.1]({{site.baseurl}}/tables/21.html#OICNW-C6.1) *Basic working knowledge of the relevant IMO conventions concerning safety of life at sea, security and protection of the marine environment*
-* [OICNW-C7.2]({{site.baseurl}}/tables/21.html#OICNW-C7.2) *Basic working knowledge of the relevant IMO conventions concerning safety of life at sea, security and protection of the marine environment*
+* {% table 31.html#OICEW-D6.1, OICEW-D6.1 %} *Basic working knowledge of the relevant IMO conventions concerning safety of life at sea, security and protection of the marine environment*
+* {% table 31.html#OICEW-D7.2, OICEW-D7.2 %} *A knowledge of related international maritime conventions and recommendations, and national legislation*
+* {% table 614.html#PSSR-X3.4, PSSR-X3.4 %} *Familiarization with international measures concerning accident prevention and occupational health*
+* {% table 21.html#OICNW-C6.1, OICNW-C6.1 %} *Basic working knowledge of the relevant IMO conventions concerning safety of life at sea, security and protection of the marine environment*
+* {% table 21.html#OICNW-C7.2, OICNW-C7.2 %} *Basic working knowledge of the relevant IMO conventions concerning safety of life at sea, security and protection of the marine environment*
 
 
 ### Topics
@@ -5203,8 +5203,8 @@ This course consists of an approximately 52-day long shipboard experence on the 
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [OICEW-A2.1]({{site.baseurl}}/tables/31.html#OICEW-A2.1) *Adequate knowledge of the English language*
-* [OICNW-A7.1]({{site.baseurl}}/tables/21.html#OICNW-A7.1) *Adequate knowledge of the English language*
+* {% table 31.html#OICEW-A2.1, OICEW-A2.1 %} *Adequate knowledge of the English language*
+* {% table 21.html#OICNW-A7.1, OICNW-A7.1 %} *Adequate knowledge of the English language*
 
 
 ### Topics
@@ -5242,32 +5242,32 @@ This course consists of deck watchstanding, training and maintenance, for approx
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPEW-A1.4]({{site.baseurl}}/tables/34.html#RFPEW-A1.4) *Basic environmental protection procedures*
-* [ABE-A8.2]({{site.baseurl}}/tables/35.html#ABE-A8.2) *Ability to use and understand basic crane, winch and hoist signals*
-* [ABE-C2.1]({{site.baseurl}}/tables/35.html#ABE-C2.1) *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
-* [ABE-C2.2]({{site.baseurl}}/tables/35.html#ABE-C2.2) *Knowledge of the use and operation of anti-pollution equipment*
-* [ABE-C2.3]({{site.baseurl}}/tables/35.html#ABE-C2.3) *Knowledge of the approved methods for disposal of marine pollutants*
-* [ABE-C3.1]({{site.baseurl}}/tables/35.html#ABE-C3.1) *Working aloft*
-* [OICEW-D1.1]({{site.baseurl}}/tables/31.html#OICEW-D1.1) *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
-* [OICEW-D1.2]({{site.baseurl}}/tables/31.html#OICEW-D1.2) *Anti-pollution procedures and all associated equipment*
-* [OICEW-D1.3]({{site.baseurl}}/tables/31.html#OICEW-D1.3) *Importance of proactive measures to protect the marine environment*
-* [ABD-A1.1]({{site.baseurl}}/tables/25.html#ABD-A1.1) *Ability to communicate with the officer of the watch*
-* [ABD-C3.3]({{site.baseurl}}/tables/25.html#ABD-C3.3) *Knowledge of the approved methods for disposal of marine pollutants*
-* [ABD-C3.2]({{site.baseurl}}/tables/25.html#ABD-C3.2) *Knowledge of the use and operation of anti-pollution equipment*
-* [ABD-C3.1]({{site.baseurl}}/tables/25.html#ABD-C3.1) *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Working aloft*
-* [ABD-C2.1]({{site.baseurl}}/tables/25.html#ABD-C2.1) *Working over the side*
-* [PSSR-X2.1]({{site.baseurl}}/tables/614.html#PSSR-X2.1) *Basic knowledge of the impact of shipping on the marine environment*
-* [PSSR-X2.1]({{site.baseurl}}/tables/614.html#PSSR-X2.1) *Effects of operational or accidental pollution on the marine environment*
-* [PSSR-X2.2]({{site.baseurl}}/tables/614.html#PSSR-X2.2) *Basic environmental protection procedures*
-* [PSSR-X2.3]({{site.baseurl}}/tables/614.html#PSSR-X2.3) *Basic knowledge of complexity and diversity of the marine environment*
-* [RFPNW-X1.2]({{site.baseurl}}/tables/24.html#RFPNW-X1.2) *Helm orders*
-* [RFPNW-X3.6]({{site.baseurl}}/tables/24.html#RFPNW-X3.6) *Basic environmental protection procedures*
-* [OICNW-C1.1]({{site.baseurl}}/tables/21.html#OICNW-C1.1) *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
-* [OICNW-C1.2]({{site.baseurl}}/tables/21.html#OICNW-C1.2) *Anti-pollution procedures and all associated equipment*
-* [OICNW-C1.3]({{site.baseurl}}/tables/21.html#OICNW-C1.3) *Importance of proactive measures to protect the marine environment*
-* [RFPNW-X1.1]({{site.baseurl}}/tables/24.html#RFPNW-X1.1) *Use of magnetic and gyro-compasses*
-* [TOPS-X2.3]({{site.baseurl}}/tables/5111.html#TOPS-X2.3) *Understanding of information on a Material Safety Data Sheet (MSDS)*
+* {% table 34.html#RFPEW-A1.4, RFPEW-A1.4 %} *Basic environmental protection procedures*
+* {% table 35.html#ABE-A8.2, ABE-A8.2 %} *Ability to use and understand basic crane, winch and hoist signals*
+* {% table 35.html#ABE-C2.1, ABE-C2.1 %} *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
+* {% table 35.html#ABE-C2.2, ABE-C2.2 %} *Knowledge of the use and operation of anti-pollution equipment*
+* {% table 35.html#ABE-C2.3, ABE-C2.3 %} *Knowledge of the approved methods for disposal of marine pollutants*
+* {% table 35.html#ABE-C3.1, ABE-C3.1 %} *Working aloft*
+* {% table 31.html#OICEW-D1.1, OICEW-D1.1 %} *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
+* {% table 31.html#OICEW-D1.2, OICEW-D1.2 %} *Anti-pollution procedures and all associated equipment*
+* {% table 31.html#OICEW-D1.3, OICEW-D1.3 %} *Importance of proactive measures to protect the marine environment*
+* {% table 25.html#ABD-A1.1, ABD-A1.1 %} *Ability to communicate with the officer of the watch*
+* {% table 25.html#ABD-C3.3, ABD-C3.3 %} *Knowledge of the approved methods for disposal of marine pollutants*
+* {% table 25.html#ABD-C3.2, ABD-C3.2 %} *Knowledge of the use and operation of anti-pollution equipment*
+* {% table 25.html#ABD-C3.1, ABD-C3.1 %} *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Working aloft*
+* {% table 25.html#ABD-C2.1, ABD-C2.1 %} *Working over the side*
+* {% table 614.html#PSSR-X2.1, PSSR-X2.1 %} *Basic knowledge of the impact of shipping on the marine environment*
+* {% table 614.html#PSSR-X2.1, PSSR-X2.1 %} *Effects of operational or accidental pollution on the marine environment*
+* {% table 614.html#PSSR-X2.2, PSSR-X2.2 %} *Basic environmental protection procedures*
+* {% table 614.html#PSSR-X2.3, PSSR-X2.3 %} *Basic knowledge of complexity and diversity of the marine environment*
+* {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %} *Helm orders*
+* {% table 24.html#RFPNW-X3.6, RFPNW-X3.6 %} *Basic environmental protection procedures*
+* {% table 21.html#OICNW-C1.1, OICNW-C1.1 %} *Knowledge of the precautions to be taken to prevent pollution of the marine environment*
+* {% table 21.html#OICNW-C1.2, OICNW-C1.2 %} *Anti-pollution procedures and all associated equipment*
+* {% table 21.html#OICNW-C1.3, OICNW-C1.3 %} *Importance of proactive measures to protect the marine environment*
+* {% table 24.html#RFPNW-X1.1, RFPNW-X1.1 %} *Use of magnetic and gyro-compasses*
+* {% table 5111.html#TOPS-X2.3, TOPS-X2.3 %} *Understanding of information on a Material Safety Data Sheet (MSDS)*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -5364,19 +5364,19 @@ This course consists of engineering watchstanding, training and maintenance, for
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [RFPEW-A1.1]({{site.baseurl}}/tables/34.html#RFPEW-A1.1) *Terms used in machinery spaces*
-* [RFPEW-A1.1]({{site.baseurl}}/tables/34.html#RFPEW-A1.1) *Names of machinery and equipment*
-* [RFPEW-A1.2]({{site.baseurl}}/tables/34.html#RFPEW-A1.2) *Engine-room watchkeeping procedures*
-* [RFPEW-A1.6]({{site.baseurl}}/tables/34.html#RFPEW-A1.6) *Familiarity with engine-room alarm systems*
-* [RFPEW-A1.6]({{site.baseurl}}/tables/34.html#RFPEW-A1.6) *Distinguish between the Engine-room alarms*
-* [RFPEW-A1.6]({{site.baseurl}}/tables/34.html#RFPEW-A1.6) *Recognize Fire-extinguishing gas alarms*
-* [RFPEW-A3.3]({{site.baseurl}}/tables/34.html#RFPEW-A3.3) *Familiarity with location of fire-fighting equipment in the machinery spaces*
-* [ABE-A4.1]({{site.baseurl}}/tables/35.html#ABE-A4.1) *Ability to understand orders*
-* [OICEW-C1.6]({{site.baseurl}}/tables/31.html#OICEW-C1.6) *Use of hand tools*
-* [OICEW-C1.6]({{site.baseurl}}/tables/31.html#OICEW-C1.6) *Use of measuring instruments*
-* [ABD-D1.6]({{site.baseurl}}/tables/25.html#ABD-D1.6) *Knowledge of the application, maintenance and use of hand tools*
-* [ABD-D1.6]({{site.baseurl}}/tables/25.html#ABD-D1.6) *Knowledge of the application, maintenance and use of power tools*
-* [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1) *Function and uses of valves and pumps*
+* {% table 34.html#RFPEW-A1.1, RFPEW-A1.1 %} *Terms used in machinery spaces*
+* {% table 34.html#RFPEW-A1.1, RFPEW-A1.1 %} *Names of machinery and equipment*
+* {% table 34.html#RFPEW-A1.2, RFPEW-A1.2 %} *Engine-room watchkeeping procedures*
+* {% table 34.html#RFPEW-A1.6, RFPEW-A1.6 %} *Familiarity with engine-room alarm systems*
+* {% table 34.html#RFPEW-A1.6, RFPEW-A1.6 %} *Distinguish between the Engine-room alarms*
+* {% table 34.html#RFPEW-A1.6, RFPEW-A1.6 %} *Recognize Fire-extinguishing gas alarms*
+* {% table 34.html#RFPEW-A3.3, RFPEW-A3.3 %} *Familiarity with location of fire-fighting equipment in the machinery spaces*
+* {% table 35.html#ABE-A4.1, ABE-A4.1 %} *Ability to understand orders*
+* {% table 31.html#OICEW-C1.6, OICEW-C1.6 %} *Use of hand tools*
+* {% table 31.html#OICEW-C1.6, OICEW-C1.6 %} *Use of measuring instruments*
+* {% table 25.html#ABD-D1.6, ABD-D1.6 %} *Knowledge of the application, maintenance and use of hand tools*
+* {% table 25.html#ABD-D1.6, ABD-D1.6 %} *Knowledge of the application, maintenance and use of power tools*
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Function and uses of valves and pumps*
 
 **Demonstrate proficiency in the following skills:**
 
@@ -5450,27 +5450,27 @@ This course is open to all shipboard personnel who are likely to be designated a
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
-* [VPDSD-X1.1]({{site.baseurl}}/tables/662.html#VPDSD-X1.1) *Working knowledge of maritime security terms and definitions*
-* [VPDSD-X1.2]({{site.baseurl}}/tables/662.html#VPDSD-X1.2) *Knowledge of international maritime security policy and responsibilities of Governments, companies and persons*
-* [VPDSD-X1.3]({{site.baseurl}}/tables/662.html#VPDSD-X1.3) *Knowledge of maritime security levels and their impact on security measures and procedures aboard ship and in the port facilities*
-* [VPDSD-X1.4]({{site.baseurl}}/tables/662.html#VPDSD-X1.4) *Knowledge of security reporting procedures*
-* [VPDSD-X1.5]({{site.baseurl}}/tables/662.html#VPDSD-X1.5) *Knowledge of procedures and requirements for drills and exercises under relevant conventions, codes and IMO circulars*
-* [VPDSD-X1.6]({{site.baseurl}}/tables/662.html#VPDSD-X1.6) *Knowledge of the procedures for conducting inspections and surveys and for the control and monitoring of security activities specified in a ship security plan*
-* [VPDSD-X1.7]({{site.baseurl}}/tables/662.html#VPDSD-X1.7) *Knowledge of security-related contingency plans and the procedures for responding to security threats or breaches of security*
-* [VPDSD-X2.1]({{site.baseurl}}/tables/662.html#VPDSD-X2.1) *Knowledge of security documentation, including the Declaration of Security*
-* [VPDSD-X2.2]({{site.baseurl}}/tables/662.html#VPDSD-X2.2) *Knowledge of techniques used to circumvent security measures*
-* [VPDSD-X2.3]({{site.baseurl}}/tables/662.html#VPDSD-X2.3) *Knowledge enabling recognition of potential security threats*
-* [VPDSD-X2.4]({{site.baseurl}}/tables/662.html#VPDSD-X2.4) *Knowledge enabling recognition of weapons, dangerous substances and devices and awareness of the damage they can cause*
-* [VPDSD-X2.5]({{site.baseurl}}/tables/662.html#VPDSD-X2.5) *Knowledge of crowd management and control techniques*
-* [VPDSD-X2.6]({{site.baseurl}}/tables/662.html#VPDSD-X2.6) *Knowledge in handling security-related information and security-related communications*
-* [VPDSD-X2.7]({{site.baseurl}}/tables/662.html#VPDSD-X2.7) *Knowledge of the methods for physical searches and non-intrusive inspections*
-* [VPDSD-X3.1]({{site.baseurl}}/tables/662.html#VPDSD-X3.1) *Knowledge of the techniques for monitoring restricted areas*
-* [VPDSD-X3.2]({{site.baseurl}}/tables/662.html#VPDSD-X3.2) *Knowledge of controlling access to the ship and to restricted areas on board ship*
-* [VPDSD-X3.3]({{site.baseurl}}/tables/662.html#VPDSD-X3.3) *Knowledge of methods for effective monitoring of deck areas and areas surrounding the ship*
-* [VPDSD-X3.4]({{site.baseurl}}/tables/662.html#VPDSD-X3.4) *Knowledge of inspection methods relating to the cargo and ship's stores*
-* [VPDSD-X3.5]({{site.baseurl}}/tables/662.html#VPDSD-X3.5) *Knowledge of methods for controlling the embarkation, disembarkation and access while on board of persons and their effects*
-* [VPDSD-X4.1]({{site.baseurl}}/tables/662.html#VPDSD-X4.1) *General knowledge of various types of security equipment and systems*
-* [VPDSD-X4.2]({{site.baseurl}}/tables/662.html#VPDSD-X4.2) *Knowledge of the need for testing, calibrating, and maintaining security systems and equipment, particularly whilst at sea*
+* {% table 662.html#VPDSD-X1.1, VPDSD-X1.1 %} *Working knowledge of maritime security terms and definitions*
+* {% table 662.html#VPDSD-X1.2, VPDSD-X1.2 %} *Knowledge of international maritime security policy and responsibilities of Governments, companies and persons*
+* {% table 662.html#VPDSD-X1.3, VPDSD-X1.3 %} *Knowledge of maritime security levels and their impact on security measures and procedures aboard ship and in the port facilities*
+* {% table 662.html#VPDSD-X1.4, VPDSD-X1.4 %} *Knowledge of security reporting procedures*
+* {% table 662.html#VPDSD-X1.5, VPDSD-X1.5 %} *Knowledge of procedures and requirements for drills and exercises under relevant conventions, codes and IMO circulars*
+* {% table 662.html#VPDSD-X1.6, VPDSD-X1.6 %} *Knowledge of the procedures for conducting inspections and surveys and for the control and monitoring of security activities specified in a ship security plan*
+* {% table 662.html#VPDSD-X1.7, VPDSD-X1.7 %} *Knowledge of security-related contingency plans and the procedures for responding to security threats or breaches of security*
+* {% table 662.html#VPDSD-X2.1, VPDSD-X2.1 %} *Knowledge of security documentation, including the Declaration of Security*
+* {% table 662.html#VPDSD-X2.2, VPDSD-X2.2 %} *Knowledge of techniques used to circumvent security measures*
+* {% table 662.html#VPDSD-X2.3, VPDSD-X2.3 %} *Knowledge enabling recognition of potential security threats*
+* {% table 662.html#VPDSD-X2.4, VPDSD-X2.4 %} *Knowledge enabling recognition of weapons, dangerous substances and devices and awareness of the damage they can cause*
+* {% table 662.html#VPDSD-X2.5, VPDSD-X2.5 %} *Knowledge of crowd management and control techniques*
+* {% table 662.html#VPDSD-X2.6, VPDSD-X2.6 %} *Knowledge in handling security-related information and security-related communications*
+* {% table 662.html#VPDSD-X2.7, VPDSD-X2.7 %} *Knowledge of the methods for physical searches and non-intrusive inspections*
+* {% table 662.html#VPDSD-X3.1, VPDSD-X3.1 %} *Knowledge of the techniques for monitoring restricted areas*
+* {% table 662.html#VPDSD-X3.2, VPDSD-X3.2 %} *Knowledge of controlling access to the ship and to restricted areas on board ship*
+* {% table 662.html#VPDSD-X3.3, VPDSD-X3.3 %} *Knowledge of methods for effective monitoring of deck areas and areas surrounding the ship*
+* {% table 662.html#VPDSD-X3.4, VPDSD-X3.4 %} *Knowledge of inspection methods relating to the cargo and ship's stores*
+* {% table 662.html#VPDSD-X3.5, VPDSD-X3.5 %} *Knowledge of methods for controlling the embarkation, disembarkation and access while on board of persons and their effects*
+* {% table 662.html#VPDSD-X4.1, VPDSD-X4.1 %} *General knowledge of various types of security equipment and systems*
+* {% table 662.html#VPDSD-X4.2, VPDSD-X4.2 %} *Knowledge of the need for testing, calibrating, and maintaining security systems and equipment, particularly whilst at sea*
 
 
 ### Topics

@@ -62,7 +62,7 @@
     <xsl:text/>&rr;### <xsl:value-of select="Table_Name"/>
     <xsl:text/>&rr;#### NVIC <xsl:value-of select="nvic_number"/>
     <xsl:text>&rr;| No.   | Task | Description | Location |&cr;</xsl:text>
-    <xsl:text>|:-----:|:----:|:------------|:-------|&cr;</xsl:text>
+    <xsl:text>|:-----:|:----:|:------------|:-------:|&cr;</xsl:text>
     <xsl:apply-templates select="$rows">
       <xsl:sort select="sortable_taskNo" order="ascending"/>
     </xsl:apply-templates>

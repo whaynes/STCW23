@@ -5,7 +5,7 @@
 ]>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
   <xsl:output method="text"/>
-  <xsl:variable name="folder">../_courses</xsl:variable>
+  <xsl:variable name="folder">../../jekyll/_courses</xsl:variable>
   <xsl:template match="/courses">
     <xsl:apply-templates select="course"/>
   </xsl:template>

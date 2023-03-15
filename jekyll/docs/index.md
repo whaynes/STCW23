@@ -22,7 +22,7 @@ You can:
 
 :   Link to an STCW table  {% table 31, OICEW %}
 
-:   Link to a task {% task OICEW-4-1A, task %} 
+:   Link to a task {% task B-01-07-A, task %} 
 
 :   Link to an assessment {% assessment ABE-1-6A %}
 
