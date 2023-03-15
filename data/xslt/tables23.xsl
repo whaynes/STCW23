@@ -5,8 +5,9 @@
 <!ENTITY t "&#09;"><!-- tab -->
 <!ENTITY tt "&#09;&#09;">
 ]>
-<!-- This stylesheet takes an xml file 'tables.xml', and converts it to multimarkdown for conversion by jeykll to a website.
-     The input file is an export from filemaker which has been transformed by Filemaker_export.xsl to something easier to work with. 
+<!-- This stylesheet and generate-tables23.xsl take an xml file 'tables.xml' and build a page for each table and
+     also an index for the tables and one for each major.
+     The 'tables.xml' has been transformed by Filemaker_export.xsl to make it easier to work with. 
      The transformation produces one markdown document per table.     
 -->
 
@@ -15,7 +16,6 @@
   <xsl:output method="xml" indent="yes" encoding="UTF-8" omit-xml-declaration="yes"/>
   <!-- path is overridden in generate-tables.xsl -->
   <xsl:variable name="path" select="'.'"/>
-
 
 
   <xsl:template match="RECORD">

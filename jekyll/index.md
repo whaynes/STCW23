@@ -23,5 +23,5 @@ title:  MMA STCW Program 2024
 | [A-VI/3]({{site.baseurl}}/tables/63.html)      | advanced fire fighting                                       |  D/E |  
 | [A-VI/4-1]({{site.baseurl}}/tables/641.html)   | medical first aid                                            |  D/E |  
 | [A-VI/6-2]({{site.baseurl}}/tables/662.html)   | seafarers with designated security duties                    |  D/E |  
-
+{: .sortable }
 
