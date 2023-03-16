@@ -16,16 +16,15 @@ layout: page
 
 {% for table in tables %}
 {% capture tasks %}
-{% include_relative {{table }}/index.md  %}
+{% include_relative {{table}}.md  %}
 {% endcapture %}
 
+
 <div id={{table}} class='toggle' >
-{{ tasks | markdownify  }}
+<h3>{{table}}</h3>
+{{ tasks | split: "---" | last | markdownify  }} 
 </div>
 {% endfor %}
-
-
-
 
 </table>
 

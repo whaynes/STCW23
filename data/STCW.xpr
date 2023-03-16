@@ -10,10 +10,6 @@
                         <Boolean>false</Boolean>
                     </entry>
                     <entry>
-                        <String>editor.format.break.line.before.attribute</String>
-                        <Boolean>true</Boolean>
-                    </entry>
-                    <entry>
                         <String>editor.format.break.line.elements</String>
                         <breakLineElement-array>
                             <breakLineElement>

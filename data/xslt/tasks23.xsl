@@ -44,7 +44,7 @@
 
   <xsl:template name="EachNVIC">
     <!-- makes index page for individual NVICs -->
-    <xsl:result-document method="text" href="{$folder}/{current-grouping-key()}/index.md">
+    <xsl:result-document method="text" href="{$folder}/{current-grouping-key()}.md">
       <xsl:text>---&cr;</xsl:text>
       <xsl:text>title: </xsl:text><xsl:value-of select="current-grouping-key()"/> Tasks&cr;<xml:text/>
       <xsl:text>task_number: nil&cr;</xsl:text>

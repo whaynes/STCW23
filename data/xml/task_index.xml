@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <index>
+    <category>MTRA</category>
+    <name>Marine Transportaion</name>
+    <tables>['OICNW', 'ABD', 'RFPNW']</tables>
+  </index>
+  <index>
+    <category>MENG</category>
+    <name>Marine Engineering</name>
+    <tables>['OICEW', 'ABE', 'RFPEW']</tables>
+  </index>
+  <index>
+    <category>Common</category>
+    <name>Marine</name>
+    <tables>['PS', 'FF', 'EFA','PSSR', 'SCRB', 'AFF', 'MFA']</tables>
+  </index>
+</DATA>
