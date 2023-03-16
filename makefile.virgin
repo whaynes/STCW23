@@ -46,7 +46,7 @@ all:
 
 
 tables:
-	java -jar $(SAXON) -s:$(XML)/tables.xml -xsl:$(XSL)/generate-tables23.xsl
+	java -jar $(SAXON) -s:$(XML)/tables.xml -xsl:$(XSL)/tables23.xsl
 	
 courses:
 	java -jar $(SAXON) -s:$(XML)/courses.xml -xsl:$(XSL)/courses23.xsl 

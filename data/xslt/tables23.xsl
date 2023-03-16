@@ -5,20 +5,59 @@
 <!ENTITY t "&#09;"><!-- tab -->
 <!ENTITY tt "&#09;&#09;">
 ]>
-<!-- This stylesheet and generate-tables23.xsl take an xml file 'tables.xml' and build a page for each table and
-     also an index for the tables and one for each major.
+
+<!-- This stylesheet takes 'tables.xml' and builds a page for each table and an index.
      The 'tables.xml' has been transformed by Filemaker_export.xsl to make it easier to work with. 
-     The transformation produces one markdown document per table.     
 -->
 
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fmp="http://www.filemaker.com/fmpxmlresult" xmlns="http://www.w3.org/1999/xhtml" exclude-result-prefixes="fmp ">
-  <xsl:preserve-space elements="kup competence"/>
-  <xsl:output method="xml" indent="yes" encoding="UTF-8" omit-xml-declaration="yes"/>
-  <!-- path is overridden in generate-tables.xsl -->
-  <xsl:variable name="path" select="'.'"/>
-
+<xsl:stylesheet
+  version="2.0"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fmp="http://www.filemaker.com/fmpxmlresult"
+  xmlns:html="http://www.w3.org/1999/xhtml"
+  exclude-result-prefixes="fmp html">
+  <xsl:strip-space
+    elements="*"/>
+  <xsl:preserve-space
+    elements="text kup competence"/>
+  <xsl:variable
+    name="path">../../jekyll/_tables</xsl:variable>
+  <xsl:template
+    match="/RECORDS">
+    <!-- main entrance point -->
+    <xsl:call-template
+      name="buildPages"/>
+    <xsl:call-template
+      name="buildIndex"/>
+  </xsl:template>
+  <xsl:template
+    name="buildPages">
+    <xsl:for-each-group
+      select="RECORD"
+      group-by="Table">
+      <xsl:result-document
+        href="{$path}/{TableNo}.html" omit-xml-declaration="yes">
+        <xsl:apply-templates
+          select="."/>
+      </xsl:result-document>
+    </xsl:for-each-group>
+  </xsl:template>
+  <xsl:template
+    name="buildIndex">
+    <xsl:result-document method="text"
+      href="{$path}/index.html">
+      <xsl:text><![CDATA[
+---
+title: STCW Table Index
+layout: "table_index"
+table_number: nil
+---
+]]></xsl:text>
+    </xsl:result-document>
+  </xsl:template>
 
   <xsl:template match="RECORD">
+    <!-- This template builds the page for each table -->
     <xsl:text>---</xsl:text>
     <xsl:text>&cr;subtitle: STCW Table </xsl:text>
     <xsl:value-of select="Table"/>
@@ -95,40 +134,4 @@
     </div>
 
   </xsl:template>
-
-
-
-  <xsl:template name="index">
-    <!-- Creates index pages based on the parameters -->
-    <xsl:param name="doc"/>
-    <xsl:param name="range"/>
-    <xsl:param name="title"/>
-    <xsl:result-document href="{$path}/{$doc}">
-      <xsl:text>---&cr;</xsl:text>
-      <xsl:text>title: NVIC Tasks (</xsl:text>
-      <xsl:value-of select="$title"/>
-      <xsl:text>)&cr;</xsl:text>
-      <xsl:text>subtitle: and associated STCW Tables&cr;</xsl:text>
-      <xsl:text>table_number: nil&cr;</xsl:text>
-      <xsl:text>---&rr;</xsl:text>
-      <xsl:text>&rr;|  NVIC Tasks  |    STCW Table     |  Name   |</xsl:text>
-      <xsl:text>&cr;|:-------------|:------------|:--------------|&cr;</xsl:text>
-      <xsl:for-each-group select="$range" group-by="Table">
-        <xsl:text/>| <xsl:call-template name="TaskLink"/> | [<xsl:value-of select="Table"/>](<xsl:value-of select="TableNo"/>.html) | <xsl:value-of select="Table_Name"/> | &cr;<xsl:text/>
-      </xsl:for-each-group>
-      <xsl:text>{: .sortable }</xsl:text>
-    </xsl:result-document>
-  </xsl:template>
-
-
-  <xsl:template name="TaskLink">
-    <xsl:if test="count(taskNo)">
-      <xsl:text>[</xsl:text>
-      <xsl:value-of select="Table_Short_Name"/>
-      <xsl:text> Tasks](index_</xsl:text>
-      <xsl:value-of select="translate(Table_Short_Name, '-', '')"/>
-      <xsl:text>.html)</xsl:text>
-    </xsl:if>
-  </xsl:template>
-
 </xsl:stylesheet>

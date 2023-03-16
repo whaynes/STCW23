@@ -22,6 +22,7 @@ module Jekyll
     end
 
     def render(context)
+      @file = Liquid::Template.parse(@file).render(context)
       @linktext = Liquid::Template.parse(@linktext).render(context)
       site = context.registers[:site]
       baseurl = site.config['baseurl']

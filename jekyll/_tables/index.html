@@ -1,25 +1,6 @@
----
-layout: page
-subtitle: STCW Tables index
-title:  MMA STCW Program 2024
-table_number: 0
----
 
-<table class='sortable'>
-<tr>
-<th>STCW Table</th>
-<th>Name</th>
-<th>D/E</th>
-</tr>
-{% assign tables = site.tables  %}
-{% for table in tables %}
-{% if table.table_number  %}
-<tr>
-<td  style='text-align:left'>
-<a href="{{site.baseurl}}/tables/{table.table_number}}">{{table.subtitle | remove: 'STCW Table'}}</a></td> 
-<td>{{ table.title }}</td> 
-<td>{{table.Major}}</td>
-</tr>
-{% endif %}
-{% endfor %}
-</table>
+---
+title: STCW Table Index
+layout: "table_index"
+table_number: nil
+---
