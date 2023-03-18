@@ -1,10 +1,10 @@
 ---
 title: "All STCW Courses" 
 ---
-{% assign courses = site.courses | sort: "cnum"  %}
+{% assign courses = site.courses | where_exp: "course", "course.cnum != nil"| sort: "cnum"  %}
 
 
-<table class='sortable'>
+<table class='sortable courses'>
 
 
 <tr>

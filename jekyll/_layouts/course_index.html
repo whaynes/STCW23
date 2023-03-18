@@ -2,28 +2,24 @@
 layout: page
 ---
 
-{% assign courses = site.courses | where: "major", page.major | sort: "cnum"  %}
+{% assign courses = site.courses | where_exp: "course", "course.major == page.major and course.cnum != nil" | sort: "cnum"  %}
 
 
 <table class='sortable courses'>
+
 <tr>
 <th  style='text-align:center'>No.</th> 
 <th>Course Number</th>
 <th>Course Name</th>
 </tr>
 
-{% for course in courses  %}
-{% if course.cnum  %}
+{% for course in courses %}
 <tr>
-<td style='text-align:center'>{{forloop.index | minus: 1 }}.</td> 
-<td style='text-align:center'><a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
+<td  style='text-align:center'>{{forloop.index}}.</td> 
+<td style='padding-left: 10px'> <a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
 <td>{{course.title}}</td>
-{% endif %}
 {% endfor %}
 
-
 </table>
-
-
 
 
