@@ -4,30 +4,23 @@ layout: page
 
 {% assign tables = page.tables %}
 
+
+
 {{content}}
 
 
-<ol style='columns: 3'>
-{% for table in tables %}
-<li><a href='#{{table}}'>{{ table }}</a> </li>
-{% endfor %}
-</ol>
-
 
 {% for table in tables %}
-{% capture tasks %}
-{% include_relative {{table}}.md  %}
-{% endcapture %}
-
-
-<div id={{table}} class='toggle' >
 <h3>{{table}}</h3>
-{{ tasks | split: "---" | last | markdownify  }} 
-</div>
+
+{% assign tasks = site.tasks | where: "name", table %}
+{% for task in tasks %}
+{%capture content%}
+{{ task.content}}
+{% endcapture%}
+{{ content }}
 {% endfor %}
-
-</table>
-
+{% endfor %}
 
 
 

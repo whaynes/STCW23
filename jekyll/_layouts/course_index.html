@@ -5,18 +5,18 @@ layout: page
 {% assign courses = site.courses | where: "major", page.major | sort: "cnum"  %}
 
 
-<table class='sortable'>
+<table class='sortable courses'>
 <tr>
 <th  style='text-align:center'>No.</th> 
 <th>Course Number</th>
 <th>Course Name</th>
 </tr>
 
-{% for course in courses %}
+{% for course in courses  %}
 {% if course.cnum  %}
 <tr>
-<td  style='text-align:center'>{{forloop.index | minus: 1 }}.</td> 
-<td><a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
+<td style='text-align:center'>{{forloop.index | minus: 1 }}.</td> 
+<td style='text-align:center'><a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
 <td>{{course.title}}</td>
 {% endif %}
 {% endfor %}

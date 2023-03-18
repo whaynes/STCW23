@@ -184,6 +184,13 @@ table {
 	width: 100%;
 }
 
+table.courses {width: 500px;}
+
+table.tasks th:nth-child(1) {width:5%;}
+table.tasks th:nth-child(2) {width:15%;}
+table.tasks th:nth-child(3) {width:60%;}
+table.tasks th:nth-child(4) {width:20%;}
+
 table, th, td {
 	border: 1px solid #ccc;
 }

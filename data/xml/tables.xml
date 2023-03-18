@@ -608,6 +608,7 @@ Knowledge of the contents of the International Aeronautical and Maritime Search 
 
 Adequate knowledge of the English language to enable the officer to use charts and other nautical publications, to understand meteorological information and messages concerning ship’s safety and operation, to communicate with other ships, coast stations and VTS centres and to perform the officer’s duties also with a multilingual crew, including the ability to use and understand the IMO Standard Marine Communication Phrases (IMO SMCP)</kup>
 <taskNo pos="1">7D1</taskNo>
+<CourseNo pos="1">ST-0999</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -2041,6 +2042,7 @@ Practical application of medical guides and advice by radio, including the abili
 <kupNo pos="1">OICEW-A2.1</kupNo>
 <kup pos="1">Adequate knowledge of the English language to enable the officer to use engineering publications and to perform engineering duties</kup>
 <taskNo pos="1">2E1</taskNo>
+<CourseNo pos="1">ST-0999</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/1</Table>
