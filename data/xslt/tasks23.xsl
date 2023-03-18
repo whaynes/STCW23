@@ -25,7 +25,7 @@
     </xsl:call-template>
     <xsl:call-template name="GroupOfTasks">
       <xsl:with-param name="Label">Common</xsl:with-param>
-      <xsl:with-param name="Tasks" select="RECORD[Major='MTRA MENG'] | RECORD[Major='MENG MTRA']"/>
+      <xsl:with-param name="Tasks" select="RECORD[normalize-space(Major)='MENG MTRA'] | RECORD[normalize-space(Major)='MTRA MENG']"/>
     </xsl:call-template>
   </xsl:template>
   <xsl:template name="GroupOfTasks">
