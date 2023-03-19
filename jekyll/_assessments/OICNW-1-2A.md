@@ -54,7 +54,7 @@ Determine the bearings of at least two charted objects and plot them.
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP [OICNW-A1.02]({{site.baseurl}}/tables/21.html#OICNW-A1.02)
+This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
 
 ***
 

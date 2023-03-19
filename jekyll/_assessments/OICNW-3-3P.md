@@ -51,7 +51,7 @@ Demonstrate loading route and activating route within 45 seconds.
 
 Assessed in  {% course  MT-3224 %}  *Electronic Chart Display & Information System (ECDIS)*.
 
-This assessment supports KUP [OICNW-A4.2]({{site.baseurl}}/tables/21.html#OICNW-A4.2)
+This assessment supports KUP {% table 21.html#OICNW-A4.2, OICNW-A4.2 %}
 
 ***
 

@@ -4,7 +4,10 @@
 <!ENTITY rr  "&#10;&#10;" >
 <!ENTITY nbsp "&#160;" > 
 ]>
-<!-- This stylesheet writes index files to the tasks folder for each table -->
+<!-- This stylesheet writes -->
+<!-- index files for each nvic task table -->
+<!-- the top, meng, mtra, and common index files -->
+<!-- Assesment pages are exported from filemake -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" version="2.0">
   <xsl:output method="text"/>
   <xsl:strip-space elements="*"/>
@@ -36,13 +39,11 @@
       <xsl:text>title: STCW Tasks (</xsl:text>
       <xsl:value-of select="$Label"/>)&cr;<xsl:text/>
       <xsl:text>subtitle: </xsl:text>
-      <xsl:text>for all </xsl:text>
       <xsl:choose >
-        <xsl:when test="$Label='MENG'">marine engineering</xsl:when>
-        <xsl:when test="$Label='MTRA'">marine transportation</xsl:when>
-        <xsl:when test="$Label='Common'">licenced major</xsl:when>
+        <xsl:when test="$Label='MENG'">for all marine engineering students&cr;</xsl:when>
+        <xsl:when test="$Label='MTRA'">for all marine transportation students&cr;</xsl:when>
+        <xsl:when test="$Label='Common'">for all licensed major students&cr;</xsl:when>
       </xsl:choose>
-      <xsl:text> students&cr;</xsl:text>
       <xsl:text>---&rr;</xsl:text>
       <xsl:for-each-group select="$Tasks" group-by="Table_Short_Name">
         <xsl:call-template name="build_table">

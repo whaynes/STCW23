@@ -53,7 +53,7 @@ Correct five charts and three publications.
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [OICNW-A1.03]({{site.baseurl}}/tables/21.html#OICNW-A1.03)
+This assessment supports KUP {% table 21.html#OICNW-A1.03, OICNW-A1.03 %}
 
 ***
 

@@ -53,7 +53,7 @@ Set the rudder and weather controls that are most suitable for the weather and s
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP [OICNW-A1.08]({{site.baseurl}}/tables/21.html#OICNW-A1.08)
+This assessment supports KUP {% table 21.html#OICNW-A1.08, OICNW-A1.08 %}
 
 ***
 

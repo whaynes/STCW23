@@ -62,7 +62,7 @@ Braze according to standard brazing procedure
 
 Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
-This assessment supports KUP [OICEW-C1.6]({{site.baseurl}}/tables/31.html#OICEW-C1.6)
+This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 ***
 

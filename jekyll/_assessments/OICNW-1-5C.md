@@ -55,7 +55,7 @@ Note the vessel's magnetic compass heading while aligned on the range and determ
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP [OICNW-A1.06]({{site.baseurl}}/tables/21.html#OICNW-A1.06)
+This assessment supports KUP {% table 21.html#OICNW-A1.06, OICNW-A1.06 %}
 
 ***
 

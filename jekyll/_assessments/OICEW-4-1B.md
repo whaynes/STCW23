@@ -94,7 +94,7 @@ Clearly indicate when watchstanding responsibility is assumed
 
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
-This assessment supports KUP [OICEW-A1.1]({{site.baseurl}}/tables/31.html#OICEW-A1.1)
+This assessment supports KUP {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
 
 ***
 

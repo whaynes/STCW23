@@ -52,7 +52,7 @@ Measure the altitude of three stars and accurately record the times of the obser
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP [OICNW-A1.01]({{site.baseurl}}/tables/21.html#OICNW-A1.01)
+This assessment supports KUP {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
 
 ***
 

@@ -130,7 +130,7 @@ Operate under load and inspect for abnormalities
 
 Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
-This assessment supports KUP [OICEW-C2.3]({{site.baseurl}}/tables/31.html#OICEW-C2.3)
+This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
 
 ***
 

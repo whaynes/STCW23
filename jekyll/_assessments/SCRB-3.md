@@ -58,7 +58,7 @@ Using an engine in an open or enclosed survival craft, or in the laboratory.
 
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
-This assessment supports KUP [SCRB-X2.1]({{site.baseurl}}/tables/621.html#SCRB-X2.1)
+This assessment supports KUP {% table 621.html#SCRB-X2.1, SCRB-X2.1 %}
 
 ***
 

@@ -56,7 +56,7 @@ d. demonstrate securing the patient to a long spine board, securing the torso, t
 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
-This assessment supports KUP [AFA-X1.05]({{site.baseurl}}/tables/641.html#AFA-X1.05)
+This assessment supports KUP {% table 641.html#AFA-X1.05, AFA-X1.05 %}
 
 ***
 

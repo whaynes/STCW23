@@ -59,7 +59,7 @@ Make no safety violations
 
 Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
-This assessment supports KUP [ABD-C1.1]({{site.baseurl}}/tables/25.html#ABD-C1.1)
+This assessment supports KUP {% table 25.html#ABD-C1.1, ABD-C1.1 %}
 
 ***
 

@@ -110,7 +110,7 @@ Report the:
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [RFPNW-X2.1]({{site.baseurl}}/tables/24.html#RFPNW-X2.1)
+This assessment supports KUP {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %}
 
 ***
 

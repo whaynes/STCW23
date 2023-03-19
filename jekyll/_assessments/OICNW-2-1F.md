@@ -56,7 +56,7 @@ Apply the rules of the road correctly and maneuver the vessel to avoid the colli
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [OICNW-A2.1]({{site.baseurl}}/tables/21.html#OICNW-A2.1)
+This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
 
 ***
 

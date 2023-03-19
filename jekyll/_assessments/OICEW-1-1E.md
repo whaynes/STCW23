@@ -73,7 +73,7 @@ Use:
 
 Assessed in  {% course  ST-0999E %}  *Sea Term I (Engineering Portion)*.
 
-This assessment supports KUP [OICEW-C1.6]({{site.baseurl}}/tables/31.html#OICEW-C1.6)
+This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 ***
 

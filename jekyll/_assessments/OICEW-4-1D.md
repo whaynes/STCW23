@@ -273,7 +273,7 @@ For each of the above positions, relieve and hand over the watch in accordance w
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [ABE-A5.2]({{site.baseurl}}/tables/35.html#ABE-A5.2)
+This assessment supports KUP {% table 35.html#ABE-A5.2, ABE-A5.2 %}
 
 ***
 

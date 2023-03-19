@@ -56,7 +56,7 @@ tie these four knots within 10 minutes:
 
 Assessed in  {% course  MT-1111 %}  *Vessel Familiarization and Basic Safety Training*.
 
-This assessment supports KUP [ABD-C1.2]({{site.baseurl}}/tables/25.html#ABD-C1.2)
+This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
 
 ***
 

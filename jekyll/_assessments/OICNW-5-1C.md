@@ -51,7 +51,7 @@ The candidate will, within the safe operating limits of the vessel’s propulsio
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP [OICNW-A9.1]({{site.baseurl}}/tables/21.html#OICNW-A9.1)
+This assessment supports KUP {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
 
 ***
 

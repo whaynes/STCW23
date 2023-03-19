@@ -54,7 +54,7 @@ Swim while wearing an approved Type-1 PFD
 
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
-This assessment supports KUP [PS-X1.5]({{site.baseurl}}/tables/611.html#PS-X1.5)
+This assessment supports KUP {% table 611.html#PS-X1.5, PS-X1.5 %}
 
 ***
 

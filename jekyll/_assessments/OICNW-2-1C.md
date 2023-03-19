@@ -51,7 +51,7 @@ The candidate correctly identifies the situation or occupation of 4 of 5 vessels
 
 Assessed in  {% course  MT-2161 %}  *Rules of the Road*.
 
-This assessment supports KUP [OICNW-A2.1]({{site.baseurl}}/tables/21.html#OICNW-A2.1)
+This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
 
 ***
 

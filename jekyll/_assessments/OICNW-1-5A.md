@@ -53,7 +53,7 @@ Take a visual bearing of the range and determine gyro-compass error.
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP [OICNW-A1.06]({{site.baseurl}}/tables/21.html#OICNW-A1.06)
+This assessment supports KUP {% table 21.html#OICNW-A1.06, OICNW-A1.06 %}
 
 ***
 

@@ -75,7 +75,7 @@ Introduce a second ground fault, and observe behavior of circuit breaker
 
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
-This assessment supports KUP [OICEW-B2.3]({{site.baseurl}}/tables/31.html#OICEW-B2.3)
+This assessment supports KUP {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
 
 ***
 

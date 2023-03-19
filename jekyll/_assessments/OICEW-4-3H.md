@@ -91,7 +91,7 @@ Respond to alarms and take corrective actions as necessary
 
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
-This assessment supports KUP [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3)
+This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
 
 ***
 

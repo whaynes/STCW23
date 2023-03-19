@@ -56,7 +56,7 @@ Include:
 
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
-This assessment supports KUP [PS-X1.3]({{site.baseurl}}/tables/611.html#PS-X1.3)
+This assessment supports KUP {% table 611.html#PS-X1.3, PS-X1.3 %}
 
 ***
 

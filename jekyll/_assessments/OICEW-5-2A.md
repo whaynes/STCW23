@@ -123,7 +123,7 @@ Monitor:
 
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
-This assessment supports KUP [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1)
+This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 
 ***
 

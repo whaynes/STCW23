@@ -115,7 +115,7 @@ Close valves and secure pumps as required
 
 Assessed in  {% course  EN-3213 %}  *Refrigeration*.
 
-This assessment supports KUP [OICEW-A4.1]({{site.baseurl}}/tables/31.html#OICEW-A4.1)
+This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 
 ***
 

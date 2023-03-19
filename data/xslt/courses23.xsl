@@ -5,7 +5,8 @@
 ]>
 
 
-<!--This template currently does nothing.  Index files handwritten and locked. 3/18/23
+<!--This template currently does nothing. -->
+<!--Index files handwritten and locked. 3/18/23
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
   <xsl:output method="text"/>

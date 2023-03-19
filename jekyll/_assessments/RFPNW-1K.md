@@ -275,7 +275,7 @@ Carry out the helm command, *Nothing to the right (starboard)*[^Note3]
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [RFPNW-X1.2]({{site.baseurl}}/tables/24.html#RFPNW-X1.2)
+This assessment supports KUP {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
 
 ***
 

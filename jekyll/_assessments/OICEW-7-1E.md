@@ -105,7 +105,7 @@ Balance reactive (kvar) Load
 
 Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
-This assessment supports KUP [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1)
+This assessment supports KUP {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
 
 ***
 

@@ -117,7 +117,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP [OICEW-C1.4]({{site.baseurl}}/tables/31.html#OICEW-C1.4)
+This assessment supports KUP {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
 
 ***
 

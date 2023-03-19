@@ -148,7 +148,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
-This assessment supports KUP [OICEW-A5.2]({{site.baseurl}}/tables/31.html#OICEW-A5.2)
+This assessment supports KUP {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
 
 ***
 

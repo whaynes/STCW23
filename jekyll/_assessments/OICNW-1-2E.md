@@ -51,7 +51,7 @@ The course to steer is within ± 5° of the assessor’s solution.
 
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
-This assessment supports KUP [OICNW-A1.02]({{site.baseurl}}/tables/21.html#OICNW-A1.02)
+This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
 
 ***
 

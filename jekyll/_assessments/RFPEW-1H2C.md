@@ -99,7 +99,7 @@ Remove, {% do inspect, evaluateinspecttest %} and {% do clean, clean %} the out-
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP [RFPEW-A1.3]({{site.baseurl}}/tables/34.html#RFPEW-A1.3)
+This assessment supports KUP {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
 
 ***
 

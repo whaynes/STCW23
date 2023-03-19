@@ -52,7 +52,7 @@ Apply the compass error to the bearings by magnetic compass of at least two char
 
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
-This assessment supports KUP [OICNW-A1.07]({{site.baseurl}}/tables/21.html#OICNW-A1.07)
+This assessment supports KUP {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
 
 ***
 

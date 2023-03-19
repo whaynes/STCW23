@@ -87,7 +87,7 @@ Read and interpret instrument displays correctly
 
 Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
-This assessment supports KUP [OICEW-B2.4]({{site.baseurl}}/tables/31.html#OICEW-B2.4)
+This assessment supports KUP {% table 31.html#OICEW-B2.4, OICEW-B2.4 %}
 
 ***
 

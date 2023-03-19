@@ -140,7 +140,7 @@ Make appropriate entries in the *Oil Record Book*
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [OICEW-A5.2]({{site.baseurl}}/tables/31.html#OICEW-A5.2)
+This assessment supports KUP {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
 
 ***
 

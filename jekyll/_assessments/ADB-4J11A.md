@@ -61,7 +61,7 @@ Explain purpose of system.
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [ABD-C1.3]({{site.baseurl}}/tables/25.html#ABD-C1.3)
+This assessment supports KUP {% table 25.html#ABD-C1.3, ABD-C1.3 %}
 
 ***
 

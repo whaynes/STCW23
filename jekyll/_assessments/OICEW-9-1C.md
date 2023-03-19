@@ -124,7 +124,7 @@ Fill out sample _Oil Record Book_
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [OICEW-A5.3]({{site.baseurl}}/tables/31.html#OICEW-A5.3)
+This assessment supports KUP {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
 
 ***
 

@@ -53,7 +53,7 @@ perform all actions safely.
 
 Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
 
-This assessment supports KUP [ABD-C1.2]({{site.baseurl}}/tables/25.html#ABD-C1.2)
+This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
 
 ***
 

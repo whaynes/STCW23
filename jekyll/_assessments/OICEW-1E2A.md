@@ -93,7 +93,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop
 
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
-This assessment supports KUP [OICEW-A1.2]({{site.baseurl}}/tables/31.html#OICEW-A1.2)
+This assessment supports KUP {% table 31.html#OICEW-A1.2, OICEW-A1.2 %}
 
 ***
 

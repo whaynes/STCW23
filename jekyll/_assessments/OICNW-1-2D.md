@@ -51,7 +51,7 @@ The position is within ± 1 nm of the assessor’s position.
 
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
-This assessment supports KUP [OICNW-A1.02]({{site.baseurl}}/tables/21.html#OICNW-A1.02)
+This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
 
 ***
 

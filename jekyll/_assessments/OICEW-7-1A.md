@@ -94,7 +94,7 @@ Check:
 
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
-This assessment supports KUP [OICEW-B1.1]({{site.baseurl}}/tables/31.html#OICEW-B1.1)
+This assessment supports KUP {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
 
 ***
 

@@ -51,7 +51,7 @@ correctly demonstrate proper basic bleeding control techniques, taking into cons
 
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
-This assessment supports KUP [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3)
+This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
 
 ***
 

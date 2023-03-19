@@ -51,7 +51,7 @@ The ship’s position is saved or recorded within one minute of hearing “Man O
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP [OICNW-A1.04]({{site.baseurl}}/tables/21.html#OICNW-A1.04)
+This assessment supports KUP {% table 21.html#OICNW-A1.04, OICNW-A1.04 %}
 
 ***
 

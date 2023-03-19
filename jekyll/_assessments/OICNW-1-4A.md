@@ -52,7 +52,7 @@ Initialize a GPS receiver, determine the ship’s position, and evaluate the acc
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP [OICNW-A1.04]({{site.baseurl}}/tables/21.html#OICNW-A1.04)
+This assessment supports KUP {% table 21.html#OICNW-A1.04, OICNW-A1.04 %}
 
 ***
 

@@ -116,7 +116,7 @@ State requirements for overboard discharge of waste
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [OICEW-D1.2]({{site.baseurl}}/tables/31.html#OICEW-D1.2)
+This assessment supports KUP {% table 31.html#OICEW-D1.2, OICEW-D1.2 %}
 
 ***
 

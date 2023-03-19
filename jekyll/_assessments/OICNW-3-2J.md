@@ -56,7 +56,7 @@ Demonstrate the trial maneuver function.
 
 Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
-This assessment supports KUP [OICNW-A3.4]({{site.baseurl}}/tables/21.html#OICNW-A3.4)
+This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 
 ***
 

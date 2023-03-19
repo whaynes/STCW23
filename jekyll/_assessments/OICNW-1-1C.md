@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-1C"
 subtitle: "Assessment OICNW-1-1C"
-title: "Obtain a celestial fix "
+title: "Obtain a celestial fix"
 category: "Deck"
 status: "Mod"
 cnum: "MT-4371"
@@ -71,7 +71,7 @@ Plot the resultant position of the star fix within 1.5 nm of the ship's GPS posi
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP [OICNW-A1.01]({{site.baseurl}}/tables/21.html#OICNW-A1.01)
+This assessment supports KUP {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
 
 ***
 

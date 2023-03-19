@@ -58,7 +58,7 @@ e. continuing until airway cleared.
 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
-This assessment supports KUP [AFA-X1.12]({{site.baseurl}}/tables/641.html#AFA-X1.12)
+This assessment supports KUP {% table 641.html#AFA-X1.12, AFA-X1.12 %}
 
 ***
 

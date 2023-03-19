@@ -109,7 +109,7 @@ Replace and adjust seals/gaskets as necessary
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [OICEW-C2.3]({{site.baseurl}}/tables/31.html#OICEW-C2.3)
+This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
 
 ***
 

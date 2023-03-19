@@ -116,7 +116,7 @@ Reassemble burner
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [RFPEW-A2.1]({{site.baseurl}}/tables/34.html#RFPEW-A2.1)
+This assessment supports KUP {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
 
 ***
 

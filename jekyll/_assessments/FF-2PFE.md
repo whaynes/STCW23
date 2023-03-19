@@ -55,7 +55,7 @@ extinguish the fire
 
 Assessed in  {% course  FF-0102 %}  *4/C Firefighting Practicum*.
 
-This assessment supports KUP [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2)
+This assessment supports KUP {% table 612.html#FF-X2.2, FF-X2.2 %}
 
 ***
 

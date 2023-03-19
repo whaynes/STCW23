@@ -139,7 +139,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
-This assessment supports KUP [OICEW-C2.3]({{site.baseurl}}/tables/31.html#OICEW-C2.3)
+This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
 
 ***
 

@@ -61,7 +61,7 @@ maintain situational awareness with regard to:
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [OICNW-A2.4]({{site.baseurl}}/tables/21.html#OICNW-A2.4)
+This assessment supports KUP {% table 21.html#OICNW-A2.4, OICNW-A2.4 %}
 
 ***
 

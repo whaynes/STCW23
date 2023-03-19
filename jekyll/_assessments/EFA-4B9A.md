@@ -58,7 +58,7 @@ select the appropriate bandage(s) and/or cravat, and demonstrate the bandaging t
 
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
-This assessment supports KUP [BFA-X1.3]({{site.baseurl}}/tables/613.html#BFA-X1.3)
+This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
 
 ***
 

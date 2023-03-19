@@ -151,7 +151,7 @@ State critical temperature limits (40° F rise or 160° F max.)
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3)
+This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
 
 ***
 

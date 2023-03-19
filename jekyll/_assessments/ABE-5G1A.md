@@ -97,7 +97,7 @@ Draw a schematic diagram of the selected system
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [ABE-A8.1]({{site.baseurl}}/tables/35.html#ABE-A8.1)
+This assessment supports KUP {% table 35.html#ABE-A8.1, ABE-A8.1 %}
 
 ***
 

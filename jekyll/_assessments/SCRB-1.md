@@ -52,7 +52,7 @@ Right an inverted liferaft.
 
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
-This assessment supports KUP [SCRB-X3.1]({{site.baseurl}}/tables/621.html#SCRB-X3.1)
+This assessment supports KUP {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
 
 ***
 

@@ -97,7 +97,7 @@ transfer fuel
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP [ABE-A6.1]({{site.baseurl}}/tables/35.html#ABE-A6.1)
+This assessment supports KUP {% table 35.html#ABE-A6.1, ABE-A6.1 %}
 
 ***
 

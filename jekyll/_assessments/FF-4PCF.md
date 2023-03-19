@@ -65,7 +65,7 @@ as part of a team or individually,
 
 Assessed in  {% course  FF-0104 %}  *3/C Firefighting Practicum*.
 
-This assessment supports KUP [AFF-X1.01]({{site.baseurl}}/tables/63.html#AFF-X1.01)
+This assessment supports KUP {% table 63.html#AFF-X1.01, AFF-X1.01 %}
 
 ***
 

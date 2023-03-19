@@ -58,7 +58,7 @@ Recognize the restricted visibility take the appropriate action to navigate in r
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [OICNW-A2.2]({{site.baseurl}}/tables/21.html#OICNW-A2.2)
+This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
 
 ***
 

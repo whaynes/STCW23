@@ -53,7 +53,7 @@ Control the target vessels DRM by changing own ship’s course in accordance wit
 
 Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
-This assessment supports KUP [OICNW-A3.2]({{site.baseurl}}/tables/21.html#OICNW-A3.2)
+This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 
 ***
 

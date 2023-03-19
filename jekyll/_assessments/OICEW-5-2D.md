@@ -122,7 +122,7 @@ Describe expected results
 
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
-This assessment supports KUP [OICEW-A4.3]({{site.baseurl}}/tables/31.html#OICEW-A4.3)
+This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
 
 ***
 

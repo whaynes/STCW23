@@ -61,7 +61,7 @@ Report: “The lookout is relieved.” to the officer on watch.
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [RFPNW-X3.4]({{site.baseurl}}/tables/24.html#RFPNW-X3.4)
+This assessment supports KUP {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
 
 ***
 

@@ -53,7 +53,7 @@ victim is successfully rescued
 
 Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 
-This assessment supports KUP [FF-X2.2]({{site.baseurl}}/tables/612.html#FF-X2.2)
+This assessment supports KUP {% table 612.html#FF-X2.2, FF-X2.2 %}
 
 ***
 

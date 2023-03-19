@@ -58,7 +58,7 @@ Identify any weld defects as described by American Welding Society, such as:
 
 Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
-This assessment supports KUP [OICEW-C1.2]({{site.baseurl}}/tables/31.html#OICEW-C1.2)
+This assessment supports KUP {% table 31.html#OICEW-C1.2, OICEW-C1.2 %}
 
 ***
 

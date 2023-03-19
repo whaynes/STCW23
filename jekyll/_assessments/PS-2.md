@@ -57,7 +57,7 @@ In a swimming pool or suitable protected waters.
 
 Assessed in  {% course  LB-0203 %}  *4/C STCW Immersion Suit Practical*.
 
-This assessment supports KUP [PS-X1.4]({{site.baseurl}}/tables/611.html#PS-X1.4)
+This assessment supports KUP {% table 611.html#PS-X1.4, PS-X1.4 %}
 
 ***
 

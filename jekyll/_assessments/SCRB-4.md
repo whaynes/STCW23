@@ -55,7 +55,7 @@ Using a open boat or enclosed lifeboat fitted for rowing.
 
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
-This assessment supports KUP [SCRB-X3.1]({{site.baseurl}}/tables/621.html#SCRB-X3.1)
+This assessment supports KUP {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
 
 ***
 

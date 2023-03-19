@@ -58,7 +58,7 @@ Determine and plot the vessel’s position by electronic and visual means, commu
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [OICNW-A2.7]({{site.baseurl}}/tables/21.html#OICNW-A2.7)
+This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
 
 ***
 

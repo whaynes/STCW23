@@ -56,7 +56,7 @@ perform a detailed physical assessment (secondary survey).
 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
-This assessment supports KUP [AFA-X1.04]({{site.baseurl}}/tables/641.html#AFA-X1.04)
+This assessment supports KUP {% table 641.html#AFA-X1.04, AFA-X1.04 %}
 
 ***
 

@@ -67,7 +67,7 @@ Read the Morse code flashing light signals, record the letters and numbers of th
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP [OICNW-A8.2]({{site.baseurl}}/tables/21.html#OICNW-A8.2)
+This assessment supports KUP {% table 21.html#OICNW-A8.2, OICNW-A8.2 %}
 
 ***
 

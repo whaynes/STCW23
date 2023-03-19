@@ -115,7 +115,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP [OICEW-C1.7]({{site.baseurl}}/tables/31.html#OICEW-C1.7)
+This assessment supports KUP {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
 
 ***
 
