@@ -5,7 +5,8 @@
 ]>
 
 
-<!--This template currently does nothing. -->
+<!--This stylesheet currently does nothing. -->
+<!--course pages are exported by filemaker -->
 <!--Index files handwritten and locked. 3/18/23
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">

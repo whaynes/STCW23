@@ -26,5 +26,4 @@ You can:
 
 :   Link to an assessment {% assessment ABE-1-6A %}
 
-6
-{% test abc, def %}
+:   insert an image {% image new.jpg %}
