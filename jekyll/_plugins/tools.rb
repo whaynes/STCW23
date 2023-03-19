@@ -18,6 +18,9 @@ module Jekyll
         @linktext = 'CHECK ME (plug-in)'
       when 'imagelink'
         @path = 'assets/images/'
+      when 'image'
+        @path ='assets/images'
+        
       end
     end
 
@@ -26,7 +29,12 @@ module Jekyll
       @linktext = Liquid::Template.parse(@linktext).render(context)
       site = context.registers[:site]
       baseurl = site.config['baseurl']
-      "[#{@linktext}](#{site.baseurl}/#{@path}#{@file.strip})"
+      case tag_name
+      when 'image'
+      "![](#{baseurl}/#{@path}/#{@file.strip})"
+      else
+      "[#{@linktext}](#{baseurl}/#{@path}#{@file.strip})"
+      end
     end
   end
 
@@ -39,4 +47,4 @@ Liquid::Template.register_tag('table', Jekyll::MMALink)
 Liquid::Template.register_tag('do', Jekyll::MMALink)
 Liquid::Template.register_tag('task', Jekyll::MMALink)
 Liquid::Template.register_tag('assessment', Jekyll::MMALink)
-Liquid::Template.register_tag('test', Jekyll::MMALink)
+Liquid::Template.register_tag('image', Jekyll::MMALink)
