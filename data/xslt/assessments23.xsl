@@ -5,7 +5,7 @@
 ]>
 <!-- This stylesheet does nothing 
      assessment pages are exported from filemaker  
-     index files for folder, meng, mtra, and common are made by hand, locked -->
+     index files for folder, meng, mtra, and common are handwritten and, locked -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
   <xsl:output method="text"/>  
    <xsl:variable name="folder">../../jekyll/_assessments</xsl:variable>
