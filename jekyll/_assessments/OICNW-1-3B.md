@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-3B"
-subtitle: "Assessment OICNW-1-3B"
-title: "Chart selection"
+title: "STCW Assessment OICNW-1-3B"
+subtitle: "Chart selection"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

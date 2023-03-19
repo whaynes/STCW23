@@ -19,7 +19,7 @@ layout: page
 <tr>
 <td  style='text-align:center'>{{forloop.index}}.</td> 
 <td><a href='{{ assessment.url | absolute_url}}'>{{assessment.number}} </a></td> 
-<td>{{assessment.title}} </td>
+<td>{{assessment.subtitle}} </td>
 <td  style='text-align:center'> 
 <a href='{{site.baseurl}}/courses/{{assessment.cnum}}'>{{assessment.cnum | replace: "-", "&#8209;" }}</a>
 </td>

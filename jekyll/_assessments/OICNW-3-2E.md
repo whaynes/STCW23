@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2E"
-subtitle: "Assessment OICNW-3-2E"
-title: "Designate targets"
+title: "STCW Assessment OICNW-3-2E"
+subtitle: "Designate targets"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

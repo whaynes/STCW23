@@ -1,7 +1,7 @@
 ---
 number: "OICEW-8-2C"
-subtitle: "Assessment OICEW-8-2C"
-title: "Gear pump maintenance"
+title: "STCW Assessment OICEW-8-2C"
+subtitle: "Gear pump maintenance"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

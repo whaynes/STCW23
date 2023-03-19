@@ -1,7 +1,7 @@
 ---
 number: "OICEW-1-1D"
-subtitle: "Assessment OICEW-1-1D"
-title: "Sweat joint"
+title: "STCW Assessment OICEW-1-1D"
+subtitle: "Sweat joint"
 category: "Engine"
 status: "Old"
 cnum: "ST-0999E"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-2F"
-subtitle: "Assessment OICNW-2-2F"
-title: "Turn over a watch"
+title: "STCW Assessment OICNW-2-2F"
+subtitle: "Turn over a watch"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

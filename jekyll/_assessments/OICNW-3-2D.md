@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2D"
-subtitle: "Assessment OICNW-3-2D"
-title: "Set vector characteristics"
+title: "STCW Assessment OICNW-3-2D"
+subtitle: "Set vector characteristics"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

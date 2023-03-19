@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-4D"
-subtitle: "Assessment OICNW-1-4D"
-title: "Use of echo sounder"
+title: "STCW Assessment OICNW-1-4D"
+subtitle: "Use of echo sounder"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2C"
-subtitle: "Assessment OICNW-3-2C"
-title: "Establish an exclusion area"
+title: "STCW Assessment OICNW-3-2C"
+subtitle: "Establish an exclusion area"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

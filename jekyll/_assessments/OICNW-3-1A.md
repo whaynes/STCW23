@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1A"
-subtitle: "Assessment OICNW-3-1A"
-title: "Set up and maintain radar display"
+title: "STCW Assessment OICNW-3-1A"
+subtitle: "Set up and maintain radar display"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

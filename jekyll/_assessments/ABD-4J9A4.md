@@ -1,7 +1,7 @@
 ---
 number: "ABD-4J9A4"
-subtitle: "Assessment ABD-4J9A4"
-title: "Marlinspike seamanship - line handling"
+title: "STCW Assessment ABD-4J9A4"
+subtitle: "Marlinspike seamanship - line handling"
 category: "Deck"
 status: "New"
 cnum: "MT-2231"

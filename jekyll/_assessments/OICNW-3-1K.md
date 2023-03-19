@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1K"
-subtitle: "Assessment OICNW-3-1K"
-title: "Parallel indexing"
+title: "STCW Assessment OICNW-3-1K"
+subtitle: "Parallel indexing"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

@@ -1,7 +1,7 @@
 ---
 number: "OICEW-4-3E"
-subtitle: "Assessment OICEW-4-3E"
-title: "Monitor main gas turbine operation"
+title: "STCW Assessment OICEW-4-3E"
+subtitle: "Monitor main gas turbine operation"
 category: "Engine"
 status: "Old"
 cnum: "EN-3233"

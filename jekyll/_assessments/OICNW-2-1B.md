@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-1B"
-subtitle: "Assessment OICNW-2-1B"
-title: "Identify day shapes"
+title: "STCW Assessment OICNW-2-1B"
+subtitle: "Identify day shapes"
 category: "Deck"
 status: "Old"
 cnum: "MT-2161"

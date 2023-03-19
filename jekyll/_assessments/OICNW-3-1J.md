@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1J"
-subtitle: "Assessment OICNW-3-1J"
-title: "Determine true course and speed of target vessels"
+title: "STCW Assessment OICNW-3-1J"
+subtitle: "Determine true course and speed of target vessels"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

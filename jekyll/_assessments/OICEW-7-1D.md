@@ -1,7 +1,7 @@
 ---
 number: "OICEW-7-1D"
-subtitle: "Assessment OICEW-7-1D"
-title: "Connect ship service diesel generator to main switchboard"
+title: "STCW Assessment OICEW-7-1D"
+subtitle: "Connect ship service diesel generator to main switchboard"
 category: "Engine"
 status: "Old"
 cnum: "EN-3233"

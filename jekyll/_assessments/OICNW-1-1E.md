@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-1E"
-subtitle: "Assessment OICNW-1-1E"
-title: "Celestial running fix"
+title: "STCW Assessment OICNW-1-1E"
+subtitle: "Celestial running fix"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

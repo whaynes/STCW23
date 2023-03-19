@@ -1,7 +1,7 @@
 ---
 number: "OICNW-5-1B"
-subtitle: "Assessment OICNW-5-1B"
-title: "Course change of more than 45°"
+title: "STCW Assessment OICNW-5-1B"
+subtitle: "Course change of more than 45°"
 category: "Deck"
 status: "Old"
 cnum: "MT-4133"

@@ -1,7 +1,7 @@
 ---
 number: "OICEW-2-1A"
-subtitle: "Assessment OICEW-2-1A"
-title: "Drill blind hole using drilling machine"
+title: "STCW Assessment OICEW-2-1A"
+subtitle: "Drill blind hole using drilling machine"
 category: "Engine"
 status: "Old"
 cnum: "ST-0999E"

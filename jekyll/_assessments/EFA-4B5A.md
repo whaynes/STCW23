@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B5A"
-subtitle: "Assessment EFA-4B5A"
-title: "Demonstrate proper bleeding control techniques"
+title: "STCW Assessment EFA-4B5A"
+subtitle: "Demonstrate proper bleeding control techniques"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

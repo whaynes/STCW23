@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3C"
-subtitle: "Assessment OICNW-3-3C"
-title: "Operational Settings - Display/change CPA/TCPA limits"
+title: "STCW Assessment OICNW-3-3C"
+subtitle: "Operational Settings - Display/change CPA/TCPA limits"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

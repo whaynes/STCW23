@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1G"
-subtitle: "Assessment OICEW-5-1G"
-title: "Shut down fresh water generator"
+title: "STCW Assessment OICEW-5-1G"
+subtitle: "Shut down fresh water generator"
 category: "Engine"
 status: "Old"
 cnum: "EN-4231"

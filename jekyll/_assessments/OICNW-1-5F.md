@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-5F"
-subtitle: "Assessment OICNW-1-5F"
-title: "Azimuth of the sun"
+title: "STCW Assessment OICNW-1-5F"
+subtitle: "Azimuth of the sun"
 category: "Deck"
 status: "Mod"
 cnum: "MT-4371"

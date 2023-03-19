@@ -1,7 +1,7 @@
 ---
 number: "OICEW-6-1B"
-subtitle: "Assessment OICEW-6-1B"
-title: "Operate fire pump"
+title: "STCW Assessment OICEW-6-1B"
+subtitle: "Operate fire pump"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

@@ -1,7 +1,7 @@
 ---
 number: "OICEW-3-1A"
-subtitle: "Assessment OICEW-3-1A"
-title: "Plan and use test equipment"
+title: "STCW Assessment OICEW-3-1A"
+subtitle: "Plan and use test equipment"
 category: "Engine"
 status: "Old"
 cnum: "EN-3111L"

@@ -1,7 +1,7 @@
 ---
 number: "RFPNW-2K"
-subtitle: "Assessment RFPNW-2K"
-title: "Lookout"
+title: "STCW Assessment RFPNW-2K"
+subtitle: "Lookout"
 category: "Deck"
 status: "New"
 cnum: "MT-4253"

@@ -1,7 +1,7 @@
 ---
 number: "OICEW-4-1D"
-subtitle: "Assessment OICEW-4-1D"
-title: "Monitor engineering machinery"
+title: "STCW Assessment OICEW-4-1D"
+subtitle: "Monitor engineering machinery"
 category: "Engine"
 status: "New"
 cnum: "EN-2231"

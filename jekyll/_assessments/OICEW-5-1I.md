@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1I"
-subtitle: "Assessment OICEW-5-1I"
-title: "Shut down fuel oil or lube oil purifier"
+title: "STCW Assessment OICEW-5-1I"
+subtitle: "Shut down fuel oil or lube oil purifier"
 category: "Engine"
 status: "Old"
 cnum: "EN-3233"

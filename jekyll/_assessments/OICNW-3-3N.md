@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3N"
-subtitle: "Assessment OICNW-3-3N"
-title: "Check revised route for safety"
+title: "STCW Assessment OICNW-3-3N"
+subtitle: "Check revised route for safety"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2F"
-subtitle: "Assessment OICNW-3-2F"
-title: "Cancel targets"
+title: "STCW Assessment OICNW-3-2F"
+subtitle: "Cancel targets"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

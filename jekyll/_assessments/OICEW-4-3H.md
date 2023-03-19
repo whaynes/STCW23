@@ -1,7 +1,7 @@
 ---
 number: "OICEW-4-3H"
-subtitle: "Assessment OICEW-4-3H"
-title: "Secure main gas turbine"
+title: "STCW Assessment OICEW-4-3H"
+subtitle: "Secure main gas turbine"
 category: "Engine"
 status: "Old"
 cnum: "EN-3233"

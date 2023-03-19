@@ -1,7 +1,7 @@
 ---
 number: "ABE-1-6A"
-subtitle: "Assessment ABE-1-6A"
-title: "Assist with fuel oil transfer"
+title: "STCW Assessment ABE-1-6A"
+subtitle: "Assist with fuel oil transfer"
 category: "Engine"
 status: "Old"
 cnum: "EN-1211"

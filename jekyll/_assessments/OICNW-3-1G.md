@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1G"
-subtitle: "Assessment OICNW-3-1G"
-title: "Detect speed and course changes of other ships"
+title: "STCW Assessment OICNW-3-1G"
+subtitle: "Detect speed and course changes of other ships"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

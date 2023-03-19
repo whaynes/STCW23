@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M4C"
-subtitle: "Assessment MFA-1M4C"
-title: "Manage obstructed airway in a conscious victim"
+title: "STCW Assessment MFA-1M4C"
+subtitle: "Manage obstructed airway in a conscious victim"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

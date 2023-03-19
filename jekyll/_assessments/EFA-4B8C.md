@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B8C"
-subtitle: "Assessment EFA-4B8C"
-title: "Demonstrate immobilizing a fracture using splints and ties"
+title: "STCW Assessment EFA-4B8C"
+subtitle: "Demonstrate immobilizing a fracture using splints and ties"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

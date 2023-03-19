@@ -1,7 +1,7 @@
 ---
 cnum: CC-MANT
-title: "Shipboard Maintenance"
-subtitle: "MMA Course CC-MANT"
+subtitle: "Shipboard Maintenance"
+title: "MMA Course CC-MANT"
 major: D/E
 ---
 

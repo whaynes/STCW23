@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-2E"
-subtitle: "Assessment OICNW-2-2E"
-title: "Navigate in restricted visibility"
+title: "STCW Assessment OICNW-2-2E"
+subtitle: "Navigate in restricted visibility"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

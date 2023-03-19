@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B4E"
-subtitle: "Assessment EFA-4B4E"
-title: "Demonstrate the procedure for determining if a patient has a pulse"
+title: "STCW Assessment EFA-4B4E"
+subtitle: "Demonstrate the procedure for determining if a patient has a pulse"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

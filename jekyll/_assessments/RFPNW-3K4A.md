@@ -1,7 +1,7 @@
 ---
 number: "RFPNW-3K4A"
-subtitle: "Assessment RFPNW-3K4A"
-title: "Relief of the lookout"
+title: "STCW Assessment RFPNW-3K4A"
+subtitle: "Relief of the lookout"
 category: "Deck"
 status: "New"
 cnum: "MT-4253"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1I"
-subtitle: "Assessment OICNW-3-1I"
-title: "Change speed to control target DRM"
+title: "STCW Assessment OICNW-3-1I"
+subtitle: "Change speed to control target DRM"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

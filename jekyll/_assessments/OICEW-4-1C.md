@@ -1,7 +1,7 @@
 ---
 number: "OICEW-4-1C"
-subtitle: "Assessment OICEW-4-1C"
-title: "Engineering watchkeeping"
+title: "STCW Assessment OICEW-4-1C"
+subtitle: "Engineering watchkeeping"
 category: "Engine"
 status: "New"
 cnum: "EN-4231"

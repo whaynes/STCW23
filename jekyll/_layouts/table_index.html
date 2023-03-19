@@ -17,8 +17,8 @@ layout: page
 {% if table.Major  %}
 <tr>
 {% assign t= table.table_number %}
-<td style='text-align: center;'><a href='{{site.baseurl}}/tables/{{table.table_number}}'>{{table.subtitle | remove: 'STCW Table '}}</a></td> 
-<td>{{table.title}}</td>
+<td style='text-align: center;'><a href='{{site.baseurl}}/tables/{{table.table_number}}'>{{table.title | remove: 'STCW Table '}}</a></td> 
+<td>{{table.subtitle}}</td>
 <td style='text-align: center;'>{{table.Major}}
 {% endif %}
 {% endfor %}

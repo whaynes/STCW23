@@ -1,7 +1,7 @@
 ---
 number: "PS-6"
-subtitle: "Assessment PS-6"
-title: "Keep afloat without a lifejacket"
+title: "STCW Assessment PS-6"
+subtitle: "Keep afloat without a lifejacket"
 category: "Common"
 status: "Old"
 cnum: "PS-0301"

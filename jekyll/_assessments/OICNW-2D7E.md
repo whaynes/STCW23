@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2D7E"
-subtitle: "Assessment OICNW-2D7E"
-title: "BRM Condition II or III - prioritization"
+title: "STCW Assessment OICNW-2D7E"
+subtitle: "BRM Condition II or III - prioritization"
 category: "Deck"
 status: "New"
 cnum: "MT-4253"

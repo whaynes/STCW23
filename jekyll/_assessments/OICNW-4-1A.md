@@ -1,7 +1,7 @@
 ---
 number: "OICNW-4-1A"
-subtitle: "Assessment OICNW-4-1A"
-title: "Flashing Light"
+title: "STCW Assessment OICNW-4-1A"
+subtitle: "Flashing Light"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

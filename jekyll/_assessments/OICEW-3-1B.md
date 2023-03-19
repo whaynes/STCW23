@@ -1,7 +1,7 @@
 ---
 number: "OICEW-3-1B"
-subtitle: "Assessment OICEW-3-1B"
-title: "Troubleshoot electrical motor control system"
+title: "STCW Assessment OICEW-3-1B"
+subtitle: "Troubleshoot electrical motor control system"
 category: "Engine"
 status: "Old"
 cnum: "EN-3111L"

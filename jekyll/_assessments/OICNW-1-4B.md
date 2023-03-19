@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-4B"
-subtitle: "Assessment OICNW-1-4B"
-title: "Use of GPS position save function"
+title: "STCW Assessment OICNW-1-4B"
+subtitle: "Use of GPS position save function"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

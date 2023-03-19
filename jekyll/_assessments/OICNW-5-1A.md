@@ -1,7 +1,7 @@
 ---
 number: "OICNW-5-1A"
-subtitle: "Assessment OICNW-5-1A"
-title: "Maneuver for man overboard"
+title: "STCW Assessment OICNW-5-1A"
+subtitle: "Maneuver for man overboard"
 category: "Deck"
 status: "Old"
 cnum: "MT-4133"

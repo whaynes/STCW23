@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B8D"
-subtitle: "Assessment EFA-4B8D"
-title: "Demonstrate preparing patient for spinal immobilization"
+title: "STCW Assessment EFA-4B8D"
+subtitle: "Demonstrate preparing patient for spinal immobilization"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

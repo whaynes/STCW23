@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M1B"
-subtitle: "Assessment MFA-1M1B"
-title: "Perform a detailed physical assessment"
+title: "STCW Assessment MFA-1M1B"
+subtitle: "Perform a detailed physical assessment"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

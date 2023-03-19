@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1E"
-subtitle: "Assessment OICNW-3-1E"
-title: "Determine risk of collision"
+title: "STCW Assessment OICNW-3-1E"
+subtitle: "Determine risk of collision"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

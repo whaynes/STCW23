@@ -1,7 +1,7 @@
 ---
 number: "OICEW-3-1D"
-subtitle: "Assessment OICEW-3-1D"
-title: "Measure insulation resistance"
+title: "STCW Assessment OICEW-3-1D"
+subtitle: "Measure insulation resistance"
 category: "Engine"
 status: "Old"
 cnum: "EN-4231"

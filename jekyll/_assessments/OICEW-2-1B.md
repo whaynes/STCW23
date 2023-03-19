@@ -1,7 +1,7 @@
 ---
 number: "OICEW-2-1B"
-subtitle: "Assessment OICEW-2-1B"
-title: "Thread a blind hole using hand taps"
+title: "STCW Assessment OICEW-2-1B"
+subtitle: "Thread a blind hole using hand taps"
 category: "Engine"
 status: "Old"
 cnum: "ST-0999E"

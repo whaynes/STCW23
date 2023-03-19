@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-1A"
-subtitle: "Assessment OICNW-1-1A"
-title: "Adjust a sextant"
+title: "STCW Assessment OICNW-1-1A"
+subtitle: "Adjust a sextant"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

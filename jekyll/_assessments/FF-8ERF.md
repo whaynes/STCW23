@@ -1,7 +1,7 @@
 ---
 number: "FF-8ERF"
-subtitle: "Assessment FF-8ERF"
-title: "Extinguish an engine room fire"
+title: "STCW Assessment FF-8ERF"
+subtitle: "Extinguish an engine room fire"
 category: "Common"
 status: "New"
 cnum: "FF-0108"

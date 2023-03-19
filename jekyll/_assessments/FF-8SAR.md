@@ -1,7 +1,7 @@
 ---
 number: "FF-8SAR"
-subtitle: "Assessment FF-8SAR"
-title: "Search and Rescue"
+title: "STCW Assessment FF-8SAR"
+subtitle: "Search and Rescue"
 category: "Common"
 status: "New"
 cnum: "FF-0108"

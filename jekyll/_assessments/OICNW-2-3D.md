@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-3D"
-subtitle: "Assessment OICNW-2-3D"
-title: "BRM Condition III – collision avoidance."
+title: "STCW Assessment OICNW-2-3D"
+subtitle: "BRM Condition III – collision avoidance."
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

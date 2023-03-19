@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-2C"
-subtitle: "Assessment OICNW-1-2C"
-title: "Fix by tangent bearings of two identified objects"
+title: "STCW Assessment OICNW-1-2C"
+subtitle: "Fix by tangent bearings of two identified objects"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

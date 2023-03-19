@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-2E"
-subtitle: "Assessment OICNW-1-2E"
-title: "Determine course to steer"
+title: "STCW Assessment OICNW-1-2E"
+subtitle: "Determine course to steer"
 category: "Deck"
 status: "Old"
 cnum: "MT-2121"

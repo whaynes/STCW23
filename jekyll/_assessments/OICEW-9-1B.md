@@ -1,7 +1,7 @@
 ---
 number: "OICEW-9-1B"
-subtitle: "Assessment OICEW-9-1B"
-title: "Monitor sewage waste treatment plant"
+title: "STCW Assessment OICEW-9-1B"
+subtitle: "Monitor sewage waste treatment plant"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

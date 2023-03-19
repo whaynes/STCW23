@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-2A"
-subtitle: "Assessment OICNW-2-2A"
-title: "Watch relief"
+title: "STCW Assessment OICNW-2-2A"
+subtitle: "Watch relief"
 category: "Deck"
 status: "Mod"
 cnum: "MT-4371"

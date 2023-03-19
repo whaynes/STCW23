@@ -1,7 +1,7 @@
 ---
 number: "PS-1"
-subtitle: "Assessment PS-1"
-title: "Don a lifejacket"
+title: "STCW Assessment PS-1"
+subtitle: "Don a lifejacket"
 category: "Common"
 status: "Old"
 cnum: "PS-0301"

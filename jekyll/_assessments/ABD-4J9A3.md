@@ -1,7 +1,7 @@
 ---
 number: "ABD-4J9A3"
-subtitle: "Assessment ABD-4J9A3"
-title: "Marlinspike seamanship - splicing"
+title: "STCW Assessment ABD-4J9A3"
+subtitle: "Marlinspike seamanship - splicing"
 category: "Deck"
 status: "New"
 cnum: "MT-2231"

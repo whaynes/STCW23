@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-1D"
-subtitle: "Assessment OICNW-2-1D"
-title: "Determine risk of collision"
+title: "STCW Assessment OICNW-2-1D"
+subtitle: "Determine risk of collision"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

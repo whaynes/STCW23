@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5E2B"
-subtitle: "Assessment OICEW-5E2B"
-title: "Ballast and deballast a tank"
+title: "STCW Assessment OICEW-5E2B"
+subtitle: "Ballast and deballast a tank"
 category: "Engine"
 status: "New"
 cnum: "EN-3131"

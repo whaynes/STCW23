@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2G"
-subtitle: "Assessment OICNW-3-2G"
-title: "Target history"
+title: "STCW Assessment OICNW-3-2G"
+subtitle: "Target history"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

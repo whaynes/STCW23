@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-1C"
-subtitle: "Assessment OICNW-2-1C"
-title: "Identify sound signals"
+title: "STCW Assessment OICNW-2-1C"
+subtitle: "Identify sound signals"
 category: "Deck"
 status: "Old"
 cnum: "MT-2161"

@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M1A"
-subtitle: "Assessment MFA-1M1A"
-title: "Assess and treat life-threatening conditions"
+title: "STCW Assessment MFA-1M1A"
+subtitle: "Assess and treat life-threatening conditions"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

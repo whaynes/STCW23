@@ -1,7 +1,7 @@
 ---
 number: "OICEW-1-1B"
-subtitle: "Assessment OICEW-1-1B"
-title: "Form two steel plates using brazing process"
+title: "STCW Assessment OICEW-1-1B"
+subtitle: "Form two steel plates using brazing process"
 category: "Engine"
 status: "Old"
 cnum: "EN-2112"

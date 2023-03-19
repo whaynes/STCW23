@@ -1,7 +1,7 @@
 ---
 number: "FF-2SBA"
-subtitle: "Assessment FF-2SBA"
-title: "Don and use a self-contained breathing apparatus"
+title: "STCW Assessment FF-2SBA"
+subtitle: "Don and use a self-contained breathing apparatus"
 category: "Common"
 status: "Old"
 cnum: "FF-0102"

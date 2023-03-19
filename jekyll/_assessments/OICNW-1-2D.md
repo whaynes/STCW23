@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-2D"
-subtitle: "Assessment OICNW-1-2D"
-title: "Plot the ship’s DR position"
+title: "STCW Assessment OICNW-1-2D"
+subtitle: "Plot the ship’s DR position"
 category: "Deck"
 status: "Old"
 cnum: "MT-2121"

@@ -1,7 +1,7 @@
 ---
 number: "FF-4SF"
-subtitle: "Assessment FF-4SF"
-title: "Extinguish a smoldering fire"
+title: "STCW Assessment FF-4SF"
+subtitle: "Extinguish a smoldering fire"
 category: "Common"
 status: "New"
 cnum: "FF-0104"

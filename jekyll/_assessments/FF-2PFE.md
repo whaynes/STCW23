@@ -1,7 +1,7 @@
 ---
 number: "FF-2PFE"
-subtitle: "Assessment FF-2PFE"
-title: "Use various types of portable fire extinguishers to extinguish smaller fires."
+title: "STCW Assessment FF-2PFE"
+subtitle: "Use various types of portable fire extinguishers to extinguish smaller fires."
 category: "Common"
 status: "Old"
 cnum: "FF-0102"

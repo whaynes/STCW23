@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2D4A"
-subtitle: "Assessment OICNW-2D4A"
-title: "Situational awareness"
+title: "STCW Assessment OICNW-2D4A"
+subtitle: "Situational awareness"
 category: "Deck"
 status: "New"
 cnum: "MT-4253"

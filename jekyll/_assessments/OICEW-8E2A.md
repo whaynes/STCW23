@@ -1,7 +1,7 @@
 ---
 number: "OICEW-8E2A"
-subtitle: "Assessment OICEW-8E2A"
-title: "Make emergency repairs"
+title: "STCW Assessment OICEW-8E2A"
+subtitle: "Make emergency repairs"
 category: "Engine"
 status: "New"
 cnum: "EN-1211"

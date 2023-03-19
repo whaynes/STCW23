@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1J"
-subtitle: "Assessment OICEW-5-1J"
-title: "Prepare main propulsion diesel engine for operation"
+title: "STCW Assessment OICEW-5-1J"
+subtitle: "Prepare main propulsion diesel engine for operation"
 category: "Engine"
 status: "Old"
 cnum: "EN-4131"

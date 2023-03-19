@@ -1,7 +1,7 @@
 ---
 number: "PS-3"
-subtitle: "Assessment PS-3"
-title: "Jump from a height into the water"
+title: "STCW Assessment PS-3"
+subtitle: "Jump from a height into the water"
 category: "Common"
 status: "Old"
 cnum: "PS-0301"

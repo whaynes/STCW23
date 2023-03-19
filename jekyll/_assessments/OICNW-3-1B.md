@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1B"
-subtitle: "Assessment OICNW-3-1B"
-title: "Switch display modes"
+title: "STCW Assessment OICNW-3-1B"
+subtitle: "Switch display modes"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

@@ -1,7 +1,7 @@
 ---
 number: "SCRB-3"
-subtitle: "Assessment SCRB-3"
-title: "Start and operate survival craft engine"
+title: "STCW Assessment SCRB-3"
+subtitle: "Start and operate survival craft engine"
 category: "Common"
 status: "Old"
 cnum: "LB-0201"

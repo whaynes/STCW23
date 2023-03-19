@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3M"
-subtitle: "Assessment OICNW-3-3M"
-title: "Modify Waypoints"
+title: "STCW Assessment OICNW-3-3M"
+subtitle: "Modify Waypoints"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

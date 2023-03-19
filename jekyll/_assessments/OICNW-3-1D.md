@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1D"
-subtitle: "Assessment OICNW-3-1D"
-title: "Determine range and bearing"
+title: "STCW Assessment OICNW-3-1D"
+subtitle: "Determine range and bearing"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

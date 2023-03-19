@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-2B"
-subtitle: "Assessment OICNW-1-2B"
-title: "Fix by two ranges"
+title: "STCW Assessment OICNW-1-2B"
+subtitle: "Fix by two ranges"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

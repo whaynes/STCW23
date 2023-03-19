@@ -1,7 +1,7 @@
 ---
 number: "OICEW-1-1F"
-subtitle: "Assessment OICEW-1-1F"
-title: "Visual test of welded joint"
+title: "STCW Assessment OICEW-1-1F"
+subtitle: "Visual test of welded joint"
 category: "Engine"
 status: "Old"
 cnum: "EN-2112"

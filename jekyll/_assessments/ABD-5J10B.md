@@ -1,7 +1,7 @@
 ---
 number: "ABD-5J10B"
-subtitle: "Assessment ABD-5J10B"
-title: "Demonstrate use of a safety harness"
+title: "STCW Assessment ABD-5J10B"
+subtitle: "Demonstrate use of a safety harness"
 category: "Deck"
 status: "New"
 cnum: "ST-0999D"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2H"
-subtitle: "Assessment OICNW-3-2H"
-title: "Establish CPA and TCPA"
+title: "STCW Assessment OICNW-3-2H"
+subtitle: "Establish CPA and TCPA"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

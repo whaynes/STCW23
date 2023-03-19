@@ -1,7 +1,7 @@
 ---
 number: "OICEW-7-1A"
-subtitle: "Assessment OICEW-7-1A"
-title: "Start emergency generator"
+title: "STCW Assessment OICEW-7-1A"
+subtitle: "Start emergency generator"
 category: "Engine"
 status: "Old"
 cnum: "EN-4131"

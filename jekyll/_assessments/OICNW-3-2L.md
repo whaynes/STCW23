@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2L"
-subtitle: "Assessment OICNW-3-2L"
-title: "Navigation lines"
+title: "STCW Assessment OICNW-3-2L"
+subtitle: "Navigation lines"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

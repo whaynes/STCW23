@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1D"
-subtitle: "Assessment OICEW-5-1D"
-title: "Start and secure air compressor"
+title: "STCW Assessment OICEW-5-1D"
+subtitle: "Start and secure air compressor"
 category: "Engine"
 status: "Old"
 cnum: "EN-2111"

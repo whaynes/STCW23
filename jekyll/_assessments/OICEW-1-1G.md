@@ -1,7 +1,7 @@
 ---
 number: "OICEW-1-1G"
-subtitle: "Assessment OICEW-1-1G"
-title: "Dye-penetrant test"
+title: "STCW Assessment OICEW-1-1G"
+subtitle: "Dye-penetrant test"
 category: "Engine"
 status: "Old"
 cnum: "EN-2112"

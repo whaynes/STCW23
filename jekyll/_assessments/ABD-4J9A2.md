@@ -1,7 +1,7 @@
 ---
 number: "ABD-4J9A2"
-subtitle: "Assessment ABD-4J9A2"
-title: "Marlinspike seamanship - knots II"
+title: "STCW Assessment ABD-4J9A2"
+subtitle: "Marlinspike seamanship - knots II"
 category: "Deck"
 status: "New"
 cnum: "MT-2231"

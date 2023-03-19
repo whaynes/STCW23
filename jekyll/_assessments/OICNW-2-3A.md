@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-3A"
-subtitle: "Assessment OICNW-2-3A"
-title: "Voyage plan - appraisal"
+title: "STCW Assessment OICNW-2-3A"
+subtitle: "Voyage plan - appraisal"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

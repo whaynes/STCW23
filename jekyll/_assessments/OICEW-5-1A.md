@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1A"
-subtitle: "Assessment OICEW-5-1A"
-title: "Test steering gear and internal communications"
+title: "STCW Assessment OICEW-5-1A"
+subtitle: "Test steering gear and internal communications"
 category: "Engine"
 status: "Old"
 cnum: "EN-4231"

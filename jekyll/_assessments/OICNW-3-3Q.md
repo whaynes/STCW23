@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3Q"
-subtitle: "Assessment OICNW-3-3Q"
-title: "Environmental Data - Identify tidal data"
+title: "STCW Assessment OICNW-3-3Q"
+subtitle: "Environmental Data - Identify tidal data"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

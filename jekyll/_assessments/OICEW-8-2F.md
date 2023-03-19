@@ -1,7 +1,7 @@
 ---
 number: "OICEW-8-2F"
-subtitle: "Assessment OICEW-8-2F"
-title: "Overhaul heat exchanger"
+title: "STCW Assessment OICEW-8-2F"
+subtitle: "Overhaul heat exchanger"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

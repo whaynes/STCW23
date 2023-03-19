@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B4F"
-subtitle: "Assessment EFA-4B4F"
-title: "Demonstrate proper hand placements for chest compressions"
+title: "STCW Assessment EFA-4B4F"
+subtitle: "Demonstrate proper hand placements for chest compressions"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

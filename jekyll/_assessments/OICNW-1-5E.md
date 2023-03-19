@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-5E"
-subtitle: "Assessment OICNW-1-5E"
-title: "Position fix by magnetic compass bearings"
+title: "STCW Assessment OICNW-1-5E"
+subtitle: "Position fix by magnetic compass bearings"
 category: "Deck"
 status: "Old"
 cnum: "MT-2121"

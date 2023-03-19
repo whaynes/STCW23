@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-1E"
-subtitle: "Assessment OICNW-2-1E"
-title: "Maneuver to avoid risk of collision -- meeting"
+title: "STCW Assessment OICNW-2-1E"
+subtitle: "Maneuver to avoid risk of collision -- meeting"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

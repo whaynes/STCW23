@@ -1,7 +1,7 @@
 ---
 number: "FF-4FGF"
-subtitle: "Assessment FF-4FGF"
-title: "Extinguish a flammable gas fire"
+title: "STCW Assessment FF-4FGF"
+subtitle: "Extinguish a flammable gas fire"
 category: "Common"
 status: "New"
 cnum: "FF-0104"

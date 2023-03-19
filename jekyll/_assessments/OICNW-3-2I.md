@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2I"
-subtitle: "Assessment OICNW-3-2I"
-title: "Establish alarm area"
+title: "STCW Assessment OICNW-3-2I"
+subtitle: "Establish alarm area"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

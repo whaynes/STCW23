@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3A"
-subtitle: "Assessment OICNW-3-3A"
-title: "Operational Settings - Safety Depth"
+title: "STCW Assessment OICNW-3-3A"
+subtitle: "Operational Settings - Safety Depth"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M4B"
-subtitle: "Assessment MFA-1M4B"
-title: "Use a AED"
+title: "STCW Assessment MFA-1M4B"
+subtitle: "Use a AED"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

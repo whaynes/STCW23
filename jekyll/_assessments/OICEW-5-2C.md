@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-2C"
-subtitle: "Assessment OICEW-5-2C"
-title: "Bottom blow boiler"
+title: "STCW Assessment OICEW-5-2C"
+subtitle: "Bottom blow boiler"
 category: "Engine"
 status: "Old"
 cnum: "EN-3131"

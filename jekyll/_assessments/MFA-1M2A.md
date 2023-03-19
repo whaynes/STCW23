@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M2A"
-subtitle: "Assessment MFA-1M2A"
-title: "Immobilize a victim with a spinal injury"
+title: "STCW Assessment MFA-1M2A"
+subtitle: "Immobilize a victim with a spinal injury"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

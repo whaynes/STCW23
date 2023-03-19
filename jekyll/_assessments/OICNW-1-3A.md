@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-3A"
-subtitle: "Assessment OICNW-1-3A"
-title: "Correction of charts and publications"
+title: "STCW Assessment OICNW-1-3A"
+subtitle: "Correction of charts and publications"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

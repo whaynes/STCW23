@@ -1,7 +1,7 @@
 ---
 number: "OICEW-8-2A"
-subtitle: "Assessment OICEW-8-2A"
-title: "Centrifugal pump maintenance (mechanical seal)"
+title: "STCW Assessment OICEW-8-2A"
+subtitle: "Centrifugal pump maintenance (mechanical seal)"
 category: "Engine"
 status: "Old"
 cnum: "EN-2111"

@@ -1,7 +1,7 @@
 ---
 number: "FF-6SRF"
-subtitle: "Assessment FF-6SRF"
-title: "Extinguish a stateroom fire"
+title: "STCW Assessment FF-6SRF"
+subtitle: "Extinguish a stateroom fire"
 category: "Common"
 status: "New"
 cnum: "FF-0106"

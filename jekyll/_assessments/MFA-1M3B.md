@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M3B"
-subtitle: "Assessment MFA-1M3B"
-title: "Immobilize a long bone fracture"
+title: "STCW Assessment MFA-1M3B"
+subtitle: "Immobilize a long bone fracture"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

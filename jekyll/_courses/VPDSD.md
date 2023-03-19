@@ -1,7 +1,7 @@
 ---
 cnum: VPDSD
-title: "Vessel Personnel with Designated Security Duties"
-subtitle: "MMA Course VPDSD"
+subtitle: "Vessel Personnel with Designated Security Duties"
+title: "MMA Course VPDSD"
 major: D/E
 ---
 

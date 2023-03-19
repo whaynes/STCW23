@@ -1,7 +1,7 @@
 ---
 number: "SCRB-1"
-subtitle: "Assessment SCRB-1"
-title: "Right an inverted lifefraft "
+title: "STCW Assessment SCRB-1"
+subtitle: "Right an inverted lifefraft "
 category: "Common"
 status: "Old"
 cnum: "PS-0301"

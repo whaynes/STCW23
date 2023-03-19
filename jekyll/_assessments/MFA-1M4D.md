@@ -1,7 +1,7 @@
 ---
 number: "MFA-1M4D"
-subtitle: "Assessment MFA-1M4D"
-title: "Manage obstructed airway in an unconscious victim"
+title: "STCW Assessment MFA-1M4D"
+subtitle: "Manage obstructed airway in an unconscious victim"
 category: "Common"
 status: "New"
 cnum: "PE-0032"

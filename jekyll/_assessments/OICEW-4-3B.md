@@ -1,7 +1,7 @@
 ---
 number: "OICEW-4-3B"
-subtitle: "Assessment OICEW-4-3B"
-title: "Prepare and start main gas turbine"
+title: "STCW Assessment OICEW-4-3B"
+subtitle: "Prepare and start main gas turbine"
 category: "Engine"
 status: "Old"
 cnum: "EN-3233"

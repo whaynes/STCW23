@@ -1,7 +1,7 @@
 ---
 number: "PS-7"
-subtitle: "Assessment PS-7"
-title: "Board a survival craft while wearing a lifejacket"
+title: "STCW Assessment PS-7"
+subtitle: "Board a survival craft while wearing a lifejacket"
 category: "Common"
 status: "Old"
 cnum: "PS-0301"

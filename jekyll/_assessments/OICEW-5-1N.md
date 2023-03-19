@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1N"
-subtitle: "Assessment OICEW-5-1N"
-title: "Secure main steam turbine operation"
+title: "STCW Assessment OICEW-5-1N"
+subtitle: "Secure main steam turbine operation"
 category: "Engine"
 status: "Old"
 cnum: "EN-4231"

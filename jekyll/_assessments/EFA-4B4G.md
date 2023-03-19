@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B4G"
-subtitle: "Assessment EFA-4B4G"
-title: "Demonstrate proper CPR compressions for two minutes"
+title: "STCW Assessment EFA-4B4G"
+subtitle: "Demonstrate proper CPR compressions for two minutes"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

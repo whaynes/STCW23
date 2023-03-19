@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-5B"
-subtitle: "Assessment OICNW-1-5B"
-title: "Determine magnetic compass error"
+title: "STCW Assessment OICNW-1-5B"
+subtitle: "Determine magnetic compass error"
 category: "Deck"
 status: "Old"
 cnum: "MT-4133"

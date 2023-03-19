@@ -1,7 +1,7 @@
 ---
 number: "OICEW-8-2D"
-subtitle: "Assessment OICEW-8-2D"
-title: "Inspect valve manifold"
+title: "STCW Assessment OICEW-8-2D"
+subtitle: "Inspect valve manifold"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

@@ -1,7 +1,7 @@
 ---
 number: "OICEW-8-2B"
-subtitle: "Assessment OICEW-8-2B"
-title: "Reciprocating pump maintenance"
+title: "STCW Assessment OICEW-8-2B"
+subtitle: "Reciprocating pump maintenance"
 category: "Engine"
 status: "Old"
 cnum: "EN-2111"

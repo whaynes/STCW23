@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-1B"
-subtitle: "Assessment OICNW-1-1B"
-title: "Measure the altitude of the sun"
+title: "STCW Assessment OICNW-1-1B"
+subtitle: "Measure the altitude of the sun"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

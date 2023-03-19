@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3K"
-subtitle: "Assessment OICNW-3-3K"
-title: "Merge User Charts"
+title: "STCW Assessment OICNW-3-3K"
+subtitle: "Merge User Charts"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

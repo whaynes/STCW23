@@ -1,7 +1,7 @@
 ---
 number: "RFPEW-1H2C"
-subtitle: "Assessment RFPEW-1H2C"
-title: "Shift and clean a basket-type duplex strainer"
+title: "STCW Assessment RFPEW-1H2C"
+subtitle: "Shift and clean a basket-type duplex strainer"
 category: "Engine"
 status: "New"
 cnum: "EN-1211"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3B"
-subtitle: "Assessment OICNW-3-3B"
-title: "Operational Settings - Display/Change Safety contour"
+title: "STCW Assessment OICNW-3-3B"
+subtitle: "Operational Settings - Display/Change Safety contour"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

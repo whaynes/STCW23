@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3H"
-subtitle: "Assessment OICNW-3-3H"
-title: "Monitoring Sea Area - Gain information"
+title: "STCW Assessment OICNW-3-3H"
+subtitle: "Monitoring Sea Area - Gain information"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-6B"
-subtitle: "Assessment OICNW-1-6B"
-title: "Set weather controls"
+title: "STCW Assessment OICNW-1-6B"
+subtitle: "Set weather controls"
 category: "Deck"
 status: "Old"
 cnum: "MT-4371"

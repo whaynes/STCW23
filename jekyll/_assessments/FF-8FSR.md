@@ -1,7 +1,7 @@
 ---
 number: "FF-8FSR"
-subtitle: "Assessment FF-8FSR"
-title: "Firefighting self rescue"
+title: "STCW Assessment FF-8FSR"
+subtitle: "Firefighting self rescue"
 category: "Common"
 status: "New"
 cnum: "FF-0108"

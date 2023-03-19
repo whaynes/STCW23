@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3G"
-subtitle: "Assessment OICNW-3-3G"
-title: "Monitoring Sea Area - Chart selection"
+title: "STCW Assessment OICNW-3-3G"
+subtitle: "Monitoring Sea Area - Chart selection"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

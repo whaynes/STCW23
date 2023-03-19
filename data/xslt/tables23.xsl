@@ -6,7 +6,9 @@
 <!ENTITY tt "&#09;&#09;">
 ]>
 
-<!-- This stylesheet takes 'tables.xml' and builds a page for each table and an index.
+<!-- This stylesheet 
+     builds and writes a page for each stcw table
+     build an main index and an index for each table.
      The 'tables.xml' has been transformed by Filemaker_export.xsl to make it easier to work with. 
 -->
 <xsl:stylesheet
@@ -70,10 +72,10 @@ table_number: nil
     match="RECORD">
     <!-- This template builds the page for each table -->
     <xsl:text>---</xsl:text>
-    <xsl:text>&cr;subtitle: STCW Table </xsl:text>
+    <xsl:text>&cr;title: STCW Table </xsl:text>
     <xsl:value-of
       select="Table"/>
-    <xsl:text>&cr;title: </xsl:text>
+    <xsl:text>&cr;subtitle: </xsl:text>
     <xsl:value-of
       select="Table_Name"/>
     <xsl:text>&cr;table_number: </xsl:text>

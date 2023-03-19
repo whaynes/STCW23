@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-2D"
-subtitle: "Assessment OICNW-2-2D"
-title: "Keep a safe anchor watch"
+title: "STCW Assessment OICNW-2-2D"
+subtitle: "Keep a safe anchor watch"
 category: "Deck"
 status: "Mod"
 cnum: "MT-4253"

@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3L"
-subtitle: "Assessment OICNW-3-3L"
-title: "Display Route Plans"
+title: "STCW Assessment OICNW-3-3L"
+subtitle: "Display Route Plans"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

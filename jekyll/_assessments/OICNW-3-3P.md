@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-3P"
-subtitle: "Assessment OICNW-3-3P"
-title: "Convert Route Plan to a Route"
+title: "STCW Assessment OICNW-3-3P"
+subtitle: "Convert Route Plan to a Route"
 category: "Deck"
 status: "Old"
 cnum: "MT-3224"

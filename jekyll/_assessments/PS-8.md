@@ -1,7 +1,7 @@
 ---
 number: "PS-8"
-subtitle: "Assessment PS-8"
-title: "Use of lifeboat equipment"
+title: "STCW Assessment PS-8"
+subtitle: "Use of lifeboat equipment"
 category: "Common"
 status: "Old"
 cnum: "LB-0201"

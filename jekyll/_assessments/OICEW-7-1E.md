@@ -1,7 +1,7 @@
 ---
 number: "OICEW-7-1E"
-subtitle: "Assessment OICEW-7-1E"
-title: "Parallel generators"
+title: "STCW Assessment OICEW-7-1E"
+subtitle: "Parallel generators"
 category: "Engine"
 status: "Old"
 cnum: "EN-3111L"

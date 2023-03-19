@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-1F"
-subtitle: "Assessment OICNW-3-1F"
-title: "Determine DRM, SRM, CPA, and TCPA"
+title: "STCW Assessment OICNW-3-1F"
+subtitle: "Determine DRM, SRM, CPA, and TCPA"
 category: "Deck"
 status: "Old"
 cnum: "MT-3122"

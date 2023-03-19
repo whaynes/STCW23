@@ -1,7 +1,7 @@
 ---
 number: "RFPNW-3K4B"
-subtitle: "Assessment RFPNW-3K4B"
-title: "Relief of the helmsman"
+title: "STCW Assessment RFPNW-3K4B"
+subtitle: "Relief of the helmsman"
 category: "Deck"
 status: "New"
 cnum: "MT-4253"

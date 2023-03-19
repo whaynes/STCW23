@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B9A"
-subtitle: "Assessment EFA-4B9A"
-title: "Demonstrate bandaging technique for wound treatment"
+title: "STCW Assessment EFA-4B9A"
+subtitle: "Demonstrate bandaging technique for wound treatment"
 category: "Common"
 status: "New"
 cnum: "PE-0031"

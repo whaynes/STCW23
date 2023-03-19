@@ -1,7 +1,7 @@
 ---
 number: "PS-2"
-subtitle: "Assessment PS-2"
-title: "Don and use an immersion suit"
+title: "STCW Assessment PS-2"
+subtitle: "Don and use an immersion suit"
 category: "Common"
 status: "Old"
 cnum: "LB-0203"

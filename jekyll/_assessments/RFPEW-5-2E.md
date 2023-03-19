@@ -1,7 +1,7 @@
 ---
 number: "RFPEW-5-2E"
-subtitle: "Assessment RFPEW-5-2E"
-title: "Change and clean burner"
+title: "STCW Assessment RFPEW-5-2E"
+subtitle: "Change and clean burner"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

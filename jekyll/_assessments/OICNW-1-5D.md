@@ -1,7 +1,7 @@
 ---
 number: "OICNW-1-5D"
-subtitle: "Assessment OICNW-1-5D"
-title: "Determine course to steer by magnetic compass"
+title: "STCW Assessment OICNW-1-5D"
+subtitle: "Determine course to steer by magnetic compass"
 category: "Deck"
 status: "Old"
 cnum: "MT-2121"

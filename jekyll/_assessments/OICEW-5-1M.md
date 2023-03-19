@@ -1,7 +1,7 @@
 ---
 number: "OICEW-5-1M"
-subtitle: "Assessment OICEW-5-1M"
-title: "Monitor main steam turbine operation"
+title: "STCW Assessment OICEW-5-1M"
+subtitle: "Monitor main steam turbine operation"
 category: "Engine"
 status: "Old"
 cnum: "EN-2231"

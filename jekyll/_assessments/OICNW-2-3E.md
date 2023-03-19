@@ -1,7 +1,7 @@
 ---
 number: "OICNW-2-3E"
-subtitle: "Assessment OICNW-2-3E"
-title: "BRM Condition III – navigation"
+title: "STCW Assessment OICNW-2-3E"
+subtitle: "BRM Condition III – navigation"
 category: "Deck"
 status: "Old"
 cnum: "MT-4253"

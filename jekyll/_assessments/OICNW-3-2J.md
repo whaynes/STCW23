@@ -1,7 +1,7 @@
 ---
 number: "OICNW-3-2J"
-subtitle: "Assessment OICNW-3-2J"
-title: "Trial Maneuver"
+title: "STCW Assessment OICNW-3-2J"
+subtitle: "Trial Maneuver"
 category: "Deck"
 status: "Old"
 cnum: "MT-3222"

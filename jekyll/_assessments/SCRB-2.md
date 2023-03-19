@@ -1,7 +1,7 @@
 ---
 number: "SCRB-2"
-subtitle: "Assessment SCRB-2"
-title: "Launch, board and recover survival craft."
+title: "STCW Assessment SCRB-2"
+subtitle: "Launch, board and recover survival craft."
 category: "Common"
 status: "Old"
 cnum: "LB-0201"

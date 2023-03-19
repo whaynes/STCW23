@@ -1,7 +1,7 @@
 ---
 number: "OICEW-4-1A"
-subtitle: "Assessment OICEW-4-1A"
-title: "Inspect machinery spaces before assuming watch"
+title: "STCW Assessment OICEW-4-1A"
+subtitle: "Inspect machinery spaces before assuming watch"
 category: "Engine"
 status: "Old"
 cnum: "EN-4231"

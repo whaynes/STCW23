@@ -1,7 +1,7 @@
 ---
 number: "PS-4"
-subtitle: "Assessment PS-4"
-title: "Right an inverted liferaft"
+title: "STCW Assessment PS-4"
+subtitle: "Right an inverted liferaft"
 category: "Common"
 status: "Old"
 cnum: "PS-0301"

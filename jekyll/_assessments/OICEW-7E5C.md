@@ -1,7 +1,7 @@
 ---
 number: "OICEW-7E5C"
-subtitle: "Assessment OICEW-7E5C"
-title: "Test engine shutdown devices"
+title: "STCW Assessment OICEW-7E5C"
+subtitle: "Test engine shutdown devices"
 category: "Engine"
 status: "New"
 cnum: "EN-4131"

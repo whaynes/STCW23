@@ -1,7 +1,7 @@
 ---
 number: "EFA-4B4D"
-subtitle: "Assessment EFA-4B4D"
-title: "Demonstrate action for an unresponsive person who is not breathing"
+title: "STCW Assessment EFA-4B4D"
+subtitle: "Demonstrate action for an unresponsive person who is not breathing"
 category: "Common"
 status: "New"
 cnum: "PE-0031"
