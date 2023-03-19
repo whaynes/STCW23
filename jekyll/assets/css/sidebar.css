@@ -1,0 +1,39 @@
+main {
+  margin: 20px;
+  }
+  
+#sidebar {
+  display: block;
+  width: 160px;
+  margin: 0 auto;
+  list-style: none;
+  text-align: center;
+}
+
+#sidebar > li {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px;
+
+}
+
+#sidebar > li > ol {
+  list-style: none;
+  margin:0;
+  
+}
+
+#sidebar > li > ol > li {
+  font-size: 14px;
+  font-weight: normal;
+
+}
+
+#sidebar > li > ol > li:last-child {
+  border-bottom: 2px solid silver;
+  padding-bottom:5px;
+}
+
+#sidebar > li:last-child {
+  border-bottom: none;
+}

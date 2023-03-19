@@ -31,65 +31,7 @@ body {
 	display: none;
 }
 
-#sidebar hr:first-child {
-	display: none;
-}
-#sidebar {
-	
-	line-height: 1.2em;
-	text-align: center;
-	flex: 0 0 200px;
-}
-.wrapper{margin-left:0;}
 
-#footer {
-	font-size: 0.8em;
-	color: #777;
-	padding-top: 3em;
-	clear: both;
-	width: 100%;
-	
-}
-
-#sidebar ul {
-	font-size: 0.9em;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-#sidebar li {
-	list-style: none;
-	margin: 0 0 5px;
-	padding: 0;
-	font-size: 1.2em;
-	font-weight: bold;
-	color: #972323;
-}
-
-#sidebar li a {
-	font-weight: normal;
-}
-
-#sidebar ul ul {
-	line-height: 1.2em;
-	margin: 8px 0 8px 20px;
-	padding: 0;
-}
-
-#sidebar ul ul li a {
-	color: black;
-}
-
-#sidebar h2 {
-	font-size: 1.4em;
-	margin: 15px 0 5px;
-	
-}
-
-#sidebar hr {
-	margin: 15px 0;
-}
 
 a {
 	color: #972323;

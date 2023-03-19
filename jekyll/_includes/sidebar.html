@@ -1,50 +1,45 @@
-			<div id='sidebar' class='nav'>
-			<hr />
-	
-			<h2>MMA Program</h2>  
-			<ul>
+<nav id='sidebar'>
+
+			<li><p>MMA Program</p>
+			<ol>
 				<li><a href="{{'/tables/' | relative_url}} ">STCW Tables</a></li>
 				<li><a href="{{'/tasks/' | relative_url}} ">NVIC Tasks</a></li>
 				<li><a href="{{'/content/faculty.html' | relative_url}}">Faculty</a></li>	
 				<li><a href="{{'/content/definitions.html' | relative_url}} ">Definitions</a></li>
-			</ul>
+			</ol></li> 
 	
-			<hr />
-			<h2>Deck</h2>  
-			<ul>
+			<li><p>Deck</p>
+			<ol>
 				<li><a href="{{'/content/MTRA' | relative_url}}">Curriculum</a></li>
 				<li><a href="{{'/courses/MTRA' | relative_url}}">Courses</a></li>
 				<li><a href="{{'/assessments/MTRA' | relative_url}}"> Assessments</a></li>
-				<li><a href="{{'/tasks/MTRA' | relative_url}} ">Tasks</a></li>
-		
-			</ul>
+				<li><a href="{{'/tasks/MTRA' | relative_url}} ">Tasks</a></li>	
+			</ol></li> 
   	
-			<hr />
-			<h2>Engineering</h2>
-			<ul>
+			<li><p>Engineering</p>
+			<ol>
 				<li><a href="{{'/content/MENG' | relative_url}}">Curriculum</a></li>
 		  	<li><a href="{{'/courses/MENG.html' | relative_url}}">Courses</a></li>
 				<li><a href="{{'/assessments/MENG.html' | relative_url}}">Assessments</a></li>
 				<li><a href="{{'/tasks/MENG' | relative_url}} ">Tasks</a></li>
-			</ul>
+			</ol></li>
 
-			<hr />
-			<h2>Common</h2>
-			<ul>
+			<li><p>Common</p>
+			<ol>
 				<li><a href="{{'/courses/common' | relative_url}}">Courses</a></li>
 				<li><a href="{{'/assessments/common' | relative_url}}">Assessments</a></li>
 				<li><a href="{{'/tasks/common' | relative_url}} ">Tasks</a></li>
-
-			</ul>
-			<hr />	
-			<h3> 
-			
-			<span style="display:flex; justify-content: space-around; height:30px;">
+			</ol></li>
+	
+			<li style="display:flex; justify-content: space-around; height:30px;">
+        <p>
         {% if page.previous.url %}
-        <a  href="{{site.baseurl}}{{page.previous.url}}"><img src="{{site.baseurl}}/assets/nav/prev.svg" width=30></a>
+        <a  href="{{site.baseurl}}{{page.previous.url}}"><img src="{{site.baseurl}}/assets/nav/prev.svg" width='30'></a>
         {% endif %}
         {% if page.next.url %}
         <a href="{{site.baseurl}}{{page.next.url}}"><img src="{{site.baseurl}}/assets/nav/next.svg" width='30'></a>
         {% endif %}
-    </span> </h3>
-		</div> <!--end nav-->
+        </p>
+    </li>
+
+</nav> <!--end nav-->
