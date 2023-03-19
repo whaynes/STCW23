@@ -1,0 +1,79 @@
+table {
+	border-collapse: collapse;
+	margin: 20px 0;
+	padding: 0;
+	width: 100%;
+}
+
+
+
+table.courses {max-width: 600px;}
+
+table.tasks th:nth-child(1) {width:5%;}
+table.tasks th:nth-child(2) {width:15%;}
+table.tasks th:nth-child(3) {width:55%;}
+table.tasks th:nth-child(4) {width:25%;}
+
+table, th, td {
+	border: 1px solid #ccc;
+}
+
+table tr {
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+	page-break-inside: avoid;
+}
+
+table tr:nth-child(2n) {
+	background-color: #f8f8f8
+}
+
+table tr th, table tr td {
+	text-align: left;
+	margin: 0;
+	padding: 4px 6px;
+	font-size:smaller;
+}
+
+table tr th {
+	background-color: silver;
+	text-align: center;
+	vertical-align: middle;
+}
+
+table ol {
+	margin: 0 0 0 20px;
+}
+
+table p {
+	margin: 0;
+}
+
+table.semester {
+	float: left;
+	margin: 0 20px 20px 0;
+	width: 46%;
+	table-layout: fixed;
+}
+
+table.semester.fall {
+	clear: both;
+}
+
+table.semester th {
+	background-color: #CFE2F3;
+	text-align: left;
+	font-weight: normal;
+}
+
+table.semester td, table.semester th {
+	padding: 2px 2px 2px 5px;
+	margin: 0;
+	overflow: hidden;
+}
+
+table.semester td:first-child, table.semester th:first-child {
+	text-align: center;
+}
