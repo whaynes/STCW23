@@ -29,7 +29,7 @@ Aboard ship or in an approved simulator, given access to an oily water separator
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} and {% do Describe, describeequipment %} the visible components of the ows.
+{% do identify, Identify %} and {% do describeequipment, Describe %} the visible components of the ows.
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -60,7 +60,7 @@ Identify and describe at least the following:
 <tr><td>
 
 {% capture behavior %}
-{% do Trace, trace %} the suction and discharge of the OWS.
+{% do trace, Trace %} the suction and discharge of the OWS.
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -78,7 +78,7 @@ Trace system for current operating condition
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} the OWS.
+{% do monitor, Monitor %} the OWS.
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -100,7 +100,7 @@ Maintain OWS log
 <tr><td>
 
 {% capture behavior %}
-{% do Apply regulations, applyregulations %} to the operation of the OWS
+{% do applyregulations, Apply regulations %} to the operation of the OWS
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} a squirrel cage induction motor
+{% do disassemble, Disassemble %} a squirrel cage induction motor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -49,7 +49,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} insulation resistance and stator winding continuity
+{% do evaluateinspecttest, Test %} insulation resistance and stator winding continuity
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -68,7 +68,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} the motor
+{% do reassemble, Reassemble %} the motor
 {% endcapture %}
 {{ behavior | markdownify }}
 

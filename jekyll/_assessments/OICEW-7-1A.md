@@ -29,7 +29,7 @@ Aboard ship or in an approved simulator, given access to generator and proper to
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} that system is ready to start
+{% do check, Check %} that system is ready to start
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Meet requirements of  {% assessment OICEW-7-1B  %}
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} the generator
+{% do start, Start %} the generator
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -67,7 +67,7 @@ Turn generator starting switch to _start_
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} that generator starts properly
+{% do check, Check %} that generator starts properly
 {% endcapture %}
 {{ behavior | markdownify }}
 

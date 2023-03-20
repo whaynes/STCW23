@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given proper tools a
 <tr><td>
 
 {% capture behavior %}
-{% do Apply, usetools %} liquid penetrant and developer
+{% do usetools, Apply %} liquid penetrant and developer
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Apply penetrant and developer according to specifications
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} component for defects
+{% do evaluateinspecttest, Inspect %} component for defects
 {% endcapture %}
 {{ behavior | markdownify }}
 

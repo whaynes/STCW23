@@ -29,7 +29,7 @@ Aboard ship while underway, or in an approved simulator, given the engineering l
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine room and machinery in accordance with stcw code   {% imagelink STCW_Chap_VIII.pdf,  A-VIII/2 part 4-2  Paragraph 58' %}
+{% do check, Check %} engine room and machinery in accordance with stcw code   {% imagelink STCW_Chap_VIII.pdf,  A-VIII/2 part 4-2  Paragraph 58' %}
 
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -50,7 +50,7 @@ Aboard ship while underway, or in an approved simulator, given the engineering l
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} that all members of the relieving watch are ready to perform their duties
+{% do check, Check %} that all members of the relieving watch are ready to perform their duties
 {% endcapture %}
 {{ behavior | markdownify }}
 

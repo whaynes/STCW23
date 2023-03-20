@@ -29,7 +29,7 @@ Aboard ship or in a suitable engine room simulator, given appropriate alarms.
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} the simulated plant
+{% do monitor, Monitor %} the simulated plant
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Aboard ship or in a suitable engine room simulator, given appropriate alarms.
 <tr><td>
 
 {% capture behavior %}
-{% do Respond, respondtoalarm %} to alarms such as:
+{% do respondtoalarm, Respond %} to alarms such as:
 
 * high or low boiler water level
 * high or low steam pressure

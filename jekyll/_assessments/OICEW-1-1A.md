@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given proper tools, 
 <tr><td>
 
 {% capture behavior %}
-{% do Use Tools, usetools %} to cut a circular hole using oxy-fuel process
+{% do usetools, Use Tools %} to cut a circular hole using oxy-fuel process
 {% endcapture %}
 {{ behavior | markdownify }}
 

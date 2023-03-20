@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship and given access 
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} the valves and equipment associated with the refrigeration unit
+{% do identify, Identify %} the valves and equipment associated with the refrigeration unit
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -53,7 +53,7 @@ Identify:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} compressor lubrication
+{% do check, Check %} compressor lubrication
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -71,7 +71,7 @@ Verify visible oil level
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} refrigerant level
+{% do check, Check %} refrigerant level
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -89,7 +89,7 @@ Verify visible receiver level
 <tr><td>
 
 {% capture behavior %}
-{% do Line-up, lineup %} refrigeration unit
+{% do lineup, Line-up %} refrigeration unit
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -111,7 +111,7 @@ Leave compressor suction valve closed
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} associated equipment
+{% do start, Start %} associated equipment
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -131,7 +131,7 @@ Start diffuser fans, brine pumps, etc. as required
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} the refrigeration compressor
+{% do start, Start %} the refrigeration compressor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -155,7 +155,7 @@ Verify:
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} the refrigeration unit until conditions stabilize
+{% do operate, Operate %} the refrigeration unit until conditions stabilize
 {% endcapture %}
 {{ behavior | markdownify }}
 

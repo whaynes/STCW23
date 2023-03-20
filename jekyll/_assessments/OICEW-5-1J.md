@@ -29,7 +29,7 @@ In an approved simulator, in the laboratory, or aboard a ship and given access a
 <tr><td>
 
 {% capture behavior %}
-{% do Line Up, lineup %} and {% do Start, start %} seawater system
+{% do lineup, Line Up %} and {% do start, Start %} seawater system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} low temperature freshwater cooling system
+{% do lineup, Line up %} and {% do start, Start %} low temperature freshwater cooling system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} piston cooling system
+{% do lineup, Line up %} and {% do start, Start %} piston cooling system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -94,7 +94,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} high temperature freshwater cooling system
+{% do lineup, Line up %} and {% do start, Start %} high temperature freshwater cooling system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -116,7 +116,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} injector cooling system
+{% do lineup, Line up %} and {% do start, Start %} injector cooling system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -139,7 +139,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} main lube oil system
+{% do lineup, Line up %} and {% do start, Start %} main lube oil system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -165,7 +165,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} stern tube lube oil system
+{% do lineup, Line up %} and {% do start, Start %} stern tube lube oil system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -188,7 +188,7 @@ Select upper or lower tank based on draft
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} turning gear
+{% do start, Start %} turning gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -214,7 +214,7 @@ Start turning gear
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} main fuel oil system
+{% do lineup, Line up %} and {% do start, Start %} main fuel oil system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -238,7 +238,7 @@ Start fuel booster pump
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} start air system
+{% do lineup, Line up %} start air system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -260,7 +260,7 @@ Align system
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} turning gear
+{% do secure, Secure %} turning gear
 {% endcapture %}
 {{ behavior | markdownify }}
 

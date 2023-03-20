@@ -60,7 +60,7 @@ As **TG/SSDG Oiler**
 As **Lower Oiler**
 
 * {% do monitor, monitor %}  the operation of the lube oil purifier, propulsion shafting and bearings and other machinery located in the Lower Engine room 
-* {% do Charge, adjust %} the potable water hydro-pneumatic tank with compressed air as necessary to prevent short cycling of the potable water pump
+* {% do adjust, Charge %} the potable water hydro-pneumatic tank with compressed air as necessary to prevent short cycling of the potable water pump
 * {% do monitor, monitor %} the tank levels and temperatures in the fuel oil settling  tanks
 * record operating conditions on the *Lower Oiler's log*
 
@@ -139,8 +139,8 @@ As **Evaporator Oiler**
     * the Reverse Osmosis watermaker
 
 *  {% do monitor, monitor %} the level in the potable water tanks
-*  {% do change over, shiftchangeover %} potable and distilled tank suction and discharge valves as required
-*  {% do test, evaluateinspecttest %} distillate chemical salinity
+*  {% do shiftchangeover, change over %} potable and distilled tank suction and discharge valves as required
+*  {% do evaluateinspecttest, test %} distillate chemical salinity
 * record operating conditions on the *Evaporator Oiler's log*
 {% endcapture %}
 {{ behavior | markdownify }}

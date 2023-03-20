@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship and given access 
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} the valves and pumps associated with the freshwater generator started in assessment {% assessment OICEW-5-1F %}
+{% do identify, Identify %} the valves and pumps associated with the freshwater generator started in assessment {% assessment OICEW-5-1F %}
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -50,7 +50,7 @@ Identify:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} distillate discharge to the bilge
+{% do lineup, Line up %} distillate discharge to the bilge
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -68,7 +68,7 @@ Identify:
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the freshwater generator
+{% do secure, Secure %} the freshwater generator
 {% endcapture %}
 {{ behavior | markdownify }}
 

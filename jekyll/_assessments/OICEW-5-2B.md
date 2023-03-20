@@ -29,7 +29,7 @@ In an approved simulator or aboard a ship in port or at anchor, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} boiler
+{% do secure, Secure %} boiler
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -53,7 +53,7 @@ Open superheater vents and drains
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} forced draft fan
+{% do secure, Secure %} forced draft fan
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -71,7 +71,7 @@ Open superheater vents and drains
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} boiler until stable
+{% do monitor, Monitor %} boiler until stable
 {% endcapture %}
 {{ behavior | markdownify }}
 

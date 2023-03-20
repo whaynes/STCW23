@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do put into service, PlaceintoService %} the oily water separator / oil content monitor system
+{% do lineup, Line up %} and {% do PlaceintoService, put into service %} the oily water separator / oil content monitor system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} the operation of the oily water separator
+{% do check, Check %} the operation of the oily water separator
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -65,7 +65,7 @@ observe operation of oil content meter
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the oily water separator / oil content monitor system
+{% do secure, Secure %} the oily water separator / oil content monitor system
 {% endcapture %}
 {{ behavior | markdownify }}
 

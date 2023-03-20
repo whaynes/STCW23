@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship and given access 
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} unit for readiness to start
+{% do check, Check %} unit for readiness to start
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -53,7 +53,7 @@ On water cooled units, verify coolant flow
 <tr><td>
 
 {% capture behavior %}
-{% do Line-up, lineup %} compressor
+{% do lineup, Line-up %} compressor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -71,7 +71,7 @@ Verify compressor discharge valve is open
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} compressor
+{% do start, Start %} compressor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -91,7 +91,7 @@ verify control set to automatic
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} operation of air compressor
+{% do monitor, Monitor %} operation of air compressor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -111,7 +111,7 @@ Verify operation of cut-in and cut-out switches
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the air compressor
+{% do secure, Secure %} the air compressor
 {% endcapture %}
 {{ behavior | markdownify }}
 

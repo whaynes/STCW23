@@ -29,7 +29,7 @@ Aboard ship, in a workshop, or using an approved simulator, given access to an e
 <tr><td>
 
 {% capture behavior %}
-{% do Describe, describeequipment %} operation of ground fault detection systems
+{% do describeequipment, Describe %} operation of ground fault detection systems
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ State behavior of ground lamps
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} ground fault simulator
+{% do operate, Operate %} ground fault simulator
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the purifier oil heater
+{% do secure, Secure %} the purifier oil heater
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} purifier
+{% do secure, Secure %} purifier
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -69,7 +69,7 @@ Use bowl brake to bring bowl to stop
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} piping system
+{% do secure, Secure %} piping system
 {% endcapture %}
 {{ behavior | markdownify }}
 

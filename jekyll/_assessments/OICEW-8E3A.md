@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Prepare, prepare %} to clean an oil purifier
+{% do prepare, Prepare %} to clean an oil purifier
 
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -50,7 +50,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} the purifier
+{% do disassemble, Disassemble %} the purifier
 
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -71,7 +71,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Clean, clean %} the purifier
+{% do clean, Clean %} the purifier
 
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -92,7 +92,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} the purifier
+{% do evaluateinspecttest, Inspect %} the purifier
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -113,7 +113,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} the purifier
+{% do reassemble, Reassemble %} the purifier
 {% endcapture %}
 {{ behavior | markdownify }}
 

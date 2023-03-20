@@ -29,7 +29,7 @@ Aboard ship or in workshop, given a reciprocating pump and other equipment, manu
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} reciprocating pump
+{% do disassemble, Disassemble %} reciprocating pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Aboard ship or in workshop, given a reciprocating pump and other equipment, manu
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% do evaluateinspecttest, Inspect %} all parts for wear and deterioration
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -70,7 +70,7 @@ Check the following:
 <tr><td>
 
 {% capture behavior %}
-{% do Repair, repair %} reciprocating pump
+{% do repair, Repair %} reciprocating pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,7 +88,7 @@ Replace parts as necessary to bring pump to manufacturers specifications
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} reciprocating pump
+{% do reassemble, Reassemble %} reciprocating pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -108,7 +108,7 @@ Adjust valve tappets for proper operation
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} reciprocating pump
+{% do evaluateinspecttest, Test %} reciprocating pump
 {% endcapture %}
 {{ behavior | markdownify }}
 

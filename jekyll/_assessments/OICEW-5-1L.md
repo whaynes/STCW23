@@ -29,7 +29,7 @@ In an approved simulator or aboard a ship in port or at anchor, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Line Up, lineup %} and {% do Start, start %} main lube oil system
+{% do lineup, Line Up %} and {% do start, Start %} main lube oil system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -53,7 +53,7 @@ Verify gravity tank overflow
 <tr><td>
 
 {% capture behavior %}
-{% do Place into service, placeintoservice %} jacking gear
+{% do placeintoservice, Place into service %} jacking gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Hang _jacking gear engaged_ sign
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} main circulating system
+{% do lineup, Line up %} and {% do start, Start %} main circulating system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -91,7 +91,7 @@ Verify coolant flow
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} main condensate system
+{% do lineup, Line up %} and {% do start, Start %} main condensate system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -113,7 +113,7 @@ monitor dc heater level
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} gland seal system
+{% do lineup, Line up %} and {% do start, Start %} gland seal system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -133,7 +133,7 @@ adjust gland seal regulator to 1.5 psig
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} main air ejector and raise vacuum
+{% do lineup, Line up %} and {% do start, Start %} main air ejector and raise vacuum
 {% endcapture %}
 {{ behavior | markdownify }}
 

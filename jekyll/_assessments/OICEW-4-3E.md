@@ -29,7 +29,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Shift, shiftchangeover %} controls 
+{% do shiftchangeover, Shift %} controls 
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ shift/change over controls from local or main control room to bridge control
 <tr><td>
 
 {% capture behavior %}
-{% do Adjust, adjust %} engine speed as required
+{% do adjust, Adjust %} engine speed as required
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -65,7 +65,7 @@ adjust throttles to match engine order telegraph (EOT)
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} main gas turbine engine
+{% do monitor, Monitor %} main gas turbine engine
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -85,7 +85,7 @@ adjust throttles to match engine order telegraph (EOT)
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} gas turbine alarms
+{% do monitor, Monitor %} gas turbine alarms
 {% endcapture %}
 {{ behavior | markdownify }}
 

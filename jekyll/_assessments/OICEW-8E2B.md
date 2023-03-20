@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} and {% do Lock-out, lockouttagout %} the end suction centrifugal pump
+{% do secure, Secure %} and {% do lockouttagout, Lock-out %} the end suction centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} the pump
+{% do disassemble, Disassemble %} the pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -65,7 +65,7 @@ follow disassembly procedure in the laboratory manual
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% do evaluateinspecttest, Inspect %} all parts for wear and deterioration
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,7 +88,7 @@ Check the following:
 <tr><td>
 
 {% capture behavior %}
-{% do Repair, repair %} centrifugal pump
+{% do repair, Repair %} centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -108,7 +108,7 @@ replace or repair other parts as necessary to bring pump to manufacturer's speci
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} centrifugal pump
+{% do reassemble, Reassemble %} centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -128,7 +128,7 @@ Adjust packing, seals and gaskets as necessary
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} centrifugal pump
+{% do evaluateinspecttest, Test %} centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given proper tools, 
 <tr><td>
 
 {% capture behavior %}
-{% do Use Tools, usetools %} to perform brazing process 
+{% do usetools, Use Tools %} to perform brazing process 
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -31,7 +31,7 @@ Using an approved simulator, in the laboratory, or aboard ship and given access 
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} the valves and pumps associated with the freshwater generator selected by the assessor
+{% do identify, Identify %} the valves and pumps associated with the freshwater generator selected by the assessor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -52,7 +52,7 @@ identify:
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} the selected freshwater generator
+{% do start, Start %} the selected freshwater generator
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -70,7 +70,7 @@ follow the ship specific evaporator starting procedure provided during training
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} the discharge to meet operational requirements
+{% do lineup, Line up %} the discharge to meet operational requirements
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -92,7 +92,7 @@ Before proceeding:
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} the freshwater generator until operations stabilize
+{% do operate, Operate %} the freshwater generator until operations stabilize
 {% endcapture %}
 {{ behavior | markdownify }}
 

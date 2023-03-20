@@ -29,7 +29,7 @@ Using an approved simulator or aboard ship, given proper fuel oil transfer proce
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} a fuel transfer operation
+{% do plan, Plan %} a fuel transfer operation
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -52,7 +52,7 @@ Estimate the:
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} fuel transfer system between source and destination
+{% do lineup, Line up %} fuel transfer system between source and destination
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -70,7 +70,7 @@ Correctly line up  system between selected locations
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} the fuel oil transfer pump
+{% do lineup, Line up %} and {% do start, Start %} the fuel oil transfer pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,7 +88,7 @@ Comply with all applicable regulations
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} the transfer pump until the operational requirements have been met
+{% do operate, Operate %} the transfer pump until the operational requirements have been met
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -109,7 +109,7 @@ Monitor:
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the fuel oil transfer pump
+{% do secure, Secure %} the fuel oil transfer pump
 {% endcapture %}
 {{ behavior | markdownify }}
 

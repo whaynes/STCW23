@@ -29,7 +29,7 @@ In workshop, given access to a lathe, mild steel rod stock and other necessary e
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} and {% do Use the lathe, usetools %} to produce a project in accordance with attached drawing
+{% do plan, Plan %} and {% do usetools, Use the lathe %} to produce a project in accordance with attached drawing
 {% endcapture %}
 {{ behavior | markdownify }}
 

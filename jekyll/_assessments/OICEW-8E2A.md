@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the leaking pipe 
+{% do secure, Secure %} the leaking pipe 
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -49,7 +49,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Make, fabricate %} a temporary repair using a prefabricated repair clamp, or
+{% do fabricate, Make %} a temporary repair using a prefabricated repair clamp, or
 
 
 {% endcapture %}
@@ -70,7 +70,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Make, fabricate %} a temporary repair using a soft patch
+{% do fabricate, Make %} a temporary repair using a soft patch
 
 
 {% endcapture %}
@@ -93,7 +93,7 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} repaired pipe for leakage
+{% do evaluateinspecttest, Test %} repaired pipe for leakage
 {% endcapture %}
 {{ behavior | markdownify }}
 

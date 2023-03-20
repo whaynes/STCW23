@@ -29,7 +29,7 @@ Given a voltmeter, ammeter, ohmmeter, simple circuit with a power source, and a 
 <tr><td>
 
 {% capture behavior %}
-{% do Describe, describeaction %} the use of electrical measuring equipment
+{% do describeaction, Describe %} the use of electrical measuring equipment
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -53,7 +53,7 @@ Describe how to perform:
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} electrical circuits or components using electrical measuring equipment
+{% do evaluateinspecttest, Test %} electrical circuits or components using electrical measuring equipment
 {% endcapture %}
 {{ behavior | markdownify }}
 

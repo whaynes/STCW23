@@ -29,7 +29,7 @@ Aboard ship or in a workshop, given access to 3-phase electrical AC motor contro
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} phase rotation using phase rotation meter prior starting an ac motor
+{% do check, Check %} phase rotation using phase rotation meter prior starting an ac motor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Match phase sequence to motor rotation direction
 <tr><td>
 
 {% capture behavior %}
-{% do Determine, evaluateinspecttest %} if phase rotation is correct for desired direction of motor rotation
+{% do evaluateinspecttest, Determine %} if phase rotation is correct for desired direction of motor rotation
 {% endcapture %}
 {{ behavior | markdownify }}
 

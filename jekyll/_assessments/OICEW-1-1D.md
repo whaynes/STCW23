@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given proper tools, 
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} fabrication of sweat joint fitting
+{% do plan, Plan %} fabrication of sweat joint fitting
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ In a workshop/laboratory or other safe working environment, given proper tools, 
 <tr><td>
 
 {% capture behavior %}
-{% do Use tools, usetools %} to {% do Fabricate, fabricate %} sweat joint fitting
+{% do usetools, Use tools %} to {% do fabricate, Fabricate %} sweat joint fitting
 {% endcapture %}
 {{ behavior | markdownify }}
 

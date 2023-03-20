@@ -29,7 +29,7 @@ In an approved simulator, in the laboratory, or aboard a ship and given access a
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} fuel supply
+{% do secure, Secure %} fuel supply
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -49,7 +49,7 @@ Insure shaft is stopped
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} turning gear
+{% do start, Start %} turning gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -75,7 +75,7 @@ Start turning gear
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} cooling systems
+{% do secure, Secure %} cooling systems
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -98,7 +98,7 @@ Secure:
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} turning gear
+{% do secure, Secure %} turning gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -118,7 +118,7 @@ Disengage turning gear
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} Lubricating Systems
+{% do secure, Secure %} Lubricating Systems
 {% endcapture %}
 {{ behavior | markdownify }}
 

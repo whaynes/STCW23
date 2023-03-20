@@ -29,7 +29,7 @@ Aboard ship, in the laboratory, or in an approved simulator given access to prop
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} incoming generator and raise voltage
+{% do start, Start %} incoming generator and raise voltage
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -55,7 +55,7 @@ Adjust voltage to system line voltage
 <tr><td>
 
 {% capture behavior %}
-{% do Synchronize, adjust %} incoming generator with bus
+{% do adjust, Synchronize %} incoming generator with bus
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -79,7 +79,7 @@ Turn off synchroscope
 <tr><td>
 
 {% capture behavior %}
-{% do Adjust, adjust %} load on incoming generator
+{% do adjust, Adjust %} load on incoming generator
 {% endcapture %}
 {{ behavior | markdownify }}
 

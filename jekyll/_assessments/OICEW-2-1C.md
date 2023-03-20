@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given a hand die, pr
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} to make an external thread on 1/2" pipe
+{% do plan, Plan %} to make an external thread on 1/2" pipe
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ In a workshop/laboratory or other safe working environment, given a hand die, pr
 <tr><td>
 
 {% capture behavior %}
-{% do Use tools, usetools %} to {% do Fabricate, fabricate %} an external thread on the 1/2" pipe with the axis of the pipe and thread co-linear
+{% do usetools, Use tools %} to {% do fabricate, Fabricate %} an external thread on the 1/2" pipe with the axis of the pipe and thread co-linear
 {% endcapture %}
 {{ behavior | markdownify }}
 

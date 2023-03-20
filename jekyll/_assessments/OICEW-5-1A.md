@@ -29,7 +29,7 @@ Aboard ship at steering room station or in an approved simulator.
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} steering gear is ready for operation
+{% do check, Check %} steering gear is ready for operation
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -52,7 +52,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-Establish and {% do test, evaluateinspecttest %} communications with bridge
+Establish and {% do evaluateinspecttest, test %} communications with bridge
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -72,7 +72,7 @@ Use correct procedures and terminology
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} and {% do Test, evaluateinspecttest %} each motor and pump
+{% do start, Start %} and {% do evaluateinspecttest, Test %} each motor and pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -100,7 +100,7 @@ Note any unusual operation, noises or leakage
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} alternate power sources
+{% do check, Check %} alternate power sources
 {% endcapture %}
 {{ behavior | markdownify }}
 

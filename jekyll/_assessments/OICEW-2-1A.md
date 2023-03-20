@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given a drilling mac
 <tr><td>
 
 {% capture behavior %}
-{% do Use Tools, usetools %} to {% do Fabricate, fabricate %} a 5/16" diameter drilled hole
+{% do usetools, Use Tools %} to {% do fabricate, Fabricate %} a 5/16" diameter drilled hole
 {% endcapture %}
 {{ behavior | markdownify }}
 

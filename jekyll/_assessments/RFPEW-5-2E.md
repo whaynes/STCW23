@@ -29,7 +29,7 @@ Aboard a ship, in port or underway, or in an approved simulator or laboratory, g
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} and {% do Describe, describeequipment %} components of boiler burner and register
+{% do identify, Identify %} and {% do describeequipment, Describe %} components of boiler burner and register
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -56,7 +56,7 @@ Identify:
 <tr><td>
 
 {% capture behavior %}
-{% do Change Over, shiftchangeover %} burner
+{% do shiftchangeover, Change Over %} burner
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,7 +88,7 @@ Remove dirty burner and drain burner of residual fuel oil
 <tr><td>
 
 {% capture behavior %}
-{% do Clean, clean %} and {% do Maintain, maintain %} burner
+{% do clean, Clean %} and {% do maintain, Maintain %} burner
 {% endcapture %}
 {{ behavior | markdownify }}
 

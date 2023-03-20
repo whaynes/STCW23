@@ -29,7 +29,7 @@ Aboard ship or in workshop, given a centrifugal pump and other equipment, manual
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} and {% do Lock-out, lockouttagout %} the split case centrifugal pump
+{% do secure, Secure %} and {% do lockouttagout, Lock-out %} the split case centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Aboard ship or in workshop, given a centrifugal pump and other equipment, manual
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} the pump
+{% do disassemble, Disassemble %} the pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -65,7 +65,7 @@ follow disassembly procedure in the laboratory manual
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% do evaluateinspecttest, Inspect %} all parts for wear and deterioration
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,7 +88,7 @@ Check the following:
 <tr><td>
 
 {% capture behavior %}
-{% do Repair, repair %} centrifugal pump
+{% do repair, Repair %} centrifugal pump
 
 * replace mechanical seal 
 * lubricate grease lubricated
@@ -111,7 +111,7 @@ Check the following:
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} centrifugal pump
+{% do reassemble, Reassemble %} centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -131,7 +131,7 @@ Adjust seals/gaskets as necessary
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} centrifugal pump
+{% do evaluateinspecttest, Test %} centrifugal pump
 {% endcapture %}
 {{ behavior | markdownify }}
 

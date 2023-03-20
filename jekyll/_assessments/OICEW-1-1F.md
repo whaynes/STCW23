@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given proper tools a
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} a welded joint visually
+{% do check, Check %} a welded joint visually
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} the valves and equipment associated with the purifier unit
+{% do identify, Identify %} the valves and equipment associated with the purifier unit
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -52,7 +52,7 @@ Identify:
 <tr><td>
 
 {% capture behavior %}
-{% do Line-up, lineup %} purifier unit
+{% do lineup, Line-up %} purifier unit
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -70,7 +70,7 @@ Line up correct valves from suction to discharge
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} the purifier
+{% do start, Start %} the purifier
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -98,7 +98,7 @@ Verify:
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} the purifier until conditions stabilize
+{% do monitor, Monitor %} the purifier until conditions stabilize
 {% endcapture %}
 {{ behavior | markdownify }}
 

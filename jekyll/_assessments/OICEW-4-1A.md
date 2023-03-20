@@ -29,7 +29,7 @@ Aboard ship, having a main propulsion machinery of 750 kW or more, while underwa
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} uptakes
+{% do check, Check %} uptakes
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} steering gear
+{% do check, Check %} steering gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -76,7 +76,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} shaft alley
+{% do check, Check %} shaft alley
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -98,7 +98,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} operating pumps and essential stand by units
+{% do check, Check %} operating pumps and essential stand by units
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -121,7 +121,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine room bilges
+{% do check, Check %} engine room bilges
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -143,7 +143,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} fire room
+{% do check, Check %} fire room
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -169,7 +169,7 @@ Check status of stand-by units
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} main and auxiliary condensers
+{% do check, Check %} main and auxiliary condensers
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -198,7 +198,7 @@ Determine line-up of:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} fresh water system
+{% do check, Check %} fresh water system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -222,7 +222,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} control console status
+{% do check, Check %} control console status
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -244,7 +244,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} main engine
+{% do check, Check %} main engine
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -269,7 +269,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} electrical generation
+{% do check, Check %} electrical generation
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -292,7 +292,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} refrigeration equipment
+{% do check, Check %} refrigeration equipment
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -314,7 +314,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} fuel and water tanks
+{% do check, Check %} fuel and water tanks
 {% endcapture %}
 {{ behavior | markdownify }}
 

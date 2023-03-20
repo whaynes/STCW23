@@ -29,7 +29,7 @@ Aboard ship or in a workshop, given access to 3-phase electrical AC motor and co
 <tr><td>
 
 {% capture behavior %}
-{% do Measure, evaluateinspecttest %} motor insulation resistance at motor controller
+{% do evaluateinspecttest, Measure %} motor insulation resistance at motor controller
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -72,7 +72,7 @@ Correct reading to 40 °C using nomograph or correction chart.
 <tr><td>
 
 {% capture behavior %}
-{% do Evaluate, evaluate %} insulation resistance value
+{% do evaluate, Evaluate %} insulation resistance value
 {% endcapture %}
 {{ behavior | markdownify }}
 

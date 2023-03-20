@@ -29,7 +29,7 @@ Aboard ship, in the laboratory, or in an approved simulator given access to prop
 <tr><td>
 
 {% capture behavior %}
-{% do Change over, shiftchangeover %} a basket-type strainer to a clean basket
+{% do shiftchangeover, Change over %} a basket-type strainer to a clean basket
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -52,7 +52,7 @@ Aboard ship, in the laboratory, or in an approved simulator given access to prop
 <tr><td>
 
 {% capture behavior %}
-Remove, {% do inspect, evaluateinspecttest %} and {% do clean, clean %} the out-of-service basket
+Remove, {% do evaluateinspecttest, inspect %} and {% do clean, clean %} the out-of-service basket
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Remove, {% do inspect, evaluateinspecttest %} and {% do clean, clean %} the out-
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} the strainer basket and lid
+{% do reassemble, Reassemble %} the strainer basket and lid
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ Aboard ship or in workshop, given a piping diagram and other equipment needed to
 <tr><td>
 
 {% capture behavior %}
-{% do Lockout/tagout, lockouttagout %} valve manifold
+{% do lockouttagout, Lockout/tagout %} valve manifold
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Relieve pressure and drain section
 <tr><td>
 
 {% capture behavior %}
-{% do Use tools, usetools %} to open up piping for inspection
+{% do usetools, Use tools %} to open up piping for inspection
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Use:
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} and {% do Clean, clean %} pipe and manifold
+{% do evaluateinspecttest, Inspect %} and {% do clean, Clean %} pipe and manifold
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -95,7 +95,7 @@ Clean and prepare joints for reassembly
 <tr><td>
 
 {% capture behavior %}
-{% do Use tools, usetools %} and proper joint materials to close up piping system
+{% do usetools, Use tools %} and proper joint materials to close up piping system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -119,7 +119,7 @@ Use:
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} system to identify leaks
+{% do evaluateinspecttest, Test %} system to identify leaks
 {% endcapture %}
 {{ behavior | markdownify }}
 

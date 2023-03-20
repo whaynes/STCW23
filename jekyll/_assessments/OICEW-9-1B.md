@@ -29,7 +29,7 @@ Aboard ship or in an approved simulator, given access to a sewage waste treatmen
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} and {% do Describe, describeequipment %} the visible components of the msd and lift station
+{% do identify, Identify %} and {% do describeequipment, Describe %} the visible components of the msd and lift station
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -57,7 +57,7 @@ Identify and describe at least the following:
 <tr><td>
 
 {% capture behavior %}
-{% do Trace, trace %} the discharge piping of the msd
+{% do trace, Trace %} the discharge piping of the msd
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -75,7 +75,7 @@ Trace system in auxiliary machinery room only
 <tr><td>
 
 {% capture behavior %}
-{% do Describe, describeaction %} the procedure to start and secure the sewage treatment plant
+{% do describeaction, Describe %} the procedure to start and secure the sewage treatment plant
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -94,7 +94,7 @@ Trace system in auxiliary machinery room only
 <tr><td>
 
 {% capture behavior %}
-{% do Apply regulations, applyregulations %} to the operation of the MSD
+{% do applyregulations, Apply regulations %} to the operation of the MSD
 {% endcapture %}
 {{ behavior | markdownify }}
 

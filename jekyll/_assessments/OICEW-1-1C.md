@@ -29,7 +29,7 @@ In a workshop/laboratory or other safe working environment, given proper tools, 
 <tr><td>
 
 {% capture behavior %}
-{% do Use Tools, usetools %} to fuse two steel plates using electric arc welding process
+{% do usetools, Use Tools %} to fuse two steel plates using electric arc welding process
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Weld according to standard welding procedure
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} resulting weld
+{% do evaluateinspecttest, Inspect %} resulting weld
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Trace, trace %} one or more of the following systems,
+{% do trace, Trace %} one or more of the following systems,
 
 * lube oil service system
 * fuel oil service system
@@ -54,8 +54,8 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-* {% do describe, describeequipment %} the purpose of the system
-* {% do Identify, identify %} and {% do describe, describeequipment %} any system components selected by the instructor
+* {% do describeequipment, describe %} the purpose of the system
+* {% do identify, Identify %} and {% do describeequipment, describe %} any system components selected by the instructor
 {% endcapture %}
 {{ behavior | markdownify }}
 

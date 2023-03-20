@@ -29,7 +29,7 @@ On board ship or in laboratory
 <tr><td>
 
 {% capture behavior %}
-as part of a team, {% do Plan, plan %}  a fuel transfer operation
+as part of a team, {% do plan, Plan %}  a fuel transfer operation
 
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -74,7 +74,7 @@ transfer fuel
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} from fuel transfer operations
+{% do secure, Secure %} from fuel transfer operations
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ In an approved simulator or aboard a ship in port or at anchor, given access to 
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} steam to main engine
+{% do secure, Secure %} steam to main engine
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Secure main and bulkhead stops and guardian valve
 <tr><td>
 
 {% capture behavior %}
-{% do Place into service, placeintoservice %} jacking gear
+{% do placeintoservice, Place into service %} jacking gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -69,7 +69,7 @@ Hang _jacking gear engaged_ sign
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} main air ejector and gland seal
+{% do secure, Secure %} main air ejector and gland seal
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -89,7 +89,7 @@ Secure air ejector before gland seal
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} main condensate system
+{% do secure, Secure %} main condensate system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -107,7 +107,7 @@ Monitor hotwell and dc heater level
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} main engine until cool
+{% do monitor, Monitor %} main engine until cool
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -125,7 +125,7 @@ Continue until LP casing temperature is about 150° F
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} main circ. system
+{% do secure, Secure %} main circ. system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -143,7 +143,7 @@ Continue until LP casing temperature is about 150° F
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} jacking gear
+{% do secure, Secure %} jacking gear
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -161,7 +161,7 @@ Remove _jacking gear engaged_ sign
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} main lube oil system
+{% do secure, Secure %} main lube oil system
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,14 +29,14 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} an oil-fired auxiliary boiler
+{% do monitor, Monitor %} an oil-fired auxiliary boiler
 {% endcapture %}
 {{ behavior | markdownify }}
 
 </td><td>
 
 {% capture standard %}
-{% do check, Check %} as applicable:
+{% do Check, check %} as applicable:
 
 * steam drum pressure
 * steam water level
@@ -60,7 +60,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} an auxiliary boiler using automatic and, when available, manual controls
+{% do operate, Operate %} an auxiliary boiler using automatic and, when available, manual controls
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -81,7 +81,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Respond, respondtoalarm %} to high and low boiler level alarms as required
+{% do respondtoalarm, Respond %} to high and low boiler level alarms as required
 {% endcapture %}
 {{ behavior | markdownify }}
 

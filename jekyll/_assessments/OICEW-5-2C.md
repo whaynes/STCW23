@@ -29,7 +29,7 @@ In an approved simulator or aboard a ship, given access to a main boiler.
 <tr><td>
 
 {% capture behavior %}
-{% do Describe, describeequipment %} purpose of boiler blowdown
+{% do describeequipment, Describe %} purpose of boiler blowdown
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ Aboard ship or in workshop, given one of the following types of valves: safety v
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} a globe valve
+{% do disassemble, Disassemble %} a globe valve
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Remove old packing from stuffing box
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} valve
+{% do evaluateinspecttest, Inspect %} valve
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -67,7 +67,7 @@ Blue-in valve disk and seat
 <tr><td>
 
 {% capture behavior %}
-{% do Repair, repair %} valve as necessary
+{% do repair, Repair %} valve as necessary
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -91,7 +91,7 @@ Take up on valve stuffing box gland
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} valve
+{% do reassemble, Reassemble %} valve
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ In an approved simulator, laboratory, or aboard a ship, given access to a boiler
 <tr><td>
 
 {% capture behavior %}
-{% do Describe, describeaction %} the purpose of boiler water testing
+{% do describeaction, Describe %} the purpose of boiler water testing
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Describes the consequences of failure to maintain boiler water quality
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} the boiler water
+{% do evaluateinspecttest, Test %} the boiler water
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -74,7 +74,7 @@ Conduct tests in accordance with vendor's recommendations
 <tr><td>
 
 {% capture behavior %}
-{% do Evaluate, evaluateinspecttest %} the test results
+{% do evaluateinspecttest, Evaluate %} the test results
 {% endcapture %}
 {{ behavior | markdownify }}
 

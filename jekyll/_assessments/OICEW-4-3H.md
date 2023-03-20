@@ -29,7 +29,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Prepare, prepare %} to secure main gas turbine
+{% do prepare, Prepare %} to secure main gas turbine
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -48,7 +48,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} main gas turbine engines 
+{% do secure, Secure %} main gas turbine engines 
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -69,7 +69,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %}  alarms
+{% do monitor, Monitor %}  alarms
 {% endcapture %}
 {{ behavior | markdownify }}
 

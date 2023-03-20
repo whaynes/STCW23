@@ -29,7 +29,7 @@ Aboard ship, in the laboratory, or in an approved simulator given access to prop
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} for electrical readiness
+{% do check, Check %} for electrical readiness
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -50,7 +50,7 @@ Look for:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} system for operational readiness
+{% do check, Check %} system for operational readiness
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Look for:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} for adequate lubrication
+{% do check, Check %} for adequate lubrication
 {% endcapture %}
 {{ behavior | markdownify }}
 

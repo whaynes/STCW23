@@ -29,7 +29,7 @@ Aboard ship, or in an approved simulator, given the engineering log book, the pe
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} a bilge pumping operation
+{% do plan, Plan %} a bilge pumping operation
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -53,7 +53,7 @@ Insure sufficient room in slop tank, if used
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} and {% do Start, start %} the bilge pump
+{% do lineup, Line up %} and {% do start, Start %} the bilge pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Prime bilge pump if necessary
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} the bilge pump or ows
+{% do operate, Operate %} the bilge pump or ows
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -97,7 +97,7 @@ Maintain strainers as necessary
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the bilge pump when pumping operation is complete
+{% do secure, Secure %} the bilge pump when pumping operation is complete
 {% endcapture %}
 {{ behavior | markdownify }}
 

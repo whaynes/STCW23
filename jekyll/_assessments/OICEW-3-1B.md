@@ -29,7 +29,7 @@ Aboard ship, in a workshop, or using a appropriate simulator, given the schemati
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} circuit
+{% do evaluateinspecttest, Inspect %} circuit
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -49,7 +49,7 @@ Note symptoms of faulty operation
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} possible causes of observed symptoms
+{% do identify, Identify %} possible causes of observed symptoms
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -67,7 +67,7 @@ Note symptoms of faulty operation
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} controller circuits to locate faults
+{% do evaluateinspecttest, Test %} controller circuits to locate faults
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -85,7 +85,7 @@ Use meters to systematically discover cause of fault
 <tr><td>
 
 {% capture behavior %}
-{% do Repair, repair %} system to clear fault and restore normal operation
+{% do repair, Repair %} system to clear fault and restore normal operation
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} for sufficient electrical capacity
+{% do check, Check %} for sufficient electrical capacity
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Prepare, prepare %} main gas turbine for start
+{% do prepare, Prepare %} main gas turbine for start
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -67,7 +67,7 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} main gas turbine engines
+{% do start, Start %} main gas turbine engines
 {% endcapture %}
 {{ behavior | markdownify }}
 

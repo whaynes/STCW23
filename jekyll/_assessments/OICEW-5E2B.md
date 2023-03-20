@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} Ballasting operation
+{% do plan, Plan %} Ballasting operation
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -48,7 +48,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} Ballast system to fill the ballast tank
+{% do lineup, Line up %} Ballast system to fill the ballast tank
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -68,7 +68,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Line up, lineup %} Ballast system to empty the ballast tank
+{% do lineup, Line up %} Ballast system to empty the ballast tank
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,26 +88,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} and {% do operate, operate %} ballast pump
-{% endcapture %}
-{{ behavior | markdownify }}
-
-</td><td>
-
-{% capture standard %}
-* Monitor tank level
-* Stop pump when tank is full or desired draft is achieved
-{%endcapture %}
-{{ standard | markdownify }}
-
-</td></tr>
-
-
-
-<tr><td>
-
-{% capture behavior %}
-{% do Start, start %} and {% do operate, operate %} ballast pump
+{% do start, Start %} and {% do operate, operate %} ballast pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -126,7 +107,26 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} ballast pump and ballast system
+{% do start, Start %} and {% do operate, operate %} ballast pump
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+* Monitor tank level
+* Stop pump when tank is empty or desired draft is achieved
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+{% do secure, Secure %} ballast pump and ballast system
 {% endcapture %}
 {{ behavior | markdownify }}
 

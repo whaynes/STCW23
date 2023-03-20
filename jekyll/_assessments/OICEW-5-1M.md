@@ -29,7 +29,7 @@ In an approved simulator or aboard a ship underway, given access to a main steam
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} turbine instrumentation available at console
+{% do identify, Identify %} turbine instrumentation available at console
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -54,7 +54,7 @@ Identify these items:
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} turbine and reduction gears while underway
+{% do monitor, Monitor %} turbine and reduction gears while underway
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -79,7 +79,7 @@ Monitor these items:
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} turbine exhaust system
+{% do monitor, Monitor %} turbine exhaust system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -103,7 +103,7 @@ Monitor these items:
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} the turbine lubrication system
+{% do monitor, Monitor %} the turbine lubrication system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -125,7 +125,7 @@ Monitor these items
 <tr><td>
 
 {% capture behavior %}
-{% do Operate, operate %} lube oil cooler
+{% do operate, Operate %} lube oil cooler
 {% endcapture %}
 {{ behavior | markdownify }}
 

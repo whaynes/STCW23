@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Prepare, prepare %} to replace flange gasket.
+{% do prepare, Prepare %} to replace flange gasket.
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -50,7 +50,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Fabricate, fabricate %} a new flange gasket
+{% do fabricate, Fabricate %} a new flange gasket
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -70,7 +70,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} flange with new gasket
+{% do reassemble, Reassemble %} flange with new gasket
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -92,7 +92,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} flange for leakage
+{% do check, Check %} flange for leakage
 {% endcapture %}
 {{ behavior | markdownify }}
 

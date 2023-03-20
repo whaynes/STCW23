@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship and given access 
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the refrigerant circuit
+{% do secure, Secure %} the refrigerant circuit
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Observe suction pressure
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the refrigeration compressor
+{% do secure, Secure %} the refrigeration compressor
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -73,7 +73,7 @@ Close compressor suction and discharge valves
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} associated equipment
+{% do secure, Secure %} associated equipment
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -93,7 +93,7 @@ Secure box solenoid, if shutting down
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the cooling water supply
+{% do secure, Secure %} the cooling water supply
 {% endcapture %}
 {{ behavior | markdownify }}
 

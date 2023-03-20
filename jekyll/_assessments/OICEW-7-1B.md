@@ -29,7 +29,7 @@ Aboard ship, in the laboratory, or in an approved simulator given access to prop
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} mechanical condition of engine
+{% do check, Check %} mechanical condition of engine
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -50,7 +50,7 @@ Check:
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine lubrication
+{% do check, Check %} engine lubrication
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -68,7 +68,7 @@ Check dipstick for sufficient oil
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine cooling
+{% do check, Check %} engine cooling
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -88,7 +88,7 @@ Check no obstructions blocking cooling fan
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine fuel system
+{% do check, Check %} engine fuel system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -108,7 +108,7 @@ Verify alignment of fuel system
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine starting system
+{% do check, Check %} engine starting system
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -134,7 +134,7 @@ For Electric start:
 <tr><td>
 
 {% capture behavior %}
-{% do Start, start %} engine
+{% do start, Start %} engine
 {% endcapture %}
 {{ behavior | markdownify }}
 

@@ -29,7 +29,7 @@ Aboard ship or in workshop, given a gear pump and other equipment, manuals and s
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} gear pump
+{% do disassemble, Disassemble %} gear pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Aboard ship or in workshop, given a gear pump and other equipment, manuals and s
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} all parts for wear and deterioration
+{% do evaluateinspecttest, Inspect %} all parts for wear and deterioration
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -69,7 +69,7 @@ Check the following clearances:
 <tr><td>
 
 {% capture behavior %}
-{% do Repair, repair %} gear pump
+{% do repair, Repair %} gear pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -87,7 +87,7 @@ Replace parts as necessary to bring pump to manufacturers specifications
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} gear pump
+{% do reassemble, Reassemble %} gear pump
 {% endcapture %}
 {{ behavior | markdownify }}
 

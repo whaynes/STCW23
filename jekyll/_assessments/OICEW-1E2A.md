@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop
 <tr><td>
 
 {% capture behavior %}
-{% do Change over, shiftchangeover %} propulsion throttle control
+{% do shiftchangeover, Change over %} propulsion throttle control
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -49,7 +49,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop
 <tr><td>
 
 {% capture behavior %}
-{% do Change over, shiftchangeover %} an engine cooling system control
+{% do shiftchangeover, Change over %} an engine cooling system control
 
 
 {% endcapture %}
@@ -70,7 +70,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop
 <tr><td>
 
 {% capture behavior %}
-{% do Change over, shiftchangeover %} the bilge, ballast, or firemain system control
+{% do shiftchangeover, Change over %} the bilge, ballast, or firemain system control
 {% endcapture %}
 {{ behavior | markdownify }}
 

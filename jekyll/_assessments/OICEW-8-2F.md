@@ -29,7 +29,7 @@ Aboard ship or in workshop, given a heat exchanger and other equipment needed to
 <tr><td>
 
 {% capture behavior %}
-{% do Disassemble, disassemble %} heat exchanger
+{% do disassemble, Disassemble %} heat exchanger
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ Aboard ship or in workshop, given a heat exchanger and other equipment needed to
 <tr><td>
 
 {% capture behavior %}
-{% do Inspect, evaluateinspecttest %} heat exchanger
+{% do evaluateinspecttest, Inspect %} heat exchanger
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -67,7 +67,7 @@ Note indications of corrosion, erosion, and fouling
 <tr><td>
 
 {% capture behavior %}
-{% do Maintain, maintain %} heat exchanger
+{% do maintain, Maintain %} heat exchanger
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -89,7 +89,7 @@ As necessary:
 <tr><td>
 
 {% capture behavior %}
-{% do Reassemble, reassemble %} heat exchanger
+{% do reassemble, Reassemble %} heat exchanger
 {% endcapture %}
 {{ behavior | markdownify }}
 

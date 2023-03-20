@@ -29,7 +29,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do test, evaluateinspecttest %} low lube oil shutdown device
+{% do evaluateinspecttest, test %} low lube oil shutdown device
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -49,7 +49,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-{% do test, evaluateinspecttest %} high jacket water temperature shutdown.
+{% do evaluateinspecttest, test %} high jacket water temperature shutdown.
 {% endcapture %}
 {{ behavior | markdownify }}
 

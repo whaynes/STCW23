@@ -29,7 +29,7 @@ In a workshop/ laboratory or other safe working environment, given 3/8 inch copp
 <tr><td>
 
 {% capture behavior %}
-{% do Plan, plan %} to bend a copper tube to meet job specifications
+{% do plan, Plan %} to bend a copper tube to meet job specifications
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,7 +47,7 @@ In a workshop/ laboratory or other safe working environment, given 3/8 inch copp
 <tr><td>
 
 {% capture behavior %}
-{% do Use tools, usetools %} to bend a tube to meet job specifications
+{% do usetools, Use tools %} to bend a tube to meet job specifications
 {% endcapture %}
 {{ behavior | markdownify }}
 

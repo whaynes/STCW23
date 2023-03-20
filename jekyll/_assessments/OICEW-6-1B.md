@@ -29,7 +29,7 @@ Using an approved simulator or aboard a ship, given piping diagram for the vesse
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} fire pumps and associated controls available in machinery spaces
+{% do identify, Identify %} fire pumps and associated controls available in machinery spaces
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -51,7 +51,7 @@ Identify control switches
 <tr><td>
 
 {% capture behavior %}
-{% do Line-up, lineup %} and {% do Start, start %} a fire pump
+{% do lineup, Line-up %} and {% do start, Start %} a fire pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -71,7 +71,7 @@ Start with discharge valve closed
 <tr><td>
 
 {% capture behavior %}
-{% do Monitor, monitor %} the fire pump
+{% do monitor, Monitor %} the fire pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -89,7 +89,7 @@ Monitor discharge pressure
 <tr><td>
 
 {% capture behavior %}
-{% do Secure, secure %} the fire pump
+{% do secure, Secure %} the fire pump
 {% endcapture %}
 {{ behavior | markdownify }}
 
