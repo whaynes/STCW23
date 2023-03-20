@@ -29,7 +29,7 @@ On a ship underway or a full mission ship simulator during an exercise at sea.
 <tr><td>
 
 {% capture behavior %}
-Properly relieve the OICNW watch at sea in accordance with good seamanship and STCW Code Section <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2, Part 4-1, Paragraphs 19 to 23') %>.
+Properly relieve the OICNW watch at sea in accordance with good seamanship and STCW Code Section {% imagelink STCW_Chap_VIII.pdf , A-VIII/2, Part 4-1, Paragraphs 19 to 23  %}.
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -59,7 +59,8 @@ Properly relieve the OICNW watch at sea in accordance with good seamanship and S
 <tr><td>
 
 {% capture behavior %}
-Properly hand over a RFPNW port watch in accordance with the ordinary practice of good seamanship and STCW Code Section <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2, Part 4-1, Paragraphs 19 to 23') %>.
+Properly hand over a RFPNW port watch in accordance with the ordinary practice of good seamanship and STCW Code Section 
+{% imagelink STCW_Chap_VIII.pdf , A-VIII/2, Part 4-1, Paragraphs 19 to 23  %}.
 {% endcapture %}
 {{ behavior | markdownify }}
 

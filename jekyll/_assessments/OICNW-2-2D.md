@@ -29,7 +29,9 @@ On a ship at anchor or a full mission ship simulator during an exercise at ancho
 <tr><td>
 
 {% capture behavior %}
-Properly keep a safe anchor watch in accordance with STCW Code Section <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2, Part 4-1, Paragraph 51') %>.
+Properly keep a safe anchor watch in accordance with STCW Code Section {% imagelink STCW_Chap_VIII.pdf , A-VIII/2, Part 4-1, Paragraph 51 %}.
+
+
 {% endcapture %}
 {{ behavior | markdownify }}
 

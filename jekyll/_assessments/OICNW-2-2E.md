@@ -29,7 +29,9 @@ On a ship at sea or a full mission ship simulator during an exercise at sea, whe
 <tr><td>
 
 {% capture behavior %}
-Recognize the restricted visibility take the appropriate action to navigate in restricted visibility in accordance with the COLREGS in accordance with Section STCW Code <%=imagelink('STCW_Chap_VIII' , 'A-VIII/2, Part 4-1, Paragraph 45') %>.
+Recognize the restricted visibility take the appropriate action to navigate in restricted visibility in accordance with the COLREGS in accordance with Section STCW Code {% imagelink STCW_Chap_VIII.pdf , A-VIII/2, Part 4-1, Paragraph 45  %}.
+
+
 {% endcapture %}
 {{ behavior | markdownify }}
 

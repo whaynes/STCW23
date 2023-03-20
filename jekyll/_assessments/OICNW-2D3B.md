@@ -29,7 +29,7 @@ On a vessel, or on a simulator, or in a navigation laboratory, when given a port
 <tr><td>
 
 {% capture behavior %}
-prepare a safe and environmentally sound voyage plan, taking into account paragraph 3 of the annex to  <%=imagelink('IMO_Resolution_A.893(21).pdf','*IMO Assembly Resolution A893(21)*')%>
+Prepare a safe and environmentally sound voyage plan, taking into account paragraph 3 of the annex to  {% imagelink IMO_Resolution_A.893(21).pdf, *IMO Assembly Resolution A893(21)* %}
 
 
 

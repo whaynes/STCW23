@@ -29,7 +29,7 @@ On a ship underway or a full mission ship simulator during an exercise at sea.
 <tr><td>
 
 {% capture behavior %}
-Notify the master as instructed, and when in doubt of other vessels’ intentions, or in any circumstances that affect the routine navigation of the vessel in accordance with STCW Code Section <%=imagelink('STCW_Chap_VIII' , 'A-VIII/2, Part 4-1, Paragraph 40') %>.
+Notify the master as instructed, and when in doubt of other vessels’ intentions, or in any circumstances that affect the routine navigation of the vessel in accordance with STCW Code Section {% imagelink STCW_Chap_VIII.pdf , A-VIII/2, Part 4-1, Paragraph 40  %}.
 {% endcapture %}
 {{ behavior | markdownify }}
 

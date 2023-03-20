@@ -29,7 +29,7 @@ On a ship underway or a full mission ship simulator during an exercise at sea.
 <tr><td>
 
 {% capture behavior %}
-Properly keep a safe navigational watch in accordance with STCW Code Section <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2, Part 4-1, Paragraphs 24 to 50') %>.
+Properly keep a safe navigational watch in accordance with STCW Code Section {% imagelink STCW_Chap_VIII.pdf , A-VIII/2, Part 4-1, Paragraphs 24 to 50  %}.
 {% endcapture %}
 {{ behavior | markdownify }}
 
