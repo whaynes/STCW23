@@ -29,7 +29,7 @@ On a ship, or a full mission ship simulator, when given a voyage plan.
 <tr><td>
 
 {% capture behavior %}
-execute the voyage plan in accordance with paragraph 4 and 5 of the annex to [*IMO Assembly Resolution A893(21)*](IMO_voyage_plan). 
+execute the voyage plan in accordance with paragraph 4 and 5 of the annex to {% imagelink IMO_Resolution_A.893(21).pdf, *IMO Assembly Resolution A893(21)*%}. 
 {% endcapture %}
 {{ behavior | markdownify }}
 

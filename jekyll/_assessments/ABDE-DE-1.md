@@ -63,4 +63,4 @@ This assessment supports KUP {% table 25.html#ABD-C1.1, ABD-C1.1 %}
 
 ***
 
-Also satisfies equivalent requirement for AB-Engine:  [ABE-A8.2]({{site.baseurl}}/tables/35.html#ABE-A8.2)
+Also satisfies equivalent requirement for AB-Engine:    KUP {% table 35#ABE-C2.1, C2.1 %}, Task {% task 8G1B, ABE 8.1.B %},

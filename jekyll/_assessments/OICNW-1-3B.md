@@ -57,4 +57,4 @@ This assessment supports KUP {% table 21.html#OICNW-A1.03, OICNW-A1.03 %}
 
 ***
 
-Shall be completed by the end of [MT-4371](mt-4371)
+Shall be completed by the end of {% course MT-4371 %}

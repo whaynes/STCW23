@@ -61,4 +61,4 @@ This assessment supports KUP {% table 21.html#OICNW-A1.08, OICNW-A1.08 %}
 
 ***
 
-or [MT-3372](mt-3372). Shall be completed by the end of [MT-4371](mt-4371).
+or  {% course MT-3372 %}. Shall be completed by the end of [ {% course MT-4371 %}.

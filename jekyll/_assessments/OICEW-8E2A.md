@@ -123,4 +123,4 @@ This assessment supports KUP {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
 
 <%= imageref( "redi-clamp", {nosize: true}) %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

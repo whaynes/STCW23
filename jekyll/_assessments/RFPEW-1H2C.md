@@ -105,4 +105,4 @@ This assessment supports KUP {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

@@ -36,7 +36,7 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 </td><td>
 
 {% capture standard %}
-[Check](guidelines#check), as applicable:
+{% do check, Check %} as applicable:
 
 * steam drum pressure
 * steam water level
@@ -114,4 +114,4 @@ This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

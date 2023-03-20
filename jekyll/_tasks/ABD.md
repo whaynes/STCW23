@@ -36,13 +36,13 @@ subtitle: able seafarer deck
 | 24. | {% task 4J6A, ABD 4.6.A %} | Demonstrate use of anchoring equipment | {% course MT-4132 %}|
 | 25. | {% task 4J6B, ABD 4.6.B %} | Describe anchor chain markings | {% course MT-4132 %}|
 | 26. | {% task 4J6C, ABD 4.6.C %} | Describe emergency anchoring procedures | {% course MT-4132 %}|
-| 27. | {% task 4J7A, ABD 4.7.A %} | Demonstrate rigging and unrigging a bosun's chair ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABD-4J7A %} in {% course MT-2231 %} <br/> {% course MT-2231 %}|
+| 27. | {% task 4J7A, ABD 4.7.A %} | Demonstrate rigging and unrigging a bosun's chair  {% image new.jpg %}  | {% assessment ABD-4J7A %} in {% course MT-2231 %} <br/> {% course MT-2231 %}|
 | 28. | {% task 4J8A, ABD 4.8.A %} | Describe rigging and unrigging pilot ladder | {% course MT-2231 %}|
 | 29. | {% task 4J8B, ABD 4.8.B %} | Describe rigging and unrigging rat guards | {% course MT-2231 %}|
 | 30. | {% task 4J8C, ABD 4.8.C %} | Demonstrate rigging and unrigging a gangway | {% course MT-2231 %}|
-| 31. | {% task 4J9A, ABD 4.9.A %} | Demonstrate marlinspike seamanship ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} |
+| 31. | {% task 4J9A, ABD 4.9.A %} | Demonstrate marlinspike seamanship  {% image new.jpg %}   {% image new.jpg %}   {% image new.jpg %}  | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} |
 | 32. | {% task 4J10A, ABD 4.10.A %} | Demonstrate use of cargo-handling gear and equipment access arrangements | {% course CC-MANT %}<br/> {% course MT-2231 %}<br/> {% course MT-3261 %}|
-| 33. | {% task 4J11A, ABD 4.11.A %} | Trace out and describe a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ADB-4J11A %} in {% course MT-4253 %} |
+| 33. | {% task 4J11A, ABD 4.11.A %} | Trace out and describe a piping system  {% image new.jpg %}  | {% assessment ADB-4J11A %} in {% course MT-4253 %} |
 | 34. | {% task 4J12A, ABD 4.12.A %} | Demonstrate use of cargo and equipment handling gear | {% course MT-3261 %}|
 | 35. | {% task 4J13A, ABD 4.13.A %} | Identify single letter flags and describe hoisting procedures | {% course MT-3221 %}|
 | 36. | {% task 5J1A, ABD 5.1.A %} | Demonstrate working aloft | {% course ST-0999D %}|
@@ -63,7 +63,7 @@ subtitle: able seafarer deck
 | 51. | {% task 5J8A, ABD 5.8.A %} | Describe mechanical equipment safety procedures | {% course EN-1112 %}|
 | 52. | {% task 5J9A, ABD 5.9.A %} | Simulate response to hazardous material spill | {% course EN-1112 %}|
 | 53. | {% task 5J10A, ABD 5.10.A %} | Demonstrate use of PPE | {% course EN-1112 %}|
-| 54. | {% task 5J10B, ABD 5.10.B %} | Demonstrate use of a safety harness ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABD-5J10B %} in {% course ST-0999D %} |
+| 54. | {% task 5J10B, ABD 5.10.B %} | Demonstrate use of a safety harness  {% image new.jpg %}  | {% assessment ABD-5J10B %} in {% course ST-0999D %} |
 | 55. | {% task 6J1A, ABD 6.1.A %} | Describe sources of operational pollution | {% course ST-0999D %}|
 | 56. | {% task 6J1B, ABD 6.1.B %} | Describe pollution prevention procedures | {% course ST-0999D %}|
 | 57. | {% task 6J2A, ABD 6.2.A %} | Describe use of anti-pollution equipment | {% course ST-0999D %}|

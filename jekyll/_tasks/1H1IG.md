@@ -10,7 +10,7 @@ subtitle:  Monitor main gas turbine propulsion unit
 
 ### MMA Method
 
-In order to satisfy  [NVIC 07-14  Task  1.1.I(G)]({{site.baseurl}}/assets/images/nvic-07-14.pdf), MMA students must:
+In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 1.1.I(G) %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-4-3E %} *Monitor main gas turbine operation*
 
@@ -39,7 +39,7 @@ Carry out a watch routine appropriate to the duties of a rating forming part of 
 
 </td><td markdown='1'>
 
-[RFPEW-A1.2]({{site.baseurl}}/tables/34.html#RFPEW-A1.2) Engine-room watchkeeping procedures
+{% table 34#RFPEW-A1.2, RFPEW-A1.2 %} Engine-room watchkeeping procedures
 
 </td></tr>
 
@@ -66,11 +66,13 @@ the candidate monitors a main gas- turbine engine propulsion unit.
 
 <br>
 
-<div class="tooltip">Note 4
-<span class="tooltiptext">
+<div class="tooltip" markdown='1'>
+
+Note 4
+
 Not performing this task will limit the candidate’s endorsement to motor vessels and/or steam vessels.
 
-</span>
+
 </div>
 
 

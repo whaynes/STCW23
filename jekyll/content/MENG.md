@@ -2,7 +2,7 @@
 title: "Marine Engineering Curriculum" 
 ---
 	
-Modifications to this curriculum for dual major *Energy Systems Engineering* and *Marine Engineering* are found [here](ESE.html). 
+Modifications to this curriculum for dual major *Energy Systems Engineering* and *Marine Engineering* are found {% pagelink /content/ese, here %}. 
 
 
 <table  class='semester fall'>

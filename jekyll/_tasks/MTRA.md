@@ -35,7 +35,7 @@ subtitle: for all marine transportation students
 | 24. | {% task 1D7C, OICNW 1.7.C %} | Determine magnetic compass deviation | {% assessment OICNW-1-5C %} in {% course MT-4133 %} |
 | 25. | {% task 1D7D, OICNW 1.7.D %} | Determine course to steer by magnetic compass | {% assessment OICNW-1-5D %} in {% course MT-2121 %} |
 | 26. | {% task 1D7E, OICNW 1.7.E %} | Position fix by magnetic compass bearings | {% assessment OICNW-1-5E %} in {% course MT-2121 %} |
-| 27. | {% task 1D7F, OICNW 1.7.F %} | Azimuth of the sun ![]({{site.baseurl}}/assets/images/mod.jpg)  | {% assessment OICNW-1-5F %} in {% course MT-4371 %} |
+| 27. | {% task 1D7F, OICNW 1.7.F %} | Azimuth of the sun  {% image mod.jpg %}  | {% assessment OICNW-1-5F %} in {% course MT-4371 %} |
 | 28. | {% task 1D8A, OICNW 1.8.A %} | Steering gear test | {% assessment OICNW-1-6A %} in {% course MT-4371 %} |
 | 29. | {% task 1D8B, OICNW 1.8.B %} | Set weather controls | {% assessment OICNW-1-6B %} in {% course MT-4371 %} |
 | 30. | {% task 1D9, OICNW 1.9 %} | Use of meteorological instruments | {% course MT-3131 %}|
@@ -45,25 +45,25 @@ subtitle: for all marine transportation students
 | 34. | {% task 2D1B, OICNW 2.1.B %} | Identify day shapes | {% assessment OICNW-2-1B %} in {% course MT-2161 %} |
 | 35. | {% task 2D1C, OICNW 2.1.C %} | Identify sound signals | {% assessment OICNW-2-1C %} in {% course MT-2161 %} |
 | 36. | {% task 2D1D, OICNW 2.1.D %} | Determine risk of collision | {% assessment OICNW-2-1D %} in {% course MT-4253 %} |
-| 37. | {% task 2D1E, OICNW 2.1.E %} | Maneuver to avoid risk of collision - crossing ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICNW-2D1E %} in {% course MT-4253 %} |
+| 37. | {% task 2D1E, OICNW 2.1.E %} | Maneuver to avoid risk of collision - crossing  {% image new.jpg %}  | {% assessment OICNW-2D1E %} in {% course MT-4253 %} |
 | 38. | {% task 2D1F, OICNW 2.1.F %} | Maneuver to avoid risk of collision - meeting | {% assessment OICNW-2-1E %} in {% course MT-4253 %} |
 | 39. | {% task 2D1G, OICNW 2.1.G %} | Maneuver to avoid risk of collision - overtaking | {% assessment OICNW-2-1F %} in {% course MT-4253 %} |
-| 40. | {% task 2D2A, OICNW 2.2.A %} | Watch relief ![]({{site.baseurl}}/assets/images/mod.jpg)  | {% assessment OICNW-2-2A %} in {% course MT-4371 %} |
+| 40. | {% task 2D2A, OICNW 2.2.A %} | Watch relief  {% image mod.jpg %}  | {% assessment OICNW-2-2A %} in {% course MT-4371 %} |
 | 41. | {% task 2D2B, OICNW 2.2.B %} | Keep a safe navigation watch | {% assessment OICNW-2-2B %} in {% course MT-4253 %} |
 | 42. | {% task 2D2C, OICNW 2.2.C %} | Notify Master when appropriate | {% assessment OICNW-2-2C %} in {% course MT-4253 %} |
-| 43. | {% task 2D2D, OICNW 2.2.D %} | Keep a safe anchor watch ![]({{site.baseurl}}/assets/images/mod.jpg)  | {% assessment OICNW-2-2D %} in {% course MT-4253 %} |
+| 43. | {% task 2D2D, OICNW 2.2.D %} | Keep a safe anchor watch  {% image mod.jpg %}  | {% assessment OICNW-2-2D %} in {% course MT-4253 %} |
 | 44. | {% task 2D2E, OICNW 2.2.E %} | Turn over a watch | {% assessment OICNW-2-2F %} in {% course MT-4253 %} |
 | 45. | {% task 2D3A, OICNW 2.3.A %} | Voyage Planning - Appraisal | {% assessment OICNW-2-3A %} in {% course MT-4253 %} |
-| 46. | {% task 2D3B, OICNW 2.3.B %} | Voyage Planning - Planning ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICNW-2D3B %} in {% course MT-4253 %} |
+| 46. | {% task 2D3B, OICNW 2.3.B %} | Voyage Planning - Planning  {% image new.jpg %}  | {% assessment OICNW-2D3B %} in {% course MT-4253 %} |
 | 47. | {% task 2D3C, OICNW 2.3.C %} | Execute a voyage plan | {% assessment OICNW-2-3B %} in {% course MT-4253 %} |
-| 48. | {% task 2D4A, OICNW 2.4.A %} | Situational awareness ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICNW-2D4A %} in {% course MT-4253 %} |
+| 48. | {% task 2D4A, OICNW 2.4.A %} | Situational awareness  {% image new.jpg %}  | {% assessment OICNW-2D4A %} in {% course MT-4253 %} |
 | 49. | {% task 2D5A, OICNW 2.5.A %} | Navigate in restricted visibility | {% assessment OICNW-2-2E %} in {% course MT-4253 %} |
-| 50. | {% task 2D6A, OICNW 2.6.A %} | Vessel Traffic System (VTS) ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICNW-2D6A %} in {% course MT-4253 %} |
+| 50. | {% task 2D6A, OICNW 2.6.A %} | Vessel Traffic System (VTS)  {% image new.jpg %}  | {% assessment OICNW-2D6A %} in {% course MT-4253 %} |
 | 51. | {% task 2D7A, OICNW 2.7.A %} | Recognition of watch condition | {% assessment OICNW-2-3C %} in {% course MT-4253 %} |
 | 52. | {% task 2D7B, OICNW 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4253 %} |
 | 53. | {% task 2D7C, OICNW 2.7.C %} | BRM Condition III Navigation | {% assessment OICNW-2-3E %} in {% course MT-4253 %} |
 | 54. | {% task 2D7D, OICNW 2.7.D %} | BRM Condition II or III – error trapping | {% assessment OICNW-2-3F %} in {% course MT-4253 %} |
-| 55. | {% task 2D7E, OICNW 2.7.E %} | BRM Condition II or III - prioritization ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICNW-2D7E %} in {% course MT-4253 %} |
+| 55. | {% task 2D7E, OICNW 2.7.E %} | BRM Condition II or III - prioritization  {% image new.jpg %}  | {% assessment OICNW-2D7E %} in {% course MT-4253 %} |
 | 56. | {% task 2D7F, OICNW 2.7.F %} | BRM Condition II Navigation and collision avoidance | {% assessment OICNW-2-3G %} in {% course MT-4253 %} |
 | 57. | {% task 2D7G, OICNW 2.7.G %} | BRM Condition III establish a bridge team | {% assessment OICNW-2-3H %} in {% course MT-4253 %} |
 | 58. | {% task 3D1, OICNW 3.1 %} | Radar fundamentals | {% course MT-3122 %}|
@@ -154,13 +154,13 @@ subtitle: for all marine transportation students
 | 24. | {% task 4J6A, ABD 4.6.A %} | Demonstrate use of anchoring equipment | {% course MT-4132 %}|
 | 25. | {% task 4J6B, ABD 4.6.B %} | Describe anchor chain markings | {% course MT-4132 %}|
 | 26. | {% task 4J6C, ABD 4.6.C %} | Describe emergency anchoring procedures | {% course MT-4132 %}|
-| 27. | {% task 4J7A, ABD 4.7.A %} | Demonstrate rigging and unrigging a bosun's chair ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABD-4J7A %} in {% course MT-2231 %} <br/> {% course MT-2231 %}|
+| 27. | {% task 4J7A, ABD 4.7.A %} | Demonstrate rigging and unrigging a bosun's chair  {% image new.jpg %}  | {% assessment ABD-4J7A %} in {% course MT-2231 %} <br/> {% course MT-2231 %}|
 | 28. | {% task 4J8A, ABD 4.8.A %} | Describe rigging and unrigging pilot ladder | {% course MT-2231 %}|
 | 29. | {% task 4J8B, ABD 4.8.B %} | Describe rigging and unrigging rat guards | {% course MT-2231 %}|
 | 30. | {% task 4J8C, ABD 4.8.C %} | Demonstrate rigging and unrigging a gangway | {% course MT-2231 %}|
-| 31. | {% task 4J9A, ABD 4.9.A %} | Demonstrate marlinspike seamanship ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} |
+| 31. | {% task 4J9A, ABD 4.9.A %} | Demonstrate marlinspike seamanship  {% image new.jpg %}   {% image new.jpg %}   {% image new.jpg %}  | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} |
 | 32. | {% task 4J10A, ABD 4.10.A %} | Demonstrate use of cargo-handling gear and equipment access arrangements | {% course CC-MANT %}<br/> {% course MT-2231 %}<br/> {% course MT-3261 %}|
-| 33. | {% task 4J11A, ABD 4.11.A %} | Trace out and describe a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ADB-4J11A %} in {% course MT-4253 %} |
+| 33. | {% task 4J11A, ABD 4.11.A %} | Trace out and describe a piping system  {% image new.jpg %}  | {% assessment ADB-4J11A %} in {% course MT-4253 %} |
 | 34. | {% task 4J12A, ABD 4.12.A %} | Demonstrate use of cargo and equipment handling gear | {% course MT-3261 %}|
 | 35. | {% task 4J13A, ABD 4.13.A %} | Identify single letter flags and describe hoisting procedures | {% course MT-3221 %}|
 | 36. | {% task 5J1A, ABD 5.1.A %} | Demonstrate working aloft | {% course ST-0999D %}|
@@ -181,7 +181,7 @@ subtitle: for all marine transportation students
 | 51. | {% task 5J8A, ABD 5.8.A %} | Describe mechanical equipment safety procedures | {% course EN-1112 %}|
 | 52. | {% task 5J9A, ABD 5.9.A %} | Simulate response to hazardous material spill | {% course EN-1112 %}|
 | 53. | {% task 5J10A, ABD 5.10.A %} | Demonstrate use of PPE | {% course EN-1112 %}|
-| 54. | {% task 5J10B, ABD 5.10.B %} | Demonstrate use of a safety harness ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABD-5J10B %} in {% course ST-0999D %} |
+| 54. | {% task 5J10B, ABD 5.10.B %} | Demonstrate use of a safety harness  {% image new.jpg %}  | {% assessment ABD-5J10B %} in {% course ST-0999D %} |
 | 55. | {% task 6J1A, ABD 6.1.A %} | Describe sources of operational pollution | {% course ST-0999D %}|
 | 56. | {% task 6J1B, ABD 6.1.B %} | Describe pollution prevention procedures | {% course ST-0999D %}|
 | 57. | {% task 6J2A, ABD 6.2.A %} | Describe use of anti-pollution equipment | {% course ST-0999D %}|
@@ -202,31 +202,31 @@ subtitle: for all marine transportation students
 
 | No.   | NVIC Task | Description | Location |
 |:-----:|:----:|:------------|:-------:|
-| 1. | {% task 1K1A, RFPNW 1.1.A %} | Steady on a new course ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 2. | {% task 1K1B, RFPNW 1.1.B %} | Steer a course by gyro­ compass ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 1. | {% task 1K1A, RFPNW 1.1.A %} | Steady on a new course  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 2. | {% task 1K1B, RFPNW 1.1.B %} | Steer a course by gyro­ compass  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
 | 3. | {% task 1K1C, RFPNW 1.1.C %} | Steer a course by magnetic compass | {% assessment SCRB-4 %} in {% course LB-0201 %} |
-| 4. | {% task 1K2A, RFPNW 1.2.A %} | Right (starboard) rudder ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 5. | {% task 1K2B, RFPNW 1.2.B %} | Left (port) rudder ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 6. | {% task 1K2C, RFPNW 1.2.C %} | Rudder hard over ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 7. | {% task 1K2D, RFPNW 1.2.D %} | Ease the rudder ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 8. | {% task 1K2E, RFPNW 1.2.E %} | Midships the wheel ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 9. | {% task 1K2F, RFPNW 1.2.F %} | Shift your rudder ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 10. | {% task 1K2G, RFPNW 1.2.G %} | Meet her; or, check her ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 11. | {% task 1K2H, RFPNW 1.2.H %} | Steady as she goes ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
-| 12. | {% task 1K2I, RFPNW 1.2.I %} | Nothing to the right/left ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 4. | {% task 1K2A, RFPNW 1.2.A %} | Right (starboard) rudder  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 5. | {% task 1K2B, RFPNW 1.2.B %} | Left (port) rudder  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 6. | {% task 1K2C, RFPNW 1.2.C %} | Rudder hard over  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 7. | {% task 1K2D, RFPNW 1.2.D %} | Ease the rudder  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 8. | {% task 1K2E, RFPNW 1.2.E %} | Midships the wheel  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 9. | {% task 1K2F, RFPNW 1.2.F %} | Shift your rudder  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 10. | {% task 1K2G, RFPNW 1.2.G %} | Meet her; or, check her  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 11. | {% task 1K2H, RFPNW 1.2.H %} | Steady as she goes  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
+| 12. | {% task 1K2I, RFPNW 1.2.I %} | Nothing to the right/left  {% image new.jpg %}  | {% assessment RFPNW-1K %} in {% course MT-4253 %} |
 | 13. | {% task 1K3A, RFPNW 1.3.A %} | Change the steering mode from auto pilot to hand steering | {% assessment OICNW-1-6A %} in {% course MT-4371 %} |
 | 14. | {% task 1K3B, RFPNW 1.3.B %} | Change the steering mode from hand steering to autopilot | {% assessment OICNW-1-6A %} in {% course MT-4371 %} |
-| 15. | {% task 2K1A, RFPNW 2.1.A %} | Report bearings in daylight ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-2K %} in {% course MT-4253 %} |
-| 16. | {% task 2K1B, RFPNW 2.1.B %} | Report bearings at night ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-2K %} in {% course MT-4253 %} |
-| 17. | {% task 2K1C, RFPNW 2.1.C %} | Report bearings by sound ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-2K %} in {% course MT-4253 %} |
+| 15. | {% task 2K1A, RFPNW 2.1.A %} | Report bearings in daylight  {% image new.jpg %}  | {% assessment RFPNW-2K %} in {% course MT-4253 %} |
+| 16. | {% task 2K1B, RFPNW 2.1.B %} | Report bearings at night  {% image new.jpg %}  | {% assessment RFPNW-2K %} in {% course MT-4253 %} |
+| 17. | {% task 2K1C, RFPNW 2.1.C %} | Report bearings by sound  {% image new.jpg %}  | {% assessment RFPNW-2K %} in {% course MT-4253 %} |
 | 18. | {% task 3K1A, RFPNW 3.1.A %} | Shipboard terms and definitions | {% course MT-1111 %}|
 | 19. | {% task 3K2A, RFPNW 3.2.A %} | Use of communication and alarm systems | {% course MT-4133 %}|
 | 20. | {% task 3K3A, RFPNW 3.3.A %} | Communicate potential collision situations in daylight | {% course MT-4253 %}|
 | 21. | {% task 3K3B, RFPNW 3.3.B %} | Communicate potential collision situations at night | {% course MT-4253 %}|
-| 22. | {% task 3K4A, RFPNW 3.4.A %} | Relief of the lookout ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-3K4A %} in {% course MT-4253 %} |
-| 23. | {% task 3K4B, RFPNW 3.4.B %} | Relief of the helmsman ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment RFPNW-3K4B %} in {% course MT-4253 %} |
-| 24. | {% task 3K5A, RFPNW 3.5.A %} | Relief of anchor watch ![]({{site.baseurl}}/assets/images/mod.jpg)  | {% assessment OICNW-2-2D %} in {% course MT-4253 %} |
-| 25. | {% task 3K5B, RFPNW 3.5.B %} | Relief of port watch ![]({{site.baseurl}}/assets/images/mod.jpg)  | {% assessment OICNW-2-2A %} in {% course MT-4371 %} |
+| 22. | {% task 3K4A, RFPNW 3.4.A %} | Relief of the lookout  {% image new.jpg %}  | {% assessment RFPNW-3K4A %} in {% course MT-4253 %} |
+| 23. | {% task 3K4B, RFPNW 3.4.B %} | Relief of the helmsman  {% image new.jpg %}  | {% assessment RFPNW-3K4B %} in {% course MT-4253 %} |
+| 24. | {% task 3K5A, RFPNW 3.5.A %} | Relief of anchor watch  {% image mod.jpg %}  | {% assessment OICNW-2-2D %} in {% course MT-4253 %} |
+| 25. | {% task 3K5B, RFPNW 3.5.B %} | Relief of port watch  {% image mod.jpg %}  | {% assessment OICNW-2-2A %} in {% course MT-4371 %} |
 | 26. | {% task 3K6A, RFPNW 3.6.A %} | Environmental protection at sea | {% course ST-0999D %}|
 | 27. | {% task 3K6B, RFPNW 3.6.B %} | Environmental protection in port | {% course ST-0999D %}|
 | 28. | {% task 4K1A, RFPNW 4.1.A %} | Fire and emergency duties | {% course FF-0102 %}<br/> {% course ST-0999 %}<br/> {% table 612, A-VI/1-2 %}|

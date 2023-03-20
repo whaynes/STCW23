@@ -29,7 +29,7 @@ Aboard ship while underway, or in an approved simulator, given the engineering l
 <tr><td>
 
 {% capture behavior %}
-{% do Check, check %} engine room and machinery in accordance with stcw code   <%=imagelink('STCW_Chap_VIII' ,'A-VIII/2 part 4-2  Paragraph 58') %>
+{% do Check, check %} engine room and machinery in accordance with stcw code   {% imagelink STCW_Chap_VIII.pdf,  A-VIII/2 part 4-2  Paragraph 58' %}
 
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -262,4 +262,4 @@ This assessment supports KUP {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

@@ -79,7 +79,8 @@ This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 ***
 
+Project diagram: {% image pipethread.pnng%}
 
-<%= imageref( "pipethread", {nosize: true}) %>
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+
+See the {% guidelines %} for additional specifications of behavior and standards.

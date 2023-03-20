@@ -29,7 +29,7 @@ On a ship, a full mission ship simulator, or in a navigation laboratory, when gi
 <tr><td>
 
 {% capture behavior %}
-collect and consider the information required to plan a safe and environmentally sound voyage plan, taking into account paragraph 2 of the annex to [*IMO Assembly Resolution A893(21)*](IMO_voyage_plan).
+collect and consider the information required to plan a safe and environmentally sound voyage plan, taking into account paragraph 2 of the annex to {% imagelink IMO_Resolution_A.893(21).pdf, *IMO Assembly Resolution A893(21)*%} .
 {% endcapture %}
 {{ behavior | markdownify }}
 

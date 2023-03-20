@@ -145,6 +145,6 @@ This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
 
 ### Lab Manual
 
-<%= imagelink("EN4131_Lab_Manual", "EN-4131 Lab Manual") %>
+{% imagelink EN4131_Lab_Manual.pdf, EN-4131 Lab Manual %}
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

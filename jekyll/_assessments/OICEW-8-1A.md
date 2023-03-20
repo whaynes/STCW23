@@ -61,6 +61,6 @@ This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 
 
-<%= imageref( "coupon", {nosize: true}) %>
+Project diagram: {%  imagelink coupon.png, Test Coupon %}
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

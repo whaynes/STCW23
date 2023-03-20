@@ -238,4 +238,4 @@ Distillate pump, and regulate level by throttling discharge valve
 7. Close inlet and outlet valves for ejector pump.
 8. Close outlet valve for combined brine/air ejector.
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

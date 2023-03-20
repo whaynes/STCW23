@@ -64,9 +64,9 @@
       <xsl:text>|:-----:|:-----|:--------|:---:|&cr;</xsl:text>
       <xsl:for-each-group select="RECORD" group-by="Table_Short_Name">
         <xsl:sort select="Table" order="ascending"/>
-        <xsl:text/>| [<xsl:value-of select="nvic_number"/>]({{ site.baseurl}}/assets/images/nvic-<xsl:value-of select="nvic_number"/>.pdf)<xsl:text/>
+        <xsl:text/>| {% imagelink nvic-<xsl:value-of select="nvic_number"/>.pdf, <xsl:value-of select="nvic_number"/> %} <xsl:text/>
         <xsl:text/>| <xsl:value-of select="Table_Name"/>
-        <xsl:text/>| [<xsl:value-of select="current-grouping-key()"/> Tasks]({{ site.baseurl}}/tasks/<xsl:value-of select="Table_Short_Name"/>) <xsl:text/>
+        <xsl:text/>| {% task <xsl:value-of select="Table_Short_Name"/>, <xsl:value-of select="current-grouping-key()"/> Tasks %} <xsl:text/>
         <xsl:text/>| <xsl:apply-templates select="Major"/>|&cr;<xsl:text/>
       </xsl:for-each-group>
     </xsl:result-document>
@@ -112,8 +112,8 @@
     <xsl:if test="position() != last()">&lt;br/> </xsl:if>
   </xsl:template>
   <xsl:template match="status">
-    <xsl:if test=". = 'New'"> ![]({{site.baseurl}}/assets/images/new.jpg) </xsl:if>
-    <xsl:if test=". = 'Mod'"> ![]({{site.baseurl}}/assets/images/mod.jpg) </xsl:if>
+    <xsl:if test=". = 'New'">  {% image new.jpg %} </xsl:if>
+    <xsl:if test=". = 'Mod'">  {% image mod.jpg %} </xsl:if>
   </xsl:template>
   <xsl:template match="Major">
     <xsl:choose>

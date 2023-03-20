@@ -121,4 +121,4 @@ This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 
 **Note:** Not all steps are possible on all refrigeration systems.
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

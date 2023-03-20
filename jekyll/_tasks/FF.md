@@ -35,6 +35,6 @@ subtitle: fire prevention and fire fighting
 | 23. | {% task 3B7A, FF 3.7.A %} | Utilize the appropriate extinguisher and demonstrate correct firefighting procedures | {% assessment FF-2PFE %} in {% course FF-0102 %} |
 | 24. | {% task 3B8A, FF 3.8.A %} | Demonstrate the donning methods for self-contained breathing apparatus | {% assessment FF-2SBA %} in {% course FF-0102 %} |
 | 25. | {% task 3B8B, FF 3.8.B %} | Demonstrate breathing apparatus use | {% assessment FF-2SBA %} in {% course FF-0102 %} |
-| 26. | {% task 3B8C, FF 3.8.C %} | Demonstrate the proper hose team leader procedures ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-4SF %} in {% course FF-0104 %} <br/> {% assessment FF-6SRF %} in {% course FF-0106 %} |
-| 27. | {% task 3B8D, FF 3.8.D %} | Demonstrate the proper procedures for effecting a rescue ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-8SAR %} in {% course FF-0108 %} |
+| 26. | {% task 3B8C, FF 3.8.C %} | Demonstrate the proper hose team leader procedures  {% image new.jpg %}   {% image new.jpg %}  | {% assessment FF-4SF %} in {% course FF-0104 %} <br/> {% assessment FF-6SRF %} in {% course FF-0106 %} |
+| 27. | {% task 3B8D, FF 3.8.D %} | Demonstrate the proper procedures for effecting a rescue  {% image new.jpg %}  | {% assessment FF-8SAR %} in {% course FF-0108 %} |
 {: .sortable .tasks}

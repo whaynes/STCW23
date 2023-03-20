@@ -10,7 +10,7 @@ subtitle:  Monitor electricity generating plant (Steam)
 
 ### MMA Method
 
-In order to satisfy  [NVIC 07-14  Task  1.1.B(S)]({{site.baseurl}}/assets/images/nvic-07-14.pdf), MMA students must:
+In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 1.1.B(S) %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-4-1D %} *Monitor engineering machinery*
 
@@ -39,7 +39,7 @@ Carry out a watch routine appropriate to the duties of a rating forming part of 
 
 </td><td markdown='1'>
 
-[RFPEW-A1.2]({{site.baseurl}}/tables/34.html#RFPEW-A1.2) Engine-room watchkeeping procedures
+{% table 34#RFPEW-A1.2, RFPEW-A1.2 %} Engine-room watchkeeping procedures
 
 </td></tr>
 
@@ -66,12 +66,14 @@ the candidate monitors the electrical generating plant.
 
 <br>
 
-<div class="tooltip">Note 1
-<span class="tooltiptext">
+<div class="tooltip" markdown='1'>
+
+Note 1
+
 Not performing this task will limit the candidate’s endorsement to motor and/or gas-turbine propelled vessels only.
 
 This task is not required for steam propulsion and no limitation will be placed on the steam vessel endorsement if this task is not completed.
-</span>
+
 </div>
 
 

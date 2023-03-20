@@ -71,8 +71,8 @@ subtitle: for all licensed major students
 | 23. | {% task 3B7A, FF 3.7.A %} | Utilize the appropriate extinguisher and demonstrate correct firefighting procedures | {% assessment FF-2PFE %} in {% course FF-0102 %} |
 | 24. | {% task 3B8A, FF 3.8.A %} | Demonstrate the donning methods for self-contained breathing apparatus | {% assessment FF-2SBA %} in {% course FF-0102 %} |
 | 25. | {% task 3B8B, FF 3.8.B %} | Demonstrate breathing apparatus use | {% assessment FF-2SBA %} in {% course FF-0102 %} |
-| 26. | {% task 3B8C, FF 3.8.C %} | Demonstrate the proper hose team leader procedures ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-4SF %} in {% course FF-0104 %} <br/> {% assessment FF-6SRF %} in {% course FF-0106 %} |
-| 27. | {% task 3B8D, FF 3.8.D %} | Demonstrate the proper procedures for effecting a rescue ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-8SAR %} in {% course FF-0108 %} |
+| 26. | {% task 3B8C, FF 3.8.C %} | Demonstrate the proper hose team leader procedures  {% image new.jpg %}   {% image new.jpg %}  | {% assessment FF-4SF %} in {% course FF-0104 %} <br/> {% assessment FF-6SRF %} in {% course FF-0106 %} |
+| 27. | {% task 3B8D, FF 3.8.D %} | Demonstrate the proper procedures for effecting a rescue  {% image new.jpg %}  | {% assessment FF-8SAR %} in {% course FF-0108 %} |
 {: .sortable .tasks}
 
 
@@ -89,15 +89,15 @@ subtitle: for all licensed major students
 | 7. | {% task 4B3A, EFA 4.3.A %} | List the reasons for not changing the position of a patient | {% course PE-0031 %}|
 | 8. | {% task 4B3B, EFA 4.3.B %} | List the reasons for positioning a patient | {% course PE-0031 %}|
 | 9. | {% task 4B4A, EFA 4.4.A %} | Determine whether resuscitation is required | {% course PE-0031 %}|
-| 10. | {% task 4B4B, EFA 4.4.B %} | Demonstrate opening of the airway and checking for breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4B %} in {% course PE-0031 %} |
+| 10. | {% task 4B4B, EFA 4.4.B %} | Demonstrate opening of the airway and checking for breathing  {% image new.jpg %}  | {% assessment EFA-4B4B %} in {% course PE-0031 %} |
 | 11. | {% task 4B4C, EFA 4.4.C %} | List the proper procedures for two-person CPR | {% course PE-0031 %}|
-| 12. | {% task 4B4D, EFA 4.4.D %} | Demonstrate action for an unresponsive person who is not breathing ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4D %} in {% course PE-0031 %} |
-| 13. | {% task 4B4E, EFA 4.4.E %} | Demonstrate the procedure for determining if a patient has a pulse ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4E %} in {% course PE-0031 %} |
-| 14. | {% task 4B4F, EFA 4.4.F %} | Demonstrate proper hand placements for chest compressions ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4F %} in {% course PE-0031 %} |
-| 15. | {% task 4B4G, EFA 4.4.G %} | Demonstrate proper CPR compressions for two minutes ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4F %} in {% course PE-0031 %} |
-| 16. | {% task 4B4H, EFA 4.4.H %} | Demonstrate actions for a conscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4H %} in {% course PE-0031 %} |
-| 17. | {% task 4B4I, EFA 4.4.I %} | Demonstrate actions for an unconscious adult with airway blockage ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B4I %} in {% course PE-0031 %} |
-| 18. | {% task 4B5A, EFA 4.5.A %} | Demonstrate proper bleeding control techniques ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B5A %} in {% course PE-0031 %} |
+| 12. | {% task 4B4D, EFA 4.4.D %} | Demonstrate action for an unresponsive person who is not breathing  {% image new.jpg %}  | {% assessment EFA-4B4D %} in {% course PE-0031 %} |
+| 13. | {% task 4B4E, EFA 4.4.E %} | Demonstrate the procedure for determining if a patient has a pulse  {% image new.jpg %}  | {% assessment EFA-4B4E %} in {% course PE-0031 %} |
+| 14. | {% task 4B4F, EFA 4.4.F %} | Demonstrate proper hand placements for chest compressions  {% image new.jpg %}  | {% assessment EFA-4B4F %} in {% course PE-0031 %} |
+| 15. | {% task 4B4G, EFA 4.4.G %} | Demonstrate proper CPR compressions for two minutes  {% image new.jpg %}  | {% assessment EFA-4B4F %} in {% course PE-0031 %} |
+| 16. | {% task 4B4H, EFA 4.4.H %} | Demonstrate actions for a conscious adult with airway blockage  {% image new.jpg %}  | {% assessment EFA-4B4H %} in {% course PE-0031 %} |
+| 17. | {% task 4B4I, EFA 4.4.I %} | Demonstrate actions for an unconscious adult with airway blockage  {% image new.jpg %}  | {% assessment EFA-4B4I %} in {% course PE-0031 %} |
+| 18. | {% task 4B5A, EFA 4.5.A %} | Demonstrate proper bleeding control techniques  {% image new.jpg %}  | {% assessment EFA-4B5A %} in {% course PE-0031 %} |
 | 19. | {% task 4B6A, EFA 4.6.A %} | Identify the signs and symptoms of shock development | {% course PE-0031 %}|
 | 20. | {% task 4B6B, EFA 4.6.B %} | Describe the position for a patient in shock (no spinal injury) | {% course PE-0031 %}|
 | 21. | {% task 4B7A, EFA 4.7.A %} | Identify the kinds of burns that can occur | {% course PE-0031 %}|
@@ -105,9 +105,9 @@ subtitle: for all licensed major students
 | 23. | {% task 4B7C, EFA 4.7.C %} | Identify the means of reducing the possibility of infection | {% course PE-0031 %}|
 | 24. | {% task 4B8A, EFA 4.8.A %} | State the circumstances when the victim should not be moved | {% course PE-0031 %}|
 | 25. | {% task 4B8B, EFA 4.8.B %} | List circumstances when a victim should be moved from the scene | {% course PE-0031 %}|
-| 26. | {% task 4B8C, EFA 4.8.C %} | Demonstrate immobilizing a fracture using splints and ties ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B8C %} in {% course PE-0031 %} |
-| 27. | {% task 4B8D, EFA 4.8.D %} | Demonstrate preparing patient for spinal immobilization ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B8D %} in {% course PE-0031 %} |
-| 28. | {% task 4B9A, EFA 4.9.A %} | Demonstrate bandaging technique for wound treatment ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment EFA-4B9A %} in {% course PE-0031 %} |
+| 26. | {% task 4B8C, EFA 4.8.C %} | Demonstrate immobilizing a fracture using splints and ties  {% image new.jpg %}  | {% assessment EFA-4B8C %} in {% course PE-0031 %} |
+| 27. | {% task 4B8D, EFA 4.8.D %} | Demonstrate preparing patient for spinal immobilization  {% image new.jpg %}  | {% assessment EFA-4B8D %} in {% course PE-0031 %} |
+| 28. | {% task 4B9A, EFA 4.9.A %} | Demonstrate bandaging technique for wound treatment  {% image new.jpg %}  | {% assessment EFA-4B9A %} in {% course PE-0031 %} |
 {: .sortable .tasks}
 
 
@@ -191,13 +191,13 @@ subtitle: for all licensed major students
 
 | No.   | NVIC Task | Description | Location |
 |:-----:|:----:|:------------|:-------:|
-| 1. | {% task 1F1A, AFF 1.1.A %} | Take initial action upon indication of fire to alert parties and dispatch equipment ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-8ERF %} in {% course FF-0108 %} <br/> {% course FF-0108 %}|
-| 2. | {% task 1F1B, AFF 1.1.B %} | Make initial assessment of the fire and determine courses of action ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-8ERF %} in {% course FF-0108 %} <br/> {% course FF-0108 %}|
-| 3. | {% task 1F2A, AFF 1.2.A %} | Respond to an engine room, cargo hold, or service space fire ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-8ERF %} in {% course FF-0108 %} <br/> {% course FF-0108 %}|
+| 1. | {% task 1F1A, AFF 1.1.A %} | Take initial action upon indication of fire to alert parties and dispatch equipment  {% image new.jpg %}  | {% assessment FF-8ERF %} in {% course FF-0108 %} <br/> {% course FF-0108 %}|
+| 2. | {% task 1F1B, AFF 1.1.B %} | Make initial assessment of the fire and determine courses of action  {% image new.jpg %}  | {% assessment FF-8ERF %} in {% course FF-0108 %} <br/> {% course FF-0108 %}|
+| 3. | {% task 1F2A, AFF 1.2.A %} | Respond to an engine room, cargo hold, or service space fire  {% image new.jpg %}  | {% assessment FF-8ERF %} in {% course FF-0108 %} <br/> {% course FF-0108 %}|
 | 4. | {% task 1F3A, AFF 1.3.A %} | Determines the effect firefighting water on ship's stability | {% course FF-0108 %}|
-| 5. | {% task 1F4A, AFF 1.4.A %} | Respond to a solid metal, chemical, uptake, or smoldering fire ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-4SF %} in {% course FF-0104 %} <br/> {% course FF-0104 %}|
-| 6. | {% task 1F5A, AFF 1.5.A %} | Respond to a petrochemical, insulation, or unknown substance fire ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-4PCF %} in {% course FF-0104 %} <br/> {% course FF-0104 %}|
-| 7. | {% task 1F6A, AFF 1.6.A %} | Respond to a paint locker, stateroom, or cleaning gear locker fire ![]({{site.baseurl}}/assets/images/new.jpg)  ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment FF-6SRF %} in {% course FF-0106 %} <br/> {% assessment FF-6PLF %} in {% course FF-0106 %} <br/> {% course FF-0106 %}|
+| 5. | {% task 1F4A, AFF 1.4.A %} | Respond to a solid metal, chemical, uptake, or smoldering fire  {% image new.jpg %}  | {% assessment FF-4SF %} in {% course FF-0104 %} <br/> {% course FF-0104 %}|
+| 6. | {% task 1F5A, AFF 1.5.A %} | Respond to a petrochemical, insulation, or unknown substance fire  {% image new.jpg %}  | {% assessment FF-4PCF %} in {% course FF-0104 %} <br/> {% course FF-0104 %}|
+| 7. | {% task 1F6A, AFF 1.6.A %} | Respond to a paint locker, stateroom, or cleaning gear locker fire  {% image new.jpg %}   {% image new.jpg %}  | {% assessment FF-6SRF %} in {% course FF-0106 %} <br/> {% assessment FF-6PLF %} in {% course FF-0106 %} <br/> {% course FF-0106 %}|
 | 8. | {% task 1F7A, AFF 1.7.A %} | Coordinate with shore-based fire fighters | {% course FF-0106 %}|
 | 9. | {% task 2F1A, AFF 2.1.A %} | Prepare contingency plans for a cargo hold, engine-room, galley, or living-space fire | {% course FF-0106 %}|
 | 10. | {% task 2F1B, AFF 2.1.B %} | Plans, execute, and critique a fire drill | {% course FF-0106 %}|
@@ -214,13 +214,13 @@ subtitle: for all licensed major students
 
 | No.   | NVIC Task | Description | Location |
 |:-----:|:----:|:------------|:-------:|
-| 1. | {% task 1M1A, MFA 1.1.A %} | Assess and treat life-threatening conditions ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M1A %} in {% course PE-0032 %} |
-| 2. | {% task 1M1B, MFA 1.1.B %} | Perform a detailed physical assessment ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M1B %} in {% course PE-0032 %} |
-| 3. | {% task 1M2A, MFA 1.2.A %} | Immobilize a victim with a spinal injury ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M2A %} in {% course PE-0032 %} |
-| 4. | {% task 1M3A, MFA 1.3.A %} | Immobilize and apply traction a victim with a broken femur ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M3A %} in {% course PE-0032 %} |
-| 5. | {% task 1M3B, MFA 1.3.B %} | Immobilize a long bone fracture ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M3B %} in {% course PE-0032 %} |
-| 6. | {% task 1M4A, MFA 1.4.A %} | Perform CPR ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M4A %} in {% course PE-0032 %} |
-| 7. | {% task 1M4B, MFA 1.4.B %} | Use a AED ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M4B %} in {% course PE-0032 %} |
-| 8. | {% task 1M4C, MFA 1.4.C %} | Manage obstructed airway in a conscious victim ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M4C %} in {% course PE-0032 %} |
-| 9. | {% task 1M4D, MFA 1.4.D %} | Manage obstructed airway in an unconscious victim ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment MFA-1M4D %} in {% course PE-0032 %} |
+| 1. | {% task 1M1A, MFA 1.1.A %} | Assess and treat life-threatening conditions  {% image new.jpg %}  | {% assessment MFA-1M1A %} in {% course PE-0032 %} |
+| 2. | {% task 1M1B, MFA 1.1.B %} | Perform a detailed physical assessment  {% image new.jpg %}  | {% assessment MFA-1M1B %} in {% course PE-0032 %} |
+| 3. | {% task 1M2A, MFA 1.2.A %} | Immobilize a victim with a spinal injury  {% image new.jpg %}  | {% assessment MFA-1M2A %} in {% course PE-0032 %} |
+| 4. | {% task 1M3A, MFA 1.3.A %} | Immobilize and apply traction a victim with a broken femur  {% image new.jpg %}  | {% assessment MFA-1M3A %} in {% course PE-0032 %} |
+| 5. | {% task 1M3B, MFA 1.3.B %} | Immobilize a long bone fracture  {% image new.jpg %}  | {% assessment MFA-1M3B %} in {% course PE-0032 %} |
+| 6. | {% task 1M4A, MFA 1.4.A %} | Perform CPR  {% image new.jpg %}  | {% assessment MFA-1M4A %} in {% course PE-0032 %} |
+| 7. | {% task 1M4B, MFA 1.4.B %} | Use a AED  {% image new.jpg %}  | {% assessment MFA-1M4B %} in {% course PE-0032 %} |
+| 8. | {% task 1M4C, MFA 1.4.C %} | Manage obstructed airway in a conscious victim  {% image new.jpg %}  | {% assessment MFA-1M4C %} in {% course PE-0032 %} |
+| 9. | {% task 1M4D, MFA 1.4.D %} | Manage obstructed airway in an unconscious victim  {% image new.jpg %}  | {% assessment MFA-1M4D %} in {% course PE-0032 %} |
 {: .sortable .tasks}

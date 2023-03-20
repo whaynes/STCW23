@@ -111,4 +111,4 @@ This assessment supports KUP {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

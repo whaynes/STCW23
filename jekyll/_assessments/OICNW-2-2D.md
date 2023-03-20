@@ -91,4 +91,4 @@ This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
 
 ***
 
-Also supports [RFPNW-X3.4](24#RFPNW-X3\.4).
+Also supports {% table 24#RFPNW-X3.4,  RFPNW-X3.4 %}.

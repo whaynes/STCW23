@@ -36,7 +36,7 @@ Aboard a dead ship or in simulator, given access to generator and proper tools, 
 </td><td>
 
 {% capture standard %}
-Meet requirements of [OICEW 7-1B](oicew71b)
+Meet requirements of {% assessment OICEW-7-1B %}
 {%endcapture %}
 {{ standard | markdownify }}
 
@@ -172,4 +172,4 @@ This assessment supports KUP {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

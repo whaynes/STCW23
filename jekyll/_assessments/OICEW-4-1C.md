@@ -37,7 +37,7 @@ make a thorough round before taking over the watch
 </td><td>
 
 {% capture standard %}
-*  meet the standards set forth in assessment [OICEW-4-1A](oicew41a) *Inspect machinery spaces before assuming watch*
+*  meet the standards set forth in assessment {% assessment OICEW-4-1A %} *Inspect machinery spaces before assuming watch*
 
 
 
@@ -59,9 +59,9 @@ take over the watch
 </td><td>
 
 {% capture standard %}
-*  take over the watch in accordance with  STCW Code A-VIII/2 part 4-2  [**principles to be observed in keeping an engineering watch**](principles#4-2) 
+*  take over the watch in accordance with the  *principles to be observed in keeping an engineering watch* laid out in the {% pagelink content/principles#4-2, STCW Code section A-VIII/2 part 4-2  %} 
 
-*  meet the standards set forth in assessment [OICEW-4-1B](OICEW-4-1B) (Watch relief)
+*  meet the standards set forth in assessment {% assessment OICEW-4-1B %} (Watch relief)
 
 *  discuss current plant conditions before exchanging the watch
 
@@ -85,7 +85,7 @@ perform the watch
 </td><td>
 
 {% capture standard %}
-* perform the watch in accordance with the [**principles to be observed in keeping an engineering watch**](principles#4-2)
+* perform the watch in accordance with the {% pagelink content/principles#4-2, *principles to be observed in keeping an engineering watch*  %}
 {%endcapture %}
 {{ standard | markdownify }}
 
@@ -192,8 +192,7 @@ hand-over the watch
 
 {% capture standard %}
 *  complete all routine duties before handing over the watch
-* hand over the watch in accordance with the [**principles to be observed in keeping an engineering watch**](principles#4-2)
-
+* hand over the watch in accordance with the {% pagelink content/principles#4-2, *principles to be observed in keeping an engineering watch*  %}
 {%endcapture %}
 {{ standard | markdownify }}
 
@@ -214,9 +213,9 @@ This assessment supports KUP {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
 
 ### Documents
 
-* <%=imagelink("Engineering_Watchstanding_Manual-W16", "Engineering Watchstanding Manual")%>
-* <%=imagelink("STCW_Chap_VIII", "STCW Chapter VIII/2")%>
+* {% imagelink watchstnding_manual.pdf, Engineering_Watchstanding_Manual %}
+* {% imagelink STCW_Chap_VIII.pdf,  STCW Chapter A-VIII/2' %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

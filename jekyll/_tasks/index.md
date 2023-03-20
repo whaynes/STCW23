@@ -6,16 +6,16 @@ task_number: nil
 
 |NVIC  | Name | MMA Tasks | D/E |
 |:-----:|:-----|:--------|:---:|
-| [12-14]({{ site.baseurl}}/assets/images/nvic-12-14.pdf)| officer in charge of a navigation watch| [OICNW Tasks]({{ site.baseurl}}/tasks/OICNW) | D|
-| [06-14]({{ site.baseurl}}/assets/images/nvic-06-14.pdf)| ratings forming part of a navigation watch| [RFPNW Tasks]({{ site.baseurl}}/tasks/RFPNW) | D|
-| [14-14]({{ site.baseurl}}/assets/images/nvic-14-14.pdf)| able seafarer deck| [ABD Tasks]({{ site.baseurl}}/tasks/ABD) | D|
-| [17-14]({{ site.baseurl}}/assets/images/nvic-17-14.pdf)| officers in charge of an engineering watch| [OICEW Tasks]({{ site.baseurl}}/tasks/OICEW) | E|
-| [07-14]({{ site.baseurl}}/assets/images/nvic-07-14.pdf)| ratings forming part of an engineering watch| [RFPEW Tasks]({{ site.baseurl}}/tasks/RFPEW) | E|
-| [18-14]({{ site.baseurl}}/assets/images/nvic-18-14.pdf)| able seafarer engine| [ABE Tasks]({{ site.baseurl}}/tasks/ABE) | E|
-| [08-14]({{ site.baseurl}}/assets/images/nvic-08-14.pdf)| personal survival| [PS Tasks]({{ site.baseurl}}/tasks/PS) | D/E|
-| [08-14]({{ site.baseurl}}/assets/images/nvic-08-14.pdf)| fire prevention and fire fighting| [FF Tasks]({{ site.baseurl}}/tasks/FF) | D/E|
-| [08-14]({{ site.baseurl}}/assets/images/nvic-08-14.pdf)| elementary first aid| [EFA Tasks]({{ site.baseurl}}/tasks/EFA) | D/E|
-| [08-14]({{ site.baseurl}}/assets/images/nvic-08-14.pdf)| personal safety and social responsibility| [PSSR Tasks]({{ site.baseurl}}/tasks/PSSR) | D/E|
-| [04-14]({{ site.baseurl}}/assets/images/nvic-04-14.pdf)| survival craft and rescue boats other than fast rescue boats| [SCRB Tasks]({{ site.baseurl}}/tasks/SCRB) | D/E|
-| [09-14]({{ site.baseurl}}/assets/images/nvic-09-14.pdf)| advanced fire fighting| [AFF Tasks]({{ site.baseurl}}/tasks/AFF) | D/E|
-| [05-04]({{ site.baseurl}}/assets/images/nvic-05-04.pdf)| medical first aid| [MFA Tasks]({{ site.baseurl}}/tasks/MFA) | D/E|
+| {% imagelink nvic-12-14.pdf, 12-14 %} | officer in charge of a navigation watch| {% task OICNW, OICNW Tasks %} | D|
+| {% imagelink nvic-06-14.pdf, 06-14 %} | ratings forming part of a navigation watch| {% task RFPNW, RFPNW Tasks %} | D|
+| {% imagelink nvic-14-14.pdf, 14-14 %} | able seafarer deck| {% task ABD, ABD Tasks %} | D|
+| {% imagelink nvic-17-14.pdf, 17-14 %} | officers in charge of an engineering watch| {% task OICEW, OICEW Tasks %} | E|
+| {% imagelink nvic-07-14.pdf, 07-14 %} | ratings forming part of an engineering watch| {% task RFPEW, RFPEW Tasks %} | E|
+| {% imagelink nvic-18-14.pdf, 18-14 %} | able seafarer engine| {% task ABE, ABE Tasks %} | E|
+| {% imagelink nvic-08-14.pdf, 08-14 %} | personal survival| {% task PS, PS Tasks %} | D/E|
+| {% imagelink nvic-08-14.pdf, 08-14 %} | fire prevention and fire fighting| {% task FF, FF Tasks %} | D/E|
+| {% imagelink nvic-08-14.pdf, 08-14 %} | elementary first aid| {% task EFA, EFA Tasks %} | D/E|
+| {% imagelink nvic-08-14.pdf, 08-14 %} | personal safety and social responsibility| {% task PSSR, PSSR Tasks %} | D/E|
+| {% imagelink nvic-04-14.pdf, 04-14 %} | survival craft and rescue boats other than fast rescue boats| {% task SCRB, SCRB Tasks %} | D/E|
+| {% imagelink nvic-09-14.pdf, 09-14 %} | advanced fire fighting| {% task AFF, AFF Tasks %} | D/E|
+| {% imagelink nvic-05-04.pdf, 05-04 %} | medical first aid| {% task MFA, MFA Tasks %} | D/E|

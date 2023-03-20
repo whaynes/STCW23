@@ -29,7 +29,7 @@ Using an approved simulator, in the laboratory, or aboard ship and given access 
 <tr><td>
 
 {% capture behavior %}
-{% do Identify, identify %} the valves and pumps associated with the freshwater generator started in assessment [OICEW-5-1F](OICEW-5-1F)
+{% do Identify, identify %} the valves and pumps associated with the freshwater generator started in assessment {% assessment OICEW-5-1F %}
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -96,4 +96,4 @@ This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

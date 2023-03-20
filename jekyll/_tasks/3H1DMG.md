@@ -10,7 +10,7 @@ subtitle:  Monitor auxiliary boiler
 
 ### MMA Method
 
-In order to satisfy  [NVIC 07-14  Task  3.1.D(M/G)]({{site.baseurl}}/assets/images/nvic-07-14.pdf), MMA students must:
+In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 3.1.D(M/G) %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-4E3I %} *Monitor and operate auxiliary boiler*
 
@@ -39,7 +39,7 @@ For keeping a safe boiler watch: Maintain the correct water levels and steam pre
 
 </td><td markdown='1'>
 
-[RFPEW-A2.1]({{site.baseurl}}/tables/34.html#RFPEW-A2.1) Safe operation of boilers
+{% table 34#RFPEW-A2.1, RFPEW-A2.1 %} Safe operation of boilers
 
 </td></tr>
 
@@ -66,10 +66,12 @@ the candidate monitors the oil-fired or waste-heat auxiliary boiler.
 
 <br>
 
-<div class="tooltip">Note 3
-<span class="tooltiptext">
+<div class="tooltip" markdown='1'>
+
+Note 3
+
 Not performing this task will limit the candidate’s endorsement to motor and/or gas-turbine propelled vessels without waste-heat or auxiliary boilers. 
-</span>
+
 </div>
 
 

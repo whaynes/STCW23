@@ -81,4 +81,4 @@ This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 Cut and bend a 10" long section of 3/8" diameter copper tube to a 90° angle. Length should be within +/- 1/8" and bend should be free of defects and kinks and within angular tolerance of +/- 2°. 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

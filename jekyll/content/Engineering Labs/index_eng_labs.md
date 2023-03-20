@@ -2,11 +2,9 @@
 title: "MMA Engineering Laboratories"
 ---
 
+### Auxiliary Machinery Lab
 
 
-[Auxiliary Machinery Lab](auxiliaries_lab)
-
-[Auxiliary Machinery Lab](Auxiliary Machinery Lab)
 
 ### Internal Combustion Engines Lab
 

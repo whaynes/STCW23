@@ -61,4 +61,4 @@ This assessment supports KUP {% table 611.html#PS-X1.4, PS-X1.4 %}
 
 ***
 
-Assessment is conducted during [MT-1111](MT-1111) lab.
+Assessment is conducted during {% course MT-1111 %} lab.

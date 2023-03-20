@@ -12,13 +12,13 @@ subtitle: able seafarer engine
 |:-----:|:----:|:------------|:-------:|
 | 1. | {% task 1G1A, ABE 1.1.A %} | Understand orders | {% table 34, A-III/4 %}|
 | 2. | {% task 1G2A, ABE 1.2.A %} | Watch relief | {% assessment OICEW-4-1B %} in {% course EN-4231 %} |
-| 3. | {% task 1G3A, ABE 1.3.A %} | Watchkeeping ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
+| 3. | {% task 1G3A, ABE 1.3.A %} | Watchkeeping  {% image new.jpg %}  | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
 | 4. | {% task 2G1A, ABE 2.1.A %} | Operation of main propulsion and auxiliary machinery | {% course EN-1211 %}<br/> {% course EN-2111 %}<br/> {% course EN-2232 %}|
-| 5. | {% task 2G2A, ABE 2.2.A %} | Main propulsion and auxiliary machinery control pressures, temperature and levels ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
+| 5. | {% task 2G2A, ABE 2.2.A %} | Main propulsion and auxiliary machinery control pressures, temperature and levels  {% image new.jpg %}  | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 6. | {% task 3G1A, ABE 3.1.A %} | Operation of fuel system and oil transfer operations | {% assessment OICEW-6-1A %} in {% course EN-3131 %} <br/> {% assessment ABE-1-6A %} in {% course EN-1211 %} |
-| 7. | {% task 4G1A, ABE 4.1.A %} | Operation of bilge and ballast system ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICEW-6-2A %} in {% course EN-2231 %} <br/> {% assessment OICEW-5E2B %} in {% course EN-3131 %} |
-| 8. | {% task 5G1A, ABE 5.1.A %} | Trace out a piping system ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment ABE-5G1A %} in {% course EN-2231 %} |
-| 9. | {% task 5G1B, ABE 5.1.B %} | Operation of centrifugal and positive displacement pumps ![]({{site.baseurl}}/assets/images/new.jpg)  | {% assessment OICEW-8-2A %} in {% course EN-2111 %} <br/> {% assessment OICEW-8-2B %} in {% course EN-2111 %} <br/> {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
+| 7. | {% task 4G1A, ABE 4.1.A %} | Operation of bilge and ballast system  {% image new.jpg %}  | {% assessment OICEW-6-2A %} in {% course EN-2231 %} <br/> {% assessment OICEW-5E2B %} in {% course EN-3131 %} |
+| 8. | {% task 5G1A, ABE 5.1.A %} | Trace out a piping system  {% image new.jpg %}  | {% assessment ABE-5G1A %} in {% course EN-2231 %} |
+| 9. | {% task 5G1B, ABE 5.1.B %} | Operation of centrifugal and positive displacement pumps  {% image new.jpg %}  | {% assessment OICEW-8-2A %} in {% course EN-2111 %} <br/> {% assessment OICEW-8-2B %} in {% course EN-2111 %} <br/> {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
 | 10. | {% task 5G1C, ABE 5.1.C %} | Operation and repair of valves | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
 | 11. | {% task 5G2A, ABE 5.2.A %} | Operation and repair of heavy equipment | {% assessment ABDE-DE-1 %} in {% course ST-0999D %} <br/> {% course CC-MANT %}|
 | 12. | {% task 6G1A, ABE 6.1.A %} | Assist with electrical repairs | {% course EN-3111L %}|

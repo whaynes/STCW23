@@ -72,7 +72,7 @@ Prepare joint by cleaning and fluxing
 <tr><td>
 
 {% capture behavior %}
-{% do Test, evaluateinspecttest %} joint for tightness
+{% do Test, Test %} joint for tightness
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -100,6 +100,6 @@ This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 ### Job Specifications
 
-<%= imageref("copperpipe", {nosize: true} )%>
+{% imagelink copperpipe.png %}
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

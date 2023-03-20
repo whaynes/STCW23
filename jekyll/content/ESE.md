@@ -28,11 +28,11 @@ This course is an acceptable substitute for **EN-3211 Thermodynamics**.
 
 This course addresses the following three STCW Knowledge elements:
 
-*	[OICEW-A4.1](oicew-a4.1) Principles of fluid flow
-*	[OICEW-A5.1](oicew-a5.1) Operational characteristics of pumps
-*	[OICEW-A5.1](oicew-a5.1) Operational characteristics of piping systems
+*	{% table 31#OICEW-A4.1, OICEW-A4.1 %} Principles of fluid flow
+*	{% table 31#OICEW-A5.1, OICEW-A5.1 %} Operational characteristics of pumps
+*	{% table 31#OICEW-A5.1, OICEW-A5.1 %} Operational characteristics of piping systems
 
-This course is an acceptable substitute for **EN-4111 Fluid Mechanics**, and the STCW requirements of [EN-4112](en-4112) will be met if it is passed with a "C-" or better.
+This course is an acceptable substitute for **EN-4111 Fluid Mechanics**, and the STCW requirements of {% table 31#EN-4112, EN-4112 %} will be met if it is passed with a "C-" or better.
 
 
 **EN-4803L Power Systems Laboratory** 
@@ -47,18 +47,18 @@ This course is an acceptable substitute for **EN-4112 Thermo/Fluids Lab**.  The 
 
 This course addresses the following STCW Knowledge elements
 
-* [OICEW-A4.1](oicew-a4.1) Basic construction and operation principles of automatic control systems
-* [OICEW-A5.1](oicew-a5.1) Operational characteristics of control systems
-* [OICEW-B1.1](oicew-b1.1) Basic configuration and operation principles of sequential control circuits and associated devices
-* [OICEW-B1.2](oicew-b1.2) Flowchart for automatic and control systems
-* [OICEW-B1.2](oicew-b1.2) Functions, characteristics and features of control systems for machinery items
-* [OICEW-B1.3](oicew-b1.3) Various automatic control methodologies and characteristics
-* [OICEW-B1.3](oicew-b1.3) Proportional–Integral–Derivative (PID) control characteristics
-* [OICEW-B1.3](oicew-b1.3) Associated system devices for process control
-* [OICEW-B1.3](oicew-b1.3) Configuration and operation principles of control systems
-* [OICEW-B2.5](oicew-b2.5) Function and performance tests of electrical and electronic monitoring systems
-* [OICEW-B2.5](oicew-b2.5) Function and performance tests of electrical and electronic automatic control devices
-* [OICEW-B2.5](oicew-b2.5) Function and performance tests of electrical and electronic protective devices
+* {% table 31#OICEW-A4.1, OICEW-A4.1 %} Basic construction and operation principles of automatic control systems
+* {% table 31#OICEW-A5.1, OICEW-A5.1 %} Operational characteristics of control systems
+* {% table 31#OICEW-B1.1, OICEW-B1.1 %} Basic configuration and operation principles of sequential control circuits and associated devices
+* {% table 31#OICEW-B1.2, OICEW-B1.2 %} Flowchart for automatic and control systems
+* {% table 31#OICEW-B1.2, OICEW-B1.2 %} Functions, characteristics and features of control systems for machinery items
+* {% table 31#OICEW-B1.3, OICEW-B1.3 %} Various automatic control methodologies and characteristics
+* {% table 31#OICEW-B1.3, OICEW-B1.3 %} control characteristics
+* {% table 31#OICEW-B1.3, OICEW-B1.3 %} Associated system devices for process control
+* {% table 31#OICEW-B1.3, OICEW-B1.3 %} Configuration and operation principles of control systems
+* {% table 31#OICEW-B2.5, OICEW-B2.5 %} Function and performance tests of electrical and electronic monitoring systems
+* {% table 31#OICEW-B2.5, OICEW-B2.5 %} Function and performance tests of electrical and electronic automatic control devices
+* {% table 31#OICEW-B2.5, OICEW-B2.5 %} Function and performance tests of electrical and electronic protective devices
 
 This course is an acceptable substitute for **EN-3216 Operational Controls**, and the STCW requirements of {% course EN-3216 %}  will be met if it is passed with a "C-" or better.
 

@@ -43,7 +43,7 @@ As **TG/SSDG Oiler**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the **TG/SSDG Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the **TG/SSDG Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 
@@ -71,7 +71,7 @@ As **Lower Oiler**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the **Lower Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the **Lower Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 {%endcapture %}
@@ -94,7 +94,7 @@ As **AMR Oiler**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the **AMR Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the **AMR Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 {%endcapture %}
@@ -118,7 +118,7 @@ As **Upper Oiler**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the **Upper Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the **Upper Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 {%endcapture %}
@@ -148,7 +148,7 @@ As **Evaporator Oiler**
 </td><td>
 
 {% capture standard %}
-* perform duties for **Evaporator Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform duties for **Evaporator Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 * ensure that potable and distilled water tanks do not overflow
@@ -176,7 +176,7 @@ As **Fireman**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the  **Port or Starboard Fireman** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the  **Port or Starboard Fireman** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make legible, complete, and accurate logs
 * maintain boiler water level and steam pressures with safe and appropriate limits
 {%endcapture %}
@@ -199,7 +199,7 @@ As **Refrigeration Oiler**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the **Refrigeration/AC Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the **Refrigeration/AC Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 
@@ -224,7 +224,7 @@ As **Plant Oiler**
 </td><td>
 
 {% capture standard %}
-* perform all duties of the **Plant Oiler** described in the [*Engineering Watchstanding Manual*](watchkeepingManual)
+* perform all duties of the **Plant Oiler** described in the {% imagelink watchstanding_manual.pdf, *Engineering Watchstanding Manual* %}
 * make thorough rounds
 * make legible, complete, and accurate logs
 
@@ -279,9 +279,9 @@ This assessment supports KUP {% table 35.html#ABE-A5.2, ABE-A5.2 %}
 
 ### Documents
 
-* <%=imagelink("Engineering_Watchstanding_Manual-W16", "Engineering Watchstanding Manual")%>
-* <%=imagelink("STCW_Chap_VIII", "STCW Chapter VIII/2")%>
+* {% imagelink watchstnding_manual.pdf, Engineering_Watchstanding_Manual %}
+* {% imagelink STCW_Chap_VIII.pdf,  STCW Chapter A-VIII/2 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.

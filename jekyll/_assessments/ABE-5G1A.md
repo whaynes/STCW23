@@ -103,4 +103,4 @@ This assessment supports KUP {% table 35.html#ABE-A8.1, ABE-A8.1 %}
 
 
 
-See the [Engineering Assessment Guidelines](guidelines) for additional specifications of behavior and standards.
+See the {% guidelines %} for additional specifications of behavior and standards.
