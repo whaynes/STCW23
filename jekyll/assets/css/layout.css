@@ -11,13 +11,11 @@ header {
   align-items: center;
   max-width: 900px;
   margin: 0 auto;
-  background-color:aliceblue;
 }
 
 .logo {
   flex-basis: 150px;
   padding: 1rem;  
-  background-color: #DDD;
 }
 
 .page-titles {
@@ -28,7 +26,6 @@ main{
    display:flex;
    width: 900px;
    margin: 0 auto;
-   background-color: #EEE;
    justify-content: flex-start;
 
 }
