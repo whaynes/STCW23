@@ -29,7 +29,7 @@ On a ship at sea or in a full mission simulator.
 <tr><td>
 
 {% capture behavior %}
-Carry out the helm command *steer 342*[^Note1]  and steady the vessel on the new course.
+Carry out the helm command *steer 342*  and steady the vessel on the new course.  See **Note  1**. 
 
 
 {% endcapture %}
@@ -54,7 +54,7 @@ Carry out the helm command *steer 342*[^Note1]  and steady the vessel on the new
 <tr><td>
 
 {% capture behavior %}
-Carry out the helm command  *steer 342*[^Note2]  and  steer the vessel on course using the gyro-compass.
+Carry out the helm command  *steer 342*  and  steer the vessel on course using the gyro-compass.  See **Note  2**. 
 
 
 {% endcapture %}
@@ -250,7 +250,7 @@ Carry out the helm command *Steady as She Goes*.
 <tr><td>
 
 {% capture behavior %}
-Carry out the helm command, *Nothing to the right (starboard)*[^Note3] 
+Carry out the helm command, *Nothing to the right (starboard)*  See **Note  3**. 
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -279,6 +279,8 @@ This assessment supports KUP {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
 
 ***
 
-[^Note1]: The assessor may select any course desired as long as it is more than 30° from the original heading.
-[^Note2]: The assessor may select any course desired as long as it can be safely maintained throughout the exercise.
-[^Note3]: The assessor may select either left (port) or right (starboard).
+**Note 1**: The assessor may select any course desired as long as it is more than 30° from the original heading.
+
+**Note 2**: The assessor may select any course desired as long as it can be safely maintained throughout the exercise.
+
+**Note 3**: The assessor may select either left (port) or right (starboard).
