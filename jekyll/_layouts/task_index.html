@@ -4,12 +4,8 @@ layout: page
 
 {% assign tables = page.tables %}
 
-{{content}}
-
-
 
 {% for table in tables %}
-<h3>{{table}}</h3>
 
 {% assign tasks = site.tasks | where: "name", table %}
 {% for task in tasks %}

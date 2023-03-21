@@ -99,8 +99,7 @@
   <xsl:template match="RECORD">
     <xsl:text/>| <xsl:value-of select="position()"/>. | <xsl:value-of select="mmd_link_task"/><xsl:text> | </xsl:text>
     <xsl:apply-templates select="task_name"/>
-    <xsl:apply-templates select="status"/>
-    <xsl:text> | </xsl:text>
+     <xsl:text> | </xsl:text>
     <xsl:apply-templates select="mmd_link_to_this_assessment | mmd_link_table | mmd_link_to_this_course"/>|&cr;<xsl:text/>
   </xsl:template>
   <xsl:template match="text | task_name">
@@ -111,12 +110,8 @@
     <xsl:value-of select="."/>
     <xsl:if test="position() != last()">&lt;br/> </xsl:if>
   </xsl:template>
-  <xsl:template match="status">
-    <xsl:if test=". = 'New'">  {% image new.jpg %} </xsl:if>
-    <xsl:if test=". = 'Mod'">  {% image mod.jpg %} </xsl:if>
-  </xsl:template>
-  <xsl:template match="Major">
-    <xsl:choose>
+   <xsl:template match="Major">
+   <xsl:choose>
       <xsl:when test=". = 'MTRA'">
         <xsl:text>D</xsl:text>
       </xsl:when>
