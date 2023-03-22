@@ -169,7 +169,7 @@ table_number: nil
                       select="distinct-values(CourseNo)">
                       <xsl:text>&cr;[</xsl:text>
                       <xsl:value-of
-                        select="replace(., '-', '&#x2011;')"/>](/stcw23/courses/<xsl:value-of
+                        select="replace(., '-', '&#x2011;')"/>](/stcw/2023/courses/<xsl:value-of
                         select="."/>.html)<xsl:text/>
                       <xsl:if
                         test="not(position() = last())"><xsl:text>\\</xsl:text></xsl:if>
