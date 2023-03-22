@@ -18,7 +18,7 @@ You can:
 
 :   Link to a course {% course ST-0999D %} or {% course ST-0999, Sea Term 1 %}
 
-
+:   Link to a nvic pdf {% nvic 12-14, NVIC 2-14 %}
 :   Link to an STCW table  {% table 31, OICEW %}
 
 :   Link to a  {% task 1D1B, task %} 

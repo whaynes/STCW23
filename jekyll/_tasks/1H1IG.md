@@ -10,7 +10,7 @@ subtitle:  Monitor main gas turbine propulsion unit
 
 ### MMA Method
 
-In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 1.1.I(G) %}, MMA students must:
+In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-4-3E %} *Monitor main gas turbine operation*
 

@@ -10,7 +10,7 @@ subtitle:  Monitor reverse osmosis plant
 
 ### MMA Method
 
-In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 1.1.H(M/G) %}, MMA students must:
+In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-4-1D %} *Monitor engineering machinery*
 
@@ -68,7 +68,11 @@ the candidate monitors a reverse osmosis plant.
 
 <div class="tooltip" markdown='1'>
 
-Note 2 Note 6 May be used as substitute for Task No.
+Note 2
+
+Note 6 
+
+May be used as substitute for Task No.
 
 {% task 1H1HM, RFPEW 1.1.H(M) %}
 

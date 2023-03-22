@@ -10,7 +10,7 @@ subtitle:  Monitor main steam turbine propulsion unit
 
 ### MMA Method
 
-In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 1.1.I(S) %}, MMA students must:
+In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-5-1M %} *Monitor main steam turbine operation*
 * Successfully complete MMA Assessment {% assessment OICEW-4-1D %} *Monitor engineering machinery*

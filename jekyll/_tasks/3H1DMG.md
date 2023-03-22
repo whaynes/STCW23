@@ -10,7 +10,7 @@ subtitle:  Monitor auxiliary boiler
 
 ### MMA Method
 
-In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 3.1.D(M/G) %}, MMA students must:
+In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-4E3I %} *Monitor and operate auxiliary boiler*
 

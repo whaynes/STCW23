@@ -5,6 +5,7 @@ module Jekyll
     def initialize(tag_name, text, tokens)
       super
       @file, @linktext = text.split(",") unless text.nil?
+      @file=@file.strip unless @file.nil?
       @linktext = @file if @linktext.nil? #no linktext given
       @path = tag_name + 's/'  # default case
       case tag_name
@@ -25,7 +26,10 @@ module Jekyll
       when 'guidelines'  # commonly used link, so prefill everything
       	@path = 'content/'
       	@file = 'guidelines'   
-      	@linktext = 'Assessment Guidelines'  
+      	@linktext = 'Assessment Guidelines' 
+      when 'nvic'
+        @path='assets/images/nvic/'
+        @file="#{@file}.pdf"
       end
     end
 
@@ -55,4 +59,5 @@ Liquid::Template.register_tag('task', Jekyll::MMALink)
 Liquid::Template.register_tag('assessment', Jekyll::MMALink)
 Liquid::Template.register_tag('image', Jekyll::MMALink)
 Liquid::Template.register_tag('guidelines', Jekyll::MMALink)
+Liquid::Template.register_tag('nvic', Jekyll::MMALink)
 

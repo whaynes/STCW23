@@ -64,7 +64,7 @@
       <xsl:text>|:-----:|:-----|:--------|:---:|&cr;</xsl:text>
       <xsl:for-each-group select="RECORD" group-by="Table_Short_Name">
         <xsl:sort select="Table" order="ascending"/>
-        <xsl:text/>| {% imagelink nvic-<xsl:value-of select="nvic_number"/>.pdf, <xsl:value-of select="nvic_number"/> %} <xsl:text/>
+        <xsl:text/>| {% nvic <xsl:value-of select="nvic_number"/> %} <xsl:text/>
         <xsl:text/>| <xsl:value-of select="Table_Name"/>
         <xsl:text/>| {% task <xsl:value-of select="Table_Short_Name"/>, <xsl:value-of select="current-grouping-key()"/> Tasks %} <xsl:text/>
         <xsl:text/>| <xsl:apply-templates select="Major"/>|&cr;<xsl:text/>

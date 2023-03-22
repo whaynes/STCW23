@@ -10,7 +10,7 @@ subtitle:  Change out burners for a main-propulsion boiler
 
 ### MMA Method
 
-In order to satisfy  {% imagelink nvic-07-14.pdf, NVIC 07-14 Task 3.1.D(S) %}, MMA students must:
+In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment RFPEW-5-2E %} *Change and clean burner*
 
