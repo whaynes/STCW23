@@ -4,10 +4,6 @@ Original design: Basic Reader (reversed) (v2.0 - Sep 11, 2012) - A free xhtml/cs
 For more information, see http://andreasviklund.com/templates/basic-reader/
 */
 
-* {
-	margin: 0;
-	padding: 0;
-}
 
 body {
 	color: #303030;

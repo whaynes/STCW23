@@ -8,15 +8,15 @@ layout: page
 <table class='sortable courses'>
 
 <tr>
-<th  style='text-align:center'>No.</th> 
-<th>Course Number</th>
+<th style='text-align:center'>No.</th> 
+<th style='text-align:center'>Course Number</th>
 <th>Course Name</th>
 </tr>
 
 {% for course in courses %}
 <tr>
-<td>{{forloop.index}}.</td> 
-<td> <a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
+<td style='text-align:center'>{{forloop.index}}.</td> 
+<td style='text-align:center'> <a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
 <td>{{course.subtitle}}</td>
 {% endfor %}
 

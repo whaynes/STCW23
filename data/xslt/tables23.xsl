@@ -108,13 +108,13 @@ table_number: nil
           <colgroup>
             <col
               span="1"
-              style="width: 25%;"/>
+              style="width: 25%; text-align:center;"/>
             <col
               span="1"
               style="width: 65%;"/>
             <col
               span="1"
-              style="width: 10%;"/>
+              style="width: 10%; text-align:center;"/>
           </colgroup>
           <tbody>
             <tr>

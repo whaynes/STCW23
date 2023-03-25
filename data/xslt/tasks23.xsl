@@ -60,15 +60,16 @@
       <xsl:text>subtitle: USCG NVICs mapped to MMA Tasks &cr;</xsl:text>
       <xsl:text>task_number: nil&cr;</xsl:text>
       <xsl:text>---&rr;</xsl:text>
-      <xsl:text>|NVIC  | Name | MMA Tasks | D/E |&cr;</xsl:text>
-      <xsl:text>|:-----:|:-----|:--------|:---:|&cr;</xsl:text>
+      <xsl:text>|NVIC   | Name | MMA Tasks | D/E |&cr;</xsl:text>
+      <xsl:text>|:-----:|:-----|:----------|:---:|&cr;</xsl:text>
       <xsl:for-each-group select="RECORD" group-by="Table_Short_Name">
         <xsl:sort select="Table" order="ascending"/>
         <xsl:text/>| {% nvic <xsl:value-of select="nvic_number"/> %} <xsl:text/>
         <xsl:text/>| <xsl:value-of select="Table_Name"/>
-        <xsl:text/>| {% task <xsl:value-of select="Table_Short_Name"/>, <xsl:value-of select="current-grouping-key()"/> Tasks %} <xsl:text/>
-        <xsl:text/>| <xsl:apply-templates select="Major"/>|&cr;<xsl:text/>
+        <xsl:text/> | {% task <xsl:value-of select="Table_Short_Name"/>, <xsl:value-of select="current-grouping-key()"/> Tasks %} <xsl:text/>
+        <xsl:text/> | <xsl:apply-templates select="Major"/> |&cr;<xsl:text/>
       </xsl:for-each-group>
+      <xsl:text>{: class="sortable"}</xsl:text>
     </xsl:result-document>
   </xsl:template>
   <xsl:template name="EachNVIC">

@@ -5,21 +5,20 @@ layout: page
 {% assign tables = site.tables  %}
 
 
-<table class='sortable'>
+<table class='stcw_tables sortable'>
 <tr>
 
-<th>STCW Table</th>
+<th style='text-align:center'>STCW Table</th>
 <th>Name</th>
-<th>Major</th>
+<th style='text-align:center'>Major</th>
 </tr>
 
 {% for table in tables %}
 {% if table.Major  %}
 <tr>
-{% assign t= table.table_number %}
-<td style='text-align: center;'><a href='{{site.baseurl}}/tables/{{table.table_number}}'>{{table.title | remove: 'STCW Table '}}</a></td> 
+<td style='text-align:center'><a href='{{site.baseurl}}/tables/{{table.table_number}}'>{{table.title | remove: 'STCW Table '}}</a></td> 
 <td>{{table.subtitle}}</td>
-<td style='text-align: center;'>{{table.Major}}
+<td style='text-align:center'>{{table.Major}}
 {% endif %}
 {% endfor %}
 </table>
