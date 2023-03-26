@@ -19,4 +19,4 @@ task_number: nil
 | {% nvic 04-14 %} | survival craft and rescue boats other than fast rescue boats | {% task SCRB, SCRB Tasks %}  | D/E |
 | {% nvic 09-14 %} | advanced fire fighting | {% task AFF, AFF Tasks %}  | D/E |
 | {% nvic 05-04 %} | medical first aid | {% task MFA, MFA Tasks %}  | D/E |
-{: class="sortable"}
+{: class="sortable task_index"}
