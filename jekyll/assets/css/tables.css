@@ -32,29 +32,19 @@ table.tasks th:nth-child(4) {width:25%;}
 
 
 
-table.semester {
-	float: left;
-	margin: 0 20px 20px 0;
-	width: 46%;
-	table-layout: fixed;
+table.semester{
+  width:350px;
+  border:none;
+}
+table.semester *{
+  background-color: transparent;
+  border: 0;
+  padding: 0 3px;
+  margin: 0;
+
 }
 
-table.semester.fall {
-	clear: both;
-}
+table.semester td:first-child { width:75px;}
 
-table.semester th {
-	background-color: #CFE2F3;
-	text-align: left;
-	font-weight: normal;
-}
+table.center{margin: 0 auto 30px auto;}
 
-table.semester td, table.semester th {
-	padding: 2px 2px 2px 5px;
-	margin: 0;
-	overflow: hidden;
-}
-
-table.semester td:first-child, table.semester th:first-child {
-	text-align: center;
-}
