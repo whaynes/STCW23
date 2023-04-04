@@ -3,8 +3,8 @@ number: "RFPEW-5-2E"
 title: "STCW Assessment RFPEW-5-2E"
 subtitle: "Change and clean burner"
 category: "Engine"
-status: ""
-cnum: "EN-2231"
+status: "moved"
+cnum: "EN-3131"
 ---
 ### Condition
 
@@ -114,7 +114,7 @@ Reassemble burner
 
 ### Location
 
-Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
+Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 This assessment supports KUP {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
 

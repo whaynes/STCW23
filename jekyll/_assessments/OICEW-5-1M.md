@@ -3,8 +3,8 @@ number: "OICEW-5-1M"
 title: "STCW Assessment OICEW-5-1M"
 subtitle: "Monitor main steam turbine operation"
 category: "Engine"
-status: ""
-cnum: "EN-2231"
+status: "moved"
+cnum: "EN-3233"
 ---
 ### Condition
 
@@ -149,7 +149,7 @@ State critical temperature limits (40° F rise or 160° F max.)
 
 ### Location
 
-Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
+Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
 

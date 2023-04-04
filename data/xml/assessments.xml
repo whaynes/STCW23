@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <assessments>
-<assessment number="RFPEW-5-2E" name="Change and clean burner" category="Engine" status="" cnum="EN-2231">
+<assessment number="RFPEW-5-2E" name="Change and clean burner" category="Engine" status="moved" cnum="EN-3131">
 <markdown/>
 </assessment>
 <assessment number="OICNW-1-1A" name="Adjust a sextant" category="Deck" status="" cnum="MT-4371">
@@ -249,13 +249,13 @@
 <assessment number="OICEW-5-1K" name="Secure main propulsion diesel engine" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1L" name="Prepare main steam turbine for operation" category="Engine" status="" cnum="EN-4231">
+<assessment number="OICEW-5-1L" name="Prepare main steam turbine for operation" category="Engine" status="moved" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1M" name="Monitor main steam turbine operation" category="Engine" status="" cnum="EN-2231">
+<assessment number="OICEW-5-1M" name="Monitor main steam turbine operation" category="Engine" status="moved" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1N" name="Secure main steam turbine operation" category="Engine" status="" cnum="EN-4231">
+<assessment number="OICEW-5-1N" name="Secure main steam turbine operation" category="Engine" status="moved" cnum="EN-3233">
 <markdown/>
 </assessment>
 <assessment number="OICEW-5-2A" name="Light off main boiler" category="Engine" status="" cnum="EN-3131">

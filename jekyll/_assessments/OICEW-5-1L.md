@@ -3,8 +3,8 @@ number: "OICEW-5-1L"
 title: "STCW Assessment OICEW-5-1L"
 subtitle: "Prepare main steam turbine for operation"
 category: "Engine"
-status: ""
-cnum: "EN-4231"
+status: "moved"
+cnum: "EN-3233"
 ---
 ### Condition
 
@@ -155,7 +155,7 @@ Raise vacuum to approximately 20 inches Hg
 
 ### Location
 
-Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
+Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 

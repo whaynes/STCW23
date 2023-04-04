@@ -3,8 +3,8 @@ number: "OICEW-5-1N"
 title: "STCW Assessment OICEW-5-1N"
 subtitle: "Secure main steam turbine operation"
 category: "Engine"
-status: ""
-cnum: "EN-4231"
+status: "moved"
+cnum: "EN-3233"
 ---
 ### Condition
 
@@ -181,7 +181,7 @@ Secure LO gravity tank
 
 ### Location
 
-Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
+Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 
