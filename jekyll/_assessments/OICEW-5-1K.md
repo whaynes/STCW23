@@ -3,8 +3,8 @@ number: "OICEW-5-1K"
 title: "STCW Assessment OICEW-5-1K"
 subtitle: "Secure main propulsion diesel engine"
 category: "Engine"
-status: ""
-cnum: "EN-4131"
+status: "moved"
+cnum: "EN-4231"
 ---
 ### Condition
 
@@ -142,7 +142,7 @@ Secure
 
 ### Location
 
-Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
+Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 

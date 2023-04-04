@@ -3,8 +3,8 @@ number: "OICEW-4-2A"
 title: "STCW Assessment OICEW-4-2A"
 subtitle: "Respond to engine room alarms"
 category: "Engine"
-status: ""
-cnum: "EN-3131"
+status: "moved & changed"
+cnum: "EN-4231"
 ---
 ### Condition
 
@@ -29,7 +29,7 @@ Aboard ship or in a suitable engine room simulator, given appropriate alarms.
 <tr><td>
 
 {% capture behavior %}
-{% do monitor, Monitor %} the simulated plant
+{% do monitor, Monitor %} the propulsion plant
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -47,11 +47,16 @@ Aboard ship or in a suitable engine room simulator, given appropriate alarms.
 <tr><td>
 
 {% capture behavior %}
-{% do respondtoalarm, Respond %} to alarms such as:
+{% do respondtoalarm, Respond %} to all alarms including:
 
-* high or low boiler water level
-* high or low steam pressure
-* low vacuum
+* coolant temperatures
+* oil pressures
+* tank levels
+* vibration
+* engine shutdown/slowdown
+* bearing temperature
+* exhaust temperature
+* oil mist detector
 * etc
 {% endcapture %}
 {{ behavior | markdownify }}
@@ -77,7 +82,7 @@ For each alarm that occurs:
 
 ### Location
 
-Assessed in  {% course  EN-3131 %}  *Steam Generators*.
+Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A1.3, OICEW-A1.3 %}
 
