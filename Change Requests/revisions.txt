@@ -1,8 +1,13 @@
-4/8/22
+Remove First Aid CPR from Engine Systems and Safety
 
-Removed First Aid CPR from Engine Systems and Safety
+Add operational controls
+    
+Move thermo fluids lab to fluid mechanics
 
-Added Operational Controls Lab
-    some topics move here
-    
-    
+Delete thermo/fluids lab
+
+revise cruise assessments
+
+Remove English comp HU111 (Moved one task to gmdss)
+
+Completed changes to/from new ship
