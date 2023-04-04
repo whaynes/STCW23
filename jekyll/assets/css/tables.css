@@ -4,9 +4,10 @@ table {
 }
 
 
-table tr th, table tr td {
+table th, table td {
 	break-inside: avoid;
 	vertical-align:top;
+	padding: 1px 1em;
 }
 
 
