@@ -3,7 +3,7 @@ number: "OICEW-5-2D"
 title: "STCW Assessment OICEW-5-2D"
 subtitle: "Test and treat boiler water"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

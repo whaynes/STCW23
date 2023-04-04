@@ -3,7 +3,7 @@ number: "OICEW-4-1B"
 title: "STCW Assessment OICEW-4-1B"
 subtitle: "Watch Relief"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

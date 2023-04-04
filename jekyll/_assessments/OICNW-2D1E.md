@@ -3,7 +3,7 @@ number: "OICNW-2D1E"
 title: "STCW Assessment OICNW-2D1E"
 subtitle: "Maneuver to avoid risk of collision - crossing"
 category: "Deck"
-status: "New"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

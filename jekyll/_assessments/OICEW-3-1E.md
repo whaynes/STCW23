@@ -3,7 +3,7 @@ number: "OICEW-3-1E"
 title: "STCW Assessment OICEW-3-1E"
 subtitle: "Determine phase rotation	"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

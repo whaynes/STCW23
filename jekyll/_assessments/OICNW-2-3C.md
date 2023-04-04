@@ -3,7 +3,7 @@ number: "OICNW-2-3C"
 title: "STCW Assessment OICNW-2-3C"
 subtitle: "Watch augmentation"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

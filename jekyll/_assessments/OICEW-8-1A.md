@@ -3,7 +3,7 @@ number: "OICEW-8-1A"
 title: "STCW Assessment OICEW-8-1A"
 subtitle: "Lathe project"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2112"
 ---
 ### Condition

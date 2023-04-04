@@ -3,7 +3,7 @@ number: "OICNW-1-6B"
 title: "STCW Assessment OICNW-1-6B"
 subtitle: "Set weather controls"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

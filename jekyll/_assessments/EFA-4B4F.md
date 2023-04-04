@@ -3,7 +3,7 @@ number: "EFA-4B4F"
 title: "STCW Assessment EFA-4B4F"
 subtitle: "Demonstrate proper hand placements for chest compressions"
 category: "Common"
-status: "New"
+status: ""
 cnum: "PE-0031"
 ---
 ### Condition

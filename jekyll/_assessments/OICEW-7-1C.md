@@ -3,7 +3,7 @@ number: "OICEW-7-1C"
 title: "STCW Assessment OICEW-7-1C"
 subtitle: "Pre-start inspection of steam turbo-generator"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3233"
 ---
 ### Condition

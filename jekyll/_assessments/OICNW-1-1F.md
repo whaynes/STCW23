@@ -3,7 +3,7 @@ number: "OICNW-1-1F"
 title: "STCW Assessment OICNW-1-1F"
 subtitle: "Star Fix"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

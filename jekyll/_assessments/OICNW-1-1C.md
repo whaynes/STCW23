@@ -3,7 +3,7 @@ number: "OICNW-1-1C"
 title: "STCW Assessment OICNW-1-1C"
 subtitle: "Obtain a celestial fix"
 category: "Deck"
-status: "Mod"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICNW-2-3B"
 title: "STCW Assessment OICNW-2-3B"
 subtitle: "Voyage plan - execution"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

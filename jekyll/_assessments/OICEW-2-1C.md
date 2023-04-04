@@ -3,7 +3,7 @@ number: "OICEW-2-1C"
 title: "STCW Assessment OICEW-2-1C"
 subtitle: "External thread using a hand die"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "ST-0999E"
 ---
 ### Condition

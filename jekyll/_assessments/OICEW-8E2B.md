@@ -3,7 +3,7 @@ number: "OICEW-8E2B"
 title: "STCW Assessment OICEW-8E2B"
 subtitle: "Centrifugal pump maintenance (packing)"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-2111"
 ---
 ### Condition

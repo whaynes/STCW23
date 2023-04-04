@@ -3,7 +3,7 @@ number: "OICEW-5-1B"
 title: "STCW Assessment OICEW-5-1B"
 subtitle: "Start refrigeration system"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3213"
 ---
 ### Condition

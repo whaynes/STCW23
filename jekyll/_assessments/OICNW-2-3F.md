@@ -3,7 +3,7 @@ number: "OICNW-2-3F"
 title: "STCW Assessment OICNW-2-3F"
 subtitle: "BRM Condition II or III – error trapping"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

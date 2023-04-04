@@ -3,7 +3,7 @@ number: "OICEW-4-1C"
 title: "STCW Assessment OICEW-4-1C"
 subtitle: "Engineering watchkeeping"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

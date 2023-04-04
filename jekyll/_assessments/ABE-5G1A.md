@@ -3,7 +3,7 @@ number: "ABE-5G1A"
 title: "STCW Assessment ABE-5G1A"
 subtitle: "Trace out a piping system"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-2231"
 ---
 ### Condition

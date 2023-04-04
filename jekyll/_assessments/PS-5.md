@@ -3,7 +3,7 @@ number: "PS-5"
 title: "STCW Assessment PS-5"
 subtitle: "Swim while wearing a lifejacket"
 category: "Common"
-status: "Old"
+status: ""
 cnum: "PS-0301"
 ---
 ### Condition

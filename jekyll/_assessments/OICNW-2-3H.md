@@ -3,7 +3,7 @@ number: "OICNW-2-3H"
 title: "STCW Assessment OICNW-2-3H"
 subtitle: "BRM Condition III – establish a bridge team"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICEW-7E4A"
 title: "STCW Assessment OICEW-7E4A"
 subtitle: "Disassemble and reassemble an electric motor"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

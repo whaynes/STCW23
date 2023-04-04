@@ -3,7 +3,7 @@ number: "OICNW-3-3R"
 title: "STCW Assessment OICNW-3-3R"
 subtitle: "Environmental Data - Display tide bars and current vectors"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3224"
 ---
 ### Condition

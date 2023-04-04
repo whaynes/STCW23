@@ -5,7 +5,6 @@ table {
 
 
 table tr th, table tr td {
-	padding: 4px 6px;
 	break-inside: avoid;
 	vertical-align:top;
 }

@@ -3,7 +3,7 @@ number: "OICEW-8E3A"
 title: "STCW Assessment OICEW-8E3A"
 subtitle: "Clean an oil purifier"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-4131"
 ---
 ### Condition

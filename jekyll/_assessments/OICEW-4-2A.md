@@ -3,7 +3,7 @@ number: "OICEW-4-2A"
 title: "STCW Assessment OICEW-4-2A"
 subtitle: "Respond to engine room alarms"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

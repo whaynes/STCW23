@@ -3,7 +3,7 @@ number: "OICNW-2-2C"
 title: "STCW Assessment OICNW-2-2C"
 subtitle: "Notify Master when appropriate"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

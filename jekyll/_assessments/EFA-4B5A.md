@@ -3,7 +3,7 @@ number: "EFA-4B5A"
 title: "STCW Assessment EFA-4B5A"
 subtitle: "Demonstrate proper bleeding control techniques"
 category: "Common"
-status: "New"
+status: ""
 cnum: "PE-0031"
 ---
 ### Condition

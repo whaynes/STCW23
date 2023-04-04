@@ -3,7 +3,7 @@ number: "EFA-4B4I"
 title: "STCW Assessment EFA-4B4I"
 subtitle: "Demonstrate actions for an unconscious adult with airway blockage"
 category: "Common"
-status: "New"
+status: ""
 cnum: "PE-0031"
 ---
 ### Condition

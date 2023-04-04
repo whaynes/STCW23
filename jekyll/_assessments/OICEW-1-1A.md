@@ -3,7 +3,7 @@ number: "OICEW-1-1A"
 title: "STCW Assessment OICEW-1-1A"
 subtitle: "Cut a circular hole using oxyacetylene process"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2112"
 ---
 ### Condition

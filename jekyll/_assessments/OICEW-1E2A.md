@@ -3,7 +3,7 @@ number: "OICEW-1E2A"
 title: "STCW Assessment OICEW-1E2A"
 subtitle: "Change over control systems"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-3233"
 ---
 ### Condition

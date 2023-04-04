@@ -3,7 +3,7 @@ number: "OICEW-1-1F"
 title: "STCW Assessment OICEW-1-1F"
 subtitle: "Visual test of welded joint"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2112"
 ---
 ### Condition

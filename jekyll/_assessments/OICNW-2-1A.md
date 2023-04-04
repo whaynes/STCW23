@@ -3,7 +3,7 @@ number: "OICNW-2-1A"
 title: "STCW Assessment OICNW-2-1A"
 subtitle: "Identify light configurations"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-2161"
 ---
 ### Condition

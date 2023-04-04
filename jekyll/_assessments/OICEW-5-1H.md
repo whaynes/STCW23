@@ -3,7 +3,7 @@ number: "OICEW-5-1H"
 title: "STCW Assessment OICEW-5-1H"
 subtitle: "Start fuel oil or lube oil purifier"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3233"
 ---
 ### Condition

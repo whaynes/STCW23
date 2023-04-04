@@ -3,7 +3,7 @@ number: "OICEW-8E2D"
 title: "STCW Assessment OICEW-8E2D"
 subtitle: "Replace flange gasket"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-2231"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICNW-1-4A"
 title: "STCW Assessment OICNW-1-4A"
 subtitle: "Position fix by GPS"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

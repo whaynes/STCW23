@@ -3,7 +3,7 @@ number: "OICNW-3-2M"
 title: "STCW Assessment OICNW-3-2M"
 subtitle: "Determine set and drift"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3222"
 ---
 ### Condition

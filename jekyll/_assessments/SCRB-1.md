@@ -3,7 +3,7 @@ number: "SCRB-1"
 title: "STCW Assessment SCRB-1"
 subtitle: "Right an inverted lifefraft "
 category: "Common"
-status: "Old"
+status: ""
 cnum: "PS-0301"
 ---
 ### Condition

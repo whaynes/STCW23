@@ -3,7 +3,7 @@ number: "OICNW-2-1F"
 title: "STCW Assessment OICNW-2-1F"
 subtitle: "Maneuver to avoid risk of collision -- overtaking"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

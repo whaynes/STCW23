@@ -3,7 +3,7 @@ number: "OICEW-5-2B"
 title: "STCW Assessment OICEW-5-2B"
 subtitle: "Secure main boiler"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

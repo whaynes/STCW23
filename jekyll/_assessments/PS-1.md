@@ -3,7 +3,7 @@ number: "PS-1"
 title: "STCW Assessment PS-1"
 subtitle: "Don a lifejacket"
 category: "Common"
-status: "Old"
+status: ""
 cnum: "PS-0301"
 ---
 ### Condition

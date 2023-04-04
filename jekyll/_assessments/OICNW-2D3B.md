@@ -3,7 +3,7 @@ number: "OICNW-2D3B"
 title: "STCW Assessment OICNW-2D3B"
 subtitle: "Voyage plan - preparation"
 category: "Deck"
-status: "New"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

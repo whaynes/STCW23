@@ -3,7 +3,7 @@ number: "OICNW-1-2A"
 title: "STCW Assessment OICNW-1-2A"
 subtitle: "Fix by two bearings"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4133"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "MFA-1M4A"
 title: "STCW Assessment MFA-1M4A"
 subtitle: "Perform CPR"
 category: "Common"
-status: "New"
+status: ""
 cnum: "PE-0032"
 ---
 ### Condition

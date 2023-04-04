@@ -3,7 +3,7 @@ number: "OICEW-1-1E"
 title: "STCW Assessment OICEW-1-1E"
 subtitle: "Bend copper tube"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "ST-0999E"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICNW-3-3K"
 title: "STCW Assessment OICNW-3-3K"
 subtitle: "Merge User Charts"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3224"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICNW-3-1H"
 title: "STCW Assessment OICNW-3-1H"
 subtitle: "Change course to control target DRM"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3122"
 ---
 ### Condition

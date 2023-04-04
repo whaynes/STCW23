@@ -3,7 +3,7 @@ number: "SCRB-4"
 title: "STCW Assessment SCRB-4"
 subtitle: "Row and steer survival craft"
 category: "Common"
-status: "Old"
+status: ""
 cnum: "LB-0201"
 ---
 ### Condition

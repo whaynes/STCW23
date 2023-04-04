@@ -3,7 +3,7 @@ number: "OICNW-3-1C"
 title: "STCW Assessment OICNW-3-1C"
 subtitle: "Identify false echoes, sea return, racons and SARTs"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3122"
 ---
 ### Condition

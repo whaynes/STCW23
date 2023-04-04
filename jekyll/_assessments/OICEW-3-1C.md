@@ -3,7 +3,7 @@ number: "OICEW-3-1C"
 title: "STCW Assessment OICEW-3-1C"
 subtitle: "Detect location of grounds"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

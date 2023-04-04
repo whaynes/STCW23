@@ -3,7 +3,7 @@ number: "OICNW-1-3C"
 title: "STCW Assessment OICNW-1-3C"
 subtitle: "Route planning"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICNW-1-1D"
 title: "STCW Assessment OICNW-1-1D"
 subtitle: "Measure the altitude of the sun at meridian passage (local apparent noon)"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

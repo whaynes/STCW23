@@ -3,7 +3,7 @@ number: "OICEW-6-2A"
 title: "STCW Assessment OICEW-6-2A"
 subtitle: "Pump bilges"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2231"
 ---
 ### Condition

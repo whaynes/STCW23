@@ -3,7 +3,7 @@ number: "OICNW-3-1K"
 title: "STCW Assessment OICNW-3-1K"
 subtitle: "Parallel indexing"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3122"
 ---
 ### Condition

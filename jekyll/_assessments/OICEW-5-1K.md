@@ -3,7 +3,7 @@ number: "OICEW-5-1K"
 title: "STCW Assessment OICEW-5-1K"
 subtitle: "Secure main propulsion diesel engine"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4131"
 ---
 ### Condition

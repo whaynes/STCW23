@@ -3,7 +3,7 @@ number: "OICNW-3-3J"
 title: "STCW Assessment OICNW-3-3J"
 subtitle: "Display User Charts "
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3224"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICEW-9-1C"
 title: "STCW Assessment OICEW-9-1C"
 subtitle: "Monitor oily water separator system"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2231"
 ---
 ### Condition

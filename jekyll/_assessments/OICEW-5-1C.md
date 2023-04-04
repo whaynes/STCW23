@@ -3,7 +3,7 @@ number: "OICEW-5-1C"
 title: "STCW Assessment OICEW-5-1C"
 subtitle: "Shut down refrigeration system"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3213"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICEW-10E1B"
 title: "STCW Assessment OICEW-10E1B"
 subtitle: "Start and secure oily water separator"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

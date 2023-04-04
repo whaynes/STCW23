@@ -3,7 +3,7 @@ number: "OICNW-3-2B"
 title: "STCW Assessment OICNW-3-2B"
 subtitle: "Manual target acquisition"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3222"
 ---
 ### Condition

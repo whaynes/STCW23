@@ -3,7 +3,7 @@ number: "OICEW-7-1B"
 title: "STCW Assessment OICEW-7-1B"
 subtitle: "Inspect and start a diesel engine"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4131"
 ---
 ### Condition

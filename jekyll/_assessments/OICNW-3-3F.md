@@ -3,7 +3,7 @@ number: "OICNW-3-3F"
 title: "STCW Assessment OICNW-3-3F"
 subtitle: "Monitoring Sea Area - Chart Scaling"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3224"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "FF-6PLF"
 title: "STCW Assessment FF-6PLF"
 subtitle: "Extinguish a paint locker fire"
 category: "Common"
-status: "New"
+status: ""
 cnum: "FF-0106"
 ---
 ### Condition

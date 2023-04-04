@@ -3,7 +3,7 @@ number: "OICEW-4E3I"
 title: "STCW Assessment OICEW-4E3I"
 subtitle: "Monitor and operate auxiliary boiler"
 category: "Engine"
-status: "New"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

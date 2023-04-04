@@ -3,7 +3,7 @@ number: "OICNW-2-1D"
 title: "STCW Assessment OICNW-2-1D"
 subtitle: "Determine risk of collision"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

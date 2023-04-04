@@ -3,7 +3,7 @@ number: "ABDE-DE-1"
 title: "STCW Assessment ABDE-DE-1"
 subtitle: "Demonstrate crane and hoist signals"
 category: "Common"
-status: "Old"
+status: ""
 cnum: "ST-0999D"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICEW-5-1F"
 title: "STCW Assessment OICEW-5-1F"
 subtitle: "Start fresh water generator "
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

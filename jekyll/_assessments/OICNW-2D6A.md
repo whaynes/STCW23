@@ -3,7 +3,7 @@ number: "OICNW-2D6A"
 title: "STCW Assessment OICNW-2D6A"
 subtitle: "Vessel traffic systems (VTS)"
 category: "Deck"
-status: "New"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

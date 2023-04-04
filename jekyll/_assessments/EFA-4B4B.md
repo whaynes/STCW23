@@ -3,7 +3,7 @@ number: "EFA-4B4B"
 title: "STCW Assessment EFA-4B4B"
 subtitle: "Demonstrate opening of the airway and checking for breathing"
 category: "Common"
-status: "New"
+status: ""
 cnum: "PE-0031"
 ---
 ### Condition

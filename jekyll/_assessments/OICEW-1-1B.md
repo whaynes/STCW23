@@ -3,7 +3,7 @@ number: "OICEW-1-1B"
 title: "STCW Assessment OICEW-1-1B"
 subtitle: "Form two steel plates using brazing process"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2112"
 ---
 ### Condition

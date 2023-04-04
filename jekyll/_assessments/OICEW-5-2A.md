@@ -3,7 +3,7 @@ number: "OICEW-5-2A"
 title: "STCW Assessment OICEW-5-2A"
 subtitle: "Light off main boiler"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

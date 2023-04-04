@@ -3,7 +3,7 @@ number: "OICEW-5-1L"
 title: "STCW Assessment OICEW-5-1L"
 subtitle: "Prepare main steam turbine for operation"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-4231"
 ---
 ### Condition

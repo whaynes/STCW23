@@ -1,669 +1,669 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <assessments>
-<assessment number="RFPEW-5-2E" name="Change and clean burner" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="RFPEW-5-2E" name="Change and clean burner" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1A" name="Adjust a sextant" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-1A" name="Adjust a sextant" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1B" name="Measure the altitude of the sun" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-1B" name="Measure the altitude of the sun" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1C" name="Obtain a celestial fix" category="Deck" status="Mod" cnum="MT-4371">
+<assessment number="OICNW-1-1C" name="Obtain a celestial fix" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1D" name="Measure the altitude of the sun at meridian passage (local apparent noon)" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-1D" name="Measure the altitude of the sun at meridian passage (local apparent noon)" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1E" name="Celestial running fix" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-1E" name="Celestial running fix" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1F" name="Star Fix" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-1F" name="Star Fix" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-1G" name="Measure the altitude of at least 3 stars" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-1G" name="Measure the altitude of at least 3 stars" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2A" name="Fix by two bearings" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-1-2A" name="Fix by two bearings" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2B" name="Fix by two ranges" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-1-2B" name="Fix by two ranges" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2C" name="Fix by tangent bearings of two identified objects" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-1-2C" name="Fix by tangent bearings of two identified objects" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2D" name="Plot the ship’s DR position" category="Deck" status="Old" cnum="MT-2121">
+<assessment number="OICNW-1-2D" name="Plot the ship’s DR position" category="Deck" status="" cnum="MT-2121">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2E" name="Determine course to steer" category="Deck" status="Old" cnum="MT-2121">
+<assessment number="OICNW-1-2E" name="Determine course to steer" category="Deck" status="" cnum="MT-2121">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-3A" name="Correction of charts and publications" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-1-3A" name="Correction of charts and publications" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-3B" name="Chart selection" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-3B" name="Chart selection" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-3C" name="Route planning" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-3C" name="Route planning" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-4A" name="Position fix by GPS" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-4A" name="Position fix by GPS" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-4B" name="Use of GPS position save function" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-4B" name="Use of GPS position save function" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-4D" name="Use of echo sounder" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-4D" name="Use of echo sounder" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-5A" name="Determine gyro compass error by bearing of range" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-1-5A" name="Determine gyro compass error by bearing of range" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-5B" name="Determine magnetic compass error" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-1-5B" name="Determine magnetic compass error" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-5C" name="Determine magnetic compass deviation" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-1-5C" name="Determine magnetic compass deviation" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-5D" name="Determine course to steer by magnetic compass" category="Deck" status="Old" cnum="MT-2121">
+<assessment number="OICNW-1-5D" name="Determine course to steer by magnetic compass" category="Deck" status="" cnum="MT-2121">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-5E" name="Position fix by magnetic compass bearings" category="Deck" status="Old" cnum="MT-2121">
+<assessment number="OICNW-1-5E" name="Position fix by magnetic compass bearings" category="Deck" status="" cnum="MT-2121">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-5F" name="Azimuth of the sun" category="Deck" status="Mod" cnum="MT-4371">
+<assessment number="OICNW-1-5F" name="Azimuth of the sun" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-6A" name="Steering gear test" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-6A" name="Steering gear test" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-6B" name="Set weather controls" category="Deck" status="Old" cnum="MT-4371">
+<assessment number="OICNW-1-6B" name="Set weather controls" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1A" name="Identify light configurations" category="Deck" status="Old" cnum="MT-2161">
+<assessment number="OICNW-2-1A" name="Identify light configurations" category="Deck" status="" cnum="MT-2161">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1B" name="Identify day shapes" category="Deck" status="Old" cnum="MT-2161">
+<assessment number="OICNW-2-1B" name="Identify day shapes" category="Deck" status="" cnum="MT-2161">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1C" name="Identify sound signals" category="Deck" status="Old" cnum="MT-2161">
+<assessment number="OICNW-2-1C" name="Identify sound signals" category="Deck" status="" cnum="MT-2161">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1D" name="Determine risk of collision" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-1D" name="Determine risk of collision" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1E" name="Maneuver to avoid risk of collision -- meeting" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-1E" name="Maneuver to avoid risk of collision -- meeting" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1F" name="Maneuver to avoid risk of collision -- overtaking" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-1F" name="Maneuver to avoid risk of collision -- overtaking" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2A" name="Watch relief" category="Deck" status="Mod" cnum="MT-4371">
+<assessment number="OICNW-2-2A" name="Watch relief" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2B" name="Keep a safe navigation watch" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-2B" name="Keep a safe navigation watch" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2C" name="Notify Master when appropriate" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-2C" name="Notify Master when appropriate" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2D" name="Keep a safe anchor watch" category="Deck" status="Mod" cnum="MT-4253">
+<assessment number="OICNW-2-2D" name="Keep a safe anchor watch" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2E" name="Navigate in restricted visibility" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-2E" name="Navigate in restricted visibility" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2F" name="Turn over a watch" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-2F" name="Turn over a watch" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3A" name="Voyage plan - appraisal" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3A" name="Voyage plan - appraisal" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3B" name="Voyage plan - execution" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3B" name="Voyage plan - execution" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3C" name="Watch augmentation" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3C" name="Watch augmentation" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3D" name="BRM Condition III – collision avoidance." category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3D" name="BRM Condition III – collision avoidance." category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3E" name="BRM Condition III – navigation" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3E" name="BRM Condition III – navigation" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3F" name="BRM Condition II or III – error trapping" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3F" name="BRM Condition II or III – error trapping" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3G" name="BRM Condition II or III – navigation and collision avoidance" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3G" name="BRM Condition II or III – navigation and collision avoidance" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3H" name="BRM Condition III – establish a bridge team" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-2-3H" name="BRM Condition III – establish a bridge team" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1A" name="Set up and maintain radar display" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1A" name="Set up and maintain radar display" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1B" name="Switch display modes" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1B" name="Switch display modes" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1C" name="Identify false echoes, sea return, racons and SARTs" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1C" name="Identify false echoes, sea return, racons and SARTs" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2A" name="Set up and maintain an ARPA display" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2A" name="Set up and maintain an ARPA display" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-4-1A" name="Flashing Light" category="Deck" status="Old" cnum="MT-4253">
+<assessment number="OICNW-4-1A" name="Flashing Light" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-5-1A" name="Maneuver for man overboard" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-5-1A" name="Maneuver for man overboard" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-5-1B" name="Course change of more than 45°" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-5-1B" name="Course change of more than 45°" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-5-1C" name="Emergency stop" category="Deck" status="Old" cnum="MT-4133">
+<assessment number="OICNW-5-1C" name="Emergency stop" category="Deck" status="" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1A" name="Cut a circular hole using oxyacetylene process" category="Engine" status="Old" cnum="EN-2112">
+<assessment number="OICEW-1-1A" name="Cut a circular hole using oxyacetylene process" category="Engine" status="" cnum="EN-2112">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1B" name="Form two steel plates using brazing process" category="Engine" status="Old" cnum="EN-2112">
+<assessment number="OICEW-1-1B" name="Form two steel plates using brazing process" category="Engine" status="" cnum="EN-2112">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1C" name="Form two steel plates using electric arc welding process" category="Engine" status="Old" cnum="EN-2112">
+<assessment number="OICEW-1-1C" name="Form two steel plates using electric arc welding process" category="Engine" status="" cnum="EN-2112">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1D" name="Sweat joint" category="Engine" status="Old" cnum="ST-0999E">
+<assessment number="OICEW-1-1D" name="Sweat joint" category="Engine" status="" cnum="ST-0999E">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1E" name="Bend copper tube" category="Engine" status="Old" cnum="ST-0999E">
+<assessment number="OICEW-1-1E" name="Bend copper tube" category="Engine" status="" cnum="ST-0999E">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1F" name="Visual test of welded joint" category="Engine" status="Old" cnum="EN-2112">
+<assessment number="OICEW-1-1F" name="Visual test of welded joint" category="Engine" status="" cnum="EN-2112">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1-1G" name="Dye-penetrant test" category="Engine" status="Old" cnum="EN-2112">
+<assessment number="OICEW-1-1G" name="Dye-penetrant test" category="Engine" status="" cnum="EN-2112">
 <markdown/>
 </assessment>
-<assessment number="OICEW-2-1A" name="Drill blind hole using drilling machine" category="Engine" status="Old" cnum="ST-0999E">
+<assessment number="OICEW-2-1A" name="Drill blind hole using drilling machine" category="Engine" status="" cnum="ST-0999E">
 <markdown/>
 </assessment>
-<assessment number="OICEW-2-1B" name="Thread a blind hole using hand taps" category="Engine" status="Old" cnum="ST-0999E">
+<assessment number="OICEW-2-1B" name="Thread a blind hole using hand taps" category="Engine" status="" cnum="ST-0999E">
 <markdown/>
 </assessment>
-<assessment number="OICEW-2-1C" name="External thread using a hand die" category="Engine" status="Old" cnum="ST-0999E">
+<assessment number="OICEW-2-1C" name="External thread using a hand die" category="Engine" status="" cnum="ST-0999E">
 <markdown/>
 </assessment>
-<assessment number="OICEW-3-1A" name="Plan and use test equipment" category="Engine" status="Old" cnum="EN-3111L">
+<assessment number="OICEW-3-1A" name="Plan and use test equipment" category="Engine" status="" cnum="EN-3111L">
 <markdown/>
 </assessment>
-<assessment number="OICEW-3-1B" name="Troubleshoot electrical motor control system" category="Engine" status="Old" cnum="EN-3111L">
+<assessment number="OICEW-3-1B" name="Troubleshoot electrical motor control system" category="Engine" status="" cnum="EN-3111L">
 <markdown/>
 </assessment>
-<assessment number="OICEW-3-1C" name="Detect location of grounds" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-3-1C" name="Detect location of grounds" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-3-1D" name="Measure insulation resistance" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-3-1D" name="Measure insulation resistance" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-3-1E" name="Determine phase rotation&#9;" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-3-1E" name="Determine phase rotation&#9;" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-1A" name="Inspect machinery spaces before assuming watch" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-4-1A" name="Inspect machinery spaces before assuming watch" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-1B" name="Watch Relief" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-4-1B" name="Watch Relief" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-2A" name="Respond to engine room alarms" category="Engine" status="Old" cnum="EN-3131">
+<assessment number="OICEW-4-2A" name="Respond to engine room alarms" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1A" name="Test steering gear and internal communications" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-5-1A" name="Test steering gear and internal communications" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1B" name="Start refrigeration system" category="Engine" status="Old" cnum="EN-3213">
+<assessment number="OICEW-5-1B" name="Start refrigeration system" category="Engine" status="" cnum="EN-3213">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1C" name="Shut down refrigeration system" category="Engine" status="Old" cnum="EN-3213">
+<assessment number="OICEW-5-1C" name="Shut down refrigeration system" category="Engine" status="" cnum="EN-3213">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1D" name="Start and secure air compressor" category="Engine" status="Old" cnum="EN-2111">
+<assessment number="OICEW-5-1D" name="Start and secure air compressor" category="Engine" status="" cnum="EN-2111">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1F" name="Start fresh water generator " category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-5-1F" name="Start fresh water generator " category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1G" name="Shut down fresh water generator" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-5-1G" name="Shut down fresh water generator" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1H" name="Start fuel oil or lube oil purifier" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-5-1H" name="Start fuel oil or lube oil purifier" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1I" name="Shut down fuel oil or lube oil purifier" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-5-1I" name="Shut down fuel oil or lube oil purifier" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1J" name="Prepare main propulsion diesel engine for operation" category="Engine" status="Old" cnum="EN-4131">
+<assessment number="OICEW-5-1J" name="Prepare main propulsion diesel engine for operation" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1K" name="Secure main propulsion diesel engine" category="Engine" status="Old" cnum="EN-4131">
+<assessment number="OICEW-5-1K" name="Secure main propulsion diesel engine" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1L" name="Prepare main steam turbine for operation" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-5-1L" name="Prepare main steam turbine for operation" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1M" name="Monitor main steam turbine operation" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-5-1M" name="Monitor main steam turbine operation" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-1N" name="Secure main steam turbine operation" category="Engine" status="Old" cnum="EN-4231">
+<assessment number="OICEW-5-1N" name="Secure main steam turbine operation" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-2A" name="Light off main boiler" category="Engine" status="Old" cnum="EN-3131">
+<assessment number="OICEW-5-2A" name="Light off main boiler" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-2B" name="Secure main boiler" category="Engine" status="Old" cnum="EN-3131">
+<assessment number="OICEW-5-2B" name="Secure main boiler" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-2C" name="Bottom blow boiler" category="Engine" status="Old" cnum="EN-3131">
+<assessment number="OICEW-5-2C" name="Bottom blow boiler" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5-2D" name="Test and treat boiler water" category="Engine" status="Old" cnum="EN-3131">
+<assessment number="OICEW-5-2D" name="Test and treat boiler water" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-6-1A" name="Transfer fuel" category="Engine" status="Old" cnum="EN-3131">
+<assessment number="OICEW-6-1A" name="Transfer fuel" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-6-1B" name="Operate fire pump" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-6-1B" name="Operate fire pump" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-6-2A" name="Pump bilges" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-6-2A" name="Pump bilges" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7-1A" name="Start emergency generator" category="Engine" status="Old" cnum="EN-4131">
+<assessment number="OICEW-7-1A" name="Start emergency generator" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7-1B" name="Inspect and start a diesel engine" category="Engine" status="Old" cnum="EN-4131">
+<assessment number="OICEW-7-1B" name="Inspect and start a diesel engine" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7-1C" name="Pre-start inspection of steam turbo-generator" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-7-1C" name="Pre-start inspection of steam turbo-generator" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7-1D" name="Connect ship service diesel generator to main switchboard" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-7-1D" name="Connect ship service diesel generator to main switchboard" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7-1E" name="Parallel generators" category="Engine" status="Old" cnum="EN-3111L">
+<assessment number="OICEW-7-1E" name="Parallel generators" category="Engine" status="" cnum="EN-3111L">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-1A" name="Lathe project" category="Engine" status="Old" cnum="EN-2112">
+<assessment number="OICEW-8-1A" name="Lathe project" category="Engine" status="" cnum="EN-2112">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2A" name="Centrifugal pump maintenance (mechanical seal)" category="Engine" status="Old" cnum="EN-2111">
+<assessment number="OICEW-8-2A" name="Centrifugal pump maintenance (mechanical seal)" category="Engine" status="" cnum="EN-2111">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2B" name="Reciprocating pump maintenance" category="Engine" status="Old" cnum="EN-2111">
+<assessment number="OICEW-8-2B" name="Reciprocating pump maintenance" category="Engine" status="" cnum="EN-2111">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2C" name="Gear pump maintenance" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-8-2C" name="Gear pump maintenance" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2D" name="Inspect valve manifold" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-8-2D" name="Inspect valve manifold" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2E" name="Overhaul valve" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-8-2E" name="Overhaul valve" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2F" name="Overhaul heat exchanger" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-8-2F" name="Overhaul heat exchanger" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-9-1B" name="Monitor sewage waste treatment plant" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-9-1B" name="Monitor sewage waste treatment plant" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-9-1C" name="Monitor oily water separator system" category="Engine" status="Old" cnum="EN-2231">
+<assessment number="OICEW-9-1C" name="Monitor oily water separator system" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="SCRB-1" name="Right an inverted lifefraft " category="Common" status="Old" cnum="PS-0301">
+<assessment number="SCRB-1" name="Right an inverted lifefraft " category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="SCRB-2" name="Launch, board and recover survival craft." category="Common" status="Old" cnum="LB-0201">
+<assessment number="SCRB-2" name="Launch, board and recover survival craft." category="Common" status="" cnum="LB-0201">
 <markdown/>
 </assessment>
-<assessment number="SCRB-3" name="Start and operate survival craft engine" category="Common" status="Old" cnum="LB-0201">
+<assessment number="SCRB-3" name="Start and operate survival craft engine" category="Common" status="" cnum="LB-0201">
 <markdown/>
 </assessment>
-<assessment number="SCRB-4" name="Row and steer survival craft" category="Common" status="Old" cnum="LB-0201">
+<assessment number="SCRB-4" name="Row and steer survival craft" category="Common" status="" cnum="LB-0201">
 <markdown/>
 </assessment>
-<assessment number="PS-1" name="Don a lifejacket" category="Common" status="Old" cnum="PS-0301">
+<assessment number="PS-1" name="Don a lifejacket" category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="PS-2" name="Don and use an immersion suit" category="Common" status="Old" cnum="LB-0203">
+<assessment number="PS-2" name="Don and use an immersion suit" category="Common" status="" cnum="LB-0203">
 <markdown/>
 </assessment>
-<assessment number="PS-3" name="Jump from a height into the water" category="Common" status="Old" cnum="PS-0301">
+<assessment number="PS-3" name="Jump from a height into the water" category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="PS-5" name="Swim while wearing a lifejacket" category="Common" status="Old" cnum="PS-0301">
+<assessment number="PS-5" name="Swim while wearing a lifejacket" category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="PS-6" name="Keep afloat without a lifejacket" category="Common" status="Old" cnum="PS-0301">
+<assessment number="PS-6" name="Keep afloat without a lifejacket" category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="PS-7" name="Board a survival craft while wearing a lifejacket" category="Common" status="Old" cnum="PS-0301">
+<assessment number="PS-7" name="Board a survival craft while wearing a lifejacket" category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="PS-8" name="Use of lifeboat equipment" category="Common" status="Old" cnum="LB-0201">
+<assessment number="PS-8" name="Use of lifeboat equipment" category="Common" status="" cnum="LB-0201">
 <markdown/>
 </assessment>
-<assessment number="FF-2PFE" name="Use various types of portable fire extinguishers to extinguish smaller fires." category="Common" status="Old" cnum="FF-0102">
+<assessment number="FF-2PFE" name="Use various types of portable fire extinguishers to extinguish smaller fires." category="Common" status="" cnum="FF-0102">
 <markdown/>
 </assessment>
-<assessment number="FF-2SBA" name="Don and use a self-contained breathing apparatus" category="Common" status="Old" cnum="FF-0102">
+<assessment number="FF-2SBA" name="Don and use a self-contained breathing apparatus" category="Common" status="" cnum="FF-0102">
 <markdown/>
 </assessment>
-<assessment number="ABDE-DE-1" name="Demonstrate crane and hoist signals" category="Common" status="Old" cnum="ST-0999D">
+<assessment number="ABDE-DE-1" name="Demonstrate crane and hoist signals" category="Common" status="" cnum="ST-0999D">
 <markdown/>
 </assessment>
-<assessment number="ABE-1-6A" name="Assist with fuel oil transfer" category="Engine" status="Old" cnum="EN-1211">
+<assessment number="ABE-1-6A" name="Assist with fuel oil transfer" category="Engine" status="" cnum="EN-1211">
 <markdown/>
 </assessment>
-<assessment number="PS-4" name="Right an inverted liferaft" category="Common" status="Old" cnum="PS-0301">
+<assessment number="PS-4" name="Right an inverted liferaft" category="Common" status="" cnum="PS-0301">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-3B" name="Prepare and start main gas turbine" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-4-3B" name="Prepare and start main gas turbine" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-3E" name="Monitor main gas turbine operation" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-4-3E" name="Monitor main gas turbine operation" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-3H" name="Secure main gas turbine" category="Engine" status="Old" cnum="EN-3233">
+<assessment number="OICEW-4-3H" name="Secure main gas turbine" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8E2A" name="Make emergency repairs" category="Engine" status="New" cnum="EN-1211">
+<assessment number="OICEW-8E2A" name="Make emergency repairs" category="Engine" status="" cnum="EN-1211">
 <markdown/>
 </assessment>
-<assessment number="OICEW-1E2A" name="Change over control systems" category="Engine" status="New" cnum="EN-3233">
+<assessment number="OICEW-1E2A" name="Change over control systems" category="Engine" status="" cnum="EN-3233">
 <markdown/>
 </assessment>
-<assessment number="OICEW-10E1B" name="Start and secure oily water separator" category="Engine" status="New" cnum="EN-3131">
+<assessment number="OICEW-10E1B" name="Start and secure oily water separator" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4E3I" name="Monitor and operate auxiliary boiler" category="Engine" status="New" cnum="EN-3131">
+<assessment number="OICEW-4E3I" name="Monitor and operate auxiliary boiler" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8E2B" name="Centrifugal pump maintenance (packing)" category="Engine" status="New" cnum="EN-2111">
+<assessment number="OICEW-8E2B" name="Centrifugal pump maintenance (packing)" category="Engine" status="" cnum="EN-2111">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8E3A" name="Clean an oil purifier" category="Engine" status="New" cnum="EN-4131">
+<assessment number="OICEW-8E3A" name="Clean an oil purifier" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-5E2B" name="Ballast and deballast a tank" category="Engine" status="New" cnum="EN-3131">
+<assessment number="OICEW-5E2B" name="Ballast and deballast a tank" category="Engine" status="" cnum="EN-3131">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8E2D" name="Replace flange gasket" category="Engine" status="New" cnum="EN-2231">
+<assessment number="OICEW-8E2D" name="Replace flange gasket" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7E4A" name="Disassemble and reassemble an electric motor" category="Engine" status="New" cnum="EN-4231">
+<assessment number="OICEW-7E4A" name="Disassemble and reassemble an electric motor" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-1C" name="Engineering watchkeeping" category="Engine" status="New" cnum="EN-4231">
+<assessment number="OICEW-4-1C" name="Engineering watchkeeping" category="Engine" status="" cnum="EN-4231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-4-1D" name="Monitor engineering machinery" category="Engine" status="New" cnum="EN-2231">
+<assessment number="OICEW-4-1D" name="Monitor engineering machinery" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-7E5C" name="Test engine shutdown devices" category="Engine" status="New" cnum="EN-4131">
+<assessment number="OICEW-7E5C" name="Test engine shutdown devices" category="Engine" status="" cnum="EN-4131">
 <markdown/>
 </assessment>
-<assessment number="ABE-5G1A" name="Trace out a piping system" category="Engine" status="New" cnum="EN-2231">
+<assessment number="ABE-5G1A" name="Trace out a piping system" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="RFPEW-1H2C" name="Shift and clean a basket-type duplex strainer" category="Engine" status="New" cnum="EN-1211">
+<assessment number="RFPEW-1H2C" name="Shift and clean a basket-type duplex strainer" category="Engine" status="" cnum="EN-1211">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M1A" name="Assess and treat life-threatening conditions" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M1A" name="Assess and treat life-threatening conditions" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M1B" name="Perform a detailed physical assessment" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M1B" name="Perform a detailed physical assessment" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M2A" name="Immobilize a victim with a spinal injury" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M2A" name="Immobilize a victim with a spinal injury" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M3A" name="Immobilize and apply traction a victim with a broken femur" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M3A" name="Immobilize and apply traction a victim with a broken femur" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M3B" name="Immobilize a long bone fracture" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M3B" name="Immobilize a long bone fracture" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M4A" name="Perform CPR" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M4A" name="Perform CPR" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M4B" name="Use a AED" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M4B" name="Use a AED" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M4C" name="Manage obstructed airway in a conscious victim" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M4C" name="Manage obstructed airway in a conscious victim" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="MFA-1M4D" name="Manage obstructed airway in an unconscious victim" category="Common" status="New" cnum="PE-0032">
+<assessment number="MFA-1M4D" name="Manage obstructed airway in an unconscious victim" category="Common" status="" cnum="PE-0032">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4B" name="Demonstrate opening of the airway and checking for breathing" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4B" name="Demonstrate opening of the airway and checking for breathing" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4D" name="Demonstrate action for an unresponsive person who is not breathing" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4D" name="Demonstrate action for an unresponsive person who is not breathing" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4E" name="Demonstrate the procedure for determining if a patient has a pulse" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4E" name="Demonstrate the procedure for determining if a patient has a pulse" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4F" name="Demonstrate proper hand placements for chest compressions" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4F" name="Demonstrate proper hand placements for chest compressions" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4G" name="Demonstrate proper CPR compressions for two minutes" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4G" name="Demonstrate proper CPR compressions for two minutes" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4H" name="Demonstrate actions for a conscious adult with airway blockage" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4H" name="Demonstrate actions for a conscious adult with airway blockage" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B4I" name="Demonstrate actions for an unconscious adult with airway blockage" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B4I" name="Demonstrate actions for an unconscious adult with airway blockage" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B5A" name="Demonstrate proper bleeding control techniques" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B5A" name="Demonstrate proper bleeding control techniques" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B8C" name="Demonstrate immobilizing a fracture using splints and ties" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B8C" name="Demonstrate immobilizing a fracture using splints and ties" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B8D" name="Demonstrate preparing patient for spinal immobilization" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B8D" name="Demonstrate preparing patient for spinal immobilization" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="EFA-4B9A" name="Demonstrate bandaging technique for wound treatment" category="Common" status="New" cnum="PE-0031">
+<assessment number="EFA-4B9A" name="Demonstrate bandaging technique for wound treatment" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D1E" name="Maneuver to avoid risk of collision - crossing" category="Deck" status="New" cnum="MT-4253">
+<assessment number="OICNW-2D1E" name="Maneuver to avoid risk of collision - crossing" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D3B" name="Voyage plan - preparation" category="Deck" status="New" cnum="MT-4253">
+<assessment number="OICNW-2D3B" name="Voyage plan - preparation" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D4A" name="Situational awareness" category="Deck" status="New" cnum="MT-4253">
+<assessment number="OICNW-2D4A" name="Situational awareness" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D6A" name="Vessel traffic systems (VTS)" category="Deck" status="New" cnum="MT-4253">
+<assessment number="OICNW-2D6A" name="Vessel traffic systems (VTS)" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D7E" name="BRM Condition II or III - prioritization" category="Deck" status="New" cnum="MT-4253">
+<assessment number="OICNW-2D7E" name="BRM Condition II or III - prioritization" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="ABD-4J7A" name="Demonstrate rigging and unrigging a bosun's chair" category="Deck" status="New" cnum="MT-2231">
+<assessment number="ABD-4J7A" name="Demonstrate rigging and unrigging a bosun's chair" category="Deck" status="" cnum="MT-2231">
 <markdown/>
 </assessment>
-<assessment number="ABD-4J9A1" name="Marlinspike seamanship - knots I" category="Deck" status="New" cnum="MT-1111">
+<assessment number="ABD-4J9A1" name="Marlinspike seamanship - knots I" category="Deck" status="" cnum="MT-1111">
 <markdown/>
 </assessment>
-<assessment number="ADB-4J11A" name="Trace out and describe a piping system" category="Deck" status="New" cnum="MT-4253">
+<assessment number="ADB-4J11A" name="Trace out and describe a piping system" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="ABD-5J10B" name="Demonstrate use of a safety harness" category="Deck" status="New" cnum="ST-0999D">
+<assessment number="ABD-5J10B" name="Demonstrate use of a safety harness" category="Deck" status="" cnum="ST-0999D">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-1K" name="Helmsman" category="Deck" status="New" cnum="MT-4253">
+<assessment number="RFPNW-1K" name="Helmsman" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-3K4B" name="Relief of the helmsman" category="Deck" status="New" cnum="MT-4253">
+<assessment number="RFPNW-3K4B" name="Relief of the helmsman" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-2K" name="Lookout" category="Deck" status="New" cnum="MT-4253">
+<assessment number="RFPNW-2K" name="Lookout" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-3K4A" name="Relief of the lookout" category="Deck" status="New" cnum="MT-4253">
+<assessment number="RFPNW-3K4A" name="Relief of the lookout" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="ABD-4J9A2" name="Marlinspike seamanship - knots II" category="Deck" status="New" cnum="MT-2231">
+<assessment number="ABD-4J9A2" name="Marlinspike seamanship - knots II" category="Deck" status="" cnum="MT-2231">
 <markdown/>
 </assessment>
-<assessment number="ABD-4J9A3" name="Marlinspike seamanship - splicing" category="Deck" status="New" cnum="MT-2231">
+<assessment number="ABD-4J9A3" name="Marlinspike seamanship - splicing" category="Deck" status="" cnum="MT-2231">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1D" name="Determine range and bearing" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1D" name="Determine range and bearing" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1E" name="Determine risk of collision" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-1E" name="Determine risk of collision" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1F" name="Determine DRM, SRM, CPA, and TCPA" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1F" name="Determine DRM, SRM, CPA, and TCPA" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1G" name="Detect speed and course changes of other ships" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1G" name="Detect speed and course changes of other ships" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1H" name="Change course to control target DRM" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1H" name="Change course to control target DRM" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1I" name="Change speed to control target DRM" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1I" name="Change speed to control target DRM" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1J" name="Determine true course and speed of target vessels" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1J" name="Determine true course and speed of target vessels" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1K" name="Parallel indexing" category="Deck" status="Old" cnum="MT-3122">
+<assessment number="OICNW-3-1K" name="Parallel indexing" category="Deck" status="" cnum="MT-3122">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2B" name="Manual target acquisition" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2B" name="Manual target acquisition" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2C" name="Establish an exclusion area" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2C" name="Establish an exclusion area" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2D" name="Set vector characteristics" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2D" name="Set vector characteristics" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2E" name="Designate targets" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2E" name="Designate targets" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2F" name="Cancel targets" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2F" name="Cancel targets" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2G" name="Target history" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2G" name="Target history" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2H" name="Establish CPA and TCPA" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2H" name="Establish CPA and TCPA" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2I" name="Establish alarm area" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2I" name="Establish alarm area" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2J" name="Trial Maneuver" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2J" name="Trial Maneuver" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2K" name="Switch stabilization modes" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2K" name="Switch stabilization modes" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2L" name="Navigation lines" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2L" name="Navigation lines" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2M" name="Determine set and drift" category="Deck" status="Old" cnum="MT-3222">
+<assessment number="OICNW-3-2M" name="Determine set and drift" category="Deck" status="" cnum="MT-3222">
 <markdown/>
 </assessment>
-<assessment number="ABD-4J9A4" name="Marlinspike seamanship - line handling" category="Deck" status="New" cnum="MT-2231">
+<assessment number="ABD-4J9A4" name="Marlinspike seamanship - line handling" category="Deck" status="" cnum="MT-2231">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3A" name="Operational Settings - Safety Depth" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3A" name="Operational Settings - Safety Depth" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3B" name="Operational Settings - Display/Change Safety contour" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3B" name="Operational Settings - Display/Change Safety contour" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3C" name="Operational Settings - Display/change CPA/TCPA limits" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3C" name="Operational Settings - Display/change CPA/TCPA limits" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3D" name="Operational Settings - Display/Change spot sounding limits" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3D" name="Operational Settings - Display/Change spot sounding limits" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3E" name="Operational Settings - Resume of Navigation Mode" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3E" name="Operational Settings - Resume of Navigation Mode" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3F" name="Monitoring Sea Area - Chart Scaling" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3F" name="Monitoring Sea Area - Chart Scaling" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3G" name="Monitoring Sea Area - Chart selection" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3G" name="Monitoring Sea Area - Chart selection" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3H" name="Monitoring Sea Area - Gain information" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3H" name="Monitoring Sea Area - Gain information" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3I" name="Monitoring Sea Area - ERBL" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3I" name="Monitoring Sea Area - ERBL" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3J" name="Display User Charts " category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3J" name="Display User Charts " category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3K" name="Merge User Charts" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3K" name="Merge User Charts" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3L" name="Display Route Plans" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3L" name="Display Route Plans" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3M" name="Modify Waypoints" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3M" name="Modify Waypoints" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3N" name="Check revised route for safety" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3N" name="Check revised route for safety" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3O" name="Convert Route Plan to Passage Plan" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3O" name="Convert Route Plan to Passage Plan" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3P" name="Convert Route Plan to a Route" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3P" name="Convert Route Plan to a Route" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3Q" name="Environmental Data - Identify tidal data" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3Q" name="Environmental Data - Identify tidal data" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-3R" name="Environmental Data - Display tide bars and current vectors" category="Deck" status="Old" cnum="MT-3224">
+<assessment number="OICNW-3-3R" name="Environmental Data - Display tide bars and current vectors" category="Deck" status="" cnum="MT-3224">
 <markdown/>
 </assessment>
-<assessment number="FF-4SF" name="Extinguish a smoldering fire" category="Common" status="New" cnum="FF-0104">
+<assessment number="FF-4SF" name="Extinguish a smoldering fire" category="Common" status="" cnum="FF-0104">
 <markdown/>
 </assessment>
-<assessment number="FF-4PCF" name="Extinguish a petrochemical fire" category="Common" status="New" cnum="FF-0104">
+<assessment number="FF-4PCF" name="Extinguish a petrochemical fire" category="Common" status="" cnum="FF-0104">
 <markdown/>
 </assessment>
-<assessment number="FF-4FGF" name="Extinguish a flammable gas fire" category="Common" status="New" cnum="FF-0104">
+<assessment number="FF-4FGF" name="Extinguish a flammable gas fire" category="Common" status="" cnum="FF-0104">
 <markdown/>
 </assessment>
-<assessment number="FF-6SRF" name="Extinguish a stateroom fire" category="Common" status="New" cnum="FF-0106">
+<assessment number="FF-6SRF" name="Extinguish a stateroom fire" category="Common" status="" cnum="FF-0106">
 <markdown/>
 </assessment>
-<assessment number="FF-6PLF" name="Extinguish a paint locker fire" category="Common" status="New" cnum="FF-0106">
+<assessment number="FF-6PLF" name="Extinguish a paint locker fire" category="Common" status="" cnum="FF-0106">
 <markdown/>
 </assessment>
-<assessment number="FF-8ERF" name="Extinguish an engine room fire" category="Common" status="New" cnum="FF-0108">
+<assessment number="FF-8ERF" name="Extinguish an engine room fire" category="Common" status="" cnum="FF-0108">
 <markdown/>
 </assessment>
-<assessment number="FF-8FSR" name="Firefighting self rescue" category="Common" status="New" cnum="FF-0108">
+<assessment number="FF-8FSR" name="Firefighting self rescue" category="Common" status="" cnum="FF-0108">
 <markdown/>
 </assessment>
-<assessment number="FF-8SAR" name="Search and Rescue" category="Common" status="New" cnum="FF-0108">
+<assessment number="FF-8SAR" name="Search and Rescue" category="Common" status="" cnum="FF-0108">
 <markdown/>
 </assessment>
 </assessments>

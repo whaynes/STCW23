@@ -3,7 +3,7 @@ number: "OICNW-1-6A"
 title: "STCW Assessment OICNW-1-6A"
 subtitle: "Steering gear test"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

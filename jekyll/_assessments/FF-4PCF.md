@@ -3,7 +3,7 @@ number: "FF-4PCF"
 title: "STCW Assessment FF-4PCF"
 subtitle: "Extinguish a petrochemical fire"
 category: "Common"
-status: "New"
+status: ""
 cnum: "FF-0104"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "RFPNW-1K"
 title: "STCW Assessment RFPNW-1K"
 subtitle: "Helmsman"
 category: "Deck"
-status: "New"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

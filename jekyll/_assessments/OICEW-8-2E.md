@@ -3,7 +3,7 @@ number: "OICEW-8-2E"
 title: "STCW Assessment OICEW-8-2E"
 subtitle: "Overhaul valve"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-2231"
 ---
 ### Condition

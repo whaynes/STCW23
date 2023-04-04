@@ -3,7 +3,7 @@ number: "OICNW-3-3E"
 title: "STCW Assessment OICNW-3-3E"
 subtitle: "Operational Settings - Resume of Navigation Mode"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3224"
 ---
 ### Condition

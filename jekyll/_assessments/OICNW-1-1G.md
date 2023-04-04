@@ -3,7 +3,7 @@ number: "OICNW-1-1G"
 title: "STCW Assessment OICNW-1-1G"
 subtitle: "Measure the altitude of at least 3 stars"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4371"
 ---
 ### Condition

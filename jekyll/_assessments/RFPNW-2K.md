@@ -3,7 +3,7 @@ number: "RFPNW-2K"
 title: "STCW Assessment RFPNW-2K"
 subtitle: "Lookout"
 category: "Deck"
-status: "New"
+status: ""
 cnum: "MT-4253"
 ---
 ### Condition

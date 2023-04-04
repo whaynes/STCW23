@@ -3,7 +3,7 @@ number: "ABD-4J7A"
 title: "STCW Assessment ABD-4J7A"
 subtitle: "Demonstrate rigging and unrigging a bosun's chair"
 category: "Deck"
-status: "New"
+status: ""
 cnum: "MT-2231"
 ---
 ### Condition

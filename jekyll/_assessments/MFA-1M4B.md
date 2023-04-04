@@ -3,7 +3,7 @@ number: "MFA-1M4B"
 title: "STCW Assessment MFA-1M4B"
 subtitle: "Use a AED"
 category: "Common"
-status: "New"
+status: ""
 cnum: "PE-0032"
 ---
 ### Condition

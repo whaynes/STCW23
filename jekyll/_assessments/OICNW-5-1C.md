@@ -3,7 +3,7 @@ number: "OICNW-5-1C"
 title: "STCW Assessment OICNW-5-1C"
 subtitle: "Emergency stop"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-4133"
 ---
 ### Condition

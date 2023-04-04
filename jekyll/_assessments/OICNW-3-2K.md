@@ -3,7 +3,7 @@ number: "OICNW-3-2K"
 title: "STCW Assessment OICNW-3-2K"
 subtitle: "Switch stabilization modes"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3222"
 ---
 ### Condition

@@ -3,7 +3,7 @@ number: "OICEW-6-1A"
 title: "STCW Assessment OICEW-6-1A"
 subtitle: "Transfer fuel"
 category: "Engine"
-status: "Old"
+status: ""
 cnum: "EN-3131"
 ---
 ### Condition

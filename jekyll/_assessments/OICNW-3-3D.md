@@ -3,7 +3,7 @@ number: "OICNW-3-3D"
 title: "STCW Assessment OICNW-3-3D"
 subtitle: "Operational Settings - Display/Change spot sounding limits"
 category: "Deck"
-status: "Old"
+status: ""
 cnum: "MT-3224"
 ---
 ### Condition

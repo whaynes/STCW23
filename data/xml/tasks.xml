@@ -10,7 +10,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Inspect machinery spaces before assuming watch</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -23,7 +23,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -36,7 +36,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -49,7 +49,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -62,7 +62,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -75,7 +75,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Watch Relief</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1B %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -88,7 +88,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Change over control systems</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-1E2A %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -101,7 +101,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Respond to engine room alarms</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -174,7 +174,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Test steering gear and internal communications</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -199,7 +199,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Light off main boiler</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -212,7 +212,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Secure main boiler</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-2B %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -249,7 +249,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Prepare main propulsion diesel engine for operation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1J %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -262,7 +262,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Prepare main steam turbine for operation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1L %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -275,7 +275,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Prepare and start main gas turbine</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-3B %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -288,7 +288,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -301,7 +301,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor main steam turbine operation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1M %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -314,7 +314,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor main gas turbine operation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-3E %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -327,7 +327,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Secure main propulsion diesel engine</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1K %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -340,7 +340,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Secure main steam turbine operation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1N %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -353,7 +353,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Secure main gas turbine</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-3H %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -366,7 +366,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor and operate auxiliary boiler</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4E3I %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -379,7 +379,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Test and treat boiler water</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-2D %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -392,7 +392,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Test and treat boiler water</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-2D %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -405,7 +405,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Bottom blow boiler</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-2C %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -418,7 +418,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start and secure air compressor</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1D %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -431,7 +431,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start fresh water generator </Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1F %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -444,7 +444,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Shut down fresh water generator</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1G %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -457,7 +457,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start fresh water generator </Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1F %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -470,7 +470,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Shut down fresh water generator</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1G %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -483,7 +483,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start fuel oil or lube oil purifier</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1H %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -496,7 +496,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Shut down fuel oil or lube oil purifier</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1I %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -509,7 +509,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start refrigeration system</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1B %} in {% course EN-3213 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -522,7 +522,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -535,7 +535,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Shut down refrigeration system</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1C %} in {% course EN-3213 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -549,8 +549,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start fresh water generator </Method_Name>
 <Method_Name pos="2">Shut down fresh water generator</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1F %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-5-1G %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -580,7 +580,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Transfer fuel</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-1A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -593,7 +593,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Ballast and deballast a tank</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5E2B %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -606,7 +606,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Ballast and deballast a tank</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5E2B %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -619,7 +619,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Pump bilges</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-2A %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -632,7 +632,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Pump bilges</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-2A %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -646,8 +646,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor oily water separator system</Method_Name>
 <Method_Name pos="2">Monitor engineering machinery</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-9-1C %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -675,9 +675,9 @@
 <Method_Name pos="1">Inspect and start a diesel engine</Method_Name>
 <Method_Name pos="2">Start emergency generator</Method_Name>
 <Method_Name pos="3">Connect ship service diesel generator to main switchboard</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
-<status pos="3">Old</status>
+<status pos="1"/>
+<status pos="2"/>
+<status pos="3"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-7-1A %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-7-1B %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="3">{% assessment OICEW-7-1D %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
@@ -692,7 +692,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Pre-start inspection of steam turbo-generator</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-7-1C %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -706,8 +706,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Parallel generators</Method_Name>
 <Method_Name pos="2">Connect ship service diesel generator to main switchboard</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-7-1D %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-7-1E %} in {% course EN-3111L %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -762,8 +762,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Measure insulation resistance</Method_Name>
 <Method_Name pos="2">Disassemble and reassemble an electric motor</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-3-1D %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-7E4A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -777,7 +777,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Troubleshoot electrical motor control system</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-3-1B %} in {% course EN-3111L %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -790,7 +790,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Troubleshoot electrical motor control system</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-3-1B %} in {% course EN-3111L %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -803,7 +803,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Detect location of grounds</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-3-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -816,7 +816,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Disassemble and reassemble an electric motor</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-7E4A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -830,8 +830,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Respond to engine room alarms</Method_Name>
 <Method_Name pos="2">Engineering watchkeeping</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -845,7 +845,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Test steering gear and internal communications</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -858,7 +858,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Test engine shutdown devices</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-7E5C %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -873,8 +873,8 @@
 <Method_Name pos="1">Machine Tool Technology</Method_Name>
 <Method_Name pos="2">Lathe project</Method_Name>
 <Method_Name pos="3">Dye-penetrant test</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-1-1G %} in {% course EN-2112 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-8-1A %} in {% course EN-2112 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course EN-2112 %}</mmd_link_to_this_course>
@@ -893,10 +893,10 @@
 <Method_Name pos="3">Form two steel plates using brazing process</Method_Name>
 <Method_Name pos="4">Visual test of welded joint</Method_Name>
 <Method_Name pos="5">Dye-penetrant test</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
-<status pos="3">Old</status>
-<status pos="4">Old</status>
+<status pos="1"/>
+<status pos="2"/>
+<status pos="3"/>
+<status pos="4"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-1-1B %} in {% course EN-2112 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-1-1C %} in {% course EN-2112 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="3">{% assessment OICEW-1-1F %} in {% course EN-2112 %} </mmd_link_to_this_assessment>
@@ -913,7 +913,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Cut a circular hole using oxyacetylene process</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-1-1A %} in {% course EN-2112 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -926,7 +926,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Make emergency repairs</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8E2A %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -939,7 +939,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Centrifugal pump maintenance (packing)</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8E2B %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -952,7 +952,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Overhaul valve</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -965,7 +965,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Replace flange gasket</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8E2D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -978,7 +978,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Clean an oil purifier</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8E3A %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -992,8 +992,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Centrifugal pump maintenance (mechanical seal)</Method_Name>
 <Method_Name pos="2">Centrifugal pump maintenance (packing)</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2A %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-8E2B %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -1008,8 +1008,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Centrifugal pump maintenance (packing)</Method_Name>
 <Method_Name pos="2">Centrifugal pump maintenance (mechanical seal)</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2A %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-8E2B %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -1023,7 +1023,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Reciprocating pump maintenance</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2B %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1036,7 +1036,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor sewage waste treatment plant</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-9-1B %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1049,7 +1049,7 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Start and secure oily water separator</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-10E1B %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1185,7 +1185,7 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Assist with fuel oil transfer</Method_Name>
 <Method_Name pos="2">Regimental Leadership Program</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABE-1-6A %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course CC-LEAD %}</mmd_link_to_this_course>
 </RECORD>
@@ -1229,7 +1229,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Adjust a sextant</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-1A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1242,7 +1242,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Measure the altitude of the sun</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-1B %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1255,7 +1255,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Measure the altitude of at least 3 stars</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-1G %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1268,7 +1268,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Measure the altitude of the sun at meridian passage (local apparent noon)</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-1D %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1281,7 +1281,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Celestial running fix</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-1E %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1294,7 +1294,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Star Fix</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-1F %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1307,7 +1307,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Fix by two bearings</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1320,7 +1320,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Plot the ship’s DR position</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2D %} in {% course MT-2121 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1333,7 +1333,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine course to steer</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2E %} in {% course MT-2121 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1346,7 +1346,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Correction of charts and publications</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-3A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1359,7 +1359,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Chart selection</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-3B %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1372,7 +1372,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Route planning</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-3C %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1385,7 +1385,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Fix by two ranges</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2B %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1398,7 +1398,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Fix by tangent bearings of two identified objects</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2C %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1411,7 +1411,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Position fix by GPS</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-4A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1424,7 +1424,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Use of GPS position save function</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-4B %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1437,7 +1437,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Use of echo sounder</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-4D %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1498,7 +1498,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine gyro compass error by bearing of range</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-5A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1511,7 +1511,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine magnetic compass error</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-5B %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1524,7 +1524,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine magnetic compass deviation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-5C %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1537,7 +1537,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine course to steer by magnetic compass</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-5D %} in {% course MT-2121 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1550,7 +1550,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Position fix by magnetic compass bearings</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-5E %} in {% course MT-2121 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1563,7 +1563,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Azimuth of the sun</Method_Name>
-<status pos="1">Mod</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-5F %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1576,7 +1576,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Steering gear test</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-6A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1589,7 +1589,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Set weather controls</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-6B %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1638,7 +1638,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Identify light configurations</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1A %} in {% course MT-2161 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1651,7 +1651,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Identify day shapes</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1B %} in {% course MT-2161 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1664,7 +1664,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Identify sound signals</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1C %} in {% course MT-2161 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1677,7 +1677,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine risk of collision</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1690,7 +1690,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver to avoid risk of collision - crossing</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D1E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1703,7 +1703,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver to avoid risk of collision -- meeting</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1716,7 +1716,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver to avoid risk of collision -- overtaking</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1F %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1729,7 +1729,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Watch relief</Method_Name>
-<status pos="1">Mod</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1742,7 +1742,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Keep a safe navigation watch</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1755,7 +1755,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Notify Master when appropriate</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2C %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1768,7 +1768,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Keep a safe anchor watch</Method_Name>
-<status pos="1">Mod</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1781,7 +1781,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Turn over a watch</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2F %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1794,7 +1794,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - appraisal</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1807,7 +1807,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - preparation</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D3B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1820,7 +1820,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - execution</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1833,7 +1833,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Situational awareness</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D4A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1846,7 +1846,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Navigate in restricted visibility</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1859,7 +1859,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Vessel traffic systems (VTS)</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D6A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1872,7 +1872,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Watch augmentation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3C %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1885,7 +1885,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition III – collision avoidance.</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1898,7 +1898,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition III – navigation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1911,7 +1911,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III – error trapping</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3F %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1924,7 +1924,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III - prioritization</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D7E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1937,7 +1937,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III – navigation and collision avoidance</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3G %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1950,7 +1950,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition III – establish a bridge team</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3H %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1975,7 +1975,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Set up and maintain radar display</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1A %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1988,7 +1988,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Switch display modes</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1B %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2001,7 +2001,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Identify false echoes, sea return, racons and SARTs</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1C %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2026,7 +2026,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Set up and maintain an ARPA display</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-2A %} in {% course MT-3222 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2148,7 +2148,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Electronic Navigation</Method_Name>
 <Method_Name pos="2">Flashing Light</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-4-1A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course MT-3221 %}</mmd_link_to_this_course>
 </RECORD>
@@ -2174,7 +2174,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Course change of more than 45°</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-5-1B %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2187,7 +2187,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Emergency stop</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-5-1C %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2200,7 +2200,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver for man overboard</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-5-1A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2665,7 +2665,7 @@
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Watch Relief</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1B %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2678,7 +2678,7 @@
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2707,7 +2707,7 @@
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2721,8 +2721,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Transfer fuel</Method_Name>
 <Method_Name pos="2">Assist with fuel oil transfer</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-1A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment ABE-1-6A %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -2737,8 +2737,8 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Ballast and deballast a tank</Method_Name>
 <Method_Name pos="2">Pump bilges</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-2A %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-5E2B %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -2752,7 +2752,7 @@
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Trace out a piping system</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABE-5G1A %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2767,9 +2767,9 @@
 <Method_Name pos="1">Centrifugal pump maintenance (mechanical seal)</Method_Name>
 <Method_Name pos="2">Reciprocating pump maintenance</Method_Name>
 <Method_Name pos="3">Centrifugal pump maintenance (packing)</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
-<status pos="3">New</status>
+<status pos="1"/>
+<status pos="2"/>
+<status pos="3"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2A %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-8-2B %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="3">{% assessment OICEW-8E2B %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
@@ -2784,7 +2784,7 @@
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Overhaul valve</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -2798,7 +2798,7 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Demonstrate crane and hoist signals</Method_Name>
 <Method_Name pos="2">Shipboard Maintenance</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABDE-DE-1 %} in {% course ST-0999D %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course CC-MANT %}</mmd_link_to_this_course>
 </RECORD>
@@ -2905,9 +2905,9 @@
 <Method_Name pos="2">Drill blind hole using drilling machine</Method_Name>
 <Method_Name pos="3">Thread a blind hole using hand taps</Method_Name>
 <Method_Name pos="4">External thread using a hand die</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">Old</status>
-<status pos="3">Old</status>
+<status pos="1"/>
+<status pos="2"/>
+<status pos="3"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-2-1A %} in {% course ST-0999E %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-2-1B %} in {% course ST-0999E %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="3">{% assessment OICEW-2-1C %} in {% course ST-0999E %} </mmd_link_to_this_assessment>
@@ -2950,7 +2950,7 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Shipboard Maintenance</Method_Name>
 <Method_Name pos="2">Demonstrate crane and hoist signals</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABDE-DE-1 %} in {% course ST-0999D %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course CC-MANT %}</mmd_link_to_this_course>
 </RECORD>
@@ -3388,7 +3388,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Personal Survival</Method_Name>
 <Method_Name pos="2">Don a lifejacket</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-1 %} in {% course PS-0301 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course PS-0301 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3404,7 +3404,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Immersion Suit Practical</Method_Name>
 <Method_Name pos="2">Don and use an immersion suit</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-2 %} in {% course LB-0203 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course LB-0203 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3420,7 +3420,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Personal Survival</Method_Name>
 <Method_Name pos="2">Jump from a height into the water</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-3 %} in {% course PS-0301 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course PS-0301 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3436,7 +3436,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Immersion Suit Practical</Method_Name>
 <Method_Name pos="2">Don and use an immersion suit</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-2 %} in {% course LB-0203 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course LB-0203 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3452,7 +3452,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Personal Survival</Method_Name>
 <Method_Name pos="2">Right an inverted lifefraft </Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment SCRB-1 %} in {% course PS-0301 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course PS-0301 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3468,7 +3468,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Personal Survival</Method_Name>
 <Method_Name pos="2">Swim while wearing a lifejacket</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-5 %} in {% course PS-0301 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course PS-0301 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3484,7 +3484,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">4/C STCW Personal Survival</Method_Name>
 <Method_Name pos="2">Keep afloat without a lifejacket</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-6 %} in {% course PS-0301 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course PS-0301 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3513,7 +3513,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">Board a survival craft while wearing a lifejacket</Method_Name>
 <Method_Name pos="2">4/C STCW Personal Survival</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-7 %} in {% course PS-0301 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course PS-0301 %}</mmd_link_to_this_course>
 </RECORD>
@@ -3887,7 +3887,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Use various types of portable fire extinguishers to extinguish smaller fires.</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-2PFE %} in {% course FF-0102 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -3901,7 +3901,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Don and use a self-contained breathing apparatus</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-2SBA %} in {% course FF-0102 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -3915,7 +3915,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Don and use a self-contained breathing apparatus</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-2SBA %} in {% course FF-0102 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -3930,8 +3930,8 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">Extinguish a stateroom fire</Method_Name>
 <Method_Name pos="2">Extinguish a smoldering fire</Method_Name>
-<status pos="1">New</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-4SF %} in {% course FF-0104 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment FF-6SRF %} in {% course FF-0106 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -3946,7 +3946,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Search and Rescue</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-8SAR %} in {% course FF-0108 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4077,7 +4077,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate opening of the airway and checking for breathing</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4B %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4104,7 +4104,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate action for an unresponsive person who is not breathing</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4D %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4118,7 +4118,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate the procedure for determining if a patient has a pulse</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4E %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4132,7 +4132,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate proper hand placements for chest compressions</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4F %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4146,7 +4146,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate proper hand placements for chest compressions</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4F %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4160,7 +4160,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate actions for a conscious adult with airway blockage</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4H %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4174,7 +4174,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate actions for an unconscious adult with airway blockage</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B4I %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4188,7 +4188,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate proper bleeding control techniques</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B5A %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4293,7 +4293,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate immobilizing a fracture using splints and ties</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B8C %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4307,7 +4307,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate preparing patient for spinal immobilization</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B8D %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4321,7 +4321,7 @@ MTRA</Major>
 <Major pos="1">MENG
 MTRA</Major>
 <Method_Name pos="1">Demonstrate bandaging technique for wound treatment</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment EFA-4B9A %} in {% course PE-0031 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -4934,7 +4934,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">STCW Lifeboatman Qualifications</Method_Name>
 <Method_Name pos="2">Start and operate survival craft engine</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment SCRB-3 %} in {% course LB-0201 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course LB-0201 %}</mmd_link_to_this_course>
 </RECORD>
@@ -4950,7 +4950,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">STCW Lifeboatman Qualifications</Method_Name>
 <Method_Name pos="2">Start and operate survival craft engine</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment SCRB-3 %} in {% course LB-0201 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course LB-0201 %}</mmd_link_to_this_course>
 </RECORD>
@@ -4966,7 +4966,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">STCW Lifeboatman Qualifications</Method_Name>
 <Method_Name pos="2">Launch, board and recover survival craft.</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment SCRB-2 %} in {% course LB-0201 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course LB-0201 %}</mmd_link_to_this_course>
 </RECORD>
@@ -4982,7 +4982,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">STCW Lifeboatman Qualifications</Method_Name>
 <Method_Name pos="2">Row and steer survival craft</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment SCRB-4 %} in {% course LB-0201 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course LB-0201 %}</mmd_link_to_this_course>
 </RECORD>
@@ -4998,7 +4998,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">Vessel Familiarization and Basic Safety Training</Method_Name>
 <Method_Name pos="2">Use of lifeboat equipment</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment PS-8 %} in {% course LB-0201 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course MT-1111 %}</mmd_link_to_this_course>
 </RECORD>
@@ -5429,7 +5429,7 @@ MTRA</Major>
 <Table_Name pos="1">able seafarer deck</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Demonstrate crane and hoist signals</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABDE-DE-1 %} in {% course ST-0999D %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -5479,7 +5479,7 @@ MTRA</Major>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Basic Seamanship</Method_Name>
 <Method_Name pos="2">Demonstrate rigging and unrigging a bosun's chair</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABD-4J7A %} in {% course MT-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course MT-2231 %}</mmd_link_to_this_course>
 </RECORD>
@@ -5531,9 +5531,9 @@ MTRA</Major>
 <Method_Name pos="1">Marlinspike seamanship - knots I</Method_Name>
 <Method_Name pos="2">Marlinspike seamanship - knots II</Method_Name>
 <Method_Name pos="3">Marlinspike seamanship - splicing</Method_Name>
-<status pos="1">New</status>
-<status pos="2">New</status>
-<status pos="3">New</status>
+<status pos="1"/>
+<status pos="2"/>
+<status pos="3"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABD-4J9A1 %} in {% course MT-1111 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment ABD-4J9A2 %} in {% course MT-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="3">{% assessment ABD-4J9A3 %} in {% course MT-2231 %} </mmd_link_to_this_assessment>
@@ -5564,7 +5564,7 @@ MTRA</Major>
 <Table_Name pos="1">able seafarer deck</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Trace out and describe a piping system</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ADB-4J11A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -5817,7 +5817,7 @@ MTRA</Major>
 <Table_Name pos="1">able seafarer deck</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Demonstrate use of a safety harness</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABD-5J10B %} in {% course ST-0999D %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -5986,7 +5986,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -5999,7 +5999,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6012,7 +6012,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Row and steer survival craft</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment SCRB-4 %} in {% course LB-0201 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6025,7 +6025,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6038,7 +6038,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6051,7 +6051,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6064,7 +6064,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6077,7 +6077,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6090,7 +6090,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6103,7 +6103,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6116,7 +6116,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6129,7 +6129,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6142,7 +6142,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Steering gear test</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-6A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6155,7 +6155,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Steering gear test</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-6A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6168,7 +6168,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Lookout</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6181,7 +6181,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Lookout</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6194,7 +6194,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Lookout</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6255,7 +6255,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Relief of the lookout</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-3K4A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6268,7 +6268,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Relief of the helmsman</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPNW-3K4B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6281,7 +6281,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Keep a safe anchor watch</Method_Name>
-<status pos="1">Mod</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6294,7 +6294,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Watch relief</Method_Name>
-<status pos="1">Mod</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6397,7 +6397,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">1/C Advanced Firefighting</Method_Name>
 <Method_Name pos="2">Extinguish an engine room fire</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-8ERF %} in {% course FF-0108 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course FF-0108 %}</mmd_link_to_this_course>
 </RECORD>
@@ -6413,7 +6413,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">1/C Advanced Firefighting</Method_Name>
 <Method_Name pos="2">Extinguish an engine room fire</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-8ERF %} in {% course FF-0108 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course FF-0108 %}</mmd_link_to_this_course>
 </RECORD>
@@ -6429,7 +6429,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">1/C Advanced Firefighting</Method_Name>
 <Method_Name pos="2">Extinguish an engine room fire</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-8ERF %} in {% course FF-0108 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course FF-0108 %}</mmd_link_to_this_course>
 </RECORD>
@@ -6458,7 +6458,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">3/C Firefighting Practicum</Method_Name>
 <Method_Name pos="2">Extinguish a smoldering fire</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-4SF %} in {% course FF-0104 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course FF-0104 %}</mmd_link_to_this_course>
 </RECORD>
@@ -6474,7 +6474,7 @@ MTRA</Major>
 MTRA</Major>
 <Method_Name pos="1">3/C Firefighting Practicum</Method_Name>
 <Method_Name pos="2">Extinguish a petrochemical fire</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-4PCF %} in {% course FF-0104 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course FF-0104 %}</mmd_link_to_this_course>
 </RECORD>
@@ -6491,8 +6491,8 @@ MTRA</Major>
 <Method_Name pos="1">2/C Firefighting Practicum</Method_Name>
 <Method_Name pos="2">Extinguish a paint locker fire</Method_Name>
 <Method_Name pos="3">Extinguish a stateroom fire</Method_Name>
-<status pos="1">New</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment FF-6SRF %} in {% course FF-0106 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment FF-6PLF %} in {% course FF-0106 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course FF-0106 %}</mmd_link_to_this_course>
@@ -6624,7 +6624,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Inspect machinery spaces before assuming watch</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6637,7 +6637,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6650,7 +6650,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6663,7 +6663,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6676,7 +6676,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6689,7 +6689,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6702,7 +6702,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6715,7 +6715,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6728,7 +6728,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6741,7 +6741,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6754,7 +6754,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6767,7 +6767,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6781,8 +6781,8 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor main steam turbine operation</Method_Name>
 <Method_Name pos="2">Monitor engineering machinery</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1M %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -6796,7 +6796,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6809,7 +6809,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor main gas turbine operation</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-3E %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6822,7 +6822,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6835,7 +6835,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6848,7 +6848,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6861,7 +6861,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Centrifugal pump maintenance (mechanical seal)</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2A %} in {% course EN-2111 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6874,7 +6874,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Shift and clean a basket-type duplex strainer</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPEW-1H2C %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6887,7 +6887,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Clean an oil purifier</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8E3A %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6900,7 +6900,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Overhaul valve</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6913,7 +6913,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Assist with fuel oil transfer</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABE-1-6A %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6926,7 +6926,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Pump bilges</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-2A %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -6940,8 +6940,8 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor oily water separator system</Method_Name>
 <Method_Name pos="2">Monitor engineering machinery</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-9-1C %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -6956,8 +6956,8 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor sewage waste treatment plant</Method_Name>
 <Method_Name pos="2">Monitor engineering machinery</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-9-1B %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -6972,8 +6972,8 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
 <Method_Name pos="2">Watch Relief</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1B %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -6988,8 +6988,8 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
 <Method_Name pos="2">Watch Relief</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1B %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -7003,7 +7003,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Inspect and start a diesel engine</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-7-1B %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7016,7 +7016,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7029,7 +7029,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Engineering watchkeeping</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7043,8 +7043,8 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Respond to engine room alarms</Method_Name>
 <Method_Name pos="2">Engineering watchkeeping</Method_Name>
-<status pos="1">Old</status>
-<status pos="2">New</status>
+<status pos="1"/>
+<status pos="2"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
@@ -7058,7 +7058,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7071,7 +7071,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor and operate auxiliary boiler</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4E3I %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7084,7 +7084,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7097,7 +7097,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor and operate auxiliary boiler</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4E3I %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7110,7 +7110,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Change and clean burner</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPEW-5-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7123,7 +7123,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Change and clean burner</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment RFPEW-5-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7136,7 +7136,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7149,7 +7149,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7162,7 +7162,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7175,7 +7175,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor engineering machinery</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7212,7 +7212,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Operate fire pump</Method_Name>
-<status pos="1">Old</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment OICEW-6-1B %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7226,7 +7226,7 @@ MTRA</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Assess and treat life-threatening conditions</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M1A %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7240,7 +7240,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Perform a detailed physical assessment</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M1B %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7254,7 +7254,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Immobilize a victim with a spinal injury</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M2A %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7268,7 +7268,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Immobilize and apply traction a victim with a broken femur</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M3A %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7282,7 +7282,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Immobilize a long bone fracture</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M3B %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7296,7 +7296,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Perform CPR</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M4A %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7310,7 +7310,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Use a AED</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M4B %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7324,7 +7324,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Manage obstructed airway in a conscious victim</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M4C %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7338,7 +7338,7 @@ MENG</Major>
 <Major pos="1">MTRA
 MENG</Major>
 <Method_Name pos="1">Manage obstructed airway in an unconscious victim</Method_Name>
-<status pos="1">New</status>
+<status pos="1"/>
 <mmd_link_to_this_assessment pos="1">{% assessment MFA-1M4D %} in {% course PE-0032 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
