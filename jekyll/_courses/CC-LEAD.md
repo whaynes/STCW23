@@ -3,6 +3,7 @@ cnum: CC-LEAD
 subtitle: "Regimental Leadership Program"
 title: "MMA Course CC-LEAD"
 major: D/E
+status: 
 ---
 
 ### Course Description
