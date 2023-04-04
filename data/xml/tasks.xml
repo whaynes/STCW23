@@ -101,8 +101,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Respond to engine room alarms</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
+<status pos="1">moved &amp; changed</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1E3B</taskNo>
@@ -249,8 +249,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Prepare main propulsion diesel engine for operation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1J %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1J %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4E3A</taskNo>
@@ -262,8 +262,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Prepare main steam turbine for operation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1L %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1L %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4E3B</taskNo>
@@ -301,8 +301,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor main steam turbine operation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1M %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1M %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4E3E</taskNo>
@@ -327,8 +327,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Secure main propulsion diesel engine</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1K %} in {% course EN-4131 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1K %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4E3G</taskNo>
@@ -340,8 +340,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Secure main steam turbine operation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1N %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1N %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4E3H</taskNo>
@@ -830,9 +830,9 @@
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Respond to engine room alarms</Method_Name>
 <Method_Name pos="2">Engineering watchkeeping</Method_Name>
-<status pos="1"/>
+<status pos="1">moved &amp; changed</status>
 <status pos="2"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -5565,7 +5565,7 @@ MTRA</Major>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Trace out and describe a piping system</Method_Name>
 <status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment ADB-4J11A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment ABD-4J11A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4J12A</taskNo>
@@ -6781,9 +6781,9 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Monitor main steam turbine operation</Method_Name>
 <Method_Name pos="2">Monitor engineering machinery</Method_Name>
-<status pos="1"/>
+<status pos="1">moved</status>
 <status pos="2"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1M %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-5-1M %} in {% course EN-3233 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1D %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7043,9 +7043,9 @@ MTRA</Major>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Respond to engine room alarms</Method_Name>
 <Method_Name pos="2">Engineering watchkeeping</Method_Name>
-<status pos="1"/>
+<status pos="1">moved &amp; changed</status>
 <status pos="2"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-4-2A %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment OICEW-4-1C %} in {% course EN-4231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -7110,8 +7110,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Change and clean burner</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPEW-5-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPEW-5-2E %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3H1E</taskNo>
@@ -7123,8 +7123,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Change and clean burner</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPEW-5-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPEW-5-2E %} in {% course EN-3131 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3H1F</taskNo>

@@ -2003,7 +2003,7 @@ Practical application of medical guides and advice by radio, including the abili
 <taskNo pos="4">1E3D</taskNo>
 <CourseNo pos="1">EN-4231</CourseNo>
 <CourseNo pos="2">MT-1111</CourseNo>
-<CourseNo pos="1">EN-3131</CourseNo>
+<CourseNo pos="1">EN-4231</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/1</Table>
@@ -2096,7 +2096,7 @@ Practical application of medical guides and advice by radio, including the abili
 <CourseNo pos="6">EN-3213</CourseNo>
 <CourseNo pos="7">EN-3216</CourseNo>
 <CourseNo pos="8">EN-3233</CourseNo>
-<CourseNo pos="9">EN-4112</CourseNo>
+<CourseNo pos="9">EN-4111</CourseNo>
 <CourseNo pos="1">EN-2111</CourseNo>
 <CourseNo pos="2">EN-3131</CourseNo>
 <CourseNo pos="3">EN-3213</CourseNo>
@@ -2169,9 +2169,8 @@ Practical application of medical guides and advice by radio, including the abili
 <CourseNo pos="2">EN-3131</CourseNo>
 <CourseNo pos="3">EN-3213</CourseNo>
 <CourseNo pos="4">EN-4131</CourseNo>
-<CourseNo pos="1">EN-2231</CourseNo>
-<CourseNo pos="2">EN-3131</CourseNo>
-<CourseNo pos="3">EN-3233</CourseNo>
+<CourseNo pos="1">EN-3131</CourseNo>
+<CourseNo pos="2">EN-3233</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/1</Table>
@@ -2188,7 +2187,7 @@ Practical application of medical guides and advice by radio, including the abili
 <kup pos="1">Operational characteristics of pumps and piping systems, including control systems</kup>
 <taskNo pos="1">5E1A</taskNo>
 <CourseNo pos="1">EN-3216</CourseNo>
-<CourseNo pos="2">EN-4112</CourseNo>
+<CourseNo pos="2">EN-4111</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/1</Table>
@@ -3198,7 +3197,7 @@ Maintain the correct water levels and steam pressures
 <taskNo pos="9">3H1H</taskNo>
 <taskNo pos="10">3H1I</taskNo>
 <CourseNo pos="1">EN-3131</CourseNo>
-<CourseNo pos="1">EN-2231</CourseNo>
+<CourseNo pos="1">EN-3131</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/4</Table>
@@ -3682,9 +3681,8 @@ Maintain the correct water levels and steam pressures
 5. use of the International Code of Signals and the IMO Standard Marine Communication Phrases 
 6. the English language, both written and spoken, for the communication of information relevant to safety of life at sea 
                   </kup>
-<CourseNo pos="1">HU-1111</CourseNo>
-<CourseNo pos="2">MT-3221</CourseNo>
-<CourseNo pos="3">MT-4122</CourseNo>
+<CourseNo pos="1">MT-3221</CourseNo>
+<CourseNo pos="2">MT-4122</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-IV/2</Table>

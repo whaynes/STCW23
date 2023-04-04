@@ -17,7 +17,7 @@ subtitle: officers in charge of an engineering watch
 | 5. | {% task 1E1E, 1.1.E %} | Maintain log book | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
 | 6. | {% task 1E1F, 1.1.F %} | Hand over the watch | {% assessment OICEW-4-1B %} in {% course EN-4231 %} |
 | 7. | {% task 1E2A, 1.2.A %} | Change-over to local control systems | {% assessment OICEW-1E2A %} in {% course EN-3233 %} |
-| 8. | {% task 1E3A, 1.3.A %} | Observe safety precautions during watch | {% assessment OICEW-4-2A %} in {% course EN-3131 %} |
+| 8. | {% task 1E3A, 1.3.A %} | Observe safety precautions during watch | {% assessment OICEW-4-2A %} in {% course EN-4231 %} |
 | 9. | {% task 1E3B, 1.3.B %} | Take immediate action (fire) | {% course MT-1111 %}|
 | 10. | {% task 1E3C, 1.3.C %} | Take immediate action (accident) | {% course MT-1111 %}|
 | 11. | {% task 1E3D, 1.3.D %} | Take immediate action (oil system fire or accident) | {% course MT-1111 %}|
@@ -29,14 +29,14 @@ subtitle: officers in charge of an engineering watch
 | 17. | {% task 4E1C, 4.1.C %} | Secure boiler | {% assessment OICEW-5-2B %} in {% course EN-3131 %} |
 | 18. | {% task 4E2A, 4.2.A %} | Understand safety and emergency procedures for propulsion machinery | {% course EN-4131 %}|
 | 19. | {% task 4E2B, 4.2.B %} | Respond to propulsion boiler carry-over | {% course EN-3131 %}|
-| 20. | {% task 4E2C, 4.2.C %} | Prepare propulsion diesel engine for operation | {% assessment OICEW-5-1J %} in {% course EN-4131 %} |
-| 21. | {% task 4E3A, 4.3.A %} | Prepare steam turbine for operation | {% assessment OICEW-5-1L %} in {% course EN-4231 %} |
+| 20. | {% task 4E2C, 4.2.C %} | Prepare propulsion diesel engine for operation | {% assessment OICEW-5-1J %} in {% course EN-4231 %} |
+| 21. | {% task 4E3A, 4.3.A %} | Prepare steam turbine for operation | {% assessment OICEW-5-1L %} in {% course EN-3233 %} |
 | 22. | {% task 4E3B, 4.3.B %} | Prepare gas turbine for operation | {% assessment OICEW-4-3B %} in {% course EN-3233 %} |
 | 23. | {% task 4E3C, 4.3.C %} | Monitor diesel engine operation | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
-| 24. | {% task 4E3D, 4.3.D %} | Monitor steam turbine operation | {% assessment OICEW-5-1M %} in {% course EN-2231 %} |
+| 24. | {% task 4E3D, 4.3.D %} | Monitor steam turbine operation | {% assessment OICEW-5-1M %} in {% course EN-3233 %} |
 | 25. | {% task 4E3E, 4.3.E %} | Monitor gas turbine operation | {% assessment OICEW-4-3E %} in {% course EN-3233 %} |
-| 26. | {% task 4E3F, 4.3.F %} | Secure propulsion diesel | {% assessment OICEW-5-1K %} in {% course EN-4131 %} |
-| 27. | {% task 4E3G, 4.3.G %} | Secure steam turbine operation | {% assessment OICEW-5-1N %} in {% course EN-4231 %} |
+| 26. | {% task 4E3F, 4.3.F %} | Secure propulsion diesel | {% assessment OICEW-5-1K %} in {% course EN-4231 %} |
+| 27. | {% task 4E3G, 4.3.G %} | Secure steam turbine operation | {% assessment OICEW-5-1N %} in {% course EN-3233 %} |
 | 28. | {% task 4E3H, 4.3.H %} | Secure gas turbine operation | {% assessment OICEW-4-3H %} in {% course EN-3233 %} |
 | 29. | {% task 4E3I, 4.3.I %} | Monitor auxiliary boiler | {% assessment OICEW-4E3I %} in {% course EN-3131 %} |
 | 30. | {% task 4E3J, 4.3.J %} | Test boiler water | {% assessment OICEW-5-2D %} in {% course EN-3131 %} |
@@ -72,7 +72,7 @@ subtitle: officers in charge of an engineering watch
 | 60. | {% task 7E2B, 7.2.B %} | Repair faulty motor controller | {% assessment OICEW-3-1B %} in {% course EN-3111L %} |
 | 61. | {% task 7E3A, 7.3.A %} | Detect location of grounds | {% assessment OICEW-3-1C %} in {% course EN-4231 %} |
 | 62. | {% task 7E4A, 7.4.A %} | Disassemble and reassemble an electric motor | {% assessment OICEW-7E4A %} in {% course EN-4231 %} |
-| 63. | {% task 7E5A, 7.5.A %} | Respond to engine alarms | {% assessment OICEW-4-2A %} in {% course EN-3131 %} <br/> {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
+| 63. | {% task 7E5A, 7.5.A %} | Respond to engine alarms | {% assessment OICEW-4-2A %} in {% course EN-4231 %} <br/> {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
 | 64. | {% task 7E5B, 7.5.B %} | Test steering gear | {% assessment OICEW-5-1A %} in {% course EN-4231 %} |
 | 65. | {% task 7E5C, 7.5.C %} | Test low lube oil shutdown device | {% assessment OICEW-7E5C %} in {% course EN-4131 %} |
 | 66. | {% task 8E1A, 8.1.A %} | Machine shop projects | {% assessment OICEW-1-1G %} in {% course EN-2112 %} <br/> {% assessment OICEW-8-1A %} in {% course EN-2112 %} <br/> {% course EN-2112 %}|

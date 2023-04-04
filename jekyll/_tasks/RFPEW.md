@@ -22,7 +22,7 @@ subtitle: ratings forming part of an engineering watch
 | 10. | {% task 1H1HS, 1.1.H(S) %} | Monitor steam distilling plant | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 11. | {% task 1H1HM, 1.1.H(M) %} | Monitor jacket water evaporator | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 12. | {% task 1H1HMG, 1.1.H(M/G) %} | Monitor reverse osmosis plant | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
-| 13. | {% task 1H1IS, 1.1.I(S) %} | Monitor main steam turbine propulsion unit | {% assessment OICEW-5-1M %} in {% course EN-2231 %} <br/> {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
+| 13. | {% task 1H1IS, 1.1.I(S) %} | Monitor main steam turbine propulsion unit | {% assessment OICEW-5-1M %} in {% course EN-3233 %} <br/> {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 14. | {% task 1H1IM, 1.1.I(M) %} | Monitor main diesel engine propulsion unit | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 15. | {% task 1H1IG, 1.1.I(G) %} | Monitor main gas turbine propulsion unit | {% assessment OICEW-4-3E %} in {% course EN-3233 %} |
 | 16. | {% task 1H1J, 1.1.J %} | Monitor propulsion shafting and bearings | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
@@ -41,13 +41,13 @@ subtitle: ratings forming part of an engineering watch
 | 29. | {% task 2H1C, 2.1.C %} | Pre-start check of a diesel engine | {% assessment OICEW-7-1B %} in {% course EN-4131 %} |
 | 30. | {% task 2H2A, 2.2.A %} | Operate internal communications systems | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
 | 31. | {% task 2H2B, 2.2.B %} | Log engine-order telegraph signals | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
-| 32. | {% task 2H3A, 2.3.A %} | Respond appropriately to alarms | {% assessment OICEW-4-2A %} in {% course EN-3131 %} <br/> {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
+| 32. | {% task 2H3A, 2.3.A %} | Respond appropriately to alarms | {% assessment OICEW-4-2A %} in {% course EN-4231 %} <br/> {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
 | 33. | {% task 3H1A, 3.1.A %} | Maintain main boiler water level and steam pressures | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 34. | {% task 3H1B, 3.1.B %} | Maintain auxiliary boiler water level and steam pressures | {% assessment OICEW-4E3I %} in {% course EN-3131 %} |
 | 35. | {% task 3H1C, 3.1.C %} | Monitor main propulsion boiler | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 36. | {% task 3H1DMG, 3.1.D(M/G) %} | Monitor auxiliary boiler | {% assessment OICEW-4E3I %} in {% course EN-3131 %} |
-| 37. | {% task 3H1DS, 3.1.D(S) %} | Change out burners for a main-propulsion boiler | {% assessment RFPEW-5-2E %} in {% course EN-2231 %} |
-| 38. | {% task 3H1E, 3.1.E %} | Clean a burner atomizer assembly | {% assessment RFPEW-5-2E %} in {% course EN-2231 %} |
+| 37. | {% task 3H1DS, 3.1.D(S) %} | Change out burners for a main-propulsion boiler | {% assessment RFPEW-5-2E %} in {% course EN-3131 %} |
+| 38. | {% task 3H1E, 3.1.E %} | Clean a burner atomizer assembly | {% assessment RFPEW-5-2E %} in {% course EN-3131 %} |
 | 39. | {% task 3H1F, 3.1.F %} | Assist preparing a main-propulsion boiler for light-off | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 40. | {% task 3H1G, 3.1.G %} | Assist in manual light-off, raising steam and cutting-in a boiler | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
 | 41. | {% task 3H1H, 3.1.H %} | Assist in maintaining the fires on a main-propulsion boiler during maneuvering | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |

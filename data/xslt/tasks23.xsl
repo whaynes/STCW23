@@ -69,7 +69,7 @@
         <xsl:text/> | {% task <xsl:value-of select="Table_Short_Name"/>, <xsl:value-of select="current-grouping-key()"/> Tasks %} <xsl:text/>
         <xsl:text/> | <xsl:apply-templates select="Major"/> |&cr;<xsl:text/>
       </xsl:for-each-group>
-      <xsl:text>{: class="sortable"}</xsl:text>
+      <xsl:text>{: class="sortable task_index"}</xsl:text>
     </xsl:result-document>
   </xsl:template>
   <xsl:template name="EachNVIC">
