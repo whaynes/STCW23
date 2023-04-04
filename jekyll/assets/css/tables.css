@@ -39,7 +39,7 @@ table.semester{
 table.semester *{
   background-color: transparent;
   border: 0;
-  padding: 0 3px;
+  padding: 0;
   margin: 0;
 
 }

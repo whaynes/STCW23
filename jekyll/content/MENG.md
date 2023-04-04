@@ -9,24 +9,24 @@ subtitle: 2023 and beyond
 |:------ | -----------|:
 {% course HU-1111 %} |  English Composition|
 {% course MT-1111 %} |  Vessel Familiarization & BST|
-{% course SM-1111 %} |  Precalculus w/ Trigonometry|
-{% course SM-1131 %} |  Chemistry I|
+SM-1111  |  Precalculus w/ Trigonometry|
+SM-1131  |  Chemistry I|
 {% course EN-1112 %} |  Engineering Systems & Safety|
 {: class='semester'}
 
 
 | Semester 2 | |
 |:------ | -----------|:
-{% course HU-1222 %} |  Writing About Literature|
-{% course SM-1212 %} |  Calculus I|
-{% course SM-1232 %} |  Chemistry II|
-{% course SS-1211 %} |  Western Civilization|
+HU-1222  |  Writing About Literature|
+SM-1212  |  Calculus I|
+SM-1232  |  Chemistry II|
+SS-1211  |  Western Civilization|
 {% course EN-1211 %} |  Auxiliary Machinery I|
 {: class='semester'}
 
 </div>
 
-|Intersession 1 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course ST-0999 %} |  Sea Term I|
 {: class='semester center'}
@@ -35,10 +35,10 @@ subtitle: 2023 and beyond
 
 | Semester 3 | |
 |:------ | -----------|:
-{% course SM-2113 %} |  Calculus II|
-{% course SM-2123 %} |  Engineering Physics I|
-{% course SS-2121 %} |  American Government|
-{% course EN-1212 %} |  Computer-Aided Design (CAD)|
+SM-2113  |  Calculus II|
+SM-2123  |  Engineering Physics I|
+SS-2121  |  American Government|
+EN-1212  |  Computer-Aided Design (CAD)|
 {% course EN-2111 %} |  Auxiliary Machinery II|
 {% course EN-2112 %} |  Machine Tool Technology|
 {: class='semester'}
@@ -46,15 +46,15 @@ subtitle: 2023 and beyond
 | Semester 4 | |
 |:------ | -----------|:
 GESS-3 | Social Science Group I|
-{% course SM-2214 %} |  Differential Equations|
-{% course SM-2224 %} |  Engineering Physics II 3|
-{% course EN-2211 %} |  Mechanics|
+SM-2214  |  Differential Equations|
+SM-2224  |  Engineering Physics II 3|
+EN-2211  |  Mechanics|
 {% course EN-2232 %} |  Internal Combustion Engines I|
 {: class='semester'}
 
 </div>
 
-|Intersession 2 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course EN-2231 %} |  Sea Term II: ME|
 {: class='semester center'}
@@ -63,8 +63,8 @@ GESS-3 | Social Science Group I|
 
 | Semester 5 | |
 |:------ | -----------|:
-{% course SM-3125 %} |  Engineering Physics III|
-{% course EN-3112 %} |  Strength of Materials|
+SM-3125  |  Engineering Physics III|
+EN-3112  |  Strength of Materials|
 {% course EN-3112L %} |  Strength of Materials Lab|
 {% course EN-3131 %} |  Steam Generators|
 {% course EN-3212 %} |  Electronics|
@@ -77,16 +77,16 @@ GESS-3 | Social Science Group I|
 GEHU-3  |Humanities Group I|
 {% course EN-3111 %} |  Electrical Machines|
 {% course EN-3111L %} |  Electrical Machines Lab|
-{% course EN-3211 %} |  Thermodynamics|
+EN-3211  |  Thermodynamics|
 {% course EN-3233 %} |  Steam & Gas Turbines|
 {% course EN-3216 %} |  Operational Controls|
-{% course EN-3216L %} |  Operational Controls Lab
+EN-3216L |  Operational Controls Lab
 {: class='semester'}
 
 </div>
 
 
-|Intersession 3 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course EN-3231 %} |  Sea Term III: ME or |
 {% course EN-3232 %} |  Commercial Sea Term: ME |
@@ -98,7 +98,7 @@ GEHU-3  |Humanities Group I|
 |:------ | -----------|:
 {% course SS-4123 %} |  International Law & Legislative Compliance|
 {% course EN-3213 %} |  Refrigeration|
-{% course EN-4111 %} |  Fluid Mechanics|
+{% course EN-4111 %} |  Fluid Mechanics |
 {% course EN-4131 %} |  Internal Combustion Engines II|
 || Free Elective I|
 {: class='semester'}
@@ -109,13 +109,13 @@ GEHU-3  |Humanities Group I|
 GEHU-4 | Humanities Group I or II|
 GESS-5 | Social Science Group III|
 {% course EN-4151 %} |  Applied Naval Architecture for ME|
-{% course EN-4232 %} |  License Seminar: Engineering|
+EN-4232  |  License Seminar: Engineering|
 | | Free Elective II|
 {: class='semester'}
 
 </div>
 
-|Intersession 4 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course EN-4231 %} |  Sea Term IV: ME|
 {: class='semester center'}

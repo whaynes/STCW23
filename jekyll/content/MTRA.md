@@ -9,23 +9,23 @@ subtitle: 2023 and beyond
 |:-----------------|:-----------------------------|
 {% course EN-1112 %} | Engineering Systems & Safety |
 {% course HU-1111 %} | English Composition |
-{% course SM-1111 %} | Precalculus w/ Trigonometry |
-{% course SM-1131 %} | Chemistry I |
+SM-1111  | Precalculus w/ Trigonometry |
+SM-1131  | Chemistry I |
 {% course MT-1111 %} | Vessel Familiarization & BST |
 {: class='semester'}
 
 | Semester 2  | |
 |:-----------------|:-----------------------------|:--|
-{% course HU-1222 %} | Writing About Literature |
-{% course SM-1214 %} | Applied Calculus |
-{% course SM-2121 %} | College Physics I |
-{% course SS-1211 %} | Western Civilization |
+HU-1222  | Writing About Literature |
+SM-1214  | Applied Calculus |
+SM-2121  | College Physics I |
+SS-1211  | Western Civilization |
 {% course MT-1221 %} | Coastal Navigation |
 {: class='semester'}
 
 </div>
 
-|Intersession 1 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course ST-0999 %} | Sea Term I|
 {: class='semester center'}
@@ -35,8 +35,8 @@ subtitle: 2023 and beyond
 
 | Semester 3  | |
 |:-----------------|:-----------------------------|
-{% course SM-2119 %} | Applied Mathematics for Deck Officers |
-{% course SM-2222 %} | College Physics II |
+SM-2119  | Applied Mathematics for Deck Officers |
+SM-2222  | College Physics II |
 {% course MT-2121 %} | Deep Sea Navigation |
 {% course MT-2141 %} | Ship Construction |
 {% course MT-2161 %} | Rules of the Road |
@@ -45,7 +45,7 @@ subtitle: 2023 and beyond
 
 | Semester 4  | |
 |:-----------------|:-----------------------------|
-{% course SS-2121 %} | American Government |
+SS-2121  | American Government |
 {% course MT-2222 %} | Celestial Navigation |
 {% course MT-2231 %} | Basic Seamanship |
 {% course MT-3122 %} | Radar Observer Certification |
@@ -54,7 +54,7 @@ subtitle: 2023 and beyond
 
 </div>
 
-|Intersession 2 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course MT-2371 %} | Sea Term II: MT |
 {: class='semester center'}
@@ -82,7 +82,7 @@ GESS-5 | Social Science Group III |
 {: class='semester'}
 </div>
 
-|Intersession 3 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course MT-3372 %} | Commercial Sea Term: MT |
 {: class='semester center'}
@@ -103,7 +103,7 @@ GEHU-4 | Humanities Group I or II |
 
 | Semester 8  | |
 |:-----------------|:-----------------------------|
-{% course EN-7142 %} | Diesel Engines |
+EN-7142  | Diesel Engines |
 {% course MT-3261 %} | Containerization & Modern Cargo Stowage |
 {% course MT-4251 %} | Marine Safety |
 {% course MT-4252 %} | Licensing Seminar: MT |
@@ -111,7 +111,7 @@ GEHU-4 | Humanities Group I or II |
 
 </div>
 
-|Intersession 4 |
+|Intersession|
 |:-----------------|:-----------------------------|
 {% course MT-4371 %} | Sea Term IV: MT |
 {: class='semester center'}

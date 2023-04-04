@@ -5,26 +5,32 @@
   text-align: center;
 }
 
-.sidebar > li {
+.sidebar li {
   font-size: 16px;
   font-weight: bold;
-  padding: 5px;
   border-bottom: 2px solid silver;
 }
 
-.sidebar ol {
+.sidebar menu {
   list-style: none;
+  padding: 0;
   margin: 0;
-  
 }
 
-.sidebar > li > ol > li {
+.sidebar menu menu{ 
+padding: 0 0 6px 0;
+margin:6px;
+}
+
+.sidebar  li  li {
   font-size: 16px;
   font-weight: normal;
+  margin: auto;
+  border-bottom: none;
 
 }
 
-.sidebar > li:last-child {
+.sidebar menu li:last-child {
   border: none;
 }
 

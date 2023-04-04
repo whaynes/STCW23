@@ -16,7 +16,7 @@ layout: page
 {% for course in courses %}
 <tr>
 <td style='text-align:center'>{{forloop.index}}.</td> 
-<td style='text-align:center'> <a href='{{ course.url | absolute_url}}'>{{course.cnum}}</a></td> 
+<td style='text-align:center'> <a href='{{ course.url | relative_url}}'>{{course.cnum}}</a></td> 
 <td>{{course.subtitle}}</td>
 {% endfor %}
 
