@@ -46,5 +46,8 @@ table.semester *{
 
 table.semester td:first-child { width:75px;}
 
+table.semester a {font-weight:bold}
+
 table.center{margin: 0 auto 30px auto;}
+
 

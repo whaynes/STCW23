@@ -7,7 +7,7 @@ subtitle: 2023 and beyond
 
 | Semester 1  | |
 |:------ | -----------|:
-{% course HU-1111 %} |  English Composition|
+HU-1111  |  English Composition|
 {% course MT-1111 %} |  Vessel Familiarization & BST|
 SM-1111  |  Precalculus w/ Trigonometry|
 SM-1131  |  Chemistry I|

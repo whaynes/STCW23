@@ -8,7 +8,7 @@ subtitle: 2023 and beyond
 | Semester 1  | |
 |:-----------------|:-----------------------------|
 {% course EN-1112 %} | Engineering Systems & Safety |
-{% course HU-1111 %} | English Composition |
+HU-1111  | English Composition |
 SM-1111  | Precalculus w/ Trigonometry |
 SM-1131  | Chemistry I |
 {% course MT-1111 %} | Vessel Familiarization & BST |
