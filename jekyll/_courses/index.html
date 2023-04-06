@@ -1,6 +1,7 @@
 ---
 title: "All STCW Courses" 
 ---
+
 {% assign courses = site.courses | where_exp: "course", "course.cnum != nil"| sort: "cnum"  %}
 
 
@@ -23,7 +24,5 @@ title: "All STCW Courses"
 {% endfor %}
 
 </table>
-
-
-
-
+ 
+    
