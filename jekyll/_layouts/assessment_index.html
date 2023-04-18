@@ -18,7 +18,7 @@ layout: page
 {% if assessment.number != 'nil' %}
 <tr>
 <td>{{forloop.index}}.</td> 
-<td><a href='{{ assessment.url | absolute_url}}'>{{assessment.number | replace: "-", "&#8209;" }} </a></td> 
+<td><a href='{{ assessment.url | relative_url}}'>{{assessment.number | replace: "-", "&#8209;" }} </a></td> 
 <td style='text-align: left;'>{{assessment.subtitle}} </td>
 <td> 
 <a href='{{site.baseurl}}/courses/{{assessment.cnum}}'>{{assessment.cnum | replace: "-", "&#8209;" }}</a>
