@@ -31,7 +31,7 @@ subtitle: ratings forming part of an engineering watch
 | 19. | {% task 1H2B, 1.2.B %} | Lubricate a grease-lubricated bearing | {% assessment OICEW-8-2A %} in {% course EN-2111 %} |
 | 20. | {% task 1H2C, 1.2.C %} | Shift and clean a basket-type duplex strainer | {% assessment RFPEW-1H2C %} in {% course EN-1211 %} |
 | 21. | {% task 1H2D, 1.2.D %} | Clean LO/FO purifier | {% assessment OICEW-8E3A %} in {% course EN-4131 %} |
-| 22. | {% task 1H2E, 1.2.E %} | Take up on a gate/globe valve stuffing-box gland | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
+| 22. | {% task 1H2E, 1.2.E %} | Take up on a gate/globe valve stuffing-box gland | {% assessment OICEW-8-2E %} in {% course EN-1211 %} |
 | 23. | {% task 1H2F, 1.2.F %} | Take on fresh water | {% assessment ABE-1-6A %} in {% course EN-1211 %} |
 | 24. | {% task 1H3A, 1.3.A %} | Pump out bilges | {% assessment OICEW-6-2A %} in {% course EN-2231 %} |
 | 25. | {% task 1H3B, 1.3.B %} | Monitor oily-water separator | {% assessment OICEW-9-1C %} in {% course EN-2231 %} <br/> {% assessment OICEW-4-1D %} in {% course EN-2231 %} |

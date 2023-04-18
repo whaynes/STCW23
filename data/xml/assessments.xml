@@ -309,7 +309,7 @@
 <assessment number="OICEW-8-2D" name="Inspect valve manifold" category="Engine" status="" cnum="EN-2231">
 <markdown/>
 </assessment>
-<assessment number="OICEW-8-2E" name="Overhaul valve" category="Engine" status="" cnum="EN-2231">
+<assessment number="OICEW-8-2E" name="Overhaul valve" category="Engine" status="moved" cnum="EN-1211">
 <markdown/>
 </assessment>
 <assessment number="OICEW-8-2F" name="Overhaul heat exchanger" category="Engine" status="" cnum="EN-2231">

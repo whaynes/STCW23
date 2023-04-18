@@ -2579,9 +2579,10 @@ Practical application of medical guides and advice by radio, including the abili
 <kupNo pos="1">OICEW-C2.3</kupNo>
 <kup pos="1">Maintenance and repair, such as dismantling, adjustment and reassembling of machinery and equipment</kup>
 <CourseNo pos="1">EN-2111</CourseNo>
-<CourseNo pos="1">EN-2111</CourseNo>
-<CourseNo pos="2">EN-2231</CourseNo>
-<CourseNo pos="3">EN-4131</CourseNo>
+<CourseNo pos="1">EN-1211</CourseNo>
+<CourseNo pos="2">EN-2111</CourseNo>
+<CourseNo pos="3">EN-2231</CourseNo>
+<CourseNo pos="4">EN-4131</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/1</Table>

@@ -952,8 +952,8 @@
 <Table_Name pos="1">officers in charge of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Overhaul valve</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">8E2D</taskNo>
@@ -2784,8 +2784,8 @@
 <Table_Name pos="1">able seafarer engine</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Overhaul valve</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">5G2A</taskNo>
@@ -6900,8 +6900,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of an engineering watch</Table_Name>
 <Major pos="1">MENG</Major>
 <Method_Name pos="1">Overhaul valve</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-2231 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICEW-8-2E %} in {% course EN-1211 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1H2F</taskNo>

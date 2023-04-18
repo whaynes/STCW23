@@ -3,8 +3,8 @@ number: "OICEW-8-2E"
 title: "STCW Assessment OICEW-8-2E"
 subtitle: "Overhaul valve"
 category: "Engine"
-status: ""
-cnum: "EN-2231"
+status: "moved"
+cnum: "EN-1211"
 ---
 ### Condition
 
@@ -111,7 +111,7 @@ Prove valve leak free with hydrostatic test
 
 ### Location
 
-Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
+Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
 

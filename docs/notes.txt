@@ -1,14 +1,9 @@
+4/18/23
 To produce the website
 
 1.  Update filemaker database 
-2.  In filmaker run "Export All" script
-3.  In textmate, open a page from the website located at /Users/whaynes/Google\ Drive/academics/stcw/Website\ Source/STCW23\ Draft/html
-4.	Select Bundles>RubyFrontier>Publish Site.
+2.  In filmaker run "Export All" script  This exports xml files and pages and runs xslt
+3.  Build Jekyll site
+4.  Rsynch local site to webserver.
 
 
-
-8/29/18
-
-Updated multimarkdown to version 6
-This version no longer supports --process-html switch which processed multimarkdown in html
-I deleted the switch from the multimarkdown call in page filter, but not sure how to find instances where --process-html was required and will need to be edited to work again.

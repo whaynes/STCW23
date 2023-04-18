@@ -80,7 +80,7 @@ subtitle: officers in charge of an engineering watch
 | 68. | {% task 8E1C, 8.1.C %} | Oxy-acetylene cutting project | {% assessment OICEW-1-1A %} in {% course EN-2112 %} |
 | 69. | {% task 8E2A, 8.2.A %} | Make emergency/temporary repairs | {% assessment OICEW-8E2A %} in {% course EN-1211 %} |
 | 70. | {% task 8E2B, 8.2.B %} | Replace a mechanical seal or repack a pump | {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
-| 71. | {% task 8E2C, 8.2.C %} | Repack a valve | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
+| 71. | {% task 8E2C, 8.2.C %} | Repack a valve | {% assessment OICEW-8-2E %} in {% course EN-1211 %} |
 | 72. | {% task 8E2D, 8.2.D %} | Replace a flange gasket | {% assessment OICEW-8E2D %} in {% course EN-2231 %} |
 | 73. | {% task 8E3A, 8.3.A %} | Clean an oil purifier | {% assessment OICEW-8E3A %} in {% course EN-4131 %} |
 | 74. | {% task 9E1A, 9.1.A %} | Overhaul a centrifugal pump | {% assessment OICEW-8-2A %} in {% course EN-2111 %} <br/> {% assessment OICEW-8E2B %} in {% course EN-2111 %} |

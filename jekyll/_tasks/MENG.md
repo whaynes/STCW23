@@ -79,7 +79,7 @@ subtitle: for all marine engineering students
 | 68. | {% task 8E1C, 8.1.C %} | Oxy-acetylene cutting project | {% assessment OICEW-1-1A %} in {% course EN-2112 %} |
 | 69. | {% task 8E2A, 8.2.A %} | Make emergency/temporary repairs | {% assessment OICEW-8E2A %} in {% course EN-1211 %} |
 | 70. | {% task 8E2B, 8.2.B %} | Replace a mechanical seal or repack a pump | {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
-| 71. | {% task 8E2C, 8.2.C %} | Repack a valve | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
+| 71. | {% task 8E2C, 8.2.C %} | Repack a valve | {% assessment OICEW-8-2E %} in {% course EN-1211 %} |
 | 72. | {% task 8E2D, 8.2.D %} | Replace a flange gasket | {% assessment OICEW-8E2D %} in {% course EN-2231 %} |
 | 73. | {% task 8E3A, 8.3.A %} | Clean an oil purifier | {% assessment OICEW-8E3A %} in {% course EN-4131 %} |
 | 74. | {% task 9E1A, 9.1.A %} | Overhaul a centrifugal pump | {% assessment OICEW-8-2A %} in {% course EN-2111 %} <br/> {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
@@ -116,7 +116,7 @@ subtitle: for all marine engineering students
 | 7. | {% task 4G1A, 4.1.A %} | Operation of bilge and ballast system | {% assessment OICEW-6-2A %} in {% course EN-2231 %} <br/> {% assessment OICEW-5E2B %} in {% course EN-3131 %} |
 | 8. | {% task 5G1A, 5.1.A %} | Trace out a piping system | {% assessment ABE-5G1A %} in {% course EN-2231 %} |
 | 9. | {% task 5G1B, 5.1.B %} | Operation of centrifugal and positive displacement pumps | {% assessment OICEW-8-2A %} in {% course EN-2111 %} <br/> {% assessment OICEW-8-2B %} in {% course EN-2111 %} <br/> {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
-| 10. | {% task 5G1C, 5.1.C %} | Operation and repair of valves | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
+| 10. | {% task 5G1C, 5.1.C %} | Operation and repair of valves | {% assessment OICEW-8-2E %} in {% course EN-1211 %} |
 | 11. | {% task 5G2A, 5.2.A %} | Operation and repair of heavy equipment | {% assessment ABDE-DE-1 %} in {% course ST-0999D %} <br/> {% course CC-MANT %}|
 | 12. | {% task 6G1A, 6.1.A %} | Assist with electrical repairs | {% course EN-3111L %}|
 | 13. | {% task 6G2A, 6.2.A %} | Electrical safety | {% course EN-3111L %}<br/> {% course EN-4231 %}|
@@ -173,7 +173,7 @@ subtitle: for all marine engineering students
 | 19. | {% task 1H2B, 1.2.B %} | Lubricate a grease-lubricated bearing | {% assessment OICEW-8-2A %} in {% course EN-2111 %} |
 | 20. | {% task 1H2C, 1.2.C %} | Shift and clean a basket-type duplex strainer | {% assessment RFPEW-1H2C %} in {% course EN-1211 %} |
 | 21. | {% task 1H2D, 1.2.D %} | Clean LO/FO purifier | {% assessment OICEW-8E3A %} in {% course EN-4131 %} |
-| 22. | {% task 1H2E, 1.2.E %} | Take up on a gate/globe valve stuffing-box gland | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
+| 22. | {% task 1H2E, 1.2.E %} | Take up on a gate/globe valve stuffing-box gland | {% assessment OICEW-8-2E %} in {% course EN-1211 %} |
 | 23. | {% task 1H2F, 1.2.F %} | Take on fresh water | {% assessment ABE-1-6A %} in {% course EN-1211 %} |
 | 24. | {% task 1H3A, 1.3.A %} | Pump out bilges | {% assessment OICEW-6-2A %} in {% course EN-2231 %} |
 | 25. | {% task 1H3B, 1.3.B %} | Monitor oily-water separator | {% assessment OICEW-9-1C %} in {% course EN-2231 %} <br/> {% assessment OICEW-4-1D %} in {% course EN-2231 %} |

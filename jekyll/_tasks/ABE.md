@@ -19,7 +19,7 @@ subtitle: able seafarer engine
 | 7. | {% task 4G1A, 4.1.A %} | Operation of bilge and ballast system | {% assessment OICEW-6-2A %} in {% course EN-2231 %} <br/> {% assessment OICEW-5E2B %} in {% course EN-3131 %} |
 | 8. | {% task 5G1A, 5.1.A %} | Trace out a piping system | {% assessment ABE-5G1A %} in {% course EN-2231 %} |
 | 9. | {% task 5G1B, 5.1.B %} | Operation of centrifugal and positive displacement pumps | {% assessment OICEW-8-2A %} in {% course EN-2111 %} <br/> {% assessment OICEW-8-2B %} in {% course EN-2111 %} <br/> {% assessment OICEW-8E2B %} in {% course EN-2111 %} |
-| 10. | {% task 5G1C, 5.1.C %} | Operation and repair of valves | {% assessment OICEW-8-2E %} in {% course EN-2231 %} |
+| 10. | {% task 5G1C, 5.1.C %} | Operation and repair of valves | {% assessment OICEW-8-2E %} in {% course EN-1211 %} |
 | 11. | {% task 5G2A, 5.2.A %} | Operation and repair of heavy equipment | {% assessment ABDE-DE-1 %} in {% course ST-0999D %} <br/> {% course CC-MANT %}|
 | 12. | {% task 6G1A, 6.1.A %} | Assist with electrical repairs | {% course EN-3111L %}|
 | 13. | {% task 6G2A, 6.2.A %} | Electrical safety | {% course EN-3111L %}<br/> {% course EN-4231 %}|
