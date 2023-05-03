@@ -90,8 +90,7 @@ Assistant Professor; B.S., University of Rhode Island; M.S.,
 Massachusetts Institute of Technology; License: Professional Engineer, Massachusetts.
 
 * **Laura Wilcox** (2020)
-Instructor; B.S., Massachusetts Maritime Academy.
-
+Instructor;  B.S., Massachusetts Maritime Academy; M.S., U.S. Merchant Marine Academy; Marine License: Chief Engineer, Motor , Unlimited Horsepower; Third Assistant Engineer, Steam or Gas Turbine of Any Horsepower
 
 * **Meghan Weir** (2022)
 Instructional Specialist; B.S., Massachusetts Maritime Academy; Marine License:
@@ -145,5 +144,9 @@ Humanities
 *  **Eugene Morrow**
 *  **Capt. Ed Vacha** 
 
+## Marine Credentialing Office
 
+* **Marie Huhnke** (2004) Director; STCW/Licensing Officer; B.S., United States Merchant Marine Academy; M.A., Wichita State University; Marine License: Second Mate, Oceans Unlimited.
+
+* **Lisa J Cervantes-Agular** (2009) Administrative Assistant; B.A., Bridgewater State University.
 
