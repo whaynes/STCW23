@@ -68,4 +68,5 @@
 <course cnum="VPDSD" cname="Vessel Personnel with Designated Security Duties" major="D/E"/>
 <course cnum="EN-3212L" cname="Electronics Lab" major="E"/>
 <course cnum="EN-3112L" cname="Strength of Materials Lab" major="E"/>
+<course cnum="EN-2121" cname="Auxiliary Machinery II for Facilities" major="E"/>
 </courses>
