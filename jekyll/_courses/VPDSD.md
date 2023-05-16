@@ -18,7 +18,7 @@ This course consists of a 10-hour course.
 This course is open to all shipboard personnel who are likely to be designated and required to perform security duties including anti-piracy, anti-armed robbery and related activities or those who have specific security duties and responsibilities in accordance with the ship security plan.
 
 
-### Learning Objectives
+### STCW Objectives
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 

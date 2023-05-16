@@ -16,7 +16,7 @@ This course consists of 12 hours per semester for seven semesters, for a total o
 
 None
 
-### Learning Objectives
+### STCW Objectives
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 

@@ -13,7 +13,7 @@ Principles of teamwork, leadership and management.
 This course consists of five 1-hour lectures.
 
 
-### Learning Objectives
+### STCW Objectives
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 

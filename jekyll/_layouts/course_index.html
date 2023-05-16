@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign courses = site.courses | where_exp: "course", "course.major == page.major and course.cnum != nil" | sort: "cnum"  %}
+{% assign courses = site.courses | where_exp: "course", "course.major == page.major and course.cnum != nil" | sort: "subtitle"  %}
 
 
 <table class='sortable courses'>
