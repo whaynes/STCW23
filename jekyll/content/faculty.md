@@ -98,8 +98,6 @@ Second Assistant Engineer, Gas Turbine and Motor, Unlimited Horsepower.
 
 * **Wei Yu** (2017)
 Associate Professor; B.S., M.S., Hefei University of Technology; Ph.D., Florida State University.
-Humanities
-
 
 
 
