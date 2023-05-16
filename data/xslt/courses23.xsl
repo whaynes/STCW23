@@ -16,7 +16,7 @@
 title: "All STCW Courses" 
 ---
 
-{% assign courses = site.courses | where_exp: "course", "course.cnum != nil"| sort: "cnum"  %}
+{% assign courses = site.courses | where_exp: "course", "course.cnum != nil"| sort: "subtitle"  %}
 
 
 <table class='sortable courses'>
@@ -33,7 +33,7 @@ title: "All STCW Courses"
 <tr>
 <td  style='text-align:center'>{{forloop.index}}.</td> 
 <td><a href='{{ course.url | relative_url}}'>{{course.cnum}}</a></td> 
-<td>{{course.title}}</td>
+<td>{{course.subtitle}}</td>
 <td  style='text-align:center'>{{course.major}}</td>
 {% endfor %}
 
