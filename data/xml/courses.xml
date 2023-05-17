@@ -69,4 +69,5 @@
 <course cnum="EN-3212L" cname="Electronics Lab" major="E"/>
 <course cnum="EN-3112L" cname="Strength of Materials Lab" major="E"/>
 <course cnum="EN-2121" cname="Auxiliary Machinery II for Facilities" major="E"/>
+<course cnum="EN-3214L" cname="Operational Controls Lab" major="E"/>
 </courses>
