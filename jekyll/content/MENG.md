@@ -67,16 +67,16 @@ SM-3125  |  Engineering Physics III|
 EN-3112  |  Strength of Materials|
 {% course EN-3112L %} |  Strength of Materials Lab|
 {% course EN-3131 %} |  Steam Generators|
-{% course EN-3212 %} |  Electronics|
-{% course EN-3212L %} |  Electronics Lab|
+{% course EN-3111 %} |  Electrical Machines|
+{% course EN-3111L %} |  Electrical Machines Lab|
 {: class='semester'}
 
 
 | Semester 6 | |
 |:------ | -----------|:
 GEHU-3  |Humanities Group I|
-{% course EN-3111 %} |  Electrical Machines|
-{% course EN-3111L %} |  Electrical Machines Lab|
+{% course EN-3212 %} |  Electronics|
+{% course EN-3212L %} |  Electronics Lab|
 EN-3211  |  Thermodynamics|
 {% course EN-3233 %} |  Steam & Gas Turbines|
 {% course EN-3216 %} |  Operational Controls|
