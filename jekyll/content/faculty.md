@@ -6,7 +6,7 @@ title:  "MMA Faculty"
 ## Marine Engineering Department
 
 * **James A. Albani (2017); CAPT, USNR** (Ret.)
-Assistant Professor; B.S., Massachusetts Maritime Academy; M.A.,
+Associate Professor; B.S., Massachusetts Maritime Academy; M.A.,
 American Military University; Marine License: First Assistant Engineer, Steam and Gas Turbine, Unlimited Horsepower; Second Assistant Engineer, Motor, Unlimited Horsepower.
 
 * **John Bausch III** (2006); CDR, MMA
