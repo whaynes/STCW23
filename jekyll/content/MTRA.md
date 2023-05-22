@@ -17,7 +17,7 @@ SM-1131  | Chemistry I |
 | Semester 2  | |
 |:-----------------|:-----------------------------|:--|
 HU-1222  | Writing About Literature |
-SM-1214  | Applied Calculus |
+SM-1214  | Applied Calculus or Calculus I |
 SM-2121  | College Physics I |
 SS-1211  | Western Civilization |
 {% course MT-1221 %} | Coastal Navigation |
@@ -46,9 +46,9 @@ SM-2222  | College Physics II |
 | Semester 4  | |
 |:-----------------|:-----------------------------|
 SS-2121  | American Government |
-{% course MT-2222 %} | Celestial Navigation |
+GESS-3 | Social Science Group I |
 {% course MT-2231 %} | Basic Seamanship |
-{% course MT-3122 %} | Radar Observer Certification |
+{% course MT-2225 %} | Integrated Navigation |
 {% course MT-3221 %} | Electronic Navigation |
 {: class='semester'}
 
@@ -65,7 +65,7 @@ SS-2121  | American Government |
 |:-----------------|:-----------------------------|
 GEHU-3 | Humanities Group I |
 {% course MT-3151 %} | Dangerous Liquid Cargo |
-{% course MT-3222 %} | ARPA |
+{% course MT-3224 %} | ECDIS |
 {% course MT-4122 %} | GMDSS |
 {% course MT-4132 %} | Advanced Seamanship |
 {: class='semester'}
@@ -73,9 +73,9 @@ GEHU-3 | Humanities Group I |
 
 | Semester 6  | |
 |:-----------------|:-----------------------------|
-GESS-3 | Social Science Group I |
+
 GESS-5 | Social Science Group III |
-{% course MT-3224 %} | ECDIS |
+{% course MT-2222 %} | Celestial Navigation |
 {% course MT-3231 %} | Applied Shiphandling |
 {% course MT-4241 %} | Stability & Trim |
 || Free Elective I  |
