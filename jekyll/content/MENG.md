@@ -78,9 +78,9 @@ GEHU-3  |Humanities Group I|
 {% course EN-3212 %} |  Electronics|
 {% course EN-3212L %} |  Electronics Lab|
 EN-3211  |  Thermodynamics|
-{% course EN-3233 %} |  Steam & Gas Turbines|
-{% course EN-3216 %} |  Operational Controls|
-EN-3216L |  Operational Controls Lab
+{% course EN-3233 %}  |  Steam & Gas Turbines|
+{% course EN-3216 %}  |  Operational Controls|
+{% course EN-3216L %} |  Operational Controls Lab
 {: class='semester'}
 
 </div>
