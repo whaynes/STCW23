@@ -140,6 +140,7 @@ EN-4232  |  License Seminar: Engineering|
 {% course PS-0301 %}  |  FR STCW Personal Survival (Sem 1)|
 {% course SR-0401 %}  |  FR Personal Safety/Social Responsibility   (Sem 1)|
 {% course VPDSD %}  |  Vessel Personnel with Designated Security Duties  (Sem 3)|
+{% course EN-4234 %} | Engineroom Resource Management (Sem 8)|
 {: class='semester'}
 
 </div>
