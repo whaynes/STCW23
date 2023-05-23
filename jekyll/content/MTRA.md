@@ -73,7 +73,6 @@ GEHU-3 | Humanities Group I |
 
 | Semester 6  | |
 |:-----------------|:-----------------------------|
-
 GESS-5 | Social Science Group III |
 {% course MT-2222 %} | Celestial Navigation |
 {% course MT-3231 %} | Applied Shiphandling |
