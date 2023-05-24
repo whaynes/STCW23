@@ -20,7 +20,7 @@ University of Illinois; M.B.A., University of Michigan, Ann Arbor; License:
 Professional Engineer, California, Maine.
 
 * **Susanne Dannessa** (2022)
-Instructor; B.S., United States Merchant Marine Academy. License: Second Assistant Engineer, Gas Turbine, Unlimited Horsepower; Third Assistant Engineer, Steam, Motor, Gas Turbine, Unlimited Horsepower; Master, 100 Gross Tons, Near Coastal.
+Instructor; B.S., United States Merchant Marine Academy. License: First Assistant Engineer, Motor, Unlimited Horsepower; Second Assistant Engineer, Gas Turbine, Unlimited Horsepower; Third Assistant Engineer, Steam Unlimited Horsepower; Master, 100 Gross Tons, Near Coastal.
 
 * **Timothy DeMoranville** (2021); LTJG, MMA
 Instructor; B.S., Massachusetts Maritime Academy; Marine License:
