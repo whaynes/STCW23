@@ -1307,8 +1307,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Fix by two bearings</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2A %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1D2B</taskNo>
@@ -1385,8 +1385,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Fix by two ranges</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2B %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2B %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1D4B</taskNo>
@@ -1398,8 +1398,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Fix by tangent bearings of two identified objects</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2C %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-2C %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1D4C</taskNo>
@@ -1677,8 +1677,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Determine risk of collision</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1D %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D1E</taskNo>
@@ -1690,8 +1690,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver to avoid risk of collision - crossing</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D1E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D1E %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D1F</taskNo>
@@ -1703,8 +1703,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver to avoid risk of collision -- meeting</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1E %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D1G</taskNo>
@@ -1716,8 +1716,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Maneuver to avoid risk of collision -- overtaking</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1F %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-1F %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D2A</taskNo>
@@ -1742,8 +1742,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Keep a safe navigation watch</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2B %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D2C</taskNo>
@@ -1755,8 +1755,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Notify Master when appropriate</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2C %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2C %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D2D</taskNo>
@@ -1768,8 +1768,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Keep a safe anchor watch</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2D %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D2E</taskNo>
@@ -1781,8 +1781,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Turn over a watch</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2F %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2F %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D3A</taskNo>
@@ -1794,8 +1794,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - appraisal</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D3B</taskNo>
@@ -1820,8 +1820,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - execution</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3B %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D4A</taskNo>
@@ -1846,8 +1846,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Navigate in restricted visibility</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2E %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D6A</taskNo>
@@ -6281,8 +6281,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Keep a safe anchor watch</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2D %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3K5B</taskNo>

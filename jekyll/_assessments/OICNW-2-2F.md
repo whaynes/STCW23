@@ -3,8 +3,8 @@ number: "OICNW-2-2F"
 title: "STCW Assessment OICNW-2-2F"
 subtitle: "Turn over a watch"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4371"
 ---
 ### Condition
 
@@ -59,7 +59,7 @@ Properly turn the watch over to a relieving officer.
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
 

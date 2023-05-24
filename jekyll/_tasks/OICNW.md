@@ -16,14 +16,14 @@ subtitle: officer in charge of a navigation watch
 | 4. | {% task 1D1D, 1.1.D %} | Measure the altitude of the sun at meridian passage (LAN) | {% assessment OICNW-1-1D %} in {% course MT-4371 %} |
 | 5. | {% task 1D1E, 1.1.E %} | Celestial running fix | {% assessment OICNW-1-1E %} in {% course MT-4371 %} |
 | 6. | {% task 1D1F, 1.1.F %} | Plot star fix | {% assessment OICNW-1-1F %} in {% course MT-4371 %} |
-| 7. | {% task 1D2A, 1.2.A %} | Position fix by two bearings | {% assessment OICNW-1-2A %} in {% course MT-4133 %} |
+| 7. | {% task 1D2A, 1.2.A %} | Position fix by two bearings | {% assessment OICNW-1-2A %} in {% course MT-2225 %} |
 | 8. | {% task 1D2B, 1.2.B %} | Plot DR position | {% assessment OICNW-1-2D %} in {% course MT-2121 %} |
 | 9. | {% task 1D2C, 1.2.C %} | Determine the course to steer | {% assessment OICNW-1-2E %} in {% course MT-2121 %} |
 | 10. | {% task 1D3A, 1.3.A %} | Correction of charts and publications | {% assessment OICNW-1-3A %} in {% course MT-4253 %} |
 | 11. | {% task 1D3B, 1.3.B %} | Chart selection | {% assessment OICNW-1-3B %} in {% course MT-4371 %} |
 | 12. | {% task 1D3C, 1.3.C %} | Route planning | {% assessment OICNW-1-3C %} in {% course MT-4371 %} |
-| 13. | {% task 1D4A, 1.4.A %} | Position fix by two ranges | {% assessment OICNW-1-2B %} in {% course MT-3122 %} |
-| 14. | {% task 1D4B, 1.4.B %} | Position fix by tangents to identified objects | {% assessment OICNW-1-2C %} in {% course MT-3122 %} |
+| 13. | {% task 1D4A, 1.4.A %} | Position fix by two ranges | {% assessment OICNW-1-2B %} in {% course MT-2225 %} |
+| 14. | {% task 1D4B, 1.4.B %} | Position fix by tangents to identified objects | {% assessment OICNW-1-2C %} in {% course MT-2225 %} |
 | 15. | {% task 1D4C, 1.4.C %} | Position fix by GPS | {% assessment OICNW-1-4A %} in {% course MT-4371 %} |
 | 16. | {% task 1D4D, 1.4.D %} | Use of GPS position save function | {% assessment OICNW-1-4B %} in {% course MT-4371 %} |
 | 17. | {% task 1D5A, 1.5.A %} | Use of echo sounder | {% assessment OICNW-1-4D %} in {% course MT-4371 %} |
@@ -45,20 +45,20 @@ subtitle: officer in charge of a navigation watch
 | 33. | {% task 2D1A, 2.1.A %} | Identify light configurations | {% assessment OICNW-2-1A %} in {% course MT-2161 %} |
 | 34. | {% task 2D1B, 2.1.B %} | Identify day shapes | {% assessment OICNW-2-1B %} in {% course MT-2161 %} |
 | 35. | {% task 2D1C, 2.1.C %} | Identify sound signals | {% assessment OICNW-2-1C %} in {% course MT-2161 %} |
-| 36. | {% task 2D1D, 2.1.D %} | Determine risk of collision | {% assessment OICNW-2-1D %} in {% course MT-4253 %} |
-| 37. | {% task 2D1E, 2.1.E %} | Maneuver to avoid risk of collision - crossing | {% assessment OICNW-2D1E %} in {% course MT-4253 %} |
-| 38. | {% task 2D1F, 2.1.F %} | Maneuver to avoid risk of collision - meeting | {% assessment OICNW-2-1E %} in {% course MT-4253 %} |
-| 39. | {% task 2D1G, 2.1.G %} | Maneuver to avoid risk of collision - overtaking | {% assessment OICNW-2-1F %} in {% course MT-4253 %} |
+| 36. | {% task 2D1D, 2.1.D %} | Determine risk of collision | {% assessment OICNW-2-1D %} in {% course MT-2225 %} |
+| 37. | {% task 2D1E, 2.1.E %} | Maneuver to avoid risk of collision - crossing | {% assessment OICNW-2D1E %} in {% course MT-2225 %} |
+| 38. | {% task 2D1F, 2.1.F %} | Maneuver to avoid risk of collision - meeting | {% assessment OICNW-2-1E %} in {% course MT-2225 %} |
+| 39. | {% task 2D1G, 2.1.G %} | Maneuver to avoid risk of collision - overtaking | {% assessment OICNW-2-1F %} in {% course MT-2225 %} |
 | 40. | {% task 2D2A, 2.2.A %} | Watch relief | {% assessment OICNW-2-2A %} in {% course MT-4371 %} |
-| 41. | {% task 2D2B, 2.2.B %} | Keep a safe navigation watch | {% assessment OICNW-2-2B %} in {% course MT-4253 %} |
-| 42. | {% task 2D2C, 2.2.C %} | Notify Master when appropriate | {% assessment OICNW-2-2C %} in {% course MT-4253 %} |
-| 43. | {% task 2D2D, 2.2.D %} | Keep a safe anchor watch | {% assessment OICNW-2-2D %} in {% course MT-4253 %} |
-| 44. | {% task 2D2E, 2.2.E %} | Turn over a watch | {% assessment OICNW-2-2F %} in {% course MT-4253 %} |
-| 45. | {% task 2D3A, 2.3.A %} | Voyage Planning - Appraisal | {% assessment OICNW-2-3A %} in {% course MT-4253 %} |
+| 41. | {% task 2D2B, 2.2.B %} | Keep a safe navigation watch | {% assessment OICNW-2-2B %} in {% course MT-4133 %} |
+| 42. | {% task 2D2C, 2.2.C %} | Notify Master when appropriate | {% assessment OICNW-2-2C %} in {% course MT-4133 %} |
+| 43. | {% task 2D2D, 2.2.D %} | Keep a safe anchor watch | {% assessment OICNW-2-2D %} in {% course MT-4133 %} |
+| 44. | {% task 2D2E, 2.2.E %} | Turn over a watch | {% assessment OICNW-2-2F %} in {% course MT-4371 %} |
+| 45. | {% task 2D3A, 2.3.A %} | Voyage Planning - Appraisal | {% assessment OICNW-2-3A %} in {% course MT-4133 %} |
 | 46. | {% task 2D3B, 2.3.B %} | Voyage Planning - Planning | {% assessment OICNW-2D3B %} in {% course MT-4253 %} |
-| 47. | {% task 2D3C, 2.3.C %} | Execute a voyage plan | {% assessment OICNW-2-3B %} in {% course MT-4253 %} |
+| 47. | {% task 2D3C, 2.3.C %} | Execute a voyage plan | {% assessment OICNW-2-3B %} in {% course MT-4133 %} |
 | 48. | {% task 2D4A, 2.4.A %} | Situational awareness | {% assessment OICNW-2D4A %} in {% course MT-4253 %} |
-| 49. | {% task 2D5A, 2.5.A %} | Navigate in restricted visibility | {% assessment OICNW-2-2E %} in {% course MT-4253 %} |
+| 49. | {% task 2D5A, 2.5.A %} | Navigate in restricted visibility | {% assessment OICNW-2-2E %} in {% course MT-4133 %} |
 | 50. | {% task 2D6A, 2.6.A %} | Vessel Traffic System (VTS) | {% assessment OICNW-2D6A %} in {% course MT-4253 %} |
 | 51. | {% task 2D7A, 2.7.A %} | Recognition of watch condition | {% assessment OICNW-2-3C %} in {% course MT-4253 %} |
 | 52. | {% task 2D7B, 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4253 %} |

@@ -3,8 +3,8 @@ number: "OICNW-2-2D"
 title: "STCW Assessment OICNW-2-2D"
 subtitle: "Keep a safe anchor watch"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -87,7 +87,7 @@ Report: “The watch has been relieved.” to the officer on watch.
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
 

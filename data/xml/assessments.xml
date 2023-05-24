@@ -24,13 +24,13 @@
 <assessment number="OICNW-1-1G" name="Measure the altitude of at least 3 stars" category="Deck" status="" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2A" name="Fix by two bearings" category="Deck" status="" cnum="MT-4133">
+<assessment number="OICNW-1-2A" name="Fix by two bearings" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2B" name="Fix by two ranges" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-1-2B" name="Fix by two ranges" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-2C" name="Fix by tangent bearings of two identified objects" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-1-2C" name="Fix by tangent bearings of two identified objects" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
 <assessment number="OICNW-1-2D" name="Plot the ship’s DR position" category="Deck" status="" cnum="MT-2121">
@@ -90,37 +90,37 @@
 <assessment number="OICNW-2-1C" name="Identify sound signals" category="Deck" status="" cnum="MT-2161">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1D" name="Determine risk of collision" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-1D" name="Determine risk of collision" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1E" name="Maneuver to avoid risk of collision -- meeting" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-1E" name="Maneuver to avoid risk of collision -- meeting" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-1F" name="Maneuver to avoid risk of collision -- overtaking" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-1F" name="Maneuver to avoid risk of collision -- overtaking" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2A" name="Watch relief" category="Deck" status="" cnum="MT-4371">
+<assessment number="OICNW-2-2A" name="Watch relief" category="Deck" status="moved" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2B" name="Keep a safe navigation watch" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-2B" name="Keep a safe navigation watch" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2C" name="Notify Master when appropriate" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-2C" name="Notify Master when appropriate" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2D" name="Keep a safe anchor watch" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-2D" name="Keep a safe anchor watch" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2E" name="Navigate in restricted visibility" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-2E" name="Navigate in restricted visibility" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-2F" name="Turn over a watch" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-2F" name="Turn over a watch" category="Deck" status="moved" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3A" name="Voyage plan - appraisal" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3A" name="Voyage plan - appraisal" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3B" name="Voyage plan - execution" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3B" name="Voyage plan - execution" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
 <assessment number="OICNW-2-3C" name="Watch augmentation" category="Deck" status="" cnum="MT-4253">
@@ -480,7 +480,7 @@
 <assessment number="EFA-4B9A" name="Demonstrate bandaging technique for wound treatment" category="Common" status="" cnum="PE-0031">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D1E" name="Maneuver to avoid risk of collision - crossing" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2D1E" name="Maneuver to avoid risk of collision - crossing" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
 <assessment number="OICNW-2D3B" name="Voyage plan - preparation" category="Deck" status="" cnum="MT-4253">

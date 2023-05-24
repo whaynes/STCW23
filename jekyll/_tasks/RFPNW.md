@@ -33,7 +33,7 @@ subtitle: ratings forming part of a navigation watch
 | 21. | {% task 3K3B, 3.3.B %} | Communicate potential collision situations at night | {% course MT-4253 %}|
 | 22. | {% task 3K4A, 3.4.A %} | Relief of the lookout | {% assessment RFPNW-3K4A %} in {% course MT-4253 %} |
 | 23. | {% task 3K4B, 3.4.B %} | Relief of the helmsman | {% assessment RFPNW-3K4B %} in {% course MT-4253 %} |
-| 24. | {% task 3K5A, 3.5.A %} | Relief of anchor watch | {% assessment OICNW-2-2D %} in {% course MT-4253 %} |
+| 24. | {% task 3K5A, 3.5.A %} | Relief of anchor watch | {% assessment OICNW-2-2D %} in {% course MT-4133 %} |
 | 25. | {% task 3K5B, 3.5.B %} | Relief of port watch | {% assessment OICNW-2-2A %} in {% course MT-4371 %} |
 | 26. | {% task 3K6A, 3.6.A %} | Environmental protection at sea | {% course ST-0999D %}|
 | 27. | {% task 3K6B, 3.6.B %} | Environmental protection in port | {% course ST-0999D %}|

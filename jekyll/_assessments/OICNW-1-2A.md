@@ -3,12 +3,12 @@ number: "OICNW-1-2A"
 title: "STCW Assessment OICNW-1-2A"
 subtitle: "Fix by two bearings"
 category: "Deck"
-status: ""
-cnum: "MT-4133"
+status: "moved"
+cnum: "MT-2225"
 ---
 ### Condition
 
-On a ship underway, or a full mission ship simulator, with land and aids to navigation in sight, using a standard bearing circle, alidade, or other device for taking bearings, and given a chart with a scale of no more than 1: 80,000.
+On a ship underway, or a integrated navigation simulator, with land and aids to navigation in sight, using a standard bearing circle, alidade, or other device for taking bearings, and given a chart with a scale of no more than 1: 80,000.
 
 ### Performance requirement 
 
@@ -52,7 +52,7 @@ Determine the bearings of at least two charted objects and plot them.
 
 ### Location
 
-Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
 

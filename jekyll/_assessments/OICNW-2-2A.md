@@ -3,7 +3,7 @@ number: "OICNW-2-2A"
 title: "STCW Assessment OICNW-2-2A"
 subtitle: "Watch relief"
 category: "Deck"
-status: ""
+status: "moved"
 cnum: "MT-4371"
 ---
 ### Condition

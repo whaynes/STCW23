@@ -3,8 +3,8 @@ number: "OICNW-2-2E"
 title: "STCW Assessment OICNW-2-2E"
 subtitle: "Navigate in restricted visibility"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -58,7 +58,7 @@ Recognize the restricted visibility take the appropriate action to navigate in r
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
 

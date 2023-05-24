@@ -3,8 +3,8 @@ number: "OICNW-2-1D"
 title: "STCW Assessment OICNW-2-1D"
 subtitle: "Determine risk of collision"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -51,7 +51,7 @@ Determine if risk of collision exists with approaching meeting, crossing and ove
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
 

@@ -3,8 +3,8 @@ number: "OICNW-2-2B"
 title: "STCW Assessment OICNW-2-2B"
 subtitle: "Keep a safe navigation watch"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -71,7 +71,7 @@ Properly keep a safe navigational watch in accordance with STCW Code Section {% 
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
 

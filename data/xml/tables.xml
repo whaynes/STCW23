@@ -49,8 +49,7 @@ Ability to determine the ship’s position by use of:
 <taskNo pos="3">1D2C</taskNo>
 <CourseNo pos="1">MT-1221</CourseNo>
 <CourseNo pos="1">MT-2121</CourseNo>
-<CourseNo pos="2">MT-3122</CourseNo>
-<CourseNo pos="3">MT-4133</CourseNo>
+<CourseNo pos="2">MT-2225</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -254,7 +253,7 @@ Thorough knowledge of the content, application and intent of the International R
 <taskNo pos="7">2D1G</taskNo>
 <CourseNo pos="1">MT-2161</CourseNo>
 <CourseNo pos="1">MT-2161</CourseNo>
-<CourseNo pos="2">MT-4253</CourseNo>
+<CourseNo pos="2">MT-2225</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -275,7 +274,7 @@ Thorough knowledge of the content, application and intent of the International R
 <taskNo pos="4">2D2D</taskNo>
 <taskNo pos="5">2D2E</taskNo>
 <CourseNo pos="1">MT-4133</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-4133</CourseNo>
 <CourseNo pos="2">MT-4371</CourseNo>
 </RECORD>
 <RECORD>
@@ -295,7 +294,8 @@ Thorough knowledge of the content, application and intent of the International R
 <taskNo pos="2">2D3B</taskNo>
 <taskNo pos="3">2D3C</taskNo>
 <CourseNo pos="1">MT-4371</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-4133</CourseNo>
+<CourseNo pos="2">MT-4253</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -328,7 +328,7 @@ Thorough knowledge of the content, application and intent of the International R
 <kupNo pos="1">OICNW-A2.5</kupNo>
 <kup pos="1">Knowledge of blind pilotage techniques</kup>
 <taskNo pos="1">2D5A</taskNo>
-<CourseNo pos="1">MT-3122</CourseNo>
+<CourseNo pos="1">MT-2225</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -395,7 +395,7 @@ Knowledge of bridge resource management principles, including:
 
 Knowledge of the fundamentals of radar and automatic radar plotting aids (ARPA)</kup>
 <taskNo pos="1">3D1</taskNo>
-<CourseNo pos="1">MT-3222</CourseNo>
+<CourseNo pos="1">MT-2225</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -429,8 +429,7 @@ Use, including:
 <taskNo pos="2">3D2B</taskNo>
 <taskNo pos="3">3D3A</taskNo>
 <taskNo pos="4">3D4</taskNo>
-<CourseNo pos="1">MT-3122</CourseNo>
-<CourseNo pos="2">MT-3222</CourseNo>
+<CourseNo pos="1">MT-2225</CourseNo>
 <CourseNo pos="1">MT-3122</CourseNo>
 <CourseNo pos="2">MT-3222</CourseNo>
 </RECORD>
@@ -448,7 +447,7 @@ Use, including:
 <kupNo pos="1">OICNW-A3.3</kupNo>
 <kup pos="1">Principal types of ARPA, their display characteristics, performance standards and the dangers of over-reliance on ARPA</kup>
 <taskNo pos="1">3D5A</taskNo>
-<CourseNo pos="1">MT-3222</CourseNo>
+<CourseNo pos="1">MT-2225</CourseNo>
 <CourseNo pos="1">MT-3222</CourseNo>
 </RECORD>
 <RECORD>
@@ -472,7 +471,7 @@ Use, including:
 5. deriving and analysing information, critical echoes, exclusion areas and trial manoeuvres 
 </kup>
 <taskNo pos="1">3D6</taskNo>
-<CourseNo pos="1">MT-3222</CourseNo>
+<CourseNo pos="1">MT-2225</CourseNo>
 <CourseNo pos="1">MT-3222</CourseNo>
 </RECORD>
 <RECORD>
