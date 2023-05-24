@@ -90,11 +90,11 @@ Assistant Professor; B.S., University of Rhode Island; M.S.,
 Massachusetts Institute of Technology; License: Professional Engineer, Massachusetts.
 
 * **Laura Wilcox** (2020)
-Instructor;  B.S., Massachusetts Maritime Academy; M.S., U.S. Merchant Marine Academy; Marine License: Chief Engineer, Motor , Unlimited Horsepower; Third Assistant Engineer, Steam or Gas Turbine of Any Horsepower
+Instructor;  B.S., Massachusetts Maritime Academy; M.S., U.S. Merchant Marine Academy; Marine License: Chief Engineer, Motor , Unlimited Horsepower; Third Assistant Engineer, Steam and Gas Turbine of Any Horsepower
 
 * **Meghan Weir** (2022)
 Instructional Specialist; B.S., Massachusetts Maritime Academy; Marine License:
-Second Assistant Engineer, Gas Turbine and Motor, Unlimited Horsepower.
+Second Assistant Engineer, Steam, Motor, and Gas Turbine, Unlimited Horsepower.
 
 * **Wei Yu** (2017)
 Associate Professor; B.S., M.S., Hefei University of Technology; Ph.D., Florida State University.
