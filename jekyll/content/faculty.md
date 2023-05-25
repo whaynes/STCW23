@@ -132,7 +132,7 @@ Associate Professor; B.S., M.S., Hefei University of Technology; Ph.D., Florida 
 *  **David B. Mackey**  (1992) Professor; B.S., M.S., State University of New York Maritime College; Marine License: Master, Oceans Unlimited; First Class Pilotage, Southeast Alaska.
 *  **Kaitlin Magnoli** (2023) Instructional Specialist.
 *  **Colleen McRae**  (2015) Associate Professor; B.S., Massachusetts Maritime Academy; Marine License: Master, Oceans 1600 Gross Tons; Chief Mate, Oceans Unlimited.
-* **Lucas Sunkler** 
+* **Lucas Sunkler**  (2022) Instructor; B.S., Maine Maritime Academy; Marine License: Master, Oceans, Unlimited. Dangerous Liquid Cargo PIC, Oil/Chemical Advanced
 
  
   
