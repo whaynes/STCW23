@@ -29,37 +29,20 @@ On board ship or in a laboratory.
 <tr><td>
 
 {% capture behavior %}
-rig and unrig a bosun’s chair.
+Gather materials.
 {% endcapture %}
 {{ behavior | markdownify }}
 
 </td><td>
 
 {% capture standard %}
-1. Gather all required materials;
-2. Inspect the bosun’s chair:  Ensure that:
-	a. The material has not been chafed;  
-	b. The material has not been compromised by the sun or chemicals;  
-	c. Strapping is undamaged; and  
-	d. Hardware is undamaged and unworn;
-3. Inspect the gantline to be used: Ensure that:
-	a. The material has not been chafed; and  
-	b. The material has not been compromised by the sun or chemicals;
-4. Inspect that hardware is serviceable;  
-5. Inspect the safety harness: Ensure that:
-	a. The material has not been chafed;  
-	b. The material has not been compromised by the sun or chemicals;  
-	c. Strapping is undamaged; and  
-	d. Hardware is undamaged and unworn;
-6. Gather personnel who will be assisting and briefs them on commands to be used and safety precautions;
-7. Rig the gantline;
-8. Rig the bosun’s chair: Ensure that:
-	a. For a modern bosun’s chair, follow the manufacturer’s recommendations; or   
-	b. For an old style bosun’s chair, use a gantline;  
-9. Test the rigged bosun’s chair, staging, and gantlines by sitting in and/or standing on at the lowest point of the drop and bounce in the rig;
-10. When raised so that feet clear the deck, secure themselves and performs a small task with both hands;
-11. Free the securing and lowers themselves to the deck; and 
-12. Unrig and stow all equipment per the manufacturer’s instructions. 
+Gather 
+
+* bosun's chair
+* gantline
+* hardware
+* safety harness
+* any other required equipment
 {%endcapture %}
 {{ standard | markdownify }}
 
@@ -70,7 +53,7 @@ rig and unrig a bosun’s chair.
 <tr><td>
 
 {% capture behavior %}
-Inspect the bosun’s chair: 
+Inspect the bosun’s chair.
 {% endcapture %}
 {{ behavior | markdownify }}
 
@@ -79,10 +62,174 @@ Inspect the bosun’s chair:
 {% capture standard %}
 Ensure that:
 
-a. The material has not been chafed;  
-b. The material has not been compromised by the sun or chemicals;  
-c. Strapping is undamaged; and  
-d. Hardware is undamaged and unworn;
+* The material has not been chafed 
+* The material has not been compromised by the sun or chemicals  
+* Strapping is undamaged. and  
+* Hardware is undamaged and unworn.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Inspect the gantline.
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Ensure that:
+
+* The material has not been chafed, and  
+*  The material has not been compromised by the sun or chemicals.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Inspect that hardware.  
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Ensure that all hardware is servicable.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+ Inspect the safety harness.
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Ensure that:
+	
+* The material has not been chafed
+*  The material has not been compromised by the sun or chemicals  
+* Strapping is undamaged, and  
+* Hardware is undamaged and unworn.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Gather personnel who will be assisting and brief them
+
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Discuss commands to be used and safety precautions.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Rig the gantline and  bosun’s chair
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+ Ensure that:
+
+* For a modern bosun’s chair, follow the manufacturer’s recommendations,or   
+* For an old style bosun’s chair, use a gantline. 
+
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Test the rigged bosun’s chair, staging, and gantlines. 
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+sit in and/or stand on at the lowest point of the drop and bounce in the rig.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Perform a  task while aloft.
+
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Raise chair so that feet clear the deck.
+
+Secure themselves.
+
+Use both hands to perform a small task.
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Unrig bosun's chair.
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Free the securing and lower themselves safely to the deck.
+
+Unrig and stow all equipment per the manufacturer’s instructions. 
 {%endcapture %}
 {{ standard | markdownify }}
 
