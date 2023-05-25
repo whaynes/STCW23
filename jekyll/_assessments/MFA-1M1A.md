@@ -1,6 +1,6 @@
 ---
 number: "MFA-1M1A"
-title: "STCW Assessment MFA-1M1A"
+title: "MMA Assessment MFA-1M1A"
 subtitle: "Assess and treat life-threatening conditions"
 category: "Common"
 status: ""

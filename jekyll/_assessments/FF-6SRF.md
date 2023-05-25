@@ -1,6 +1,6 @@
 ---
 number: "FF-6SRF"
-title: "STCW Assessment FF-6SRF"
+title: "MMA Assessment FF-6SRF"
 subtitle: "Extinguish a stateroom fire"
 category: "Common"
 status: ""

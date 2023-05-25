@@ -1,6 +1,6 @@
 ---
 number: "RFPNW-3K4B"
-title: "STCW Assessment RFPNW-3K4B"
+title: "MMA Assessment RFPNW-3K4B"
 subtitle: "Relief of the helmsman"
 category: "Deck"
 status: ""

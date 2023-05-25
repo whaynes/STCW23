@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2F"
-title: "STCW Assessment OICNW-3-2F"
+title: "MMA Assessment OICNW-3-2F"
 subtitle: "Cancel targets"
 category: "Deck"
 status: ""

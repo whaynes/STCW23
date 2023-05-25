@@ -1,6 +1,6 @@
 ---
 number: "OICEW-7E4A"
-title: "STCW Assessment OICEW-7E4A"
+title: "MMA Assessment OICEW-7E4A"
 subtitle: "Disassemble and reassemble an electric motor"
 category: "Engine"
 status: ""

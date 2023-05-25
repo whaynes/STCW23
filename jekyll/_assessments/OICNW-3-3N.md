@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3N"
-title: "STCW Assessment OICNW-3-3N"
+title: "MMA Assessment OICNW-3-3N"
 subtitle: "Check revised route for safety"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "FF-8FSR"
-title: "STCW Assessment FF-8FSR"
+title: "MMA Assessment FF-8FSR"
 subtitle: "Firefighting self rescue"
 category: "Common"
 status: ""

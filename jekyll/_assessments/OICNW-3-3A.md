@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3A"
-title: "STCW Assessment OICNW-3-3A"
+title: "MMA Assessment OICNW-3-3A"
 subtitle: "Operational Settings - Safety Depth"
 category: "Deck"
 status: ""

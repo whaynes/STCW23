@@ -1,6 +1,6 @@
 ---
 number: "PS-6"
-title: "STCW Assessment PS-6"
+title: "MMA Assessment PS-6"
 subtitle: "Keep afloat without a lifejacket"
 category: "Common"
 status: ""

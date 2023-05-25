@@ -1,6 +1,6 @@
 ---
 number: "OICEW-1-1C"
-title: "STCW Assessment OICEW-1-1C"
+title: "MMA Assessment OICEW-1-1C"
 subtitle: "Form two steel plates using electric arc welding process"
 category: "Engine"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1J"
-title: "STCW Assessment OICNW-3-1J"
+title: "MMA Assessment OICNW-3-1J"
 subtitle: "Determine true course and speed of target vessels"
 category: "Deck"
 status: ""

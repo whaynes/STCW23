@@ -1,6 +1,6 @@
 ---
 number: "OICEW-1-1D"
-title: "STCW Assessment OICEW-1-1D"
+title: "MMA Assessment OICEW-1-1D"
 subtitle: "Sweat joint"
 category: "Engine"
 status: ""

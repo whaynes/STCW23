@@ -1,6 +1,6 @@
 ---
 number: "OICNW-5-1A"
-title: "STCW Assessment OICNW-5-1A"
+title: "MMA Assessment OICNW-5-1A"
 subtitle: "Maneuver for man overboard"
 category: "Deck"
 status: ""

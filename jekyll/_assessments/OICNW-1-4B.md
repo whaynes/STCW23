@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-4B"
-title: "STCW Assessment OICNW-1-4B"
+title: "MMA Assessment OICNW-1-4B"
 subtitle: "Use of GPS position save function"
 category: "Deck"
 status: ""

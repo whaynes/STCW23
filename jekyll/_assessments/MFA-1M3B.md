@@ -1,6 +1,6 @@
 ---
 number: "MFA-1M3B"
-title: "STCW Assessment MFA-1M3B"
+title: "MMA Assessment MFA-1M3B"
 subtitle: "Immobilize a long bone fracture"
 category: "Common"
 status: ""

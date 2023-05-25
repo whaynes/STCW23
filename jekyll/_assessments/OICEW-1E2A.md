@@ -1,6 +1,6 @@
 ---
 number: "OICEW-1E2A"
-title: "STCW Assessment OICEW-1E2A"
+title: "MMA Assessment OICEW-1E2A"
 subtitle: "Change over control systems"
 category: "Engine"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-5-1B"
-title: "STCW Assessment OICNW-5-1B"
+title: "MMA Assessment OICNW-5-1B"
 subtitle: "Course change of more than 45°"
 category: "Deck"
 status: ""

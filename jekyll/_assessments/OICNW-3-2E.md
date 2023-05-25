@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2E"
-title: "STCW Assessment OICNW-3-2E"
+title: "MMA Assessment OICNW-3-2E"
 subtitle: "Designate targets"
 category: "Deck"
 status: ""

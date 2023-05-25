@@ -1,6 +1,6 @@
 ---
 number: "SCRB-1"
-title: "STCW Assessment SCRB-1"
+title: "MMA Assessment SCRB-1"
 subtitle: "Right an inverted lifefraft "
 category: "Common"
 status: ""

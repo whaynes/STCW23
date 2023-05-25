@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-3E"
-title: "STCW Assessment OICNW-2-3E"
+title: "MMA Assessment OICNW-2-3E"
 subtitle: "BRM Condition III – navigation"
 category: "Deck"
 status: ""

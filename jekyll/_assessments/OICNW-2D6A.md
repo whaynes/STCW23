@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2D6A"
-title: "STCW Assessment OICNW-2D6A"
+title: "MMA Assessment OICNW-2D6A"
 subtitle: "Vessel traffic systems (VTS)"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "MFA-1M1B"
-title: "STCW Assessment MFA-1M1B"
+title: "MMA Assessment MFA-1M1B"
 subtitle: "Perform a detailed physical assessment"
 category: "Common"
 status: ""

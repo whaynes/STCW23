@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2D7E"
-title: "STCW Assessment OICNW-2D7E"
+title: "MMA Assessment OICNW-2D7E"
 subtitle: "BRM Condition II or III - prioritization"
 category: "Deck"
 status: ""

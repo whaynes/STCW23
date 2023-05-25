@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1G"
-title: "STCW Assessment OICEW-5-1G"
+title: "MMA Assessment OICEW-5-1G"
 subtitle: "Shut down fresh water generator"
 category: "Engine"
 status: ""

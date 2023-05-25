@@ -1,6 +1,6 @@
 ---
 number: "MFA-1M4D"
-title: "STCW Assessment MFA-1M4D"
+title: "MMA Assessment MFA-1M4D"
 subtitle: "Manage obstructed airway in an unconscious victim"
 category: "Common"
 status: ""

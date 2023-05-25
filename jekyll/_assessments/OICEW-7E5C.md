@@ -1,6 +1,6 @@
 ---
 number: "OICEW-7E5C"
-title: "STCW Assessment OICEW-7E5C"
+title: "MMA Assessment OICEW-7E5C"
 subtitle: "Test engine shutdown devices"
 category: "Engine"
 status: ""

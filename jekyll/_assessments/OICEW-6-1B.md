@@ -1,6 +1,6 @@
 ---
 number: "OICEW-6-1B"
-title: "STCW Assessment OICEW-6-1B"
+title: "MMA Assessment OICEW-6-1B"
 subtitle: "Operate fire pump"
 category: "Engine"
 status: ""

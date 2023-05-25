@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1M"
-title: "STCW Assessment OICEW-5-1M"
+title: "MMA Assessment OICEW-5-1M"
 subtitle: "Monitor main steam turbine operation"
 category: "Engine"
 status: "moved"

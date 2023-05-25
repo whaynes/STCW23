@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-1D"
-title: "STCW Assessment OICEW-4-1D"
+title: "MMA Assessment OICEW-4-1D"
 subtitle: "Monitor engineering machinery"
 category: "Engine"
 status: ""

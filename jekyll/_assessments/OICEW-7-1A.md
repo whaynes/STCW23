@@ -1,6 +1,6 @@
 ---
 number: "OICEW-7-1A"
-title: "STCW Assessment OICEW-7-1A"
+title: "MMA Assessment OICEW-7-1A"
 subtitle: "Start emergency generator"
 category: "Engine"
 status: ""

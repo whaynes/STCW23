@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-4D"
-title: "STCW Assessment OICNW-1-4D"
+title: "MMA Assessment OICNW-1-4D"
 subtitle: "Use of echo sounder"
 category: "Deck"
 status: ""

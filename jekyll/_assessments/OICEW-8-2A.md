@@ -1,6 +1,6 @@
 ---
 number: "OICEW-8-2A"
-title: "STCW Assessment OICEW-8-2A"
+title: "MMA Assessment OICEW-8-2A"
 subtitle: "Centrifugal pump maintenance (mechanical seal)"
 category: "Engine"
 status: ""

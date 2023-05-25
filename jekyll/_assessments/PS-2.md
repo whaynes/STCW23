@@ -1,6 +1,6 @@
 ---
 number: "PS-2"
-title: "STCW Assessment PS-2"
+title: "MMA Assessment PS-2"
 subtitle: "Don and use an immersion suit"
 category: "Common"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1F"
-title: "STCW Assessment OICNW-3-1F"
+title: "MMA Assessment OICNW-3-1F"
 subtitle: "Determine DRM, SRM, CPA, and TCPA"
 category: "Deck"
 status: ""

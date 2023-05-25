@@ -25,7 +25,7 @@
       method="text"
       href="{$folder}/{@id}.html">
     <xsl:text>---&cr;</xsl:text>
-    <xsl:text/>title: "STCW Assessments (<xsl:value-of select="@id"/>)"&cr;<xsl:text/>
+    <xsl:text/>title: "MMA Assessments (<xsl:value-of select="@id"/>)"&cr;<xsl:text/>
     <xsl:text/>subtitle: for all <xsl:value-of select="subtitle"/> students&cr;<xsl:text/>
     <xsl:text/>category: "<xsl:value-of select="@category"/>"&cr;<xsl:text/>
    <xsl:text>layout: assessment_index

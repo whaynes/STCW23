@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2D4A"
-title: "STCW Assessment OICNW-2D4A"
+title: "MMA Assessment OICNW-2D4A"
 subtitle: "Situational awareness"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "ABDE-DE-1"
-title: "STCW Assessment ABDE-DE-1"
+title: "MMA Assessment ABDE-DE-1"
 subtitle: "Demonstrate crane and hoist signals"
 category: "Common"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICEW-7-1E"
-title: "STCW Assessment OICEW-7-1E"
+title: "MMA Assessment OICEW-7-1E"
 subtitle: "Parallel generators"
 category: "Engine"
 status: ""

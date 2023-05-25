@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5E2B"
-title: "STCW Assessment OICEW-5E2B"
+title: "MMA Assessment OICEW-5E2B"
 subtitle: "Ballast and deballast a tank"
 category: "Engine"
 status: ""

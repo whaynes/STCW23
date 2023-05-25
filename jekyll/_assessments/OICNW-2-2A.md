@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-2A"
-title: "STCW Assessment OICNW-2-2A"
+title: "MMA Assessment OICNW-2-2A"
 subtitle: "Watch relief"
 category: "Deck"
 status: "moved"

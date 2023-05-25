@@ -1,6 +1,6 @@
 ---
 number: "OICEW-8-2B"
-title: "STCW Assessment OICEW-8-2B"
+title: "MMA Assessment OICEW-8-2B"
 subtitle: "Reciprocating pump maintenance"
 category: "Engine"
 status: ""

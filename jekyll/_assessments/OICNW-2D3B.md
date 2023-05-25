@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2D3B"
-title: "STCW Assessment OICNW-2D3B"
+title: "MMA Assessment OICNW-2D3B"
 subtitle: "Voyage plan - preparation"
 category: "Deck"
 status: ""

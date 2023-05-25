@@ -1,6 +1,6 @@
 ---
 number: "FF-2PFE"
-title: "STCW Assessment FF-2PFE"
+title: "MMA Assessment FF-2PFE"
 subtitle: "Use various types of portable fire extinguishers to extinguish smaller fires."
 category: "Common"
 status: ""

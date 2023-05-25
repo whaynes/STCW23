@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3O"
-title: "STCW Assessment OICNW-3-3O"
+title: "MMA Assessment OICNW-3-3O"
 subtitle: "Convert Route Plan to Passage Plan"
 category: "Deck"
 status: ""

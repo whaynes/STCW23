@@ -1,6 +1,6 @@
 ---
 number: "OICEW-2-1A"
-title: "STCW Assessment OICEW-2-1A"
+title: "MMA Assessment OICEW-2-1A"
 subtitle: "Drill blind hole using drilling machine"
 category: "Engine"
 status: ""

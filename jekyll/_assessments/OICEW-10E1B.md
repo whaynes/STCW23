@@ -1,6 +1,6 @@
 ---
 number: "OICEW-10E1B"
-title: "STCW Assessment OICEW-10E1B"
+title: "MMA Assessment OICEW-10E1B"
 subtitle: "Start and secure oily water separator"
 category: "Engine"
 status: ""

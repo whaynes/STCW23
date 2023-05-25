@@ -1,6 +1,6 @@
 ---
 number: "OICEW-8E2D"
-title: "STCW Assessment OICEW-8E2D"
+title: "MMA Assessment OICEW-8E2D"
 subtitle: "Replace flange gasket"
 category: "Engine"
 status: ""

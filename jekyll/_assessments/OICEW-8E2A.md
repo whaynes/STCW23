@@ -1,6 +1,6 @@
 ---
 number: "OICEW-8E2A"
-title: "STCW Assessment OICEW-8E2A"
+title: "MMA Assessment OICEW-8E2A"
 subtitle: "Make emergency repairs"
 category: "Engine"
 status: ""

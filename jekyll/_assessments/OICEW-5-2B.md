@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-2B"
-title: "STCW Assessment OICEW-5-2B"
+title: "MMA Assessment OICEW-5-2B"
 subtitle: "Secure main boiler"
 category: "Engine"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1I"
-title: "STCW Assessment OICNW-3-1I"
+title: "MMA Assessment OICNW-3-1I"
 subtitle: "Change speed to control target DRM"
 category: "Deck"
 status: ""

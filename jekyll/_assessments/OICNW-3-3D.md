@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3D"
-title: "STCW Assessment OICNW-3-3D"
+title: "MMA Assessment OICNW-3-3D"
 subtitle: "Operational Settings - Display/Change spot sounding limits"
 category: "Deck"
 status: ""

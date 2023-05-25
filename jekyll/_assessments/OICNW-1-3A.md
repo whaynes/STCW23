@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-3A"
-title: "STCW Assessment OICNW-1-3A"
+title: "MMA Assessment OICNW-1-3A"
 subtitle: "Correction of charts and publications"
 category: "Deck"
 status: ""

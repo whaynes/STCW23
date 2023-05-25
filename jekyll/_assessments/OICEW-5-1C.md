@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1C"
-title: "STCW Assessment OICEW-5-1C"
+title: "MMA Assessment OICEW-5-1C"
 subtitle: "Shut down refrigeration system"
 category: "Engine"
 status: ""

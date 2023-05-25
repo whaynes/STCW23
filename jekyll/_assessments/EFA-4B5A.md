@@ -1,6 +1,6 @@
 ---
 number: "EFA-4B5A"
-title: "STCW Assessment EFA-4B5A"
+title: "MMA Assessment EFA-4B5A"
 subtitle: "Demonstrate proper bleeding control techniques"
 category: "Common"
 status: ""

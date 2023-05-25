@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-2D"
-title: "STCW Assessment OICEW-5-2D"
+title: "MMA Assessment OICEW-5-2D"
 subtitle: "Test and treat boiler water"
 category: "Engine"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1I"
-title: "STCW Assessment OICEW-5-1I"
+title: "MMA Assessment OICEW-5-1I"
 subtitle: "Shut down fuel oil or lube oil purifier"
 category: "Engine"
 status: ""

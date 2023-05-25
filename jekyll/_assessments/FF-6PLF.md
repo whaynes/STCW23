@@ -1,6 +1,6 @@
 ---
 number: "FF-6PLF"
-title: "STCW Assessment FF-6PLF"
+title: "MMA Assessment FF-6PLF"
 subtitle: "Extinguish a paint locker fire"
 category: "Common"
 status: ""

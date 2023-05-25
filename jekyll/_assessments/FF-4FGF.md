@@ -1,6 +1,6 @@
 ---
 number: "FF-4FGF"
-title: "STCW Assessment FF-4FGF"
+title: "MMA Assessment FF-4FGF"
 subtitle: "Extinguish a flammable gas fire"
 category: "Common"
 status: ""

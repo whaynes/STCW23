@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-3D"
-title: "STCW Assessment OICNW-2-3D"
+title: "MMA Assessment OICNW-2-3D"
 subtitle: "BRM Condition III – collision avoidance."
 category: "Deck"
 status: ""

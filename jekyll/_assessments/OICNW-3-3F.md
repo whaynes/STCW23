@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3F"
-title: "STCW Assessment OICNW-3-3F"
+title: "MMA Assessment OICNW-3-3F"
 subtitle: "Monitoring Sea Area - Chart Scaling"
 category: "Deck"
 status: ""

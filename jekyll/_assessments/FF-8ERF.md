@@ -1,6 +1,6 @@
 ---
 number: "FF-8ERF"
-title: "STCW Assessment FF-8ERF"
+title: "MMA Assessment FF-8ERF"
 subtitle: "Extinguish an engine room fire"
 category: "Common"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "ABD-4J9A1"
-title: "STCW Assessment ABD-4J9A1"
+title: "MMA Assessment ABD-4J9A1"
 subtitle: "Marlinspike seamanship - knots I"
 category: "Deck"
 status: ""

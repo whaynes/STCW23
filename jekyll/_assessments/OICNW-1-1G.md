@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-1G"
-title: "STCW Assessment OICNW-1-1G"
+title: "MMA Assessment OICNW-1-1G"
 subtitle: "Measure the altitude of at least 3 stars"
 category: "Deck"
 status: ""

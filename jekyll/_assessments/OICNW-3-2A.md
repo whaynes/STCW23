@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2A"
-title: "STCW Assessment OICNW-3-2A"
+title: "MMA Assessment OICNW-3-2A"
 subtitle: "Set up and maintain an ARPA display"
 category: "Deck"
 status: ""

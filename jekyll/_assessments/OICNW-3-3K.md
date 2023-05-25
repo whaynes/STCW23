@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3K"
-title: "STCW Assessment OICNW-3-3K"
+title: "MMA Assessment OICNW-3-3K"
 subtitle: "Merge User Charts"
 category: "Deck"
 status: ""

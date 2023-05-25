@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-1A"
-title: "STCW Assessment OICNW-1-1A"
+title: "MMA Assessment OICNW-1-1A"
 subtitle: "Adjust a sextant"
 category: "Deck"
 status: ""

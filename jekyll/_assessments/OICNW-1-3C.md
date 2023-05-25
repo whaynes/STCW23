@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-3C"
-title: "STCW Assessment OICNW-1-3C"
+title: "MMA Assessment OICNW-1-3C"
 subtitle: "Route planning"
 category: "Deck"
 status: ""

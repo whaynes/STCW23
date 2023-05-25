@@ -1,6 +1,6 @@
 ---
 number: "ABD-4J9A4"
-title: "STCW Assessment ABD-4J9A4"
+title: "MMA Assessment ABD-4J9A4"
 subtitle: "Marlinspike seamanship - line handling"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2D"
-title: "STCW Assessment OICNW-3-2D"
+title: "MMA Assessment OICNW-3-2D"
 subtitle: "Set vector characteristics"
 category: "Deck"
 status: ""

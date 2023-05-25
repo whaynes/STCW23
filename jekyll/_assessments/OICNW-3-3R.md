@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3R"
-title: "STCW Assessment OICNW-3-3R"
+title: "MMA Assessment OICNW-3-3R"
 subtitle: "Environmental Data - Display tide bars and current vectors"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-3C"
-title: "STCW Assessment OICNW-2-3C"
+title: "MMA Assessment OICNW-2-3C"
 subtitle: "Watch augmentation"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2I"
-title: "STCW Assessment OICNW-3-2I"
+title: "MMA Assessment OICNW-3-2I"
 subtitle: "Establish alarm area"
 category: "Deck"
 status: ""

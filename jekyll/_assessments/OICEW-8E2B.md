@@ -1,6 +1,6 @@
 ---
 number: "OICEW-8E2B"
-title: "STCW Assessment OICEW-8E2B"
+title: "MMA Assessment OICEW-8E2B"
 subtitle: "Centrifugal pump maintenance (packing)"
 category: "Engine"
 status: ""

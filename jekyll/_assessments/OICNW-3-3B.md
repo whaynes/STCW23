@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3B"
-title: "STCW Assessment OICNW-3-3B"
+title: "MMA Assessment OICNW-3-3B"
 subtitle: "Operational Settings - Display/Change Safety contour"
 category: "Deck"
 status: ""

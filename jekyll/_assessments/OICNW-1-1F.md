@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-1F"
-title: "STCW Assessment OICNW-1-1F"
+title: "MMA Assessment OICNW-1-1F"
 subtitle: "Star Fix"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-3H"
-title: "STCW Assessment OICEW-4-3H"
+title: "MMA Assessment OICEW-4-3H"
 subtitle: "Secure main gas turbine"
 category: "Engine"
 status: ""

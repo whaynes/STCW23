@@ -1,6 +1,6 @@
 ---
 number: "RFPNW-3K4A"
-title: "STCW Assessment RFPNW-3K4A"
+title: "MMA Assessment RFPNW-3K4A"
 subtitle: "Relief of the lookout"
 category: "Deck"
 status: ""

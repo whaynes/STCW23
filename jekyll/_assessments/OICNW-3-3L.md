@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3L"
-title: "STCW Assessment OICNW-3-3L"
+title: "MMA Assessment OICNW-3-3L"
 subtitle: "Display Route Plans"
 category: "Deck"
 status: ""

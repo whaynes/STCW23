@@ -1,6 +1,6 @@
 ---
 number: "MFA-1M4A"
-title: "STCW Assessment MFA-1M4A"
+title: "MMA Assessment MFA-1M4A"
 subtitle: "Perform CPR"
 category: "Common"
 status: ""

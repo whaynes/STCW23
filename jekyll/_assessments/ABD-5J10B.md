@@ -1,6 +1,6 @@
 ---
 number: "ABD-5J10B"
-title: "STCW Assessment ABD-5J10B"
+title: "MMA Assessment ABD-5J10B"
 subtitle: "Demonstrate use of a safety harness"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-1D"
-title: "STCW Assessment OICNW-2-1D"
+title: "MMA Assessment OICNW-2-1D"
 subtitle: "Determine risk of collision"
 category: "Deck"
 status: "moved"

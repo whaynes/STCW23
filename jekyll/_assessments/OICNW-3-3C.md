@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3C"
-title: "STCW Assessment OICNW-3-3C"
+title: "MMA Assessment OICNW-3-3C"
 subtitle: "Operational Settings - Display/change CPA/TCPA limits"
 category: "Deck"
 status: ""

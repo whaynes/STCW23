@@ -1,6 +1,6 @@
 ---
 number: "PS-4"
-title: "STCW Assessment PS-4"
+title: "MMA Assessment PS-4"
 subtitle: "Right an inverted liferaft"
 category: "Common"
 status: ""

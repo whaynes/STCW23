@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-5A"
-title: "STCW Assessment OICNW-1-5A"
+title: "MMA Assessment OICNW-1-5A"
 subtitle: "Determine gyro compass error by bearing of range"
 category: "Deck"
 status: ""

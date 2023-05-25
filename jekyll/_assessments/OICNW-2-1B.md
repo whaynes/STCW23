@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-1B"
-title: "STCW Assessment OICNW-2-1B"
+title: "MMA Assessment OICNW-2-1B"
 subtitle: "Identify day shapes"
 category: "Deck"
 status: ""

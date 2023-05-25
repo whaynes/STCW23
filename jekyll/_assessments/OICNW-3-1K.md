@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1K"
-title: "STCW Assessment OICNW-3-1K"
+title: "MMA Assessment OICNW-3-1K"
 subtitle: "Parallel indexing"
 category: "Deck"
 status: ""

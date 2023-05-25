@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2B"
-title: "STCW Assessment OICNW-3-2B"
+title: "MMA Assessment OICNW-3-2B"
 subtitle: "Manual target acquisition"
 category: "Deck"
 status: ""

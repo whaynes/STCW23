@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-5F"
-title: "STCW Assessment OICNW-1-5F"
+title: "MMA Assessment OICNW-1-5F"
 subtitle: "Azimuth of the sun"
 category: "Deck"
 status: ""

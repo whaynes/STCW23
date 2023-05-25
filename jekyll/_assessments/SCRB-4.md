@@ -1,6 +1,6 @@
 ---
 number: "SCRB-4"
-title: "STCW Assessment SCRB-4"
+title: "MMA Assessment SCRB-4"
 subtitle: "Row and steer survival craft"
 category: "Common"
 status: ""

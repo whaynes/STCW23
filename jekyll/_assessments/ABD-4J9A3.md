@@ -1,6 +1,6 @@
 ---
 number: "ABD-4J9A3"
-title: "STCW Assessment ABD-4J9A3"
+title: "MMA Assessment ABD-4J9A3"
 subtitle: "Marlinspike seamanship - splicing"
 category: "Deck"
 status: ""

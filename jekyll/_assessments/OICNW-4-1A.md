@@ -1,6 +1,6 @@
 ---
 number: "OICNW-4-1A"
-title: "STCW Assessment OICNW-4-1A"
+title: "MMA Assessment OICNW-4-1A"
 subtitle: "Flashing Light"
 category: "Deck"
 status: ""

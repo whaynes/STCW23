@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-5E"
-title: "STCW Assessment OICNW-1-5E"
+title: "MMA Assessment OICNW-1-5E"
 subtitle: "Position fix by magnetic compass bearings"
 category: "Deck"
 status: ""

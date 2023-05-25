@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-1C"
-title: "STCW Assessment OICNW-1-1C"
+title: "MMA Assessment OICNW-1-1C"
 subtitle: "Obtain a celestial fix"
 category: "Deck"
 status: ""

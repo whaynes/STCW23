@@ -1,6 +1,6 @@
 ---
 number: "OICEW-1-1B"
-title: "STCW Assessment OICEW-1-1B"
+title: "MMA Assessment OICEW-1-1B"
 subtitle: "Form two steel plates using brazing process"
 category: "Engine"
 status: ""

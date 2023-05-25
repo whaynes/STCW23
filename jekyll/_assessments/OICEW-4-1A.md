@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-1A"
-title: "STCW Assessment OICEW-4-1A"
+title: "MMA Assessment OICEW-4-1A"
 subtitle: "Inspect machinery spaces before assuming watch"
 category: "Engine"
 status: ""

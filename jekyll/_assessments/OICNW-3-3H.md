@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3H"
-title: "STCW Assessment OICNW-3-3H"
+title: "MMA Assessment OICNW-3-3H"
 subtitle: "Monitoring Sea Area - Gain information"
 category: "Deck"
 status: ""

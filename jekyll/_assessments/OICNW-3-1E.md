@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1E"
-title: "STCW Assessment OICNW-3-1E"
+title: "MMA Assessment OICNW-3-1E"
 subtitle: "Determine risk of collision"
 category: "Deck"
 status: ""

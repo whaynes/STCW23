@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-1B"
-title: "STCW Assessment OICEW-4-1B"
+title: "MMA Assessment OICEW-4-1B"
 subtitle: "Watch Relief"
 category: "Engine"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICEW-7-1B"
-title: "STCW Assessment OICEW-7-1B"
+title: "MMA Assessment OICEW-7-1B"
 subtitle: "Inspect and start a diesel engine"
 category: "Engine"
 status: ""

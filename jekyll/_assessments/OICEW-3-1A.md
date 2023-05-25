@@ -1,6 +1,6 @@
 ---
 number: "OICEW-3-1A"
-title: "STCW Assessment OICEW-3-1A"
+title: "MMA Assessment OICEW-3-1A"
 subtitle: "Plan and use test equipment"
 category: "Engine"
 status: ""

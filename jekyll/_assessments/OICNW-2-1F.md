@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-1F"
-title: "STCW Assessment OICNW-2-1F"
+title: "MMA Assessment OICNW-2-1F"
 subtitle: "Maneuver to avoid risk of collision -- overtaking"
 category: "Deck"
 status: "moved"

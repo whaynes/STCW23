@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2G"
-title: "STCW Assessment OICNW-3-2G"
+title: "MMA Assessment OICNW-3-2G"
 subtitle: "Target history"
 category: "Deck"
 status: ""

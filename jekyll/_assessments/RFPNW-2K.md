@@ -1,6 +1,6 @@
 ---
 number: "RFPNW-2K"
-title: "STCW Assessment RFPNW-2K"
+title: "MMA Assessment RFPNW-2K"
 subtitle: "Lookout"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "ABD-4J7A"
-title: "STCW Assessment ABD-4J7A"
+title: "MMA Assessment ABD-4J7A"
 subtitle: "Demonstrate rigging and unrigging a bosun's chair"
 category: "Deck"
 status: ""
@@ -37,29 +37,52 @@ rig and unrig a bosun’s chair.
 
 {% capture standard %}
 1. Gather all required materials;
-2. Inspect the bosun’s chair:
->	a. The material has not been chafed;  
->	b. The material has not been compromised by the sun or chemicals;  
->	c. Strapping is undamaged; and  
->	d. Hardware is undamaged and unworn;
-3. Inspect the gantline to be used:
->	a. The material has not been chafed; and  
->	b. The material has not been compromised by the sun or chemicals;
+2. Inspect the bosun’s chair:  Ensure that:
+	a. The material has not been chafed;  
+	b. The material has not been compromised by the sun or chemicals;  
+	c. Strapping is undamaged; and  
+	d. Hardware is undamaged and unworn;
+3. Inspect the gantline to be used: Ensure that:
+	a. The material has not been chafed; and  
+	b. The material has not been compromised by the sun or chemicals;
 4. Inspect that hardware is serviceable;  
-5. Inspect the safety harness:
->	a. The material has not been chafed;  
->	b. The material has not been compromised by the sun or chemicals;  
->	c. Strapping is undamaged; and  
->	d. Hardware is undamaged and unworn;
+5. Inspect the safety harness: Ensure that:
+	a. The material has not been chafed;  
+	b. The material has not been compromised by the sun or chemicals;  
+	c. Strapping is undamaged; and  
+	d. Hardware is undamaged and unworn;
 6. Gather personnel who will be assisting and briefs them on commands to be used and safety precautions;
 7. Rig the gantline;
-8. Rig the bosun’s chair:
->	a. For a modern bosun’s chair, follow the manufacturer’s recommendations; or   
->	b. For an old style bosun’s chair, use a gantline;  
+8. Rig the bosun’s chair: Ensure that:
+	a. For a modern bosun’s chair, follow the manufacturer’s recommendations; or   
+	b. For an old style bosun’s chair, use a gantline;  
 9. Test the rigged bosun’s chair, staging, and gantlines by sitting in and/or standing on at the lowest point of the drop and bounce in the rig;
 10. When raised so that feet clear the deck, secure themselves and performs a small task with both hands;
 11. Free the securing and lowers themselves to the deck; and 
 12. Unrig and stow all equipment per the manufacturer’s instructions. 
+{%endcapture %}
+{{ standard | markdownify }}
+
+</td></tr>
+
+
+
+<tr><td>
+
+{% capture behavior %}
+Inspect the bosun’s chair: 
+{% endcapture %}
+{{ behavior | markdownify }}
+
+</td><td>
+
+{% capture standard %}
+Ensure that:
+
+a. The material has not been chafed;  
+b. The material has not been compromised by the sun or chemicals;  
+c. Strapping is undamaged; and  
+d. Hardware is undamaged and unworn;
 {%endcapture %}
 {{ standard | markdownify }}
 

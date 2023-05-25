@@ -1,6 +1,6 @@
 ---
 number: "FF-2SBA"
-title: "STCW Assessment FF-2SBA"
+title: "MMA Assessment FF-2SBA"
 subtitle: "Don and use a self-contained breathing apparatus"
 category: "Common"
 status: ""

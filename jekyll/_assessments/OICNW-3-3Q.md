@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3Q"
-title: "STCW Assessment OICNW-3-3Q"
+title: "MMA Assessment OICNW-3-3Q"
 subtitle: "Environmental Data - Identify tidal data"
 category: "Deck"
 status: ""

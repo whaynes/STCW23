@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-1E"
-title: "STCW Assessment OICNW-2-1E"
+title: "MMA Assessment OICNW-2-1E"
 subtitle: "Maneuver to avoid risk of collision -- meeting"
 category: "Deck"
 status: "moved"

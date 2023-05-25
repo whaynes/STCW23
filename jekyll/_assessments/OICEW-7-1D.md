@@ -1,6 +1,6 @@
 ---
 number: "OICEW-7-1D"
-title: "STCW Assessment OICEW-7-1D"
+title: "MMA Assessment OICEW-7-1D"
 subtitle: "Connect ship service diesel generator to main switchboard"
 category: "Engine"
 status: ""

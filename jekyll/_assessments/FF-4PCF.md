@@ -1,6 +1,6 @@
 ---
 number: "FF-4PCF"
-title: "STCW Assessment FF-4PCF"
+title: "MMA Assessment FF-4PCF"
 subtitle: "Extinguish a petrochemical fire"
 category: "Common"
 status: ""

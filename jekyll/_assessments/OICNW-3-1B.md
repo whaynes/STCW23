@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1B"
-title: "STCW Assessment OICNW-3-1B"
+title: "MMA Assessment OICNW-3-1B"
 subtitle: "Switch display modes"
 category: "Deck"
 status: ""

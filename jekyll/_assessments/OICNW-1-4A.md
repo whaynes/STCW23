@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-4A"
-title: "STCW Assessment OICNW-1-4A"
+title: "MMA Assessment OICNW-1-4A"
 subtitle: "Position fix by GPS"
 category: "Deck"
 status: ""

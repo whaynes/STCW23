@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2J"
-title: "STCW Assessment OICNW-3-2J"
+title: "MMA Assessment OICNW-3-2J"
 subtitle: "Trial Maneuver"
 category: "Deck"
 status: ""

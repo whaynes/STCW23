@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-3A"
-title: "STCW Assessment OICNW-2-3A"
+title: "MMA Assessment OICNW-2-3A"
 subtitle: "Voyage plan - appraisal"
 category: "Deck"
 status: "moved"

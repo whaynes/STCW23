@@ -1,6 +1,6 @@
 ---
 number: "OICEW-9-1B"
-title: "STCW Assessment OICEW-9-1B"
+title: "MMA Assessment OICEW-9-1B"
 subtitle: "Monitor sewage waste treatment plant"
 category: "Engine"
 status: ""

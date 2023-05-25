@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-3B"
-title: "STCW Assessment OICNW-1-3B"
+title: "MMA Assessment OICNW-1-3B"
 subtitle: "Chart selection"
 category: "Deck"
 status: ""

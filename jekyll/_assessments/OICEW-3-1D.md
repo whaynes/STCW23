@@ -1,6 +1,6 @@
 ---
 number: "OICEW-3-1D"
-title: "STCW Assessment OICEW-3-1D"
+title: "MMA Assessment OICEW-3-1D"
 subtitle: "Measure insulation resistance"
 category: "Engine"
 status: ""

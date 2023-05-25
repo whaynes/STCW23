@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-2B"
-title: "STCW Assessment OICNW-1-2B"
+title: "MMA Assessment OICNW-1-2B"
 subtitle: "Fix by two ranges"
 category: "Deck"
 status: "moved"

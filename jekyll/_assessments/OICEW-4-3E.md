@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-3E"
-title: "STCW Assessment OICEW-4-3E"
+title: "MMA Assessment OICEW-4-3E"
 subtitle: "Monitor main gas turbine operation"
 category: "Engine"
 status: ""

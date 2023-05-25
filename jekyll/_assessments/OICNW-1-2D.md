@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-2D"
-title: "STCW Assessment OICNW-1-2D"
+title: "MMA Assessment OICNW-1-2D"
 subtitle: "Plot the ship’s DR position"
 category: "Deck"
 status: ""

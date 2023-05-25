@@ -1,6 +1,6 @@
 ---
 number: "PS-7"
-title: "STCW Assessment PS-7"
+title: "MMA Assessment PS-7"
 subtitle: "Board a survival craft while wearing a lifejacket"
 category: "Common"
 status: ""

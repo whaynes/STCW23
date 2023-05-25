@@ -1,6 +1,6 @@
 ---
 number: "OICEW-1-1F"
-title: "STCW Assessment OICEW-1-1F"
+title: "MMA Assessment OICEW-1-1F"
 subtitle: "Visual test of welded joint"
 category: "Engine"
 status: ""

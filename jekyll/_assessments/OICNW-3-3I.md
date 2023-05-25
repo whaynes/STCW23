@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3I"
-title: "STCW Assessment OICNW-3-3I"
+title: "MMA Assessment OICNW-3-3I"
 subtitle: "Monitoring Sea Area - ERBL"
 category: "Deck"
 status: ""

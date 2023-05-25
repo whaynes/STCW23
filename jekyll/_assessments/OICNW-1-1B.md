@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-1B"
-title: "STCW Assessment OICNW-1-1B"
+title: "MMA Assessment OICNW-1-1B"
 subtitle: "Measure the altitude of the sun"
 category: "Deck"
 status: ""

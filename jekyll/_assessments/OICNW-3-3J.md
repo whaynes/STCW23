@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3J"
-title: "STCW Assessment OICNW-3-3J"
+title: "MMA Assessment OICNW-3-3J"
 subtitle: "Display User Charts "
 category: "Deck"
 status: ""

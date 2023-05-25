@@ -1,6 +1,6 @@
 ---
 number: "PS-8"
-title: "STCW Assessment PS-8"
+title: "MMA Assessment PS-8"
 subtitle: "Use of lifeboat equipment"
 category: "Common"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "EFA-4B9A"
-title: "STCW Assessment EFA-4B9A"
+title: "MMA Assessment EFA-4B9A"
 subtitle: "Demonstrate bandaging technique for wound treatment"
 category: "Common"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1D"
-title: "STCW Assessment OICNW-3-1D"
+title: "MMA Assessment OICNW-3-1D"
 subtitle: "Determine range and bearing"
 category: "Deck"
 status: ""

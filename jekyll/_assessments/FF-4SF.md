@@ -1,6 +1,6 @@
 ---
 number: "FF-4SF"
-title: "STCW Assessment FF-4SF"
+title: "MMA Assessment FF-4SF"
 subtitle: "Extinguish a smoldering fire"
 category: "Common"
 status: ""

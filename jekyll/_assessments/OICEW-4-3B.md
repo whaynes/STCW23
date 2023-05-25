@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-3B"
-title: "STCW Assessment OICEW-4-3B"
+title: "MMA Assessment OICEW-4-3B"
 subtitle: "Prepare and start main gas turbine"
 category: "Engine"
 status: ""

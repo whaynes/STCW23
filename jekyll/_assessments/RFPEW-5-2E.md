@@ -1,6 +1,6 @@
 ---
 number: "RFPEW-5-2E"
-title: "STCW Assessment RFPEW-5-2E"
+title: "MMA Assessment RFPEW-5-2E"
 subtitle: "Change and clean burner"
 category: "Engine"
 status: "moved"

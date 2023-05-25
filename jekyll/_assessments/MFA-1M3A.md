@@ -1,6 +1,6 @@
 ---
 number: "MFA-1M3A"
-title: "STCW Assessment MFA-1M3A"
+title: "MMA Assessment MFA-1M3A"
 subtitle: "Immobilize and apply traction a victim with a broken femur"
 category: "Common"
 status: ""

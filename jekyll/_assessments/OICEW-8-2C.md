@@ -1,6 +1,6 @@
 ---
 number: "OICEW-8-2C"
-title: "STCW Assessment OICEW-8-2C"
+title: "MMA Assessment OICEW-8-2C"
 subtitle: "Gear pump maintenance"
 category: "Engine"
 status: ""

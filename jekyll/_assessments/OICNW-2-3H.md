@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-3H"
-title: "STCW Assessment OICNW-2-3H"
+title: "MMA Assessment OICNW-2-3H"
 subtitle: "BRM Condition III – establish a bridge team"
 category: "Deck"
 status: ""

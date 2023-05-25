@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-2A"
-title: "STCW Assessment OICEW-5-2A"
+title: "MMA Assessment OICEW-5-2A"
 subtitle: "Light off main boiler"
 category: "Engine"
 status: ""

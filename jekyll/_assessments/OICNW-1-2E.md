@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-2E"
-title: "STCW Assessment OICNW-1-2E"
+title: "MMA Assessment OICNW-1-2E"
 subtitle: "Determine course to steer"
 category: "Deck"
 status: ""

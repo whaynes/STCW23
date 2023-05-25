@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1C"
-title: "STCW Assessment OICNW-3-1C"
+title: "MMA Assessment OICNW-3-1C"
 subtitle: "Identify false echoes, sea return, racons and SARTs"
 category: "Deck"
 status: ""

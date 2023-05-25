@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-5B"
-title: "STCW Assessment OICNW-1-5B"
+title: "MMA Assessment OICNW-1-5B"
 subtitle: "Determine magnetic compass error"
 category: "Deck"
 status: ""

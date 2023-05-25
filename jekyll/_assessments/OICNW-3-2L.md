@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2L"
-title: "STCW Assessment OICNW-3-2L"
+title: "MMA Assessment OICNW-3-2L"
 subtitle: "Navigation lines"
 category: "Deck"
 status: ""

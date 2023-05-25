@@ -1,6 +1,6 @@
 ---
 number: "PS-5"
-title: "STCW Assessment PS-5"
+title: "MMA Assessment PS-5"
 subtitle: "Swim while wearing a lifejacket"
 category: "Common"
 status: ""

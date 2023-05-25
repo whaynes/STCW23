@@ -1,6 +1,6 @@
 ---
 number: "ABE-1-6A"
-title: "STCW Assessment ABE-1-6A"
+title: "MMA Assessment ABE-1-6A"
 subtitle: "Assist with fuel oil transfer"
 category: "Engine"
 status: ""

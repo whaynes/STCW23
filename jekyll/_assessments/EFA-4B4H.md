@@ -1,6 +1,6 @@
 ---
 number: "EFA-4B4H"
-title: "STCW Assessment EFA-4B4H"
+title: "MMA Assessment EFA-4B4H"
 subtitle: "Demonstrate actions for a conscious adult with airway blockage"
 category: "Common"
 status: ""

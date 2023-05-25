@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-1G"
-title: "STCW Assessment OICNW-3-1G"
+title: "MMA Assessment OICNW-3-1G"
 subtitle: "Detect speed and course changes of other ships"
 category: "Deck"
 status: ""

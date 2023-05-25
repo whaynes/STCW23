@@ -1,6 +1,6 @@
 ---
 number: "PS-3"
-title: "STCW Assessment PS-3"
+title: "MMA Assessment PS-3"
 subtitle: "Jump from a height into the water"
 category: "Common"
 status: ""

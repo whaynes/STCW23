@@ -1,6 +1,6 @@
 ---
 number: "FF-8SAR"
-title: "STCW Assessment FF-8SAR"
+title: "MMA Assessment FF-8SAR"
 subtitle: "Search and Rescue"
 category: "Common"
 status: ""

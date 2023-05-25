@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-3M"
-title: "STCW Assessment OICNW-3-3M"
+title: "MMA Assessment OICNW-3-3M"
 subtitle: "Modify Waypoints"
 category: "Deck"
 status: ""

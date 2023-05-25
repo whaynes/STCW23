@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-2C"
-title: "STCW Assessment OICNW-2-2C"
+title: "MMA Assessment OICNW-2-2C"
 subtitle: "Notify Master when appropriate"
 category: "Deck"
 status: "moved"

@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1D"
-title: "STCW Assessment OICEW-5-1D"
+title: "MMA Assessment OICEW-5-1D"
 subtitle: "Start and secure air compressor"
 category: "Engine"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1J"
-title: "STCW Assessment OICEW-5-1J"
+title: "MMA Assessment OICEW-5-1J"
 subtitle: "Prepare main propulsion diesel engine for operation"
 category: "Engine"
 status: "moved"

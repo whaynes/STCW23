@@ -1,6 +1,6 @@
 ---
 number: "OICEW-4-1C"
-title: "STCW Assessment OICEW-4-1C"
+title: "MMA Assessment OICEW-4-1C"
 subtitle: "Engineering watchkeeping"
 category: "Engine"
 status: ""

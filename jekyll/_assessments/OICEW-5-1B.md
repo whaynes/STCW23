@@ -1,6 +1,6 @@
 ---
 number: "OICEW-5-1B"
-title: "STCW Assessment OICEW-5-1B"
+title: "MMA Assessment OICEW-5-1B"
 subtitle: "Start refrigeration system"
 category: "Engine"
 status: ""

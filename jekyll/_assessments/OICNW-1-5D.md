@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-5D"
-title: "STCW Assessment OICNW-1-5D"
+title: "MMA Assessment OICNW-1-5D"
 subtitle: "Determine course to steer by magnetic compass"
 category: "Deck"
 status: ""

@@ -1,6 +1,6 @@
 ---
 number: "EFA-4B4F"
-title: "STCW Assessment EFA-4B4F"
+title: "MMA Assessment EFA-4B4F"
 subtitle: "Demonstrate proper hand placements for chest compressions"
 category: "Common"
 status: ""

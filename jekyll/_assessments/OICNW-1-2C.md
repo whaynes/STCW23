@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-2C"
-title: "STCW Assessment OICNW-1-2C"
+title: "MMA Assessment OICNW-1-2C"
 subtitle: "Fix by tangent bearings of two identified objects"
 category: "Deck"
 status: "moved"

@@ -1,6 +1,6 @@
 ---
 number: "ABD-4J11A"
-title: "STCW Assessment ABD-4J11A"
+title: "MMA Assessment ABD-4J11A"
 subtitle: "Trace out and describe a piping system"
 category: "Deck"
 status: ""

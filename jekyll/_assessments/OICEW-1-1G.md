@@ -1,6 +1,6 @@
 ---
 number: "OICEW-1-1G"
-title: "STCW Assessment OICEW-1-1G"
+title: "MMA Assessment OICEW-1-1G"
 subtitle: "Dye-penetrant test"
 category: "Engine"
 status: ""

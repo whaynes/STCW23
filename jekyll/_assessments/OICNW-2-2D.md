@@ -1,6 +1,6 @@
 ---
 number: "OICNW-2-2D"
-title: "STCW Assessment OICNW-2-2D"
+title: "MMA Assessment OICNW-2-2D"
 subtitle: "Keep a safe anchor watch"
 category: "Deck"
 status: "moved"

@@ -1,6 +1,6 @@
 ---
 number: "OICNW-3-2K"
-title: "STCW Assessment OICNW-3-2K"
+title: "MMA Assessment OICNW-3-2K"
 subtitle: "Switch stabilization modes"
 category: "Deck"
 status: ""

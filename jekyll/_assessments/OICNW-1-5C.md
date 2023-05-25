@@ -1,6 +1,6 @@
 ---
 number: "OICNW-1-5C"
-title: "STCW Assessment OICNW-1-5C"
+title: "MMA Assessment OICNW-1-5C"
 subtitle: "Determine magnetic compass deviation"
 category: "Deck"
 status: ""
