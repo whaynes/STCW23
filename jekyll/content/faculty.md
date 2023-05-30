@@ -123,7 +123,7 @@ Associate Professor; B.S., M.S., Hefei University of Technology; Ph.D., Florida 
 
 *  **John L. Belle**  (2011) Associate Professor; B.S., U.S. Merchant Marine Academy; J.D., Temple University School of Law; Marine License: Master, Oceans Unlimited.
 *  **Timothy C. Brady, Jr.**  (1998) Professor; B.S., Massachusetts Maritime Academy; M.A., Cambridge College; Marine License: Master, Oceans Unlimited; Dangerous Liquids; Liquefied Gas Cargoes.
-*  **Kerry Chicoine**  (2012) Instructor; B.S., Massachusetts Maritime Academy; Marine License: Chief Mate, Oceans Unlimited; Master, Oceans 1600 Gross Tons.
+*  **Kerry Chicoine**  (2012) Associate Professor; B.S., M.S., Massachusetts Maritime Academy; Marine License: Chief Mate, Oceans Unlimited; Master, Oceans 1600 Gross Tons.
 *  **Patrick E. Cunningham** (2014) Instructor; B.S., Massachusetts Maritime Academy; Marine License, Master, Oceans Unlimited.
 *  **Kurt DeCicco**  (2007) Associate Professor; B.S., Massachusetts Maritime Academy; M.Ed., American International College; Marine License: Master, Oceans 1600 Gross Tons; Master of Towing Vessels; Third Mate, Oceans Unlimited.
 *  **Zachary Dias** (2022) Instructor; B.S., Massachusetts Maritime Academy; Marine License: Master, Oceans, Unlimited; Master of Towing.
