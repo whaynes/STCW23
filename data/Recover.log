@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2023-06-01 17:44:40.485 -0400	stcw2023.fmp12	0	*** Started consistency check of improperly closed file, total of 1660 block(s) to check
+2023-06-01 17:44:40.536 -0400	stcw2023.fmp12	0	Reset maximum block sequence number to 2626601
+2023-06-01 17:44:40.536 -0400	stcw2023.fmp12	0	*** Completed consistency check, checked 1660 block(s)
