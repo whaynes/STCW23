@@ -36,20 +36,20 @@ Set up and maintain the ARPA display.
 </td><td>
 
 {% capture standard %}
-Within three minutes, the candidate: 
+Within three minutes,
 
-1. Turned the power on;
-2. Initialized performance monitor;
-3. Noted error messages;
-4. Switched from standby to on;
-5. Selected the appropriate scale;
-6. Adjusted the gain control so that targets and sea return appeared;
-7. Adjusted the tune control (if the unit is not self tuning);
-8. Adjusted the brilliance control;
+1. Turn the power on;
+2. Initialize performance monitor;
+3. Note error messages;
+4. Switche from standby to on;
+5. Selecte the appropriate scale;
+6. Adjust the gain control so that targets and sea return appeared;
+7. Adjust the tune control (if the unit is not self tuning);
+8. Adjust the brilliance control;
 9. Adjust the sea clutter and rain clutter controls to suppress the rain and sea clutter without losing targets.
- 10. Display selected is north up stabilized, relative motion.
+ 10. Select north-up stabilized, relative motion display.
  11. Select proper gyro course and speed input.
- 12. Select sea stabilized mode.
+ 12. Select sea-stabilized mode.
 {%endcapture %}
 {{ standard | markdownify }}
 

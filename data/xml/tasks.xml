@@ -1962,8 +1962,8 @@
 <Table_Short_Name pos="1">OICNW</Table_Short_Name>
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
-<Method_Name pos="1">Radar Observer Certification</Method_Name>
-<mmd_link_to_this_course pos="1">{% course MT-3122 %}</mmd_link_to_this_course>
+<Method_Name pos="1">Integrated Navigation</Method_Name>
+<mmd_link_to_this_course pos="1">{% course MT-2225 %}</mmd_link_to_this_course>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D2A</taskNo>
@@ -2013,8 +2013,8 @@
 <Table_Short_Name pos="1">OICNW</Table_Short_Name>
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
-<Method_Name pos="1">Radar Observer Certification</Method_Name>
-<mmd_link_to_this_course pos="1">{% course MT-3122 %}</mmd_link_to_this_course>
+<Method_Name pos="1">Integrated Navigation</Method_Name>
+<mmd_link_to_this_course pos="1">{% course MT-2225 %}</mmd_link_to_this_course>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D5A</taskNo>
@@ -2038,8 +2038,8 @@
 <Table_Short_Name pos="1">OICNW</Table_Short_Name>
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
-<Method_Name pos="1">Automatic Radar Plotting Aids (ARPA)</Method_Name>
-<mmd_link_to_this_course pos="1">{% course MT-3222 %}</mmd_link_to_this_course>
+<Method_Name pos="1">Integrated Navigation</Method_Name>
+<mmd_link_to_this_course pos="1">{% course MT-2225 %}</mmd_link_to_this_course>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4D1</taskNo>

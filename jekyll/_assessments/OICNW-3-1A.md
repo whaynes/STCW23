@@ -36,15 +36,15 @@ Set up and maintain the radar display.
 </td><td>
 
 {% capture standard %}
-Within three minutes, after the power was turned on: 
+Within three minutes after the power was turned on: 
 
-1. The set was switched from standby to transmit;
-2. The appropriate scale was selected;
-3. The gain control was adjusted so that targets and sea return appeared;
-4. The tune control was adjusted (if the unit is not self tuning);
-5. The brilliance control was adjusted;
-6. The sea clutter and rain clutter controls were adjusted to suppress the rain and sea clutter without losing targets;
-7. The north up stabilized relative motion was selected.
+1. Switch the set from standby to transmit;
+2. Select the appropriate scale;
+3. Adjust the gain control so that targets and sea return appear;
+4. Adjust the tune control (if the unit is not self-tuning);
+5. Adjust the brilliance control;
+6. Adjust the sea clutter and rain clutter controls to suppress the rain and sea clutter without losing targets; and
+7. Select the north-up stabilized relative motion.
 {%endcapture %}
 {{ standard | markdownify }}
 

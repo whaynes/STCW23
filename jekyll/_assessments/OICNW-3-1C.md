@@ -39,10 +39,12 @@ Identify false echoes, sea return, a racon and SART.
 The following were recognized and correctly identified: 
 
 1. False echoes:
-    1. Indirect echoes
-    2. Multiple echoes
-    3. Electronic interference
-    4. Spoking
+   1. Indirect or false echoes;
+    2. Side-lobe effects;
+    3. Multiple echoes;
+    4. Second-trace echoes;
+    5. Electronic interference; and
+    6. Spoking;
 2. Sea return;
 3. Racons; and,
 4. SARTs.

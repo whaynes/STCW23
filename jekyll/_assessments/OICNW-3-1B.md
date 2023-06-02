@@ -37,10 +37,10 @@ Switch the display from north up stabilized relative motion to true motion to he
 
 {% capture standard %}
 Within 15 seconds:
- 
-1. The display is switched from north up stabilized relative motion to true motion;
-2. The display is switched from true motion to head up; and,
-3. The candidate pointed to the location on the display of the information that indicates the mode displayed.
+
+1. Switch the display from north-up stabilized relative motion to true motion;
+2. Switch the display from true motion to head-up; and
+3. Point to the location on the display of the information that indicates the mode displayed.
 {%endcapture %}
 {{ standard | markdownify }}
 
