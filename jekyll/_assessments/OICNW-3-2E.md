@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-2E"
 subtitle: "Designate targets"
 category: "Deck"
 status: ""
-cnum: "MT-3222"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -49,7 +49,7 @@ Designated two of the acquired targets for an alphanumeric display of the target
 
 ### Location
 
-Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.3, OICNW-A3.3 %}
 

@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-2F"
 subtitle: "Cancel targets"
 category: "Deck"
 status: ""
-cnum: "MT-3222"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -49,7 +49,7 @@ A single target is canceled within 10 seconds.
 
 ### Location
 
-Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 

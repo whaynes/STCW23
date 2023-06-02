@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-2G"
 subtitle: "Target history"
 category: "Deck"
 status: ""
-cnum: "MT-3222"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -50,7 +50,7 @@ Demonstrate the ability to have the ARPA display past target history.
 
 ### Location
 
-Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 

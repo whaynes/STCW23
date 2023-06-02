@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-1C"
 subtitle: "Identify false echoes, sea return, racons and SARTs"
 category: "Deck"
 status: ""
-cnum: "MT-3122"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -58,7 +58,7 @@ The following were recognized and correctly identified:
 
 ### Location
 
-Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 

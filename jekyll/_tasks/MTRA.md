@@ -67,11 +67,11 @@ subtitle: for all marine transportation students
 | 56. | {% task 2D7F, 2.7.F %} | BRM Condition II Navigation and collision avoidance | {% assessment OICNW-2-3G %} in {% course MT-4253 %} |
 | 57. | {% task 2D7G, 2.7.G %} | BRM Condition III establish a bridge team | {% assessment OICNW-2-3H %} in {% course MT-4253 %} |
 | 58. | {% task 3D1, 3.1 %} | Radar fundamentals | {% course MT-3122 %}|
-| 59. | {% task 3D2A, 3.2.A %} | Set up and maintain radar display | {% assessment OICNW-3-1A %} in {% course MT-3122 %} |
-| 60. | {% task 3D2B, 3.2.B %} | Switch display modes | {% assessment OICNW-3-1B %} in {% course MT-3122 %} |
-| 61. | {% task 3D3A, 3.3.A %} | Identify false echoes, sea return, racon and SART | {% assessment OICNW-3-1C %} in {% course MT-3122 %} |
+| 59. | {% task 3D2A, 3.2.A %} | Set up and maintain radar display | {% assessment OICNW-3-1A %} in {% course MT-2225 %} |
+| 60. | {% task 3D2B, 3.2.B %} | Switch display modes | {% assessment OICNW-3-1B %} in {% course MT-2225 %} |
+| 61. | {% task 3D3A, 3.3.A %} | Identify false echoes, sea return, racon and SART | {% assessment OICNW-3-1C %} in {% course MT-2225 %} |
 | 62. | {% task 3D4, 3.4 %} | Interpreting information from radar | {% course MT-3122 %}|
-| 63. | {% task 3D5A, 3.5.A %} | Set up and maintain an ARPA display ARPA | {% assessment OICNW-3-2A %} in {% course MT-3222 %} |
+| 63. | {% task 3D5A, 3.5.A %} | Set up and maintain an ARPA display ARPA | {% assessment OICNW-3-2A %} in {% course MT-2225 %} |
 | 64. | {% task 3D6, 3.6 %} | Use of radar and ARPA to maintain safety of navigation | {% course MT-3222 %}|
 | 65. | {% task 4D1, 4.1 %} | ECDIS Knowledge | {% course MT-3224 %}|
 | 66. | {% task 4D2, 4.2 %} | ECDIS Proficiency | {% course MT-3224 %}|

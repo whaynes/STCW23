@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-1H"
 subtitle: "Change course to control target DRM"
 category: "Deck"
 status: ""
-cnum: "MT-3122"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -51,7 +51,7 @@ Control the target vessels DRM by changing own ship’s course in accordance wit
 
 ### Location
 
-Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 

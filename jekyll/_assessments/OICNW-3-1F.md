@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-1F"
 subtitle: "Determine DRM, SRM, CPA, and TCPA"
 category: "Deck"
 status: ""
-cnum: "MT-3122"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -57,7 +57,7 @@ For each contact:
 
 ### Location
 
-Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 

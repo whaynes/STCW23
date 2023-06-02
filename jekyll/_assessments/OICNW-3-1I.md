@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-3-1I"
 subtitle: "Change speed to control target DRM"
 category: "Deck"
 status: ""
-cnum: "MT-3122"
+cnum: "MT-2225"
 ---
 ### Condition
 
@@ -51,7 +51,7 @@ Control the target vessels DRM by changing own ship’s speed in accordance with
 
 ### Location
 
-Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
+Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 

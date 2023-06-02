@@ -1729,7 +1729,7 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Watch relief</Method_Name>
-<status pos="1"/>
+<status pos="1">moved</status>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -1976,7 +1976,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Set up and maintain radar display</Method_Name>
 <status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1A %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1A %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D2B</taskNo>
@@ -1989,7 +1989,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Switch display modes</Method_Name>
 <status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1B %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1B %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D3A</taskNo>
@@ -2002,7 +2002,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Identify false echoes, sea return, racons and SARTs</Method_Name>
 <status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1C %} in {% course MT-3122 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-1C %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D4</taskNo>
@@ -2027,7 +2027,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Set up and maintain an ARPA display</Method_Name>
 <status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-2A %} in {% course MT-3222 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-3-2A %} in {% course MT-2225 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D6</taskNo>
@@ -6294,7 +6294,7 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Watch relief</Method_Name>
-<status pos="1"/>
+<status pos="1">moved</status>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-2A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>

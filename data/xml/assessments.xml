@@ -141,16 +141,16 @@
 <assessment number="OICNW-2-3H" name="BRM Condition III – establish a bridge team" category="Deck" status="" cnum="MT-4253">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1A" name="Set up and maintain radar display" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1A" name="Set up and maintain radar display" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1B" name="Switch display modes" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1B" name="Switch display modes" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1C" name="Identify false echoes, sea return, racons and SARTs" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1C" name="Identify false echoes, sea return, racons and SARTs" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2A" name="Set up and maintain an ARPA display" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2A" name="Set up and maintain an ARPA display" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
 <assessment number="OICNW-4-1A" name="Flashing Light" category="Deck" status="" cnum="MT-4253">
@@ -525,64 +525,64 @@
 <assessment number="ABD-4J9A3" name="Marlinspike seamanship - splicing" category="Deck" status="" cnum="MT-2231">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1D" name="Determine range and bearing" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1D" name="Determine range and bearing" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1E" name="Determine risk of collision" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-1E" name="Determine risk of collision" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1F" name="Determine DRM, SRM, CPA, and TCPA" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1F" name="Determine DRM, SRM, CPA, and TCPA" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1G" name="Detect speed and course changes of other ships" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1G" name="Detect speed and course changes of other ships" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1H" name="Change course to control target DRM" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1H" name="Change course to control target DRM" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1I" name="Change speed to control target DRM" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1I" name="Change speed to control target DRM" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1J" name="Determine true course and speed of target vessels" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1J" name="Determine true course and speed of target vessels" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-1K" name="Parallel indexing" category="Deck" status="" cnum="MT-3122">
+<assessment number="OICNW-3-1K" name="Parallel indexing" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2B" name="Manual target acquisition" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2B" name="Manual target acquisition" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2C" name="Establish an exclusion area" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2C" name="Establish an exclusion area" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2D" name="Set vector characteristics" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2D" name="Set vector characteristics" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2E" name="Designate targets" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2E" name="Designate targets" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2F" name="Cancel targets" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2F" name="Cancel targets" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2G" name="Target history" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2G" name="Target history" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2H" name="Establish CPA and TCPA" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2H" name="Establish CPA and TCPA" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2I" name="Establish alarm area" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2I" name="Establish alarm area" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2J" name="Trial Maneuver" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2J" name="Trial Maneuver" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2K" name="Switch stabilization modes" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2K" name="Switch stabilization modes" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2L" name="Navigation lines" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2L" name="Navigation lines" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-3-2M" name="Determine set and drift" category="Deck" status="" cnum="MT-3222">
+<assessment number="OICNW-3-2M" name="Determine set and drift" category="Deck" status="" cnum="MT-2225">
 <markdown/>
 </assessment>
 <assessment number="ABD-4J9A4" name="Marlinspike seamanship - line handling" category="Deck" status="" cnum="MT-2231">
