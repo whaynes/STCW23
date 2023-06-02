@@ -20,21 +20,22 @@ None
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
+* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Hatches, watertight doors, ports, and related equipment*
+* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Hatches and hatch covers*
+* {% table 25.html#ABD-D1.1, ABD-D1.1 %} *Ability to use painting, lubrication and cleaning materials and equipment*
+* {% table 25.html#ABD-D1.2, ABD-D1.2 %} *Ability to understand and execute routine maintenance and repair procedures*
+* {% table 25.html#ABD-D1.3, ABD-D1.3 %} *Knowledge of surface preparation techniques*
+* {% table 25.html#ABD-D1.4, ABD-D1.4 %} *Understanding manufacturer’s safety guidelines and shipboard instructions*
+* {% table 25.html#ABD-D1.5, ABD-D1.5 %} *Knowledge of safe disposal of waste materials*
 * {% table 35.html#ABE-A8.1, ABE-A8.1 %} *Safe operation of hatches, watertight doors, ports and related equipment*
-* {% table 35.html#ABE-B1.1, ABE-B1.1 %} *Ability to use painting materials and equipment*
 * {% table 35.html#ABE-B1.1, ABE-B1.1 %} *Ability to use cleaning materials and equipment*
+* {% table 35.html#ABE-B1.1, ABE-B1.1 %} *Ability to use painting materials and equipment*
 * {% table 35.html#ABE-B1.2, ABE-B1.2 %} *Ability to understand and execute routine maintenance and repair procedures*
 * {% table 35.html#ABE-B1.3, ABE-B1.3 %} *Knowledge of surface preparation techniques*
 * {% table 35.html#ABE-B1.4, ABE-B1.4 %} *Knowledge of safe disposal of waste materials*
 * {% table 35.html#ABE-B1.5, ABE-B1.5 %} *Understanding manufacturer’s safety guidelines and shipboard instructions*
 * {% table 35.html#ABE-C1.1, ABE-C1.1 %} *Knowledge of procedures for safe handling, stowage and securing of stores*
-* {% table 25.html#ABD-D1.5, ABD-D1.5 %} *Knowledge of safe disposal of waste materials*
-* {% table 25.html#ABD-D1.4, ABD-D1.4 %} *Understanding manufacturer’s safety guidelines and shipboard instructions*
-* {% table 25.html#ABD-D1.3, ABD-D1.3 %} *Knowledge of surface preparation techniques*
-* {% table 25.html#ABD-D1.2, ABD-D1.2 %} *Ability to understand and execute routine maintenance and repair procedures*
-* {% table 25.html#ABD-D1.1, ABD-D1.1 %} *Ability to use painting, lubrication and cleaning materials and equipment*
-* {% table 25.html#ABD-C1.3, ABD-C1.3 %} *Hatches and hatch covers*
-* {% table 25.html#ABD-C1.1, ABD-C1.1 %} *Hatches, watertight doors, ports, and related equipment*
+
 
 
 ### Topics

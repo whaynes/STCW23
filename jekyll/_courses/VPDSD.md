@@ -45,6 +45,7 @@ This course is open to all shipboard personnel who are likely to be designated a
 * {% table 662.html#VPDSD-X4.2, VPDSD-X4.2 %} *Knowledge of the need for testing, calibrating, and maintaining security systems and equipment, particularly whilst at sea*
 
 
+
 ### Topics
 
 1.	Introduction and Orientation

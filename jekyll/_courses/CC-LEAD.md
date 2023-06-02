@@ -17,17 +17,18 @@ This course consists of five 1-hour lectures.
 
 **Demonstrate knowledge and understanding of the following STCW elements:**
 
+* {% table 21.html#OICNW-C7.1, OICNW-C7.1 %} *Working knowledge of shipboard personnel management and training*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Personnel assignment*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Planning and co-ordination*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Prioritization*
+* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Time and resource constraints*
 * {% table 31.html#OICEW-D7.1, OICEW-D7.1 %} *Working knowledge of shipboard personnel management and training*
 * {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Ability to apply task and workload management*
-* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Planning and co-ordination*
 * {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Personnel assignment*
-* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Time and resource constraints*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Planning and co-ordination*
 * {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Prioritization*
-* {% table 21.html#OICNW-C7.1, OICNW-C7.1 %} *Working knowledge of shipboard personnel management and training*
-* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Planning and co-ordination*
-* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Personnel assignment*
-* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Time and resource constraints*
-* {% table 21.html#OICNW-C7.3, OICNW-C7.3 %} *Prioritization*
+* {% table 31.html#OICEW-D7.3, OICEW-D7.3 %} *Time and resource constraints*
+
 
 
 ### Topics
