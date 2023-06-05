@@ -3,8 +3,8 @@ number: "OICNW-3-2D"
 title: "MMA Assessment OICNW-3-2D"
 subtitle: "Set vector characteristics"
 category: "Deck"
-status: ""
-cnum: "MT-2225"
+status: "removed"
+cnum: "MT-3222"
 ---
 ### Condition
 
@@ -49,7 +49,7 @@ Switches between true and relative vectors and changes the length of the vectors
 
 ### Location
 
-Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
+Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 

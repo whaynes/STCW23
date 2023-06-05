@@ -3,8 +3,8 @@ number: "OICNW-3-1J"
 title: "MMA Assessment OICNW-3-1J"
 subtitle: "Determine true course and speed of target vessels"
 category: "Deck"
-status: ""
-cnum: "MT-2225"
+status: "removed"
+cnum: "MT-3122"
 ---
 ### Condition
 
@@ -53,7 +53,7 @@ For each contact:
 
 ### Location
 
-Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
+Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 

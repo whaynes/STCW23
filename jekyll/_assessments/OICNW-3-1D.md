@@ -3,8 +3,8 @@ number: "OICNW-3-1D"
 title: "MMA Assessment OICNW-3-1D"
 subtitle: "Determine range and bearing"
 category: "Deck"
-status: ""
-cnum: "MT-2225"
+status: "removed"
+cnum: "MT-3122"
 ---
 ### Condition
 
@@ -51,7 +51,7 @@ Determine the range and bearing to an object.
 
 ### Location
 
-Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
+Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
 

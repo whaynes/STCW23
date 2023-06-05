@@ -57,7 +57,7 @@ subtitle: for all marine transportation students
 | 46. | {% task 2D3B, 2.3.B %} | Voyage Planning - Planning | {% assessment OICNW-2D3B %} in {% course MT-4253 %} |
 | 47. | {% task 2D3C, 2.3.C %} | Execute a voyage plan | {% assessment OICNW-2-3B %} in {% course MT-4133 %} |
 | 48. | {% task 2D4A, 2.4.A %} | Situational awareness | {% assessment OICNW-2D4A %} in {% course MT-4253 %} |
-| 49. | {% task 2D5A, 2.5.A %} | Navigate in restricted visibility | {% assessment OICNW-2-2E %} in {% course MT-4133 %} |
+| 49. | {% task 2D5A, 2.5.A %} | Navigate in restricted visibility | {% assessment OICNW-2-2E %} in {% course MT-2225 %} |
 | 50. | {% task 2D6A, 2.6.A %} | Vessel Traffic System (VTS) | {% assessment OICNW-2D6A %} in {% course MT-4253 %} |
 | 51. | {% task 2D7A, 2.7.A %} | Recognition of watch condition | {% assessment OICNW-2-3C %} in {% course MT-4253 %} |
 | 52. | {% task 2D7B, 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4253 %} |

@@ -3,8 +3,8 @@ number: "OICNW-3-2J"
 title: "MMA Assessment OICNW-3-2J"
 subtitle: "Trial Maneuver"
 category: "Deck"
-status: ""
-cnum: "MT-2225"
+status: "removed"
+cnum: "MT-3222"
 ---
 ### Condition
 
@@ -54,7 +54,7 @@ Demonstrate the trial maneuver function.
 
 ### Location
 
-Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
+Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 

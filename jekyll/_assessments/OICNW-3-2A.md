@@ -3,7 +3,7 @@ number: "OICNW-3-2A"
 title: "MMA Assessment OICNW-3-2A"
 subtitle: "Set up and maintain an ARPA display"
 category: "Deck"
-status: ""
+status: "moved"
 cnum: "MT-2225"
 ---
 ### Condition
@@ -41,7 +41,7 @@ Within three minutes,
 1. Turn the power on;
 2. Initialize performance monitor;
 3. Note error messages;
-4. Switche from standby to on;
+4. Switch from standby to on;
 5. Selecte the appropriate scale;
 6. Adjust the gain control so that targets and sea return appeared;
 7. Adjust the tune control (if the unit is not self tuning);

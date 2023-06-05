@@ -3,7 +3,7 @@ number: "OICNW-3-1A"
 title: "MMA Assessment OICNW-3-1A"
 subtitle: "Set up and maintain radar display"
 category: "Deck"
-status: ""
+status: "moved"
 cnum: "MT-2225"
 ---
 ### Condition

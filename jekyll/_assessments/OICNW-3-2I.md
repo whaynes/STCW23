@@ -3,8 +3,8 @@ number: "OICNW-3-2I"
 title: "MMA Assessment OICNW-3-2I"
 subtitle: "Establish alarm area"
 category: "Deck"
-status: ""
-cnum: "MT-2225"
+status: "removed"
+cnum: "MT-3222"
 ---
 ### Condition
 
@@ -49,7 +49,7 @@ Establish an alarm area with an outer guard ring of 8 nm and an inner guard ring
 
 ### Location
 
-Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
+Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 

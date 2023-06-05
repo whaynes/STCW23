@@ -3,7 +3,7 @@ number: "OICNW-3-1C"
 title: "MMA Assessment OICNW-3-1C"
 subtitle: "Identify false echoes, sea return, racons and SARTs"
 category: "Deck"
-status: ""
+status: "moved"
 cnum: "MT-2225"
 ---
 ### Condition

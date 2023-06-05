@@ -3,8 +3,8 @@ number: "OICNW-3-2H"
 title: "MMA Assessment OICNW-3-2H"
 subtitle: "Establish CPA and TCPA"
 category: "Deck"
-status: ""
-cnum: "MT-2225"
+status: "removed"
+cnum: "MT-3222"
 ---
 ### Condition
 
@@ -52,7 +52,7 @@ Establish the CPA and TCPA for dangerous targets.
 
 ### Location
 
-Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
+Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
 

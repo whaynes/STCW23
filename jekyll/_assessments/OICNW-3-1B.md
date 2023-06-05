@@ -3,7 +3,7 @@ number: "OICNW-3-1B"
 title: "MMA Assessment OICNW-3-1B"
 subtitle: "Switch display modes"
 category: "Deck"
-status: ""
+status: "moved"
 cnum: "MT-2225"
 ---
 ### Condition
