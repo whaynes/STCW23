@@ -3,8 +3,8 @@ number: "RFPNW-3K4A"
 title: "MMA Assessment RFPNW-3K4A"
 subtitle: "Relief of the lookout"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-2371"
 ---
 ### Condition
 
@@ -59,7 +59,7 @@ Report: “The lookout is relieved.” to the officer on watch.
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
 

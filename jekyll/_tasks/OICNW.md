@@ -19,7 +19,7 @@ subtitle: officer in charge of a navigation watch
 | 7. | {% task 1D2A, 1.2.A %} | Position fix by two bearings | {% assessment OICNW-1-2A %} in {% course MT-2225 %} |
 | 8. | {% task 1D2B, 1.2.B %} | Plot DR position | {% assessment OICNW-1-2D %} in {% course MT-2121 %} |
 | 9. | {% task 1D2C, 1.2.C %} | Determine the course to steer | {% assessment OICNW-1-2E %} in {% course MT-2121 %} |
-| 10. | {% task 1D3A, 1.3.A %} | Correction of charts and publications | {% assessment OICNW-1-3A %} in {% course MT-4253 %} |
+| 10. | {% task 1D3A, 1.3.A %} | Correction of charts and publications | {% assessment OICNW-1-3A %} in {% course MT-4371 %} |
 | 11. | {% task 1D3B, 1.3.B %} | Chart selection | {% assessment OICNW-1-3B %} in {% course MT-4371 %} |
 | 12. | {% task 1D3C, 1.3.C %} | Route planning | {% assessment OICNW-1-3C %} in {% course MT-4371 %} |
 | 13. | {% task 1D4A, 1.4.A %} | Position fix by two ranges | {% assessment OICNW-1-2B %} in {% course MT-2225 %} |
@@ -54,19 +54,19 @@ subtitle: officer in charge of a navigation watch
 | 42. | {% task 2D2C, 2.2.C %} | Notify Master when appropriate | {% assessment OICNW-2-2C %} in {% course MT-4133 %} |
 | 43. | {% task 2D2D, 2.2.D %} | Keep a safe anchor watch | {% assessment OICNW-2-2D %} in {% course MT-4133 %} |
 | 44. | {% task 2D2E, 2.2.E %} | Turn over a watch | {% assessment OICNW-2-2F %} in {% course MT-4371 %} |
-| 45. | {% task 2D3A, 2.3.A %} | Voyage Planning - Appraisal | {% assessment OICNW-2-3A %} in {% course MT-4133 %} |
-| 46. | {% task 2D3B, 2.3.B %} | Voyage Planning - Planning | {% assessment OICNW-2D3B %} in {% course MT-4253 %} |
+| 45. | {% task 2D3A, 2.3.A %} | Voyage Planning - Appraisal | {% assessment OICNW-2-3A %} in {% course MT-2371 %} |
+| 46. | {% task 2D3B, 2.3.B %} | Voyage Planning - Planning | {% assessment OICNW-2D3B %} in {% course MT-2371 %} |
 | 47. | {% task 2D3C, 2.3.C %} | Execute a voyage plan | {% assessment OICNW-2-3B %} in {% course MT-4133 %} |
-| 48. | {% task 2D4A, 2.4.A %} | Situational awareness | {% assessment OICNW-2D4A %} in {% course MT-4253 %} |
+| 48. | {% task 2D4A, 2.4.A %} | Situational awareness | {% assessment OICNW-2D4A %} in {% course MT-4133 %} |
 | 49. | {% task 2D5A, 2.5.A %} | Navigate in restricted visibility | {% assessment OICNW-2-2E %} in {% course MT-2225 %} |
-| 50. | {% task 2D6A, 2.6.A %} | Vessel Traffic System (VTS) | {% assessment OICNW-2D6A %} in {% course MT-4253 %} |
-| 51. | {% task 2D7A, 2.7.A %} | Recognition of watch condition | {% assessment OICNW-2-3C %} in {% course MT-4253 %} |
-| 52. | {% task 2D7B, 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4253 %} |
-| 53. | {% task 2D7C, 2.7.C %} | BRM Condition III Navigation | {% assessment OICNW-2-3E %} in {% course MT-4253 %} |
-| 54. | {% task 2D7D, 2.7.D %} | BRM Condition II or III – error trapping | {% assessment OICNW-2-3F %} in {% course MT-4253 %} |
-| 55. | {% task 2D7E, 2.7.E %} | BRM Condition II or III - prioritization | {% assessment OICNW-2D7E %} in {% course MT-4253 %} |
-| 56. | {% task 2D7F, 2.7.F %} | BRM Condition II Navigation and collision avoidance | {% assessment OICNW-2-3G %} in {% course MT-4253 %} |
-| 57. | {% task 2D7G, 2.7.G %} | BRM Condition III establish a bridge team | {% assessment OICNW-2-3H %} in {% course MT-4253 %} |
+| 50. | {% task 2D6A, 2.6.A %} | Vessel Traffic System (VTS) | {% assessment OICNW-2D6A %} in {% course MT-4133 %} |
+| 51. | {% task 2D7A, 2.7.A %} | Recognition of watch condition | {% assessment OICNW-2-3C %} in {% course MT-4133 %} |
+| 52. | {% task 2D7B, 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4133 %} |
+| 53. | {% task 2D7C, 2.7.C %} | BRM Condition III Navigation | {% assessment OICNW-2-3E %} in {% course MT-4133 %} |
+| 54. | {% task 2D7D, 2.7.D %} | BRM Condition II or III – error trapping | {% assessment OICNW-2-3F %} in {% course MT-4133 %} |
+| 55. | {% task 2D7E, 2.7.E %} | BRM Condition II or III - prioritization | {% assessment OICNW-2D7E %} in {% course MT-3151 %} |
+| 56. | {% task 2D7F, 2.7.F %} | BRM Condition II Navigation and collision avoidance | {% assessment OICNW-2-3G %} in {% course MT-4133 %} |
+| 57. | {% task 2D7G, 2.7.G %} | BRM Condition III establish a bridge team | {% assessment OICNW-2-3H %} in {% course MT-4133 %} |
 | 58. | {% task 3D1, 3.1 %} | Radar fundamentals | {% course MT-2225 %}|
 | 59. | {% task 3D2A, 3.2.A %} | Set up and maintain radar display | {% assessment OICNW-3-1A %} in {% course MT-2225 %} |
 | 60. | {% task 3D2B, 3.2.B %} | Switch display modes | {% assessment OICNW-3-1B %} in {% course MT-2225 %} |

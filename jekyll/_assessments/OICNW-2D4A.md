@@ -3,8 +3,8 @@ number: "OICNW-2D4A"
 title: "MMA Assessment OICNW-2D4A"
 subtitle: "Situational awareness"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -59,7 +59,7 @@ maintain situational awareness with regard to:
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.4, OICNW-A2.4 %}
 

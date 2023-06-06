@@ -3,8 +3,8 @@ number: "RFPNW-1K"
 title: "MMA Assessment RFPNW-1K"
 subtitle: "Helmsman"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-2371"
 ---
 ### Condition
 
@@ -273,7 +273,7 @@ Carry out the helm command, *Nothing to the right (starboard)*  See **Note  3**.
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
 

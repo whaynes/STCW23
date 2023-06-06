@@ -3,8 +3,8 @@ number: "OICNW-2D6A"
 title: "MMA Assessment OICNW-2D6A"
 subtitle: "Vessel traffic systems (VTS)"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -53,7 +53,7 @@ establish and maintain communication with a Vessel Traffic System (VTS).
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.6, OICNW-A2.6 %}
 

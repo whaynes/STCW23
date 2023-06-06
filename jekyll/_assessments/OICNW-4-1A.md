@@ -3,7 +3,7 @@ number: "OICNW-4-1A"
 title: "MMA Assessment OICNW-4-1A"
 subtitle: "Flashing Light"
 category: "Deck"
-status: ""
+status: "moved"
 cnum: "MT-4253"
 ---
 ### Condition

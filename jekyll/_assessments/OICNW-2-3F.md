@@ -3,8 +3,8 @@ number: "OICNW-2-3F"
 title: "MMA Assessment OICNW-2-3F"
 subtitle: "BRM Condition II or III – error trapping"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -56,7 +56,7 @@ The misinformation or command error was detected within time to prevent placing 
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
 

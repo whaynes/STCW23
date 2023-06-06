@@ -3,8 +3,8 @@ number: "RFPNW-3K4B"
 title: "MMA Assessment RFPNW-3K4B"
 subtitle: "Relief of the helmsman"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-2371"
 ---
 ### Condition
 
@@ -56,7 +56,7 @@ hand over the helm in accordance with the ordinary practice of good seamanship.
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
 

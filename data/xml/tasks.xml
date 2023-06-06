@@ -1346,8 +1346,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Correction of charts and publications</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-3A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-1-3A %} in {% course MT-4371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1D3B</taskNo>
@@ -1795,7 +1795,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - appraisal</Method_Name>
 <status pos="1">moved</status>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3A %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D3B</taskNo>
@@ -1807,8 +1807,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Voyage plan - preparation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D3B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D3B %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D3C</taskNo>
@@ -1833,8 +1833,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Situational awareness</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D4A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D4A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D5A</taskNo>
@@ -1859,8 +1859,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Vessel traffic systems (VTS)</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D6A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D6A %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7A</taskNo>
@@ -1872,8 +1872,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Watch augmentation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3C %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3C %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7B</taskNo>
@@ -1885,8 +1885,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition III – collision avoidance.</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3D %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3D %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7C</taskNo>
@@ -1898,8 +1898,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition III – navigation</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3E %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7D</taskNo>
@@ -1911,8 +1911,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III – error trapping</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3F %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3F %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7E</taskNo>
@@ -1924,8 +1924,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III - prioritization</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D7E %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D7E %} in {% course MT-3151 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7F</taskNo>
@@ -1937,8 +1937,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III – navigation and collision avoidance</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3G %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3G %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7G</taskNo>
@@ -1950,8 +1950,8 @@
 <Table_Name pos="1">officer in charge of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition III – establish a bridge team</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3H %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2-3H %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3D1</taskNo>
@@ -2148,7 +2148,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Electronic Navigation</Method_Name>
 <Method_Name pos="2">Flashing Light</Method_Name>
-<status pos="1"/>
+<status pos="1">moved</status>
 <mmd_link_to_this_assessment pos="1">{% assessment OICNW-4-1A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_course pos="1">{% course MT-3221 %}</mmd_link_to_this_course>
 </RECORD>
@@ -5564,7 +5564,7 @@ MTRA</Major>
 <Table_Name pos="1">able seafarer deck</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Trace out and describe a piping system</Method_Name>
-<status pos="1"/>
+<status pos="1">moved</status>
 <mmd_link_to_this_assessment pos="1">{% assessment ABD-4J11A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
@@ -5986,8 +5986,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K1B</taskNo>
@@ -5999,8 +5999,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K1C</taskNo>
@@ -6025,8 +6025,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2B</taskNo>
@@ -6038,8 +6038,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2C</taskNo>
@@ -6051,8 +6051,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2D</taskNo>
@@ -6064,8 +6064,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2E</taskNo>
@@ -6077,8 +6077,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2F</taskNo>
@@ -6090,8 +6090,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2G</taskNo>
@@ -6103,8 +6103,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2H</taskNo>
@@ -6116,8 +6116,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K2I</taskNo>
@@ -6129,8 +6129,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-1K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">1K3A</taskNo>
@@ -6168,8 +6168,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Lookout</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2K1B</taskNo>
@@ -6181,8 +6181,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Lookout</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2K1C</taskNo>
@@ -6194,8 +6194,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Lookout</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-2K %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3K1A</taskNo>
@@ -6255,8 +6255,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Relief of the lookout</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-3K4A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-3K4A %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3K4B</taskNo>
@@ -6268,8 +6268,8 @@ MTRA</Major>
 <Table_Name pos="1">ratings forming part of a navigation watch</Table_Name>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Relief of the helmsman</Method_Name>
-<status pos="1"/>
-<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-3K4B %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<status pos="1">moved</status>
+<mmd_link_to_this_assessment pos="1">{% assessment RFPNW-3K4B %} in {% course MT-2371 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">3K5A</taskNo>

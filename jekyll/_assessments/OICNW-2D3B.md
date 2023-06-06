@@ -3,8 +3,8 @@ number: "OICNW-2D3B"
 title: "MMA Assessment OICNW-2D3B"
 subtitle: "Voyage plan - preparation"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-2371"
 ---
 ### Condition
 
@@ -61,7 +61,7 @@ Prepare a safe and environmentally sound voyage plan, taking into account paragr
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
 

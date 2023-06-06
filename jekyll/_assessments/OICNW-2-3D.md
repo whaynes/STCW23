@@ -3,8 +3,8 @@ number: "OICNW-2-3D"
 title: "MMA Assessment OICNW-2-3D"
 subtitle: "BRM Condition III – collision avoidance."
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -55,7 +55,7 @@ Identify all vessels (targets) posing a risk or danger of collision, and provide
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
 

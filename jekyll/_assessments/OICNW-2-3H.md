@@ -3,8 +3,8 @@ number: "OICNW-2-3H"
 title: "MMA Assessment OICNW-2-3H"
 subtitle: "BRM Condition III – establish a bridge team"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -56,7 +56,7 @@ Officers were assigned to the following tasks:
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
 

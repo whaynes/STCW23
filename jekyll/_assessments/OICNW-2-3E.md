@@ -3,8 +3,8 @@ number: "OICNW-2-3E"
 title: "MMA Assessment OICNW-2-3E"
 subtitle: "BRM Condition III – navigation"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-4133"
 ---
 ### Condition
 
@@ -56,7 +56,7 @@ Determine and plot the vessel’s position by electronic and visual means, commu
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
 

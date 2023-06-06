@@ -4,7 +4,7 @@ title: "MMA Assessment OICNW-2-3A"
 subtitle: "Voyage plan - appraisal"
 category: "Deck"
 status: "moved"
-cnum: "MT-4133"
+cnum: "MT-2371"
 ---
 ### Condition
 
@@ -66,7 +66,7 @@ collect and consider:
 
 ### Location
 
-Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
+Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
 

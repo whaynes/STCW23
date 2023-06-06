@@ -39,7 +39,7 @@
 <assessment number="OICNW-1-2E" name="Determine course to steer" category="Deck" status="" cnum="MT-2121">
 <markdown/>
 </assessment>
-<assessment number="OICNW-1-3A" name="Correction of charts and publications" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-1-3A" name="Correction of charts and publications" category="Deck" status="moved" cnum="MT-4371">
 <markdown/>
 </assessment>
 <assessment number="OICNW-1-3B" name="Chart selection" category="Deck" status="" cnum="MT-4371">
@@ -117,28 +117,28 @@
 <assessment number="OICNW-2-2F" name="Turn over a watch" category="Deck" status="moved" cnum="MT-4371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3A" name="Voyage plan - appraisal" category="Deck" status="moved" cnum="MT-4133">
+<assessment number="OICNW-2-3A" name="Voyage plan - appraisal" category="Deck" status="moved" cnum="MT-2371">
 <markdown/>
 </assessment>
 <assessment number="OICNW-2-3B" name="Voyage plan - execution" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3C" name="Watch augmentation" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3C" name="Watch augmentation" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3D" name="BRM Condition III – collision avoidance." category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3D" name="BRM Condition III – collision avoidance." category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3E" name="BRM Condition III – navigation" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3E" name="BRM Condition III – navigation" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3F" name="BRM Condition II or III – error trapping" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3F" name="BRM Condition II or III – error trapping" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3G" name="BRM Condition II or III – navigation and collision avoidance" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3G" name="BRM Condition II or III – navigation and collision avoidance" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2-3H" name="BRM Condition III – establish a bridge team" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2-3H" name="BRM Condition III – establish a bridge team" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
 <assessment number="OICNW-3-1A" name="Set up and maintain radar display" category="Deck" status="moved" cnum="MT-2225">
@@ -153,7 +153,7 @@
 <assessment number="OICNW-3-2A" name="Set up and maintain an ARPA display" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-4-1A" name="Flashing Light" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-4-1A" name="Flashing Light" category="Deck" status="moved" cnum="MT-4253">
 <markdown/>
 </assessment>
 <assessment number="OICNW-5-1A" name="Maneuver for man overboard" category="Deck" status="" cnum="MT-4133">
@@ -483,16 +483,16 @@
 <assessment number="OICNW-2D1E" name="Maneuver to avoid risk of collision - crossing" category="Deck" status="moved" cnum="MT-2225">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D3B" name="Voyage plan - preparation" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2D3B" name="Voyage plan - preparation" category="Deck" status="moved" cnum="MT-2371">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D4A" name="Situational awareness" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2D4A" name="Situational awareness" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D6A" name="Vessel traffic systems (VTS)" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2D6A" name="Vessel traffic systems (VTS)" category="Deck" status="moved" cnum="MT-4133">
 <markdown/>
 </assessment>
-<assessment number="OICNW-2D7E" name="BRM Condition II or III - prioritization" category="Deck" status="" cnum="MT-4253">
+<assessment number="OICNW-2D7E" name="BRM Condition II or III - prioritization" category="Deck" status="moved" cnum="MT-3151">
 <markdown/>
 </assessment>
 <assessment number="ABD-4J7A" name="Demonstrate rigging and unrigging a bosun's chair" category="Deck" status="" cnum="MT-2231">
@@ -501,22 +501,22 @@
 <assessment number="ABD-4J9A1" name="Marlinspike seamanship - knots I" category="Deck" status="" cnum="MT-1111">
 <markdown/>
 </assessment>
-<assessment number="ABD-4J11A" name="Trace out and describe a piping system" category="Deck" status="" cnum="MT-4253">
+<assessment number="ABD-4J11A" name="Trace out and describe a piping system" category="Deck" status="moved" cnum="MT-4253">
 <markdown/>
 </assessment>
 <assessment number="ABD-5J10B" name="Demonstrate use of a safety harness" category="Deck" status="" cnum="ST-0999D">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-1K" name="Helmsman" category="Deck" status="" cnum="MT-4253">
+<assessment number="RFPNW-1K" name="Helmsman" category="Deck" status="moved" cnum="MT-2371">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-3K4B" name="Relief of the helmsman" category="Deck" status="" cnum="MT-4253">
+<assessment number="RFPNW-3K4B" name="Relief of the helmsman" category="Deck" status="moved" cnum="MT-2371">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-2K" name="Lookout" category="Deck" status="" cnum="MT-4253">
+<assessment number="RFPNW-2K" name="Lookout" category="Deck" status="moved" cnum="MT-2371">
 <markdown/>
 </assessment>
-<assessment number="RFPNW-3K4A" name="Relief of the lookout" category="Deck" status="" cnum="MT-4253">
+<assessment number="RFPNW-3K4A" name="Relief of the lookout" category="Deck" status="moved" cnum="MT-2371">
 <markdown/>
 </assessment>
 <assessment number="ABD-4J9A2" name="Marlinspike seamanship - knots II" category="Deck" status="" cnum="MT-2231">

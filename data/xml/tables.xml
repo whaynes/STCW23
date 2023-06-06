@@ -68,8 +68,7 @@ Ability to determine the ship’s position by use of:
 <taskNo pos="2">1D3B</taskNo>
 <taskNo pos="3">1D3C</taskNo>
 <CourseNo pos="1">MT-2121</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
-<CourseNo pos="2">MT-4371</CourseNo>
+<CourseNo pos="1">MT-4371</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -295,8 +294,8 @@ Thorough knowledge of the content, application and intent of the International R
 <taskNo pos="2">2D3B</taskNo>
 <taskNo pos="3">2D3C</taskNo>
 <CourseNo pos="1">MT-4371</CourseNo>
-<CourseNo pos="1">MT-4133</CourseNo>
-<CourseNo pos="2">MT-4253</CourseNo>
+<CourseNo pos="1">MT-2371</CourseNo>
+<CourseNo pos="2">MT-4133</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -313,7 +312,7 @@ Thorough knowledge of the content, application and intent of the International R
 <kup pos="1">The use of information from navigational equipment for maintaining a safe navigational watch</kup>
 <taskNo pos="1">2D4A</taskNo>
 <CourseNo pos="1">MT-4133</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-4133</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -346,7 +345,7 @@ Thorough knowledge of the content, application and intent of the International R
 <kup pos="1">The use of reporting in accordance with the General Principles for Ship Reporting Systems and with VTS procedures</kup>
 <taskNo pos="1">2D6A</taskNo>
 <CourseNo pos="1">MT-4133</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-4133</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -378,7 +377,8 @@ Knowledge of bridge resource management principles, including:
 <taskNo pos="6">2D7F</taskNo>
 <taskNo pos="7">2D7G</taskNo>
 <CourseNo pos="1">MT-4133</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-3151</CourseNo>
+<CourseNo pos="2">MT-4133</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -1288,7 +1288,7 @@ Practical application of medical guides and advice by radio, including the abili
 <taskNo pos="8">1K2H</taskNo>
 <taskNo pos="9">1K2I</taskNo>
 <CourseNo pos="1">ST-0999D</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-2371</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/4</Table>
@@ -1324,7 +1324,7 @@ Practical application of medical guides and advice by radio, including the abili
 <taskNo pos="2">2K1B</taskNo>
 <taskNo pos="3">2K1C</taskNo>
 <CourseNo pos="1">MT-1111</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-2371</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/4</Table>
@@ -1391,7 +1391,7 @@ Practical application of medical guides and advice by radio, including the abili
 <taskNo pos="1">3K4A</taskNo>
 <taskNo pos="2">3K4B</taskNo>
 <CourseNo pos="1">MT-1111</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-2371</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/4</Table>

@@ -3,8 +3,8 @@ number: "OICNW-2D7E"
 title: "MMA Assessment OICNW-2D7E"
 subtitle: "BRM Condition II or III - prioritization"
 category: "Deck"
-status: ""
-cnum: "MT-4253"
+status: "moved"
+cnum: "MT-3151"
 ---
 ### Condition
 
@@ -58,7 +58,7 @@ determine the appropriate action to take.
 
 ### Location
 
-Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
+Assessed in  {% course  MT-3151 %}  *Dangerous Liquid Cargo*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
 
