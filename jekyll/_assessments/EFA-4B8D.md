@@ -5,6 +5,7 @@ subtitle: "Demonstrate preparing patient for spinal immobilization"
 category: "Common"
 status: ""
 cnum: "PE-0031"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ correctly demonstrate, in 10 minutes or less,  one or more generally accepted pr
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
+Reference: NVIC Task: {% task 4B3A  %}
 
 ***
 

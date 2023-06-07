@@ -5,6 +5,7 @@ subtitle: "Emergency stop"
 category: "Deck"
 status: ""
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ The candidate will, within the safe operating limits of the vessel’s propulsio
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
+
+Reference: NVIC Task: {% task 9D1A  %}
 
 ***
 

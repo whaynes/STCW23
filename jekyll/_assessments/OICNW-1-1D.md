@@ -5,6 +5,7 @@ subtitle: "Measure the altitude of the sun at meridian passage (local apparent n
 category: "Deck"
 status: ""
 cnum: "MT-4371"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ determine the altitude  within ± 1 minute of arc, after correction for index er
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
+
+Reference: NVIC Task: {% task 1D1A  %}
 
 ***
 

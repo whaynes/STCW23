@@ -5,6 +5,7 @@ subtitle: "Make emergency repairs"
 category: "Engine"
 status: ""
 cnum: "EN-1211"
+
 ---
 ### Condition
 
@@ -118,6 +119,8 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 This assessment supports KUP {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
+
+Reference: NVIC Task: {% task 8E2A  %}
 
 ***
 

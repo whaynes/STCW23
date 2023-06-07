@@ -5,6 +5,7 @@ subtitle: "Change over control systems"
 category: "Engine"
 status: ""
 cnum: "EN-3233"
+
 ---
 ### Condition
 
@@ -94,6 +95,8 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A1.2, OICEW-A1.2 %}
+
+Reference: NVIC Task: {% task 1E2A  %}
 
 ***
 

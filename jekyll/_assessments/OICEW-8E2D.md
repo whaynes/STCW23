@@ -5,6 +5,7 @@ subtitle: "Replace flange gasket"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -116,6 +117,8 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+
+Reference: NVIC Task: {% task 8E2B  %}
 
 ***
 

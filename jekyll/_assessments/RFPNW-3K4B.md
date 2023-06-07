@@ -5,6 +5,7 @@ subtitle: "Relief of the helmsman"
 category: "Deck"
 status: "moved"
 cnum: "MT-2371"
+
 ---
 ### Condition
 
@@ -59,6 +60,8 @@ hand over the helm in accordance with the ordinary practice of good seamanship.
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
+
+Reference: NVIC Task: {% task 3K4A  %}
 
 ***
 

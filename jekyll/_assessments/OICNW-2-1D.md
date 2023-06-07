@@ -5,6 +5,7 @@ subtitle: "Determine risk of collision"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ Determine if risk of collision exists with approaching meeting, crossing and ove
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
+
+Reference: NVIC Task: {% task 2D1A  %}
 
 ***
 

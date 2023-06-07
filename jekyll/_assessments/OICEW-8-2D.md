@@ -5,6 +5,7 @@ subtitle: "Inspect valve manifold"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -144,6 +145,8 @@ Prove joint leak free
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

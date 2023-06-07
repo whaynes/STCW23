@@ -5,6 +5,7 @@ subtitle: "Demonstrate bandaging technique for wound treatment"
 category: "Common"
 status: ""
 cnum: "PE-0031"
+
 ---
 ### Condition
 
@@ -59,6 +60,8 @@ select the appropriate bandage(s) and/or cravat, and demonstrate the bandaging t
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
+Reference: NVIC Task: {% task 4B3A  %}
 
 ***
 

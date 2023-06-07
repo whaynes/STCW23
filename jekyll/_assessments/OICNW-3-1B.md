@@ -5,6 +5,7 @@ subtitle: "Switch display modes"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ Within 15 seconds:
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+
+Reference: NVIC Task: {% task 3D2A  %}
 
 ***
 

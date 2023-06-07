@@ -5,6 +5,7 @@ subtitle: "Right an inverted liferaft"
 category: "Common"
 status: ""
 cnum: "PS-0301"
+
 ---
 ### Condition
 
@@ -53,6 +54,8 @@ Right an inverted liferaft while wearing a lifejacket.
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
 This assessment supports KUP {% table 611.html#PS-X1.5, PS-X1.5 %}
+
+Reference: NVIC Task: {% task 1B5A  %}
 
 ***
 

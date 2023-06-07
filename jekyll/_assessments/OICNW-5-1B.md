@@ -5,6 +5,7 @@ subtitle: "Course change of more than 45°"
 category: "Deck"
 status: ""
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ Order turning the vessel left or right more than 45° from the original heading.
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
+
+Reference: NVIC Task: {% task 9D1A  %}
 
 ***
 

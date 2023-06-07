@@ -5,6 +5,7 @@ subtitle: "Identify day shapes"
 category: "Deck"
 status: ""
 cnum: "MT-2161"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ The candidate correctly identifies the situation or occupation of 4 of 5 vessels
 Assessed in  {% course  MT-2161 %}  *Rules of the Road*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
+
+Reference: NVIC Task: {% task 2D1A  %}
 
 ***
 

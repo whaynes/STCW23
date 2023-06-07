@@ -5,6 +5,7 @@ subtitle: "Vessel traffic systems (VTS)"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ establish and maintain communication with a Vessel Traffic System (VTS).
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.6, OICNW-A2.6 %}
+
+Reference: NVIC Task: {% task 2D6A  %}
 
 ***
 

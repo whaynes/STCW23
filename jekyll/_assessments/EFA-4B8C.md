@@ -5,6 +5,7 @@ subtitle: "Demonstrate immobilizing a fracture using splints and ties"
 category: "Common"
 status: ""
 cnum: "PE-0031"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ correctly demonstrate,  in 10 minutes or less, the immobilization of a simple li
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
+Reference: NVIC Task: {% task 4B3A  %}
 
 ***
 

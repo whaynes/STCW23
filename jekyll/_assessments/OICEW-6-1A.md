@@ -5,6 +5,7 @@ subtitle: "Transfer fuel"
 category: "Engine"
 status: ""
 cnum: "EN-3131"
+
 ---
 ### Condition
 
@@ -134,6 +135,8 @@ Secure all valves
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 This assessment supports KUP {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
+
+Reference: NVIC Task: {% task 5E2A  %}
 
 ***
 

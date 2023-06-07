@@ -5,6 +5,7 @@ subtitle: "Don a lifejacket"
 category: "Common"
 status: ""
 cnum: "PS-0301"
+
 ---
 ### Condition
 
@@ -53,6 +54,8 @@ Don and secure a lifejacket.
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
 This assessment supports KUP {% table 611.html#PS-X1.4, PS-X1.4 %}
+
+Reference: NVIC Task: {% task 1B4A  %}
 
 ***
 

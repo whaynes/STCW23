@@ -5,6 +5,7 @@ subtitle: "Monitor engineering machinery"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -274,6 +275,8 @@ For each of the above positions, relieve and hand over the watch in accordance w
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 35.html#ABE-A5.2, ABE-A5.2 %}
+
+Reference: NVIC Task: {% task 2G2A  %}
 
 ***
 

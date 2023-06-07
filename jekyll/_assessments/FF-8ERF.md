@@ -5,6 +5,7 @@ subtitle: "Extinguish an engine room fire"
 category: "Common"
 status: ""
 cnum: "FF-0108"
+
 ---
 ### Condition
 
@@ -158,6 +159,8 @@ as part of a team or individually,
 Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 
 This assessment supports KUP {% table 63.html#AFF-X1.01, AFF-X1.01 %}
+
+Reference: NVIC Task: {% task 1F1A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Change speed to control target DRM"
 category: "Deck"
 status: "removed"
 cnum: "MT-3122"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ Control the target vessels DRM by changing own ship’s speed in accordance with
 Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+
+Reference: NVIC Task: {% task 3D2A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Assess and treat life-threatening conditions"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -57,6 +58,8 @@ assess and treat, within 1 minute, life-threatening conditions, including:
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.04, AFA-X1.04 %}
+
+Reference: NVIC Task: {% task 1M1A  %}
 
 ***
 

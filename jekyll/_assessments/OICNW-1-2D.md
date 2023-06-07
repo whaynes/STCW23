@@ -5,6 +5,7 @@ subtitle: "Plot the ship’s DR position"
 category: "Deck"
 status: ""
 cnum: "MT-2121"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ The position is within ± 1 nm of the assessor’s position.
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
+
+Reference: NVIC Task: {% task 1D2A  %}
 
 ***
 

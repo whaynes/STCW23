@@ -5,6 +5,7 @@ subtitle: "Demonstrate crane and hoist signals"
 category: "Common"
 status: ""
 cnum: "ST-0999D"
+
 ---
 ### Condition
 
@@ -60,6 +61,8 @@ Make no safety violations
 Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
 This assessment supports KUP {% table 25.html#ABD-C1.1, ABD-C1.1 %}
+
+Reference: NVIC Task: {% task 4J1A  %}
 
 ***
 

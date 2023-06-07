@@ -5,6 +5,7 @@ subtitle: "Start and operate survival craft engine"
 category: "Common"
 status: ""
 cnum: "LB-0201"
+
 ---
 ### Condition
 
@@ -59,6 +60,8 @@ Using an engine in an open or enclosed survival craft, or in the laboratory.
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 This assessment supports KUP {% table 621.html#SCRB-X2.1, SCRB-X2.1 %}
+
+Reference: NVIC Task: {% task 2C1A  %}
 
 ***
 

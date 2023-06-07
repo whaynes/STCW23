@@ -5,6 +5,7 @@ subtitle: "Determine gyro compass error by bearing of range"
 category: "Deck"
 status: ""
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ Take a visual bearing of the range and determine gyro-compass error.
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.06, OICNW-A1.06 %}
+
+Reference: NVIC Task: {% task 1D6A  %}
 
 ***
 

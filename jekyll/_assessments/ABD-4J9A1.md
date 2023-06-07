@@ -5,6 +5,7 @@ subtitle: "Marlinspike seamanship - knots I"
 category: "Deck"
 status: ""
 cnum: "MT-1111"
+
 ---
 ### Condition
 
@@ -57,6 +58,8 @@ tie these four knots within 10 minutes:
 Assessed in  {% course  MT-1111 %}  *Vessel Familiarization and Basic Safety Training*.
 
 This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+
+Reference: NVIC Task: {% task 4J7A  %}
 
 ***
 

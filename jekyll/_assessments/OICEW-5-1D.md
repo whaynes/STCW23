@@ -5,6 +5,7 @@ subtitle: "Start and secure air compressor"
 category: "Engine"
 status: ""
 cnum: "EN-2111"
+
 ---
 ### Condition
 
@@ -136,6 +137,8 @@ Leave compressor lined up to start
 Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

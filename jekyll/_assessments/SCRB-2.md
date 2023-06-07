@@ -5,6 +5,7 @@ subtitle: "Launch, board and recover survival craft."
 category: "Common"
 status: ""
 cnum: "LB-0201"
+
 ---
 ### Condition
 
@@ -59,6 +60,8 @@ Using an actual or training survival craft and launching apparatus.
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 This assessment supports KUP {% table 621.html#SCRB-X1.3, SCRB-X1.3 %}
+
+Reference: NVIC Task: {% task 1C3A  %}
 
 ***
 

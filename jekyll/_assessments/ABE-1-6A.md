@@ -5,6 +5,7 @@ subtitle: "Assist with fuel oil transfer"
 category: "Engine"
 status: ""
 cnum: "EN-1211"
+
 ---
 ### Condition
 
@@ -98,6 +99,8 @@ transfer fuel
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 This assessment supports KUP {% table 35.html#ABE-A6.1, ABE-A6.1 %}
+
+Reference: NVIC Task: {% task 3G1A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Determine magnetic compass error"
 category: "Deck"
 status: ""
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -55,6 +56,8 @@ Determine the magnetic compass error.
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
+
+Reference: NVIC Task: {% task 1D7A  %}
 
 ***
 

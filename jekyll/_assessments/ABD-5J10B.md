@@ -5,6 +5,7 @@ subtitle: "Demonstrate use of a safety harness"
 category: "Deck"
 status: ""
 cnum: "ST-0999D"
+
 ---
 ### Condition
 
@@ -55,6 +56,8 @@ demonstrate the proper use of a safety harness.
 Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
 This assessment supports KUP {% table 25.html#ABD-C2.1, ABD-C2.1 %}
+
+Reference: NVIC Task: {% task 5J1A  %}
 
 ***
 

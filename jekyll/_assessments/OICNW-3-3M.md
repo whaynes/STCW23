@@ -5,6 +5,7 @@ subtitle: "Modify Waypoints"
 category: "Deck"
 status: ""
 cnum: "MT-3224"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ Demonstrate within 30 seconds.
 Assessed in  {% course  MT-3224 %}  *Electronic Chart Display & Information System (ECDIS)*.
 
 This assessment supports KUP {% table 21.html#OICNW-A4.2, OICNW-A4.2 %}
+
+Reference: NVIC Task: {% task 4D2  %}
 
 ***
 

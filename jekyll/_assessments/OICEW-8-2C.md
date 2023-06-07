@@ -5,6 +5,7 @@ subtitle: "Gear pump maintenance"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -110,6 +111,8 @@ Replace and adjust seals/gaskets as necessary
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

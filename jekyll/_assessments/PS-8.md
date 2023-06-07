@@ -5,6 +5,7 @@ subtitle: "Use of lifeboat equipment"
 category: "Common"
 status: ""
 cnum: "LB-0201"
+
 ---
 ### Condition
 
@@ -57,6 +58,8 @@ Include:
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 This assessment supports KUP {% table 611.html#PS-X1.3, PS-X1.3 %}
+
+Reference: NVIC Task: {% task 1B3A  %}
 
 ***
 

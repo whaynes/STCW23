@@ -5,6 +5,7 @@ subtitle: "Jump from a height into the water"
 category: "Common"
 status: ""
 cnum: "PS-0301"
+
 ---
 ### Condition
 
@@ -57,6 +58,8 @@ When entering the water:
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
 This assessment supports KUP {% table 611.html#PS-X1.5, PS-X1.5 %}
+
+Reference: NVIC Task: {% task 1B5A  %}
 
 ***
 

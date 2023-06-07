@@ -5,6 +5,7 @@ subtitle: "Relief of the lookout"
 category: "Deck"
 status: "moved"
 cnum: "MT-2371"
+
 ---
 ### Condition
 
@@ -62,6 +63,8 @@ Report: “The lookout is relieved.” to the officer on watch.
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
+
+Reference: NVIC Task: {% task 3K4A  %}
 
 ***
 

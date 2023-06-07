@@ -5,6 +5,7 @@ subtitle: "Helmsman"
 category: "Deck"
 status: "moved"
 cnum: "MT-2371"
+
 ---
 ### Condition
 
@@ -276,6 +277,8 @@ Carry out the helm command, *Nothing to the right (starboard)*  See **Note  3**.
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
+
+Reference: NVIC Task: {% task 1K2A  %}
 
 ***
 

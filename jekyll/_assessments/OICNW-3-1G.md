@@ -5,6 +5,7 @@ subtitle: "Detect speed and course changes of other ships"
 category: "Deck"
 status: "removed"
 cnum: "MT-3122"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ Other ships’ speed changes of at least 5 knots and/or course changes of at lea
 Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+
+Reference: NVIC Task: {% task 3D2A  %}
 
 ***
 

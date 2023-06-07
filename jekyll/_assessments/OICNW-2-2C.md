@@ -5,6 +5,7 @@ subtitle: "Notify Master when appropriate"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -65,6 +66,8 @@ The master was notified immediately when one of the following occurred.
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+
+Reference: NVIC Task: {% task 2D2A  %}
 
 ***
 

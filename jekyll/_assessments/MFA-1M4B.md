@@ -5,6 +5,7 @@ subtitle: "Use a AED"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ c. stating the circumstances under which CPR may be terminated (victim revived, 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.12, AFA-X1.12 %}
+
+Reference: NVIC Task: {% task 1M4A  %}
 
 ***
 

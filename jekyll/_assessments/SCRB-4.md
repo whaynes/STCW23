@@ -5,6 +5,7 @@ subtitle: "Row and steer survival craft"
 category: "Common"
 status: ""
 cnum: "LB-0201"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ Using a open boat or enclosed lifeboat fitted for rowing.
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 This assessment supports KUP {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
+
+Reference: NVIC Task: {% task 3C1A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Immobilize a victim with a spinal injury"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -57,6 +58,8 @@ d. demonstrate securing the patient to a long spine board, securing the torso, t
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.05, AFA-X1.05 %}
+
+Reference: NVIC Task: {% task 1M2A  %}
 
 ***
 

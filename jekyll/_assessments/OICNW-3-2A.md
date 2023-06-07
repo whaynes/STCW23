@@ -5,6 +5,7 @@ subtitle: "Set up and maintain an ARPA display"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -65,6 +66,8 @@ Within three minutes,
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
+
+Reference: NVIC Task: {% task 3D6  %}
 
 ***
 

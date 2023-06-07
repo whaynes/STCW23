@@ -5,6 +5,7 @@ subtitle: "Secure main propulsion diesel engine"
 category: "Engine"
 status: "moved"
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -145,6 +146,8 @@ Secure
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

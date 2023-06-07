@@ -5,6 +5,7 @@ subtitle: "Set up and maintain radar display"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -60,6 +61,8 @@ Within three minutes after the power was turned on:
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+
+Reference: NVIC Task: {% task 3D2A  %}
 
 ***
 

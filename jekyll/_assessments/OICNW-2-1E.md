@@ -5,6 +5,7 @@ subtitle: "Maneuver to avoid risk of collision -- meeting"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -55,6 +56,8 @@ Apply the rules of the road correctly and maneuver the vessel to avoid the colli
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
+
+Reference: NVIC Task: {% task 2D1A  %}
 
 ***
 

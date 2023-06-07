@@ -5,6 +5,7 @@ subtitle: "Use of echo sounder"
 category: "Deck"
 status: ""
 cnum: "MT-4371"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ Turn on, test, and operate the echo sounder.
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.05, OICNW-A1.05 %}
+
+Reference: NVIC Task: {% task 1D5A  %}
 
 ***
 

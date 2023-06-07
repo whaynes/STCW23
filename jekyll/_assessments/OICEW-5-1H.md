@@ -5,6 +5,7 @@ subtitle: "Start fuel oil or lube oil purifier"
 category: "Engine"
 status: ""
 cnum: "EN-3233"
+
 ---
 ### Condition
 
@@ -125,6 +126,8 @@ Monitor:
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Voyage plan - appraisal"
 category: "Deck"
 status: "moved"
 cnum: "MT-2371"
+
 ---
 ### Condition
 
@@ -69,6 +70,8 @@ collect and consider:
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+
+Reference: NVIC Task: {% task 2D3A  %}
 
 ***
 

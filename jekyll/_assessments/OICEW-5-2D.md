@@ -5,6 +5,7 @@ subtitle: "Test and treat boiler water"
 category: "Engine"
 status: ""
 cnum: "EN-3131"
+
 ---
 ### Condition
 
@@ -123,6 +124,8 @@ Describe expected results
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+Reference: NVIC Task: {% task 4E2C  %}
 
 ***
 

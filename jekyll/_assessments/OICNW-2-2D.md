@@ -5,6 +5,7 @@ subtitle: "Keep a safe anchor watch"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -90,6 +91,8 @@ Report: “The watch has been relieved.” to the officer on watch.
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+
+Reference: NVIC Task: {% task 2D2A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Disassemble and reassemble an electric motor"
 category: "Engine"
 status: ""
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -92,6 +93,8 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-B2.1, OICEW-B2.1 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Inspect machinery spaces before assuming watch"
 category: "Engine"
 status: ""
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -341,6 +342,8 @@ Check:
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
+
+Reference: NVIC Task: {% task 1E1A  %}
 
 ***
 

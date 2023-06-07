@@ -5,6 +5,7 @@ subtitle: "Plan and use test equipment"
 category: "Engine"
 status: ""
 cnum: "EN-3111L"
+
 ---
 ### Condition
 
@@ -88,6 +89,8 @@ Read and interpret instrument displays correctly
 Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 This assessment supports KUP {% table 31.html#OICEW-B2.4, OICEW-B2.4 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

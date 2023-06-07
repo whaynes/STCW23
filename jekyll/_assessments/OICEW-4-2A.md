@@ -5,6 +5,7 @@ subtitle: "Respond to engine room alarms"
 category: "Engine"
 status: "moved & changed"
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -85,6 +86,8 @@ For each alarm that occurs:
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A1.3, OICEW-A1.3 %}
+
+Reference: NVIC Task: {% task 1E3A  %}
 
 ***
 

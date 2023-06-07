@@ -5,6 +5,7 @@ subtitle: "Marlinspike seamanship - splicing"
 category: "Deck"
 status: ""
 cnum: "MT-2231"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ splice an eye splice or short splice within 15 minutes.
 Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
 
 This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+
+Reference: NVIC Task: {% task 4J7A  %}
 
 ***
 

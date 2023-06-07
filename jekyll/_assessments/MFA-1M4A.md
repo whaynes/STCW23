@@ -5,6 +5,7 @@ subtitle: "Perform CPR"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -65,6 +66,8 @@ l. if pulse and breathing present, place victim in recovery position (on side).
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.12, AFA-X1.12 %}
+
+Reference: NVIC Task: {% task 1M4A  %}
 
 ***
 

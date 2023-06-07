@@ -5,6 +5,7 @@ subtitle: "Keep a safe navigation watch"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -74,6 +75,8 @@ Properly keep a safe navigational watch in accordance with STCW Code Section {% 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+
+Reference: NVIC Task: {% task 2D2A  %}
 
 ***
 

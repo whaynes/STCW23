@@ -5,6 +5,7 @@ subtitle: "Pre-start inspection of steam turbo-generator"
 category: "Engine"
 status: ""
 cnum: "EN-3233"
+
 ---
 ### Condition
 
@@ -100,6 +101,8 @@ Look for:
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

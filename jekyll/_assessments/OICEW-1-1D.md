@@ -5,6 +5,7 @@ subtitle: "Sweat joint"
 category: "Engine"
 status: ""
 cnum: "ST-0999E"
+
 ---
 ### Condition
 
@@ -95,6 +96,8 @@ Prove joint leak free
 Assessed in  {% course  ST-0999E %}  *Sea Term I (Engineering Portion)*.
 
 This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Dye-penetrant test"
 category: "Engine"
 status: ""
 cnum: "EN-2112"
+
 ---
 ### Condition
 
@@ -75,6 +76,8 @@ Identify visible defects such as:
 Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
 This assessment supports KUP {% table 31.html#OICEW-C1.2, OICEW-C1.2 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Monitor sewage waste treatment plant"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -117,6 +118,8 @@ State requirements for overboard discharge of waste
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-D1.2, OICEW-D1.2 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

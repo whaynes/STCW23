@@ -5,6 +5,7 @@ subtitle: "Centrifugal pump maintenance (packing)"
 category: "Engine"
 status: ""
 cnum: "EN-2111"
+
 ---
 ### Condition
 
@@ -151,6 +152,8 @@ Operate under load and inspect for abnormalities
 Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

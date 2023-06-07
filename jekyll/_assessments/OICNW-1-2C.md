@@ -5,6 +5,7 @@ subtitle: "Fix by tangent bearings of two identified objects"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ The position is within ± 1 nm of the assessor’s position.
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
+
+Reference: NVIC Task: {% task 1D2A  %}
 
 ***
 

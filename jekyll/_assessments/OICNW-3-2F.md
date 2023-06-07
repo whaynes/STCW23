@@ -5,6 +5,7 @@ subtitle: "Cancel targets"
 category: "Deck"
 status: "removed"
 cnum: "MT-3222"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ A single target is canceled within 10 seconds.
 Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 This assessment supports KUP {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
+
+Reference: NVIC Task: {% task 3D6  %}
 
 ***
 

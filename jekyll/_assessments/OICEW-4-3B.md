@@ -5,6 +5,7 @@ subtitle: "Prepare and start main gas turbine"
 category: "Engine"
 status: ""
 cnum: "EN-3233"
+
 ---
 ### Condition
 
@@ -93,6 +94,8 @@ On a gas-turbine vessel of at least 1,000 HP at sea, on a simulator, or in a lab
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+Reference: NVIC Task: {% task 4E2C  %}
 
 ***
 

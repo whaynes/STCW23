@@ -5,6 +5,7 @@ subtitle: "Determine course to steer by magnetic compass"
 category: "Deck"
 status: ""
 cnum: "MT-2121"
+
 ---
 ### Condition
 
@@ -53,6 +54,8 @@ Apply the compass error to the course by magnetic compass to make good the inten
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
+
+Reference: NVIC Task: {% task 1D7A  %}
 
 ***
 

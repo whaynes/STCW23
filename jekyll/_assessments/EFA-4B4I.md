@@ -5,6 +5,7 @@ subtitle: "Demonstrate actions for an unconscious adult with airway blockage"
 category: "Common"
 status: ""
 cnum: "PE-0031"
+
 ---
 ### Condition
 
@@ -52,6 +53,8 @@ follow currently accepted standards as published by the American Heart Associati
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
+Reference: NVIC Task: {% task 4B3A  %}
 
 ***
 

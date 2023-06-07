@@ -5,6 +5,7 @@ subtitle: "Parallel generators"
 category: "Engine"
 status: ""
 cnum: "EN-3111L"
+
 ---
 ### Condition
 
@@ -106,6 +107,8 @@ Balance reactive (kvar) Load
 Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 This assessment supports KUP {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
+
+Reference: NVIC Task: {% task 6E1A  %}
 
 ***
 

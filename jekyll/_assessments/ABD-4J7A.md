@@ -5,6 +5,7 @@ subtitle: "Demonstrate rigging and unrigging a bosun's chair"
 category: "Deck"
 status: ""
 cnum: "MT-2231"
+
 ---
 ### Condition
 
@@ -245,6 +246,8 @@ Unrig and stow all equipment per the manufacturer’s instructions.
 Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
 
 This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+
+Reference: NVIC Task: {% task 4J7A  %}
 
 ***
 

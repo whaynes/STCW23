@@ -377,8 +377,7 @@ Knowledge of bridge resource management principles, including:
 <taskNo pos="6">2D7F</taskNo>
 <taskNo pos="7">2D7G</taskNo>
 <CourseNo pos="1">MT-4133</CourseNo>
-<CourseNo pos="1">MT-3151</CourseNo>
-<CourseNo pos="2">MT-4133</CourseNo>
+<CourseNo pos="1">MT-4133</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/1</Table>
@@ -1694,7 +1693,7 @@ Practical application of medical guides and advice by radio, including the abili
 <CourseNo pos="2">MT-2231</CourseNo>
 <CourseNo pos="3">MT-3151</CourseNo>
 <CourseNo pos="4">MT-3261</CourseNo>
-<CourseNo pos="1">MT-4253</CourseNo>
+<CourseNo pos="1">MT-3151</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-II/5</Table>

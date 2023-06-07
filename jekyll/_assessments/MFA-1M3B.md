@@ -5,6 +5,7 @@ subtitle: "Immobilize a long bone fracture"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -60,6 +61,8 @@ e. reasses distal neuro-vascular function.
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.07, AFA-X1.07 %}
+
+Reference: NVIC Task: {% task 1M3A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Form two steel plates using electric arc welding process"
 category: "Engine"
 status: ""
 cnum: "EN-2112"
+
 ---
 ### Condition
 
@@ -74,6 +75,8 @@ Identify any evidence of lack of fill, flux entrapment, non-continuous fillet, b
 Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
 This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

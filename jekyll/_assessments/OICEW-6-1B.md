@@ -5,6 +5,7 @@ subtitle: "Operate fire pump"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -112,6 +113,8 @@ Monitor discharge pressure
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
+
+Reference: NVIC Task: {% task 5E2A  %}
 
 ***
 

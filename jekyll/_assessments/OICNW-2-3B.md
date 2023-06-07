@@ -5,6 +5,7 @@ subtitle: "Voyage plan - execution"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -65,6 +66,8 @@ execute the voyage plan in accordance with paragraph 4 and 5 of the annex to {% 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+
+Reference: NVIC Task: {% task 2D3A  %}
 
 ***
 

@@ -5,6 +5,7 @@ subtitle: "Start and secure oily water separator"
 category: "Engine"
 status: ""
 cnum: "EN-3131"
+
 ---
 ### Condition
 
@@ -88,6 +89,8 @@ observe operation of oil content meter
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 This assessment supports KUP {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+
+Reference: NVIC Task: {% task 5E3A  %}
 
 ***
 

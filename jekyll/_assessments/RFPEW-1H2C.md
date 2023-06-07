@@ -5,6 +5,7 @@ subtitle: "Shift and clean a basket-type duplex strainer"
 category: "Engine"
 status: ""
 cnum: "EN-1211"
+
 ---
 ### Condition
 
@@ -100,6 +101,8 @@ Remove, {% do evaluateinspecttest, inspect %} and {% do clean, clean %} the out-
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 This assessment supports KUP {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+
+Reference: NVIC Task: {% task 1H2A  %}
 
 ***
 

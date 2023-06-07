@@ -5,6 +5,7 @@ subtitle: "Extinguish a petrochemical fire"
 category: "Common"
 status: ""
 cnum: "FF-0104"
+
 ---
 ### Condition
 
@@ -66,6 +67,8 @@ as part of a team or individually,
 Assessed in  {% course  FF-0104 %}  *3/C Firefighting Practicum*.
 
 This assessment supports KUP {% table 63.html#AFF-X1.01, AFF-X1.01 %}
+
+Reference: NVIC Task: {% task 1F1A  %}
 
 ***
 

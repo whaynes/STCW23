@@ -5,6 +5,7 @@ subtitle: "BRM Condition II or III – navigation and collision avoidance"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -62,6 +63,8 @@ Determine and plot the vessel’s position at suitable intervals, and plot or sy
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
+
+Reference: NVIC Task: {% task 2D7A  %}
 
 ***
 

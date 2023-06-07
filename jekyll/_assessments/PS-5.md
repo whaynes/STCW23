@@ -5,6 +5,7 @@ subtitle: "Swim while wearing a lifejacket"
 category: "Common"
 status: ""
 cnum: "PS-0301"
+
 ---
 ### Condition
 
@@ -55,6 +56,8 @@ Swim while wearing an approved Type-1 PFD
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
 This assessment supports KUP {% table 611.html#PS-X1.5, PS-X1.5 %}
+
+Reference: NVIC Task: {% task 1B5A  %}
 
 ***
 

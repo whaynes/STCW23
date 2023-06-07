@@ -5,6 +5,7 @@ subtitle: "Trace out a piping system"
 category: "Engine"
 status: ""
 cnum: "EN-2231"
+
 ---
 ### Condition
 
@@ -98,6 +99,8 @@ Draw a schematic diagram of the selected system
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 This assessment supports KUP {% table 35.html#ABE-A8.1, ABE-A8.1 %}
+
+Reference: NVIC Task: {% task 5G1A  %}
 
 ***
 

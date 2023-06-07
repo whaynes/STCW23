@@ -1925,7 +1925,7 @@
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">BRM Condition II or III - prioritization</Method_Name>
 <status pos="1">moved</status>
-<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D7E %} in {% course MT-3151 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment OICNW-2D7E %} in {% course MT-4133 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">2D7F</taskNo>
@@ -5565,7 +5565,7 @@ MTRA</Major>
 <Major pos="1">MTRA</Major>
 <Method_Name pos="1">Trace out and describe a piping system</Method_Name>
 <status pos="1">moved</status>
-<mmd_link_to_this_assessment pos="1">{% assessment ABD-4J11A %} in {% course MT-4253 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="1">{% assessment ABD-4J11A %} in {% course MT-3151 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4J12A</taskNo>

@@ -5,6 +5,7 @@ subtitle: "Route planning"
 category: "Deck"
 status: ""
 cnum: "MT-4371"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ Determine the appropriate courses and distances between way points and plot the 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.03, OICNW-A1.03 %}
+
+Reference: NVIC Task: {% task 1D3A  %}
 
 ***
 

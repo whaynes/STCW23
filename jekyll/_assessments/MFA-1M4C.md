@@ -5,6 +5,7 @@ subtitle: "Manage obstructed airway in a conscious victim"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -58,6 +59,8 @@ c. re-assessing the victim.
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.12, AFA-X1.12 %}
+
+Reference: NVIC Task: {% task 1M4A  %}
 
 ***
 

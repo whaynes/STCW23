@@ -5,6 +5,7 @@ subtitle: "Test engine shutdown devices"
 category: "Engine"
 status: ""
 cnum: "EN-4131"
+
 ---
 ### Condition
 
@@ -75,6 +76,8 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
 This assessment supports KUP {% table 31.html#OICEW-B2.5, OICEW-B2.5 %}
+
+Reference: NVIC Task: {% task 7E5A  %}
 
 ***
 

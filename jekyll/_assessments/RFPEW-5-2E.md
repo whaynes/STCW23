@@ -5,6 +5,7 @@ subtitle: "Change and clean burner"
 category: "Engine"
 status: "moved"
 cnum: "EN-3131"
+
 ---
 ### Condition
 
@@ -117,6 +118,8 @@ Reassemble burner
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 This assessment supports KUP {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
+
+Reference: NVIC Task: {% task 3H1A  %}
 
 ***
 

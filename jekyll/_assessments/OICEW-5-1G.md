@@ -5,6 +5,7 @@ subtitle: "Shut down fresh water generator"
 category: "Engine"
 status: ""
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -91,6 +92,8 @@ Follow the ship specific evaporator securing procedure provided during training
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

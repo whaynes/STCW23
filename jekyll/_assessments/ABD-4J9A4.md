@@ -5,6 +5,7 @@ subtitle: "Marlinspike seamanship - line handling"
 category: "Deck"
 status: ""
 cnum: "MT-2231"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ perform all actions safely.
 Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
 
 This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+
+Reference: NVIC Task: {% task 4J7A  %}
 
 ***
 

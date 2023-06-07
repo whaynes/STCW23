@@ -5,6 +5,7 @@ subtitle: "Measure insulation resistance"
 category: "Engine"
 status: ""
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -97,6 +98,8 @@ State whether resistance value is within acceptable limits
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
+
+Reference: NVIC Task: {% task 7E3A  %}
 
 ***
 

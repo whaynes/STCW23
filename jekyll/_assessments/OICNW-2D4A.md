@@ -5,6 +5,7 @@ subtitle: "Situational awareness"
 category: "Deck"
 status: "moved"
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -62,6 +63,8 @@ maintain situational awareness with regard to:
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.4, OICNW-A2.4 %}
+
+Reference: NVIC Task: {% task 2D4A  %}
 
 ***
 

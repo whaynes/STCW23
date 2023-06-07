@@ -5,6 +5,7 @@ subtitle: "Use various types of portable fire extinguishers to extinguish smalle
 category: "Common"
 status: ""
 cnum: "FF-0102"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ extinguish the fire
 Assessed in  {% course  FF-0102 %}  *4/C Firefighting Practicum*.
 
 This assessment supports KUP {% table 612.html#FF-X2.2, FF-X2.2 %}
+
+Reference: NVIC Task: {% task 3B1A  %}
 
 ***
 

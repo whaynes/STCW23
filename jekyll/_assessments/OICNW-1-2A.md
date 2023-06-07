@@ -5,6 +5,7 @@ subtitle: "Fix by two bearings"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -55,6 +56,8 @@ Determine the bearings of at least two charted objects and plot them.
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
+
+Reference: NVIC Task: {% task 1D2A  %}
 
 ***
 

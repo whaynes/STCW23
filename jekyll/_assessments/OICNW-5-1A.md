@@ -5,6 +5,7 @@ subtitle: "Maneuver for man overboard"
 category: "Deck"
 status: ""
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -58,6 +59,8 @@ Immediately initiate either a Williamson Turn or Anderson Turn (as appropriate f
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
+
+Reference: NVIC Task: {% task 9D1A  %}
 
 ***
 

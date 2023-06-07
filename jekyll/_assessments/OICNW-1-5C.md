@@ -5,6 +5,7 @@ subtitle: "Determine magnetic compass deviation"
 category: "Deck"
 status: ""
 cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ Note the vessel's magnetic compass heading while aligned on the range and determ
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.06, OICNW-A1.06 %}
+
+Reference: NVIC Task: {% task 1D6A  %}
 
 ***
 

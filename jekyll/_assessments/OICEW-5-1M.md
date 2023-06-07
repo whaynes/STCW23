@@ -5,6 +5,7 @@ subtitle: "Monitor main steam turbine operation"
 category: "Engine"
 status: "moved"
 cnum: "EN-3233"
+
 ---
 ### Condition
 
@@ -152,6 +153,8 @@ State critical temperature limits (40° F rise or 160° F max.)
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+Reference: NVIC Task: {% task 4E2C  %}
 
 ***
 

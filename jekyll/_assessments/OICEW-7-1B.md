@@ -5,6 +5,7 @@ subtitle: "Inspect and start a diesel engine"
 category: "Engine"
 status: ""
 cnum: "EN-4131"
+
 ---
 ### Condition
 
@@ -157,6 +158,8 @@ Check engine coolant and lubrication gages
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

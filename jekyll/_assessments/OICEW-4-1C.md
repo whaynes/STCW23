@@ -5,6 +5,7 @@ subtitle: "Engineering watchkeeping"
 category: "Engine"
 status: ""
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -208,6 +209,8 @@ hand-over the watch
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
+
+Reference: NVIC Task: {% task 1E1A  %}
 
 ***
 

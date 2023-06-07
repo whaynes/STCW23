@@ -5,6 +5,7 @@ subtitle: "Bottom blow boiler"
 category: "Engine"
 status: ""
 cnum: "EN-3131"
+
 ---
 ### Condition
 
@@ -74,6 +75,8 @@ When water level falls to bottom of glass, secure bottom blow valve
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+Reference: NVIC Task: {% task 4E1A  %}
 
 ***
 

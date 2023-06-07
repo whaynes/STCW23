@@ -5,6 +5,7 @@ subtitle: "Correction of charts and publications"
 category: "Deck"
 status: "moved"
 cnum: "MT-4371"
+
 ---
 ### Condition
 
@@ -54,6 +55,8 @@ Correct five charts and three publications.
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.03, OICNW-A1.03 %}
+
+Reference: NVIC Task: {% task 1D3A  %}
 
 ***
 

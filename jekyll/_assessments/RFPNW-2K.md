@@ -5,6 +5,7 @@ subtitle: "Lookout"
 category: "Deck"
 status: "moved"
 cnum: "MT-2371"
+
 ---
 ### Condition
 
@@ -111,6 +112,8 @@ Report the:
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 This assessment supports KUP {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %}
+
+Reference: NVIC Task: {% task 2K1A  %}
 
 ***
 

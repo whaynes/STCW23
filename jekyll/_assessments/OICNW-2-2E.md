@@ -5,6 +5,7 @@ subtitle: "Navigate in restricted visibility (blind piloting)"
 category: "Deck"
 status: "moved"
 cnum: "MT-2225"
+
 ---
 ### Condition
 
@@ -61,6 +62,8 @@ Recognize the restricted visibility take the appropriate action to navigate in r
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+
+Reference: NVIC Task: {% task 2D2A  %}
 
 ***
 

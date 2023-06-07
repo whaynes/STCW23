@@ -5,6 +5,7 @@ subtitle: "Connect ship service diesel generator to main switchboard"
 category: "Engine"
 status: ""
 cnum: "EN-3233"
+
 ---
 ### Condition
 
@@ -167,6 +168,8 @@ Balance reactive (kvar) load
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 This assessment supports KUP {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
+
+Reference: NVIC Task: {% task 6E1A  %}
 
 ***
 

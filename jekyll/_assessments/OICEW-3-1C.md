@@ -5,6 +5,7 @@ subtitle: "Detect location of grounds"
 category: "Engine"
 status: ""
 cnum: "EN-4231"
+
 ---
 ### Condition
 
@@ -76,6 +77,8 @@ Introduce a second ground fault, and observe behavior of circuit breaker
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 This assessment supports KUP {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
+
+Reference: NVIC Task: {% task 7E3A  %}
 
 ***
 

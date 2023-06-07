@@ -5,6 +5,7 @@ subtitle: "Steering gear test"
 category: "Deck"
 status: ""
 cnum: "MT-4371"
+
 ---
 ### Condition
 
@@ -58,6 +59,8 @@ Conduct the pre-departure test of the vessel’s steering gear.
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.08, OICNW-A1.08 %}
+
+Reference: NVIC Task: {% task 1D8A  %}
 
 ***
 

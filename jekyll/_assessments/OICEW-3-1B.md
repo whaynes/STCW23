@@ -5,6 +5,7 @@ subtitle: "Troubleshoot electrical motor control system"
 category: "Engine"
 status: ""
 cnum: "EN-3111L"
+
 ---
 ### Condition
 
@@ -110,6 +111,8 @@ Complete all operations safely and within time limit and efficiently to receive 
 Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 This assessment supports KUP {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
+
+Reference: NVIC Task: {% task 7E3A  %}
 
 ***
 

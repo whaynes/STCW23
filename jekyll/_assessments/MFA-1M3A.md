@@ -5,6 +5,7 @@ subtitle: "Immobilize and apply traction a victim with a broken femur"
 category: "Common"
 status: ""
 cnum: "PE-0032"
+
 ---
 ### Condition
 
@@ -63,6 +64,8 @@ f. re-evaluate distal pulse and neurological status.
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 This assessment supports KUP {% table 641.html#AFA-X1.07, AFA-X1.07 %}
+
+Reference: NVIC Task: {% task 1M3A  %}
 
 ***
 

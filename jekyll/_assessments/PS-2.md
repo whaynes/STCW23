@@ -5,6 +5,7 @@ subtitle: "Don and use an immersion suit"
 category: "Common"
 status: ""
 cnum: "LB-0203"
+
 ---
 ### Condition
 
@@ -58,6 +59,8 @@ In a swimming pool or suitable protected waters.
 Assessed in  {% course  LB-0203 %}  *4/C STCW Immersion Suit Practical*.
 
 This assessment supports KUP {% table 611.html#PS-X1.4, PS-X1.4 %}
+
+Reference: NVIC Task: {% task 1B4A  %}
 
 ***
 

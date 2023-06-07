@@ -5,6 +5,7 @@ subtitle: "Position fix by GPS"
 category: "Deck"
 status: ""
 cnum: "MT-4371"
+
 ---
 ### Condition
 
@@ -53,6 +54,8 @@ Initialize a GPS receiver, determine the ship’s position, and evaluate the acc
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 This assessment supports KUP {% table 21.html#OICNW-A1.04, OICNW-A1.04 %}
+
+Reference: NVIC Task: {% task 1D4A  %}
 
 ***
 

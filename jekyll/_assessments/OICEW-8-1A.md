@@ -5,6 +5,7 @@ subtitle: "Lathe project"
 category: "Engine"
 status: ""
 cnum: "EN-2112"
+
 ---
 ### Condition
 
@@ -56,6 +57,8 @@ In workshop, given access to a lathe, mild steel rod stock and other necessary e
 Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
 This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 

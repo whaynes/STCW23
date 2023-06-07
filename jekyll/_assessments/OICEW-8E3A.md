@@ -5,6 +5,7 @@ subtitle: "Clean an oil purifier"
 category: "Engine"
 status: ""
 cnum: "EN-4131"
+
 ---
 ### Condition
 
@@ -140,6 +141,8 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
 This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+
+Reference: NVIC Task: {% task   %}
 
 ***
 
