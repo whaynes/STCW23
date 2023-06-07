@@ -4,7 +4,8 @@ title: "MMA Assessment OICNW-2D7E"
 subtitle: "BRM Condition II or III - prioritization"
 category: "Deck"
 status: "moved"
-cnum: "MT-3151"
+cnum: "MT-4133"
+
 ---
 ### Condition
 
@@ -58,9 +59,11 @@ determine the appropriate action to take.
 
 ### Location
 
-Assessed in  {% course  MT-3151 %}  *Dangerous Liquid Cargo*.
+Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
+
+Reference: NVIC Task: {% task 2D7A  %}
 
 ***
 

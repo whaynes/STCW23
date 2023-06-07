@@ -64,7 +64,7 @@ subtitle: officer in charge of a navigation watch
 | 52. | {% task 2D7B, 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4133 %} |
 | 53. | {% task 2D7C, 2.7.C %} | BRM Condition III Navigation | {% assessment OICNW-2-3E %} in {% course MT-4133 %} |
 | 54. | {% task 2D7D, 2.7.D %} | BRM Condition II or III – error trapping | {% assessment OICNW-2-3F %} in {% course MT-4133 %} |
-| 55. | {% task 2D7E, 2.7.E %} | BRM Condition II or III - prioritization | {% assessment OICNW-2D7E %} in {% course MT-3151 %} |
+| 55. | {% task 2D7E, 2.7.E %} | BRM Condition II or III - prioritization | {% assessment OICNW-2D7E %} in {% course MT-4133 %} |
 | 56. | {% task 2D7F, 2.7.F %} | BRM Condition II Navigation and collision avoidance | {% assessment OICNW-2-3G %} in {% course MT-4133 %} |
 | 57. | {% task 2D7G, 2.7.G %} | BRM Condition III establish a bridge team | {% assessment OICNW-2-3H %} in {% course MT-4133 %} |
 | 58. | {% task 3D1, 3.1 %} | Radar fundamentals | {% course MT-2225 %}|

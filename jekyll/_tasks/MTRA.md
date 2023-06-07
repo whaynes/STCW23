@@ -63,7 +63,7 @@ subtitle: for all marine transportation students
 | 52. | {% task 2D7B, 2.7.B %} | BRM Condition III Collision Avoidance | {% assessment OICNW-2-3D %} in {% course MT-4133 %} |
 | 53. | {% task 2D7C, 2.7.C %} | BRM Condition III Navigation | {% assessment OICNW-2-3E %} in {% course MT-4133 %} |
 | 54. | {% task 2D7D, 2.7.D %} | BRM Condition II or III – error trapping | {% assessment OICNW-2-3F %} in {% course MT-4133 %} |
-| 55. | {% task 2D7E, 2.7.E %} | BRM Condition II or III - prioritization | {% assessment OICNW-2D7E %} in {% course MT-3151 %} |
+| 55. | {% task 2D7E, 2.7.E %} | BRM Condition II or III - prioritization | {% assessment OICNW-2D7E %} in {% course MT-4133 %} |
 | 56. | {% task 2D7F, 2.7.F %} | BRM Condition II Navigation and collision avoidance | {% assessment OICNW-2-3G %} in {% course MT-4133 %} |
 | 57. | {% task 2D7G, 2.7.G %} | BRM Condition III establish a bridge team | {% assessment OICNW-2-3H %} in {% course MT-4133 %} |
 | 58. | {% task 3D1, 3.1 %} | Radar fundamentals | {% course MT-2225 %}|
@@ -160,7 +160,7 @@ subtitle: for all marine transportation students
 | 30. | {% task 4J8C, 4.8.C %} | Demonstrate rigging and unrigging a gangway | {% course MT-2231 %}|
 | 31. | {% task 4J9A, 4.9.A %} | Demonstrate marlinspike seamanship | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} |
 | 32. | {% task 4J10A, 4.10.A %} | Demonstrate use of cargo-handling gear and equipment access arrangements | {% course CC-MANT %}<br/> {% course MT-2231 %}<br/> {% course MT-3261 %}|
-| 33. | {% task 4J11A, 4.11.A %} | Trace out and describe a piping system | {% assessment ABD-4J11A %} in {% course MT-4253 %} |
+| 33. | {% task 4J11A, 4.11.A %} | Trace out and describe a piping system | {% assessment ABD-4J11A %} in {% course MT-3151 %} |
 | 34. | {% task 4J12A, 4.12.A %} | Demonstrate use of cargo and equipment handling gear | {% course MT-3261 %}|
 | 35. | {% task 4J13A, 4.13.A %} | Identify single letter flags and describe hoisting procedures | {% course MT-3221 %}|
 | 36. | {% task 5J1A, 5.1.A %} | Demonstrate working aloft | {% course ST-0999D %}|
