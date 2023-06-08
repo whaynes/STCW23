@@ -57,9 +57,10 @@ perform a detailed physical assessment (secondary survey).
 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
-This assessment supports KUP {% table 641.html#AFA-X1.04, AFA-X1.04 %}
+### References
 
-Reference: NVIC Task: {% task 1M1A  %}
+1.  Table A-VI/4-1 {% table 641.html#AFA-X1.04, AFA-X1.04 %}
+1.  NVIC 05-04 {% task 1M1A, Task 1.1.A%}
 
 ***
 

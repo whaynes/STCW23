@@ -59,9 +59,10 @@ e. continuing until airway cleared.
 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
-This assessment supports KUP {% table 641.html#AFA-X1.12, AFA-X1.12 %}
+### References
 
-Reference: NVIC Task: {% task 1M4A  %}
+1.  Table A-VI/4-1 {% table 641.html#AFA-X1.12, AFA-X1.12 %}
+1.  NVIC 05-04 {% task 1M4A, Task 1.4.A%}
 
 ***
 

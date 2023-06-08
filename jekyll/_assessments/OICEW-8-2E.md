@@ -114,9 +114,10 @@ Prove valve leak free with hydrostatic test
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+### References
 
-Reference: NVIC Task: {% task   %}
+1.  Table A-III/1 {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+1.  NVIC  {% task , Task %}
 
 ***
 

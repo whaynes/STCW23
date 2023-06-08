@@ -158,9 +158,10 @@ Raise vacuum to approximately 20 inches Hg
 
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
-This assessment supports KUP {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+### References
 
-Reference: NVIC Task: {% task 4E1A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
 
 ***
 

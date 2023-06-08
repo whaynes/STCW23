@@ -62,9 +62,10 @@ Determine and plot the vessel’s position at suitable intervals, and plot or sy
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
+### References
 
-Reference: NVIC Task: {% task 2D7A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.7, OICNW-A2.7 %}
+1.  NVIC 12-14 {% task 2D7A, Task 2.7.A%}
 
 ***
 

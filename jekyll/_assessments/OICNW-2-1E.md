@@ -55,9 +55,10 @@ Apply the rules of the road correctly and maneuver the vessel to avoid the colli
 
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
+### References
 
-Reference: NVIC Task: {% task 2D1A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.1, OICNW-A2.1 %}
+1.  NVIC 12-14 {% task 2D1A, Task 2.1.A%}
 
 ***
 

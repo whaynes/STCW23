@@ -58,9 +58,10 @@ Immediately initiate either a Williamson Turn or Anderson Turn (as appropriate f
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
+### References
 
-Reference: NVIC Task: {% task 9D1A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
+1.  NVIC 12-14 {% task 9D1A, Task 9.1.A%}
 
 ***
 

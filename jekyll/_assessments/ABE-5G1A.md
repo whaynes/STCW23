@@ -98,9 +98,10 @@ Draw a schematic diagram of the selected system
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP {% table 35.html#ABE-A8.1, ABE-A8.1 %}
+### References
 
-Reference: NVIC Task: {% task 5G1A  %}
+1.  Table A-III/5 {% table 35.html#ABE-A8.1, ABE-A8.1 %}
+1.  NVIC 18-14 {% task 5G1A, Task 5.1.A%}
 
 ***
 

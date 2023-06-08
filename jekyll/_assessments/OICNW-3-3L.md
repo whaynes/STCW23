@@ -52,9 +52,10 @@ Demonstrate loading a route plan and focusing on route within 2 minutes.
 
 Assessed in  {% course  MT-3224 %}  *Electronic Chart Display & Information System (ECDIS)*.
 
-This assessment supports KUP {% table 21.html#OICNW-A4.2, OICNW-A4.2 %}
+### References
 
-Reference: NVIC Task: {% task 4D2  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A4.2, OICNW-A4.2 %}
+1.  NVIC 12-14 {% task 4D2, Task 4.2%}
 
 ***
 

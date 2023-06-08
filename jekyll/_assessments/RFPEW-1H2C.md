@@ -100,9 +100,10 @@ Remove, {% do evaluateinspecttest, inspect %} and {% do clean, clean %} the out-
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+### References
 
-Reference: NVIC Task: {% task 1H2A  %}
+1.  Table A-III/4 {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+1.  NVIC 07-14 {% task 1H2A, Task 1.2.A%}
 
 ***
 

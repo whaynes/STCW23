@@ -61,9 +61,10 @@ Recognize the restricted visibility take the appropriate action to navigate in r
 
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+### References
 
-Reference: NVIC Task: {% task 2D2A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+1.  NVIC 12-14 {% task 2D2A, Task 2.2.A%}
 
 ***
 

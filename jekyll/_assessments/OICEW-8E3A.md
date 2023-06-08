@@ -140,9 +140,10 @@ Using an approved simulator, in the laboratory, or aboard ship, given access to 
 
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
-This assessment supports KUP {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+### References
 
-Reference: NVIC Task: {% task   %}
+1.  Table A-III/1 {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+1.  NVIC  {% task , Task %}
 
 ***
 

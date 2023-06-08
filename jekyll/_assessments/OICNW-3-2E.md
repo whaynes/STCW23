@@ -52,9 +52,10 @@ Designated two of the acquired targets for an alphanumeric display of the target
 
 Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
-This assessment supports KUP {% table 21.html#OICNW-A3.3, OICNW-A3.3 %}
+### References
 
-Reference: NVIC Task: {% task 3D5A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A3.3, OICNW-A3.3 %}
+1.  NVIC 12-14 {% task 3D5A, Task 3.5.A%}
 
 ***
 

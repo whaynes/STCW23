@@ -109,9 +109,10 @@ Correct situation by,
 
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
-This assessment supports KUP {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+### References
 
-Reference: NVIC Task: {% task 4E2C  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+1.  NVIC 17-14 {% task 4E2C, Task 4.2.C%}
 
 ***
 

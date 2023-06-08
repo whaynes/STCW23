@@ -111,9 +111,10 @@ Report the:
 
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
-This assessment supports KUP {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %}
+### References
 
-Reference: NVIC Task: {% task 2K1A  %}
+1.  Table A-II/4 {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %}
+1.  NVIC 06-14 {% task 2K1A, Task 2.1.A%}
 
 ***
 

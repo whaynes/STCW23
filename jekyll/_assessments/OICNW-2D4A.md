@@ -62,9 +62,10 @@ maintain situational awareness with regard to:
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.4, OICNW-A2.4 %}
+### References
 
-Reference: NVIC Task: {% task 2D4A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.4, OICNW-A2.4 %}
+1.  NVIC 12-14 {% task 2D4A, Task 2.4.A%}
 
 ***
 

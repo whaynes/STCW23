@@ -59,9 +59,10 @@ select the appropriate bandage(s) and/or cravat, and demonstrate the bandaging t
 
 Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
-This assessment supports KUP {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+### References
 
-Reference: NVIC Task: {% task 4B3A  %}
+1.  Table A-VI/1-3 {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+1.  NVIC 08-14 {% task 4B3A, Task 4.3.A%}
 
 ***
 

@@ -68,9 +68,10 @@ Read the Morse code flashing light signals, record the letters and numbers of th
 
 Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simulator*.
 
-This assessment supports KUP {% table 21.html#OICNW-A8.2, OICNW-A8.2 %}
+### References
 
-Reference: NVIC Task: {% task 8D2  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A8.2, OICNW-A8.2 %}
+1.  NVIC 12-14 {% task 8D2, Task 8.2%}
 
 ***
 

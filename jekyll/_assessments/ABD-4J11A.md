@@ -61,9 +61,10 @@ describe
 
 Assessed in  {% course  MT-3151 %}  *Dangerous Liquid Cargo*.
 
-This assessment supports KUP {% table 25.html#ABD-C1.3, ABD-C1.3 %}
+### References
 
-Reference: NVIC Task: {% task 4J10A  %}
+1.  Table A-II/5 {% table 25.html#ABD-C1.3, ABD-C1.3 %}
+1.  NVIC 14-14 {% task 4J10A, Task 4.10.A%}
 
 ***
 

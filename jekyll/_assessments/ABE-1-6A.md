@@ -98,9 +98,10 @@ transfer fuel
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP {% table 35.html#ABE-A6.1, ABE-A6.1 %}
+### References
 
-Reference: NVIC Task: {% task 3G1A  %}
+1.  Table A-III/5 {% table 35.html#ABE-A6.1, ABE-A6.1 %}
+1.  NVIC 18-14 {% task 3G1A, Task 3.1.A%}
 
 ***
 

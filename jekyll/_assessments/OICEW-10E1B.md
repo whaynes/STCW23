@@ -88,9 +88,10 @@ observe operation of oil content meter
 
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
-This assessment supports KUP {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+### References
 
-Reference: NVIC Task: {% task 5E3A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+1.  NVIC 17-14 {% task 5E3A, Task 5.3.A%}
 
 ***
 

@@ -57,9 +57,10 @@ Include:
 
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
-This assessment supports KUP {% table 611.html#PS-X1.3, PS-X1.3 %}
+### References
 
-Reference: NVIC Task: {% task 1B3A  %}
+1.  Table A-VI/1-1 {% table 611.html#PS-X1.3, PS-X1.3 %}
+1.  NVIC 08-14 {% task 1B3A, Task 1.3.A%}
 
 ***
 

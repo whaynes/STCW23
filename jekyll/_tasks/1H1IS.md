@@ -8,19 +8,14 @@ subtitle:  Monitor main steam turbine propulsion unit
 ---
 
 
-### MMA Method
 
-In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
-
-* Successfully complete MMA Assessment {% assessment OICEW-5-1M %} *Monitor main steam turbine operation*
-* Successfully complete MMA Assessment {% assessment OICEW-4-1D %} *Monitor engineering machinery*
 
 
 ### NVIC Method
 
-<a onclick="togglevisibility('nvic_methods')" >See NVIC method.</a>
+<a style="display:none;" onclick="togglevisibility('nvic_methods')" >Show NVIC method.</a>
 
-<div id='nvic_methods' class='hide'>
+<div id='nvic_methods' class='show'>
 
 <table>
 <thead>
@@ -29,9 +24,6 @@ In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 <th class='sixty'> Knowledge, Understanding, and Proficiency </th>
 </tr>
 </thead>
-
-
-
 
 <tbody>
 <tr><td markdown='1'>
@@ -101,3 +93,11 @@ The candidate:
 </tbody>
 </table>
 </div>
+
+
+### MMA Method
+
+In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
+
+* Successfully complete MMA Assessment {% assessment OICEW-5-1M %} *Monitor main steam turbine operation*
+* Successfully complete MMA Assessment {% assessment OICEW-4-1D %} *Monitor engineering machinery*

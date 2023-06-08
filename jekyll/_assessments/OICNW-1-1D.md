@@ -52,9 +52,10 @@ determine the altitude  within ± 1 minute of arc, after correction for index er
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
+### References
 
-Reference: NVIC Task: {% task 1D1A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
+1.  NVIC 12-14 {% task 1D1A, Task 1.1.A%}
 
 ***
 

@@ -55,9 +55,10 @@ Swim while wearing an approved Type-1 PFD
 
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
-This assessment supports KUP {% table 611.html#PS-X1.5, PS-X1.5 %}
+### References
 
-Reference: NVIC Task: {% task 1B5A  %}
+1.  Table A-VI/1-1 {% table 611.html#PS-X1.5, PS-X1.5 %}
+1.  NVIC 08-14 {% task 1B5A, Task 1.5.A%}
 
 ***
 

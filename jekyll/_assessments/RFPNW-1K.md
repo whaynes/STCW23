@@ -276,9 +276,10 @@ Carry out the helm command, *Nothing to the right (starboard)*  See **Note  3**.
 
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
-This assessment supports KUP {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
+### References
 
-Reference: NVIC Task: {% task 1K2A  %}
+1.  Table A-II/4 {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
+1.  NVIC 06-14 {% task 1K2A, Task 1.2.A%}
 
 ***
 

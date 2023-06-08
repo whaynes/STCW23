@@ -65,9 +65,10 @@ execute the voyage plan in accordance with paragraph 4 and 5 of the annex to {% 
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+### References
 
-Reference: NVIC Task: {% task 2D3A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+1.  NVIC 12-14 {% task 2D3A, Task 2.3.A%}
 
 ***
 

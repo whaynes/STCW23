@@ -341,9 +341,10 @@ Check:
 
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
-This assessment supports KUP {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
+### References
 
-Reference: NVIC Task: {% task 1E1A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
+1.  NVIC 17-14 {% task 1E1A, Task 1.1.A%}
 
 ***
 

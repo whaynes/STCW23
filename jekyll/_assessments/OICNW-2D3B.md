@@ -64,9 +64,10 @@ Prepare a safe and environmentally sound voyage plan, taking into account paragr
 
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+### References
 
-Reference: NVIC Task: {% task 2D3A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+1.  NVIC 12-14 {% task 2D3A, Task 2.3.A%}
 
 ***
 

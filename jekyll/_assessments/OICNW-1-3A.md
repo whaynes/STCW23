@@ -54,9 +54,10 @@ Correct five charts and three publications.
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A1.03, OICNW-A1.03 %}
+### References
 
-Reference: NVIC Task: {% task 1D3A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A1.03, OICNW-A1.03 %}
+1.  NVIC 12-14 {% task 1D3A, Task 1.3.A%}
 
 ***
 

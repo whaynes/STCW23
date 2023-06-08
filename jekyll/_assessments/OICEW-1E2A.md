@@ -94,9 +94,10 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory or workshop
 
 Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
-This assessment supports KUP {% table 31.html#OICEW-A1.2, OICEW-A1.2 %}
+### References
 
-Reference: NVIC Task: {% task 1E2A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A1.2, OICEW-A1.2 %}
+1.  NVIC 17-14 {% task 1E2A, Task 1.2.A%}
 
 ***
 

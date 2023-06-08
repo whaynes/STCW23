@@ -53,9 +53,10 @@ Apply the compass error to the bearings by magnetic compass of at least two char
 
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
+### References
 
-Reference: NVIC Task: {% task 1D7A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
+1.  NVIC 12-14 {% task 1D7A, Task 1.7.A%}
 
 ***
 

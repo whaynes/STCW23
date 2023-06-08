@@ -60,9 +60,10 @@ Make no safety violations
 
 Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
-This assessment supports KUP {% table 25.html#ABD-C1.1, ABD-C1.1 %}
+### References
 
-Reference: NVIC Task: {% task 4J1A  %}
+1.  Table A-II/5 {% table 25.html#ABD-C1.1, ABD-C1.1 %}
+1.  NVIC 14-14 {% task 4J1A, Task 4.1.A%}
 
 ***
 

@@ -117,9 +117,10 @@ State requirements for overboard discharge of waste
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP {% table 31.html#OICEW-D1.2, OICEW-D1.2 %}
+### References
 
-Reference: NVIC Task: {% task   %}
+1.  Table A-III/1 {% table 31.html#OICEW-D1.2, OICEW-D1.2 %}
+1.  NVIC  {% task , Task %}
 
 ***
 

@@ -116,9 +116,10 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+### References
 
-Reference: NVIC Task: {% task 8E2B  %}
+1.  Table A-III/1 {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+1.  NVIC 17-14 {% task 8E2B, Task 8.2.B%}
 
 ***
 

@@ -88,9 +88,10 @@ demonstrate all of the following:
 
 Assessed in  {% course  FF-0102 %}  *4/C Firefighting Practicum*.
 
-This assessment supports KUP {% table 612.html#FF-X2.2, FF-X2.2 %}
+### References
 
-Reference: NVIC Task: {% task 3B1A  %}
+1.  Table A-VI/1-2 {% table 612.html#FF-X2.2, FF-X2.2 %}
+1.  NVIC 08-14 {% task 3B1A, Task 3.1.A%}
 
 ***
 

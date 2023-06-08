@@ -125,9 +125,10 @@ Fill out sample _Oil Record Book_
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+### References
 
-Reference: NVIC Task: {% task 5E3A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+1.  NVIC 17-14 {% task 5E3A, Task 5.3.A%}
 
 ***
 

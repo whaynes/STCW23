@@ -57,9 +57,10 @@ tie these four knots within 10 minutes:
 
 Assessed in  {% course  MT-1111 %}  *Vessel Familiarization and Basic Safety Training*.
 
-This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+### References
 
-Reference: NVIC Task: {% task 4J7A  %}
+1.  Table A-II/5 {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+1.  NVIC 14-14 {% task 4J7A, Task 4.7.A%}
 
 ***
 

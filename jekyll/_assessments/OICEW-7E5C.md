@@ -75,9 +75,10 @@ On a vessel of at least 1,000 HP, on a simulator, or in a laboratory.
 
 Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
-This assessment supports KUP {% table 31.html#OICEW-B2.5, OICEW-B2.5 %}
+### References
 
-Reference: NVIC Task: {% task 7E5A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-B2.5, OICEW-B2.5 %}
+1.  NVIC 17-14 {% task 7E5A, Task 7.5.A%}
 
 ***
 

@@ -274,9 +274,10 @@ For each of the above positions, relieve and hand over the watch in accordance w
 
 Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
-This assessment supports KUP {% table 35.html#ABE-A5.2, ABE-A5.2 %}
+### References
 
-Reference: NVIC Task: {% task 2G2A  %}
+1.  Table A-III/5 {% table 35.html#ABE-A5.2, ABE-A5.2 %}
+1.  NVIC 18-14 {% task 2G2A, Task 2.2.A%}
 
 ***
 

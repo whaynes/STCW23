@@ -57,9 +57,10 @@ A dark, confined space maze containing scuttles and manways as small as 24 inche
 
 Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 
-This assessment supports KUP {% table 63.html#AFF-X2.1, AFF-X2.1 %}
+### References
 
-Reference: NVIC Task: {% task   %}
+1.  Table A-VI/3 {% table 63.html#AFF-X2.1, AFF-X2.1 %}
+1.  NVIC  {% task , Task %}
 
 ***
 

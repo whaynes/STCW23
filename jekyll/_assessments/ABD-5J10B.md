@@ -55,9 +55,10 @@ demonstrate the proper use of a safety harness.
 
 Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
-This assessment supports KUP {% table 25.html#ABD-C2.1, ABD-C2.1 %}
+### References
 
-Reference: NVIC Task: {% task 5J1A  %}
+1.  Table A-II/5 {% table 25.html#ABD-C2.1, ABD-C2.1 %}
+1.  NVIC 14-14 {% task 5J1A, Task 5.1.A%}
 
 ***
 

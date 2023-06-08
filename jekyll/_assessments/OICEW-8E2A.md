@@ -118,9 +118,10 @@ On a vessel of at least 1,000 HP, or in a laboratory or workshop.
 
 Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
-This assessment supports KUP {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
+### References
 
-Reference: NVIC Task: {% task 8E2A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
+1.  NVIC 17-14 {% task 8E2A, Task 8.2.A%}
 
 ***
 

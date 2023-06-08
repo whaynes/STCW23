@@ -66,9 +66,10 @@ as part of a team or individually,
 
 Assessed in  {% course  FF-0104 %}  *3/C Firefighting Practicum*.
 
-This assessment supports KUP {% table 63.html#AFF-X1.01, AFF-X1.01 %}
+### References
 
-Reference: NVIC Task: {% task 1F1A  %}
+1.  Table A-VI/3 {% table 63.html#AFF-X1.01, AFF-X1.01 %}
+1.  NVIC 09-14 {% task 1F1A, Task 1.1.A%}
 
 ***
 

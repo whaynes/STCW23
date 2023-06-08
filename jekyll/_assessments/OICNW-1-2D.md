@@ -52,9 +52,10 @@ The position is within ± 1 nm of the assessor’s position.
 
 Assessed in  {% course  MT-2121 %}  *Deep Sea Navigation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
+### References
 
-Reference: NVIC Task: {% task 1D2A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
+1.  NVIC 12-14 {% task 1D2A, Task 1.2.A%}
 
 ***
 

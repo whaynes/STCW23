@@ -53,9 +53,10 @@ Don and secure a lifejacket.
 
 Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
-This assessment supports KUP {% table 611.html#PS-X1.4, PS-X1.4 %}
+### References
 
-Reference: NVIC Task: {% task 1B4A  %}
+1.  Table A-VI/1-1 {% table 611.html#PS-X1.4, PS-X1.4 %}
+1.  NVIC 08-14 {% task 1B4A, Task 1.4.A%}
 
 ***
 

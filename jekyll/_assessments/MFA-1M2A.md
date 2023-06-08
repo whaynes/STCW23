@@ -57,9 +57,10 @@ d. demonstrate securing the patient to a long spine board, securing the torso, t
 
 Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
-This assessment supports KUP {% table 641.html#AFA-X1.05, AFA-X1.05 %}
+### References
 
-Reference: NVIC Task: {% task 1M2A  %}
+1.  Table A-VI/4-1 {% table 641.html#AFA-X1.05, AFA-X1.05 %}
+1.  NVIC 05-04 {% task 1M2A, Task 1.2.A%}
 
 ***
 

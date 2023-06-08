@@ -59,9 +59,10 @@ Using an actual or training survival craft and launching apparatus.
 
 Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
-This assessment supports KUP {% table 621.html#SCRB-X1.3, SCRB-X1.3 %}
+### References
 
-Reference: NVIC Task: {% task 1C3A  %}
+1.  Table A-VI/2-1 {% table 621.html#SCRB-X1.3, SCRB-X1.3 %}
+1.  NVIC 04-14 {% task 1C3A, Task 1.3.A%}
 
 ***
 

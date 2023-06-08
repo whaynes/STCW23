@@ -117,9 +117,10 @@ Reassemble burner
 
 Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
-This assessment supports KUP {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
+### References
 
-Reference: NVIC Task: {% task 3H1A  %}
+1.  Table A-III/4 {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
+1.  NVIC 07-14 {% task 3H1A, Task 3.1.A%}
 
 ***
 

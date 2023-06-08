@@ -62,9 +62,10 @@ Report: “The lookout is relieved.” to the officer on watch.
 
 Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
-This assessment supports KUP {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
+### References
 
-Reference: NVIC Task: {% task 3K4A  %}
+1.  Table A-II/4 {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
+1.  NVIC 06-14 {% task 3K4A, Task 3.4.A%}
 
 ***
 

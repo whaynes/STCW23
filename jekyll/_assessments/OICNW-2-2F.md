@@ -62,9 +62,10 @@ Properly turn the watch over to a relieving officer.
 
 Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+### References
 
-Reference: NVIC Task: {% task 2D2A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+1.  NVIC 12-14 {% task 2D2A, Task 2.2.A%}
 
 ***
 

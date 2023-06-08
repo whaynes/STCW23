@@ -54,9 +54,10 @@ perform all actions safely.
 
 Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
 
-This assessment supports KUP {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+### References
 
-Reference: NVIC Task: {% task 4J7A  %}
+1.  Table A-II/5 {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+1.  NVIC 14-14 {% task 4J7A, Task 4.7.A%}
 
 ***
 

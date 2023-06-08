@@ -85,9 +85,10 @@ For each alarm that occurs:
 
 Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
-This assessment supports KUP {% table 31.html#OICEW-A1.3, OICEW-A1.3 %}
+### References
 
-Reference: NVIC Task: {% task 1E3A  %}
+1.  Table A-III/1 {% table 31.html#OICEW-A1.3, OICEW-A1.3 %}
+1.  NVIC 17-14 {% task 1E3A, Task 1.3.A%}
 
 ***
 

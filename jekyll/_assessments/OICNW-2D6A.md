@@ -56,9 +56,10 @@ establish and maintain communication with a Vessel Traffic System (VTS).
 
 Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
-This assessment supports KUP {% table 21.html#OICNW-A2.6, OICNW-A2.6 %}
+### References
 
-Reference: NVIC Task: {% task 2D6A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A2.6, OICNW-A2.6 %}
+1.  NVIC 12-14 {% task 2D6A, Task 2.6.A%}
 
 ***
 

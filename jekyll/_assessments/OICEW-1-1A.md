@@ -56,9 +56,10 @@ Hole radius is within ±1/8" of specifications
 
 Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
-This assessment supports KUP {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
+### References
 
-Reference: NVIC Task: {% task   %}
+1.  Table A-III/1 {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
+1.  NVIC  {% task , Task %}
 
 ***
 

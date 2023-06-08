@@ -63,9 +63,10 @@ The following were recognized and correctly identified:
 
 Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
-This assessment supports KUP {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+### References
 
-Reference: NVIC Task: {% task 3D2A  %}
+1.  Table A-II/1 {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+1.  NVIC 12-14 {% task 3D2A, Task 3.2.A%}
 
 ***
 
