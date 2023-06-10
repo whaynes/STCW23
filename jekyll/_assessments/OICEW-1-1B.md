@@ -65,8 +65,14 @@ Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 8E1B, 8.1.B %} *Welding projects*
+
+
 
 ***
 

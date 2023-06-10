@@ -125,8 +125,19 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
-1.  NVIC 17-14 {% task 4E2C, Task 4.2.C%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 17-14 Task {% task 4E3J, 4.3.J %} *Test boiler water*
+1. NVIC 17-14 Task {% task 4E3K, 4.3.K %} *Treat boiler water*
+
+
 
 ***
 

@@ -343,8 +343,20 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
-1.  NVIC 17-14 {% task 1E1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
+1. {% table 34.html#RFPEW-A1.2, RFPEW-A1.2 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 07-14 Task {% task 1H1A, 1.1.A %} *Engine room round*
+1. NVIC 17-14 Task {% task 1E1A, 1.1.A %} *Pre watch inspection*
+
+
 
 ***
 

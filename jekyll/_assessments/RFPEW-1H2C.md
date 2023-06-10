@@ -102,8 +102,16 @@ Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 ### References
 
-1.  Table A-III/4 {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
-1.  NVIC 07-14 {% task 1H2A, Task 1.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 07-14 Task {% task 1H2C, 1.2.C %} *Shift and clean a basket-type duplex strainer*
+
+
 
 ***
 

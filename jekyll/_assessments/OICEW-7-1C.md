@@ -102,8 +102,16 @@ Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
-1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 6E1C, 6.1.C %} *Inspect and start a steam turbo-generator*
+
+
 
 ***
 

@@ -3051,9 +3051,7 @@ Practical application of medical guides and advice by radio, including the abili
 Understand orders and be understood in matters relevant to watchkeeping duties</competence>
 <kupNo pos="1">RFPEW-A1.1</kupNo>
 <kup pos="1">Terms used in machinery spaces and names of machinery and equipment</kup>
-<taskNo pos="1">2H1A</taskNo>
-<taskNo pos="2">2H1B</taskNo>
-<taskNo pos="3">2H1C</taskNo>
+<taskNo pos="1">2H1C</taskNo>
 <CourseNo pos="1">ST-0999E</CourseNo>
 </RECORD>
 <RECORD>
@@ -3088,6 +3086,8 @@ Understand orders and be understood in matters relevant to watchkeeping duties</
 <taskNo pos="15">1H1IG</taskNo>
 <taskNo pos="16">1H1J</taskNo>
 <taskNo pos="17">1H1K</taskNo>
+<taskNo pos="18">2H1A</taskNo>
+<taskNo pos="19">2H1B</taskNo>
 <CourseNo pos="1">ST-0999E</CourseNo>
 </RECORD>
 <RECORD>
@@ -3440,7 +3440,6 @@ Maintain the correct water levels and steam pressures
 <taskNo pos="1">6G1A</taskNo>
 <taskNo pos="2">6G2A</taskNo>
 <CourseNo pos="1">EN-1112</CourseNo>
-<CourseNo pos="2">EN-4231</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-III/5</Table>

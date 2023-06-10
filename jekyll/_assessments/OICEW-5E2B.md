@@ -151,8 +151,22 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
-1.  NVIC 17-14 {% task 5E2A, Task 5.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
+1. {% table 35.html#ABE-A7.1, ABE-A7.1 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 17-14 Task {% task 5E2B, 5.2.B %} *Ballast a tank*
+1. NVIC 17-14 Task {% task 5E2C, 5.2.C %} *De-ballast a tank*
+1. NVIC 18-14 Task {% task 4G1A, 4.1.A %} *Operation of bilge and ballast system*
+
+
 
 ***
 

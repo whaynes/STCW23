@@ -71,8 +71,16 @@ Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
-1.  NVIC 12-14 {% task 2D3A, Task 2.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A2.3, OICNW-A2.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 2D3A, 2.3.A %} *Voyage Planning - Appraisal*
+
+
 
 ***
 

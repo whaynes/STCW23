@@ -56,8 +56,16 @@ Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 
 ### References
 
-1.  Table A-VI/1-2 {% table 612.html#FF-X2.2, FF-X2.2 %}
-1.  NVIC 08-14 {% task 3B1A, Task 3.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 612.html#FF-X2.2, FF-X2.2 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 08-14 Task {% task 3B8D, 3.8.D %} *Demonstrate the proper procedures for effecting a rescue*
+
+
 
 ***
 

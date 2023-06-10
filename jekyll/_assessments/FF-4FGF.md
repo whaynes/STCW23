@@ -66,8 +66,12 @@ Assessed in  {% course  FF-0104 %}  *3/C Firefighting Practicum*.
 
 ### References
 
-1.  Table A-VI/3 {% table 63.html#AFF-X1.01, AFF-X1.01 %}
-1.  NVIC 09-14 {% task 1F1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
 
 ***
 

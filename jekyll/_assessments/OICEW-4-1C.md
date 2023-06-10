@@ -210,8 +210,31 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
-1.  NVIC 17-14 {% task 1E1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A1.1, OICEW-A1.1 %}
+1. {% table 31.html#OICEW-B2.5, OICEW-B2.5 %}
+1. {% table 34.html#RFPEW-A1.5, RFPEW-A1.5 %}
+
+
+#### NVIC Tasks
+
+
+
+
+
+
+
+1. NVIC 07-14 Task {% task 2H2A, 2.2.A %} *Operate internal communications systems*
+1. NVIC 07-14 Task {% task 2H2B, 2.2.B %} *Log engine-order telegraph signals*
+1. NVIC 17-14 Task {% task 1E1B, 1.1.B %} *Keep watch (Motor)*
+1. NVIC 17-14 Task {% task 1E1C, 1.1.C %} *Keep watch (Steam)*
+1. NVIC 17-14 Task {% task 1E1D, 1.1.D %} *Keep watch (Gas Turbine)*
+1. NVIC 17-14 Task {% task 1E1E, 1.1.E %} *Maintain log book*
+1. NVIC 17-14 Task {% task 7E5A, 7.5.A %} *Respond to engine alarms*
+
+
 
 ***
 

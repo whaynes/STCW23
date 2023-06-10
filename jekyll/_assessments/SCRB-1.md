@@ -55,8 +55,16 @@ Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
 ### References
 
-1.  Table A-VI/2-1 {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
-1.  NVIC 04-14 {% task 3C1A, Task 3.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 611.html#PS-X1.5, PS-X1.5 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 08-14 Task {% task 1B14E, 1.14.E %} *Right an inverted inflatable life raft*
+
+
 
 ***
 

@@ -114,8 +114,16 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
-1.  NVIC 17-14 {% task 5E2A, Task 5.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 34.html#RFPEW-A3.3, RFPEW-A3.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 07-14 Task {% task 4H2B, 4.2.B %} *Put a main or emergency fire-pump in service*
+
+
 
 ***
 

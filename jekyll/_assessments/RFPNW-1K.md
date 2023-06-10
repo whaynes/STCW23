@@ -278,8 +278,38 @@ Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 ### References
 
-1.  Table A-II/4 {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
-1.  NVIC 06-14 {% task 1K2A, Task 1.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 24.html#RFPNW-X1.1, RFPNW-X1.1 %}
+1. {% table 24.html#RFPNW-X1.2, RFPNW-X1.2 %}
+
+
+#### NVIC Tasks
+
+
+
+
+
+
+
+
+
+
+
+1. NVIC 06-14 Task {% task 1K1A, 1.1.A %} * Steady on a new course*
+1. NVIC 06-14 Task {% task 1K1B, 1.1.B %} * Steer a course by gyro­ compass*
+1. NVIC 06-14 Task {% task 1K2A, 1.2.A %} * Right (starboard) rudder*
+1. NVIC 06-14 Task {% task 1K2B, 1.2.B %} * Left (port) rudder*
+1. NVIC 06-14 Task {% task 1K2C, 1.2.C %} * Rudder hard over*
+1. NVIC 06-14 Task {% task 1K2D, 1.2.D %} * Ease the rudder*
+1. NVIC 06-14 Task {% task 1K2E, 1.2.E %} * Midships the wheel*
+1. NVIC 06-14 Task {% task 1K2F, 1.2.F %} * Shift your rudder*
+1. NVIC 06-14 Task {% task 1K2G, 1.2.G %} * Meet her; or, check her*
+1. NVIC 06-14 Task {% task 1K2H, 1.2.H %} * Steady as she goes*
+1. NVIC 06-14 Task {% task 1K2I, 1.2.I %} * Nothing to the right/left*
+
+
 
 ***
 

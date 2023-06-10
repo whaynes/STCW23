@@ -60,8 +60,22 @@ Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A1.08, OICNW-A1.08 %}
-1.  NVIC 12-14 {% task 1D8A, Task 1.8.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 21.html#OICNW-A1.08, OICNW-A1.08 %}
+1. {% table 24.html#RFPNW-X1.3, RFPNW-X1.3 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 06-14 Task {% task 1K3A, 1.3.A %} * Change the steering mode from auto pilot to hand steering*
+1. NVIC 06-14 Task {% task 1K3B, 1.3.B %} * Change the steering mode from hand steering to autopilot*
+1. NVIC 12-14 Task {% task 1D8A, 1.8.A %} *Steering gear test*
+
+
 
 ***
 

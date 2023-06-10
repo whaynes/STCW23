@@ -97,8 +97,16 @@ Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
-1.  NVIC 17-14 {% task 6E1A, Task 6.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 6E1B, 6.1.B %} *Inspect and start a diesel generator*
+
+
 
 ***
 

@@ -98,8 +98,16 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
-1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 4E1C, 4.1.C %} *Secure boiler*
+
+
 
 ***
 

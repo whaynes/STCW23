@@ -59,8 +59,16 @@ Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 ### References
 
-1.  Table A-VI/4-1 {% table 641.html#AFA-X1.05, AFA-X1.05 %}
-1.  NVIC 05-04 {% task 1M2A, Task 1.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 641.html#AFA-X1.05, AFA-X1.05 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 05-04 Task {% task 1M2A, 1.2.A %} *Immobilize a victim with a spinal injury*
+
+
 
 ***
 

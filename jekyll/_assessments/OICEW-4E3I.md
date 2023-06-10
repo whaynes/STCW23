@@ -111,8 +111,22 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
-1.  NVIC 17-14 {% task 4E2C, Task 4.2.C%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+1. {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 07-14 Task {% task 3H1B, 3.1.B %} *Maintain auxiliary boiler water level and steam pressures*
+1. NVIC 07-14 Task {% task 3H1DMG, 3.1.D(M/G) %} *Monitor auxiliary boiler*
+1. NVIC 17-14 Task {% task 4E3I, 4.3.I %} *Monitor auxiliary boiler*
+
+
 
 ***
 

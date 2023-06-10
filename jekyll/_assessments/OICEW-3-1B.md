@@ -112,8 +112,16 @@ Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
-1.  NVIC 17-14 {% task 7E3A, Task 7.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
+1. NVIC 17-14 Task {% task 7E2A, 7.2.A %} *Troubleshoot motor controller*
+1. NVIC 17-14 Task {% task 7E2B, 7.2.B %} *Repair faulty motor controller*
+
+
 
 ***
 

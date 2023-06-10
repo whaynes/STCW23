@@ -160,8 +160,21 @@ Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 
 ### References
 
-1.  Table A-VI/3 {% table 63.html#AFF-X1.01, AFF-X1.01 %}
-1.  NVIC 09-14 {% task 1F1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 63.html#AFF-X1.01, AFF-X1.01 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 09-14 Task {% task 1F1A, 1.1.A %} *Take initial action upon indication of fire to alert parties and dispatch equipment*
+1. NVIC 09-14 Task {% task 1F1B, 1.1.B %} *Make initial assessment of the fire and determine courses of action*
+1. NVIC 09-14 Task {% task 1F2A, 1.2.A %} *Respond to an engine room, cargo hold, or service space fire*
+
+
 
 ***
 

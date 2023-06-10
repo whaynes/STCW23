@@ -67,8 +67,16 @@ Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
-1.  NVIC 12-14 {% task 3D6, Task 3.6%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A3.3, OICNW-A3.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 3D5A, 3.5.A %} *Set up and maintain an ARPA display ARPA*
+
+
 
 ***
 

@@ -61,8 +61,19 @@ Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 ### References
 
-1.  Table A-VI/2-1 {% table 621.html#SCRB-X2.1, SCRB-X2.1 %}
-1.  NVIC 04-14 {% task 2C1A, Task 2.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 621.html#SCRB-X2.1, SCRB-X2.1 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 04-14 Task {% task 2C1A, 2.1.A %} *Start and operate a lifeboat engine*
+1. NVIC 04-14 Task {% task 2C1B, 2.1.B %} *Start and operate a rescue boat engine*
+
+
 
 ***
 

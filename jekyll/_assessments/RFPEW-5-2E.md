@@ -119,8 +119,19 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/4 {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
-1.  NVIC 07-14 {% task 3H1A, Task 3.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 07-14 Task {% task 3H1DS, 3.1.D(S) %} *Change out burners for a main-propulsion boiler*
+1. NVIC 07-14 Task {% task 3H1E, 3.1.E %} *Clean a burner atomizer assembly*
+
+
 
 ***
 

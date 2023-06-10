@@ -63,8 +63,16 @@ Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
-1.  NVIC 12-14 {% task 2D2A, Task 2.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A2.5, OICNW-A2.5 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 2D5A, 2.5.A %} *Navigate in restricted visibility*
+
+
 
 ***
 

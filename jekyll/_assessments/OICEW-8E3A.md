@@ -142,8 +142,18 @@ Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 07-14 Task {% task 1H2D, 1.2.D %} *Clean LO/FO purifier*
+1. NVIC 17-14 Task {% task 8E3A, 8.3.A %} *Clean an oil purifier*
+
+
 
 ***
 

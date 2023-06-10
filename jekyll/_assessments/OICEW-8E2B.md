@@ -153,8 +153,24 @@ Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+1. {% table 35.html#ABE-A8.1, ABE-A8.1 %}
+
+
+#### NVIC Tasks
+
+
+
+
+1. NVIC 17-14 Task {% task 8E2B, 8.2.B %} *Replace a mechanical seal or repack a pump*
+1. NVIC 17-14 Task {% task 9E1A, 9.1.A %} *Overhaul a centrifugal pump*
+1. NVIC 17-14 Task {% task 9E1B, 9.1.B %} *Tighten pump packing*
+1. NVIC 18-14 Task {% task 5G1B, 5.1.B %} *Operation of centrifugal and positive displacement pumps*
+
+
 
 ***
 

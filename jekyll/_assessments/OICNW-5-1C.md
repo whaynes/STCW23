@@ -54,8 +54,16 @@ Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
-1.  NVIC 12-14 {% task 9D1A, Task 9.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A9.1, OICNW-A9.1 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 9D2B, 9.2.B %} *Emergency stop*
+
+
 
 ***
 

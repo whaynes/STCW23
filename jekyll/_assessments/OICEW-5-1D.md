@@ -138,8 +138,16 @@ Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
-1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 4E3M, 4.3.M %} *Change over low pressure air compressor*
+
+
 
 ***
 

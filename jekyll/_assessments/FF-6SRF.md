@@ -68,8 +68,20 @@ Assessed in  {% course  FF-0106 %}  *2/C Firefighting Practicum*.
 
 ### References
 
-1.  Table A-VI/3 {% table 63.html#AFF-X1.01, AFF-X1.01 %}
-1.  NVIC 09-14 {% task 1F1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 612.html#FF-X2.2, FF-X2.2 %}
+1. {% table 63.html#AFF-X1.08, AFF-X1.08 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 08-14 Task {% task 3B8C, 3.8.C %} *Demonstrate the proper hose team leader procedures *
+1. NVIC 09-14 Task {% task 1F6A, 1.6.A %} *Respond to a paint locker,  stateroom, or cleaning gear locker fire*
+
+
 
 ***
 

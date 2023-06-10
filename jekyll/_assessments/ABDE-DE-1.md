@@ -62,8 +62,23 @@ Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
 ### References
 
-1.  Table A-II/5 {% table 25.html#ABD-C1.1, ABD-C1.1 %}
-1.  NVIC 14-14 {% task 4J1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 25.html#ABD-C1.1, ABD-C1.1 %}
+1. {% table 35.html#ABE-A8.1, ABE-A8.1 %}
+1. {% table 35.html#ABE-C2.1, ABE-C2.1 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 14-14 Task {% task 4J5A, 4.5.A %} *Demonstrate basic signals for operation of equipment, including winches, windlasses, cranes, and hoists*
+1. NVIC 18-14 Task {% task 5G2A, 5.2.A %} *Operation and repair of heavy equipment*
+1. NVIC 18-14 Task {% task 8G1B, 8.1.B %} *Stores handling gear, cranes, derricks, and winches*
+
+
 
 ***
 

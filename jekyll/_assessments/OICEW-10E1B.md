@@ -90,8 +90,14 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
-1.  NVIC 17-14 {% task 5E3A, Task 5.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 10E1B, 10.1.B %} *Start and secure oily-water separator*
+
+
 
 ***
 

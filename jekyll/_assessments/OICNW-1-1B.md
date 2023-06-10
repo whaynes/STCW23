@@ -55,8 +55,16 @@ Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
-1.  NVIC 12-14 {% task 1D1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 1D1B, 1.1.B %} *Measure the altitude of the sun*
+
+
 
 ***
 

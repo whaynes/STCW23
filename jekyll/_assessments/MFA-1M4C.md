@@ -60,8 +60,16 @@ Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 ### References
 
-1.  Table A-VI/4-1 {% table 641.html#AFA-X1.12, AFA-X1.12 %}
-1.  NVIC 05-04 {% task 1M4A, Task 1.4.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 641.html#AFA-X1.12, AFA-X1.12 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 05-04 Task {% task 1M4C, 1.4.C %} *Manage obstructed airway in a conscious victim*
+
+
 
 ***
 

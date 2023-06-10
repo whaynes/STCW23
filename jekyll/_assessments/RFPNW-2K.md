@@ -113,8 +113,21 @@ Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 ### References
 
-1.  Table A-II/4 {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %}
-1.  NVIC 06-14 {% task 2K1A, Task 2.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 24.html#RFPNW-X2.1, RFPNW-X2.1 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 06-14 Task {% task 2K1A, 2.1.A %} * Report bearings in daylight*
+1. NVIC 06-14 Task {% task 2K1B, 2.1.B %} * Report bearings at night*
+1. NVIC 06-14 Task {% task 2K1C, 2.1.C %} * Report bearings by sound*
+
+
 
 ***
 

@@ -154,8 +154,20 @@ Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
-1.  NVIC 17-14 {% task 4E2C, Task 4.2.C%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+1. {% table 34.html#RFPEW-A1.2, RFPEW-A1.2 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 07-14 Task {% task 1H1IS, 1.1.I(S) %} *Monitor main steam turbine propulsion unit*
+1. NVIC 17-14 Task {% task 4E3D, 4.3.D %} *Monitor steam turbine operation*
+
+
 
 ***
 

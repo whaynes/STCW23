@@ -3,8 +3,8 @@ table: RFPEW
 taskNo: 1H1IM
 nvicNo: 1.1.I(M) 
 sortableNo: H-01-01-IM
-title:  NVIC 07-14 Task 1.1.I(M)
-subtitle:  Monitor main diesel engine propulsion unit
+title:  NVIC 07-14 Task 1.1.I(M) 
+subtitle:  Monitor main diesel engine propulsion unit (RFPEW)
 ---
 
 

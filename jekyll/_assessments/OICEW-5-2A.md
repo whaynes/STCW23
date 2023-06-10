@@ -3,7 +3,7 @@ number: "OICEW-5-2A"
 title: "MMA Assessment OICEW-5-2A"
 subtitle: "Light off main boiler"
 category: "Engine"
-status: ""
+status: "moved"
 cnum: "EN-3131"
 
 ---
@@ -126,8 +126,22 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
-1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
+1. {% table 34.html#RFPEW-A2.1, RFPEW-A2.1 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 07-14 Task {% task 3H1F, 3.1.F %} *Assist preparing a main-propulsion boiler for light-off*
+1. NVIC 07-14 Task {% task 3H1G, 3.1.G %} *Assist in manual light-off, raising steam and cutting-in a boiler*
+1. NVIC 17-14 Task {% task 4E1B, 4.1.B %} *Light off boiler*
+
+
 
 ***
 

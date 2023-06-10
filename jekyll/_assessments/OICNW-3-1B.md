@@ -58,8 +58,16 @@ Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
-1.  NVIC 12-14 {% task 3D2A, Task 3.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 3D2B, 3.2.B %} *Switch display modes*
+
+
 
 ***
 

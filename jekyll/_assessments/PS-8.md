@@ -59,8 +59,16 @@ Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 ### References
 
-1.  Table A-VI/1-1 {% table 611.html#PS-X1.3, PS-X1.3 %}
-1.  NVIC 08-14 {% task 1B3A, Task 1.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 621.html#SCRB-X3.2, SCRB-X3.2 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 04-14 Task {% task 3C2A, 3.2.A %} *Use lifeboat equipment*
+
+
 
 ***
 

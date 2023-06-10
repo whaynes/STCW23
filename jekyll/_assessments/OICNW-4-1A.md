@@ -70,8 +70,16 @@ Assessed in  {% course  MT-4253 %}  *Watchkeeping using Full-Mission Bridge Simu
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A8.2, OICNW-A8.2 %}
-1.  NVIC 12-14 {% task 8D2, Task 8.2%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A8.2, OICNW-A8.2 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 8D2, 8.2 %} *Receive information by Morse light*
+
+
 
 ***
 

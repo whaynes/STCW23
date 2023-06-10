@@ -57,8 +57,12 @@ Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A3.4, OICNW-A3.4 %}
-1.  NVIC 12-14 {% task 3D6, Task 3.6%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
 
 ***
 

@@ -96,8 +96,16 @@ Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A1.2, OICEW-A1.2 %}
-1.  NVIC 17-14 {% task 1E2A, Task 1.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-A1.2, OICEW-A1.2 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 1E2A, 1.2.A %} *Change-over to local control systems*
+
+
 
 ***
 

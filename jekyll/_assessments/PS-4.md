@@ -55,8 +55,12 @@ Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 
 ### References
 
-1.  Table A-VI/1-1 {% table 611.html#PS-X1.5, PS-X1.5 %}
-1.  NVIC 08-14 {% task 1B5A, Task 1.5.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
 
 ***
 

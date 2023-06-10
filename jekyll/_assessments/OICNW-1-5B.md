@@ -57,8 +57,16 @@ Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
-1.  NVIC 12-14 {% task 1D7A, Task 1.7.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 1D7B, 1.7.B %} *Determine magnetic compass error*
+
+
 
 ***
 

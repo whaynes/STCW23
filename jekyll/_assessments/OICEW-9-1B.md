@@ -119,8 +119,18 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-D1.2, OICEW-D1.2 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 34.html#RFPEW-A1.4, RFPEW-A1.4 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 07-14 Task {% task 1H3C, 1.3.C %} *Monitor sewage treatment plants*
+1. NVIC 17-14 Task {% task 10E1A, 10.1.A %} *Start and secure sewage treatment system*
+
+
 
 ***
 

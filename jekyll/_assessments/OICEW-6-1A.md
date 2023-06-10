@@ -136,8 +136,20 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
-1.  NVIC 17-14 {% task 5E2A, Task 5.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
+1. {% table 35.html#ABE-A6.1, ABE-A6.1 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 17-14 Task {% task 5E2A, 5.2.A %} *Transfer fuel*
+1. NVIC 18-14 Task {% task 3G1A, 3.1.A %} *Operation of fuel system and oil transfer operations*
+
+
 
 ***
 

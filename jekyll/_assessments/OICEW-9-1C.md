@@ -127,8 +127,20 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
-1.  NVIC 17-14 {% task 5E3A, Task 5.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+1. {% table 34.html#RFPEW-A1.4, RFPEW-A1.4 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 07-14 Task {% task 1H3B, 1.3.B %} *Monitor oily-water separator*
+1. NVIC 17-14 Task {% task 5E3A, 5.3.A %} *Monitor oily-water separator*
+
+
 
 ***
 

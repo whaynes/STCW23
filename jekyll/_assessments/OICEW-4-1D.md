@@ -3,7 +3,7 @@ number: "OICEW-4-1D"
 title: "MMA Assessment OICEW-4-1D"
 subtitle: "Monitor engineering machinery"
 category: "Engine"
-status: ""
+status: "changed"
 cnum: "EN-2231"
 
 ---
@@ -276,8 +276,59 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/5 {% table 35.html#ABE-A5.2, ABE-A5.2 %}
-1.  NVIC 18-14 {% task 2G2A, Task 2.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+1. {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
+1. {% table 34.html#RFPEW-A1.2, RFPEW-A1.2 %}
+1. {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+1. {% table 34.html#RFPEW-A1.4, RFPEW-A1.4 %}
+
+
+#### NVIC Tasks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. NVIC 07-14 Task {% task 1H1BG, 1.1.B(G) %} *Monitor electricity generating plant (Gas Turbine)*
+1. NVIC 07-14 Task {% task 1H1BM, 1.1.B(M) %} *Monitor electricity generating plant (Motor)*
+1. NVIC 07-14 Task {% task 1H1BS, 1.1.B(S) %} *Monitor electricity generating plant (Steam)*
+1. NVIC 07-14 Task {% task 1H1C, 1.1.C %} *Monitor LO/FO purification systems*
+1. NVIC 07-14 Task {% task 1H1D, 1.1.D %} *Monitor compressed air plant*
+1. NVIC 07-14 Task {% task 1H1E, 1.1.E %} *Monitor refrigeration and air-conditioning plants*
+1. NVIC 07-14 Task {% task 1H1F, 1.1.F %} *Determine tank and pressure-vessel levels*
+1. NVIC 07-14 Task {% task 1H1G, 1.1.G %} *Charge a potable water pressure tank with compressed air*
+1. NVIC 07-14 Task {% task 1H1HM, 1.1.H(M) %} *Monitor jacket water evaporator*
+1. NVIC 07-14 Task {% task 1H1HMG, 1.1.H(M/G) %} *Monitor reverse osmosis plant*
+1. NVIC 07-14 Task {% task 1H1HS, 1.1.H(S) %} *Monitor steam distilling plant*
+1. NVIC 07-14 Task {% task 1H1IM, 1.1.I(M) %} *Monitor main diesel engine propulsion unit*
+1. NVIC 07-14 Task {% task 1H1J, 1.1.J %} *Monitor propulsion shafting and bearings*
+1. NVIC 07-14 Task {% task 1H1K, 1.1.K %} *Monitor steering gear*
+1. NVIC 07-14 Task {% task 1H2A, 1.2.A %} *Add clean oil to engine and deck machinery*
+1. NVIC 07-14 Task {% task 1H3B, 1.3.B %} *Monitor oily-water separator*
+1. NVIC 07-14 Task {% task 1H3C, 1.3.C %} *Monitor sewage treatment plants*
+1. NVIC 17-14 Task {% task 4E3C, 4.3.C %} *Monitor diesel engine operation*
+1. NVIC 17-14 Task {% task 4E3U, 4.3.U %} *Monitor refrigeration system*
+1. NVIC 17-14 Task {% task 5E3A, 5.3.A %} *Monitor oily-water separator*
+
+
 
 ***
 

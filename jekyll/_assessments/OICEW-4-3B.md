@@ -95,8 +95,16 @@ Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
-1.  NVIC 17-14 {% task 4E2C, Task 4.2.C%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 4E3B, 4.3.B %} *Prepare gas turbine for operation*
+
+
 
 ***
 

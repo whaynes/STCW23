@@ -100,8 +100,23 @@ Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 ### References
 
-1.  Table A-III/5 {% table 35.html#ABE-A6.1, ABE-A6.1 %}
-1.  NVIC 18-14 {% task 3G1A, Task 3.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-D7.3, OICEW-D7.3 %}
+1. {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
+1. {% table 35.html#ABE-A6.1, ABE-A6.1 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 07-14 Task {% task 1H2F, 1.2.F %} *Take on fresh water*
+1. NVIC 17-14 Task {% task 16E3A, 16.3.A %} *Take on bunkers*
+1. NVIC 18-14 Task {% task 3G1A, 3.1.A %} *Operation of fuel system and oil transfer operations*
+
+
 
 ***
 

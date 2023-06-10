@@ -64,8 +64,16 @@ Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
-1.  NVIC 12-14 {% task 2D2A, Task 2.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 2D2E, 2.2.E %} *Turn over a watch*
+
+
 
 ***
 

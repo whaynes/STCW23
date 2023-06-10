@@ -57,8 +57,16 @@ Assessed in  {% course  ST-0999D %}  *Sea Term I (Deck Portion)*.
 
 ### References
 
-1.  Table A-II/5 {% table 25.html#ABD-C2.1, ABD-C2.1 %}
-1.  NVIC 14-14 {% task 5J1A, Task 5.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 25.html#ABD-C2.1, ABD-C2.1 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 14-14 Task {% task 5J10B, 5.10.B %} *Demonstrate use of a safety harness*
+
+
 
 ***
 

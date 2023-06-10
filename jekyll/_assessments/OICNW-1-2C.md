@@ -54,8 +54,16 @@ Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
-1.  NVIC 12-14 {% task 1D2A, Task 1.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A1.04, OICNW-A1.04 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 1D4B, 1.4.B %} *Position fix by tangents to identified objects*
+
+
 
 ***
 

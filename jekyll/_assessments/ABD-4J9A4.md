@@ -56,8 +56,12 @@ Assessed in  {% course  MT-2231 %}  *Basic Seamanship*.
 
 ### References
 
-1.  Table A-II/5 {% table 25.html#ABD-C1.2, ABD-C1.2 %}
-1.  NVIC 14-14 {% task 4J7A, Task 4.7.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
 
 ***
 

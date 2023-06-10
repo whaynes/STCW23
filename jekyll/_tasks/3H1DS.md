@@ -3,8 +3,8 @@ table: RFPEW
 taskNo: 3H1DS
 nvicNo: 3.1.D(S) 
 sortableNo: H-03-01-DS
-title:  NVIC 07-14 Task 3.1.D(S)
-subtitle:  Change out burners for a main-propulsion boiler
+title:  NVIC 07-14 Task 3.1.D(S) 
+subtitle:  Change out burners for a main-propulsion boiler (RFPEW)
 ---
 
 

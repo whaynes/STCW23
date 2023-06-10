@@ -120,8 +120,16 @@ Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
-1.  NVIC 17-14 {% task 8E2A, Task 8.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-C1.4, OICEW-C1.4 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 8E2A, 8.2.A %} *Make emergency/temporary repairs*
+
+
 
 ***
 

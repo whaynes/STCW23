@@ -58,8 +58,20 @@ Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 ### References
 
-1.  Table A-VI/2-1 {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
-1.  NVIC 04-14 {% task 3C1A, Task 3.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 24.html#RFPNW-X1.1, RFPNW-X1.1 %}
+1. {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 04-14 Task {% task 3C1B, 3.1.B %} *Handle a lifeboat under oars*
+1. NVIC 06-14 Task {% task 1K1C, 1.1.C %} * Steer a course by magnetic compass*
+
+
 
 ***
 

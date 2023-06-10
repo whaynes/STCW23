@@ -3,8 +3,8 @@ table: RFPEW
 taskNo: 1H1BM
 nvicNo: 1.1.B(M) 
 sortableNo: H-01-01-BM
-title:  NVIC 07-14 Task 1.1.B(M)
-subtitle:  Monitor electricity generating plant (Motor)
+title:  NVIC 07-14 Task 1.1.B(M) 
+subtitle:  Monitor electricity generating plant (Motor) (RFPEW)
 ---
 
 

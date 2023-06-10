@@ -92,8 +92,20 @@ Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
-1.  NVIC 12-14 {% task 2D2A, Task 2.2.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 21.html#OICNW-A2.2, OICNW-A2.2 %}
+1. {% table 24.html#RFPNW-X3.5, RFPNW-X3.5 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 06-14 Task {% task 3K5B, 3.5.B %} * Relief of port watch*
+1. NVIC 12-14 Task {% task 2D2A, 2.2.A %} *Watch relief*
+
+
 
 ***
 

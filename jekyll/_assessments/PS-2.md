@@ -60,8 +60,19 @@ Assessed in  {% course  LB-0203 %}  *4/C STCW Immersion Suit Practical*.
 
 ### References
 
-1.  Table A-VI/1-1 {% table 611.html#PS-X1.4, PS-X1.4 %}
-1.  NVIC 08-14 {% task 1B4A, Task 1.4.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 611.html#PS-X1.5, PS-X1.5 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 08-14 Task {% task 1B14B, 1.14.B %} *Don an immersion suit*
+1. NVIC 08-14 Task {% task 1B14D, 1.14.D %} *Enter the water in an immersion suit*
+
+
 
 ***
 

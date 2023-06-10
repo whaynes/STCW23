@@ -90,8 +90,12 @@ Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-B2.4, OICEW-B2.4 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
 
 ***
 

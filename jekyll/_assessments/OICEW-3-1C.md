@@ -78,8 +78,16 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
-1.  NVIC 17-14 {% task 7E3A, Task 7.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 7E3A, 7.3.A %} *Detect location of grounds*
+
+
 
 ***
 

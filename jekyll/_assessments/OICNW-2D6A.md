@@ -58,8 +58,16 @@ Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 ### References
 
-1.  Table A-II/1 {% table 21.html#OICNW-A2.6, OICNW-A2.6 %}
-1.  NVIC 12-14 {% task 2D6A, Task 2.6.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 21.html#OICNW-A2.6, OICNW-A2.6 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 12-14 Task {% task 2D6A, 2.6.A %} *Vessel Traffic System (VTS)*
+
+
 
 ***
 

@@ -64,8 +64,16 @@ Assessed in  {% course  MT-2371 %}  *Sea Term II - Deck*.
 
 ### References
 
-1.  Table A-II/4 {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
-1.  NVIC 06-14 {% task 3K4A, Task 3.4.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 24.html#RFPNW-X3.4, RFPNW-X3.4 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 06-14 Task {% task 3K4A, 3.4.A %} * Relief of the lookout*
+
+
 
 ***
 

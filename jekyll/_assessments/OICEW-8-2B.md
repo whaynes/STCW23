@@ -133,8 +133,18 @@ Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 35.html#ABE-A8.1, ABE-A8.1 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 17-14 Task {% task 9E1C, 9.1.C %} *Overhaul a reciprocating pump*
+1. NVIC 18-14 Task {% task 5G1B, 5.1.B %} *Operation of centrifugal and positive displacement pumps*
+
+
 
 ***
 

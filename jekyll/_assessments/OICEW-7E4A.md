@@ -94,8 +94,16 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-B2.1, OICEW-B2.1 %}
-1.  NVIC  {% task , Task %}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+#### NVIC Tasks
+
+
+1. NVIC 17-14 Task {% task 7E1A, 7.1.A %} *Conduct insulation resistance test*
+1. NVIC 17-14 Task {% task 7E4A, 7.4.A %} *Disassemble and reassemble an electric motor*
+
+
 
 ***
 

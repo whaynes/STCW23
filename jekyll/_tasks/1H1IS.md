@@ -3,8 +3,8 @@ table: RFPEW
 taskNo: 1H1IS
 nvicNo: 1.1.I(S) 
 sortableNo: H-01-01-IS
-title:  NVIC 07-14 Task 1.1.I(S)
-subtitle:  Monitor main steam turbine propulsion unit
+title:  NVIC 07-14 Task 1.1.I(S) 
+subtitle:  Monitor main steam turbine propulsion unit (RFPEW)
 ---
 
 
@@ -100,4 +100,3 @@ The candidate:
 In order to satisfy  {% nvic 07-14, {{page.title}}  %}, MMA students must:
 
 * Successfully complete MMA Assessment {% assessment OICEW-5-1M %} *Monitor main steam turbine operation*
-* Successfully complete MMA Assessment {% assessment OICEW-4-1D %} *Monitor engineering machinery*

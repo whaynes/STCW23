@@ -118,8 +118,16 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
-1.  NVIC 17-14 {% task 8E2B, Task 8.2.B%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 8E2D, 8.2.D %} *Replace a flange gasket*
+
+
 
 ***
 

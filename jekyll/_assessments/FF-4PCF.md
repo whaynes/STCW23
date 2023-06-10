@@ -68,8 +68,16 @@ Assessed in  {% course  FF-0104 %}  *3/C Firefighting Practicum*.
 
 ### References
 
-1.  Table A-VI/3 {% table 63.html#AFF-X1.01, AFF-X1.01 %}
-1.  NVIC 09-14 {% task 1F1A, Task 1.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 63.html#AFF-X1.07, AFF-X1.07 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 09-14 Task {% task 1F5A, 1.5.A %} *Respond to a petrochemical, insulation, or unknown substance fire*
+
+
 
 ***
 

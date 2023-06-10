@@ -11,10 +11,10 @@ subtitle: able seafarer engine
 | No.   | NVIC Task | Description | Location |
 |:-----:|:----:|:------------|:-------:|
 | 1. | {% task 1G1A, 1.1.A %} | Understand orders | {% table 34, A-III/4 %}|
-| 2. | {% task 1G2A, 1.2.A %} | Watch relief | {% assessment OICEW-4-1B %} in {% course EN-4231 %} |
-| 3. | {% task 1G3A, 1.3.A %} | Watchkeeping | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
-| 4. | {% task 2G1A, 2.1.A %} | Operation of main propulsion and auxiliary machinery | {% course EN-1211 %}<br/> {% course EN-2111 %}<br/> {% course EN-2232 %}|
-| 5. | {% task 2G2A, 2.2.A %} | Main propulsion and auxiliary machinery control pressures, temperature and levels | {% assessment OICEW-4-1D %} in {% course EN-2231 %} |
+| 2. | {% task 1G2A, 1.2.A %} | Watch relief | {% table 34, A-III/4 %}|
+| 3. | {% task 1G3A, 1.3.A %} | Watchkeeping | {% table 34, A-III/4 %}|
+| 4. | {% task 2G1A, 2.1.A %} | Operation of main propulsion and auxiliary machinery | {% course EN-1211 %}<br/> {% course EN-2111 %}<br/> {% course EN-2232 %}<br/> {% table 34, A-III/4 %}|
+| 5. | {% task 2G2A, 2.2.A %} | Main propulsion and auxiliary machinery control pressures, temperature and levels | {% table 34, A-III/4 %}|
 | 6. | {% task 3G1A, 3.1.A %} | Operation of fuel system and oil transfer operations | {% assessment OICEW-6-1A %} in {% course EN-3131 %} <br/> {% assessment ABE-1-6A %} in {% course EN-1211 %} |
 | 7. | {% task 4G1A, 4.1.A %} | Operation of bilge and ballast system | {% assessment OICEW-6-2A %} in {% course EN-2231 %} <br/> {% assessment OICEW-5E2B %} in {% course EN-3131 %} |
 | 8. | {% task 5G1A, 5.1.A %} | Trace out a piping system | {% assessment ABE-5G1A %} in {% course EN-2231 %} |

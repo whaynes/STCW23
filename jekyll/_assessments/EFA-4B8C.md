@@ -58,8 +58,16 @@ Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 ### References
 
-1.  Table A-VI/1-3 {% table 613.html#BFA-X1.3, BFA-X1.3 %}
-1.  NVIC 08-14 {% task 4B3A, Task 4.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 08-14 Task {% task 4B8C, 4.8.C %} *Demonstrate immobilizing a fracture using splints and ties*
+
+
 
 ***
 

@@ -54,8 +54,19 @@ Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 ### References
 
-1.  Table A-VI/1-3 {% table 613.html#BFA-X1.3, BFA-X1.3 %}
-1.  NVIC 08-14 {% task 4B3A, Task 4.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 08-14 Task {% task 4B4F, 4.4.F %} *Demonstrate proper hand placements for chest compressions*
+1. NVIC 08-14 Task {% task 4B4G, 4.4.G %} *Demonstrate proper CPR compressions for two minutes*
+
+
 
 ***
 

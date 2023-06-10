@@ -124,8 +124,21 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
-1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
+
+
+#### NVIC Tasks
+
+
+
+1. NVIC 17-14 Task {% task 4E3N, 4.3.N %} *Start fresh water generator*
+1. NVIC 17-14 Task {% task 4E3P, 4.3.P %} *Start fresh water distiller*
+1. NVIC 17-14 Task {% task 4E3W, 4.3.W %} *Start and secure a reverse osmosis plant*
+
+
 
 ***
 

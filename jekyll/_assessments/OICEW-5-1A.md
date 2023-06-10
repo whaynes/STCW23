@@ -125,8 +125,20 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
-1.  NVIC 17-14 {% task 4E1A, Task 4.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+
+1. {% table 31.html#OICEW-A3.1, OICEW-A3.1 %}
+1. {% table 31.html#OICEW-B2.5, OICEW-B2.5 %}
+
+
+#### NVIC Tasks
+
+
+1. NVIC 17-14 Task {% task 3E1A, 3.1.A %} *Test internal communications*
+1. NVIC 17-14 Task {% task 7E5B, 7.5.B %} *Test steering gear*
+
+
 
 ***
 

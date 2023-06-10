@@ -65,8 +65,16 @@ Assessed in  {% course  PE-0032 %}  *STCW Medical Care Provider*.
 
 ### References
 
-1.  Table A-VI/4-1 {% table 641.html#AFA-X1.07, AFA-X1.07 %}
-1.  NVIC 05-04 {% task 1M3A, Task 1.3.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 641.html#AFA-X1.07, AFA-X1.07 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 05-04 Task {% task 1M3A, 1.3.A %} *Immobilize and apply traction a victim with a broken femur*
+
+
 
 ***
 

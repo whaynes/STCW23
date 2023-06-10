@@ -108,8 +108,16 @@ Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 ### References
 
-1.  Table A-III/1 {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
-1.  NVIC 17-14 {% task 6E1A, Task 6.1.A%}
+#### STCW Knowledge, Understanding and Proficiency
+
+1. {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
+
+
+#### NVIC Tasks
+
+1. NVIC 17-14 Task {% task 6E1D, 6.1.D %} *Change over generators*
+
+
 
 ***
 

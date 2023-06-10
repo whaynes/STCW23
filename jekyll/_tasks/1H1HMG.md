@@ -3,8 +3,8 @@ table: RFPEW
 taskNo: 1H1HMG
 nvicNo: 1.1.H(M/G) 
 sortableNo: H-01-01-HMG
-title:  NVIC 07-14 Task 1.1.H(M/G)
-subtitle:  Monitor reverse osmosis plant
+title:  NVIC 07-14 Task 1.1.H(M/G) 
+subtitle:  Monitor reverse osmosis plant (RFPEW)
 ---
 
 
