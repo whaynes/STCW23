@@ -63,6 +63,7 @@ collections:
     sort_by: number
   tasks:
     output: true
+    sort_by: page.sortableNo
   tables:
     output: true
     sort_by: table_number
