@@ -4784,7 +4784,7 @@ MTRA</Major>
 <competence pos="1">Contribute to effective communications on board ship</competence>
 <kupNo pos="1">PSSR-X4.1</kupNo>
 <kup pos="1">Understand the principles of, and barriers to, effective communication between individuals and teams within the ship</kup>
-<CourseNo pos="1">MT-1111</CourseNo>
+<CourseNo pos="1">SR-0401</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-VI/1-4</Table>
@@ -4802,7 +4802,7 @@ MTRA</Major>
 <kup pos="1">Ability to establish and maintain effective communications</kup>
 <taskNo pos="1">7B5A</taskNo>
 <taskNo pos="2">7B5B</taskNo>
-<CourseNo pos="1">MT-1111</CourseNo>
+<CourseNo pos="1">SR-0401</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-VI/1-4</Table>
@@ -4820,7 +4820,7 @@ MTRA</Major>
 <kup pos="1">Importance of maintaining good human and working relationships aboard ship</kup>
 <taskNo pos="1">8B1A</taskNo>
 <taskNo pos="2">8B1B</taskNo>
-<CourseNo pos="1">MT-1111</CourseNo>
+<CourseNo pos="1">SR-0401</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-VI/1-4</Table>
@@ -4837,7 +4837,7 @@ MTRA</Major>
 <kupNo pos="1">PSSR-X5.2</kupNo>
 <kup pos="1">Basic teamworking principles and practice, including conflict resolution</kup>
 <taskNo pos="1">8B2A</taskNo>
-<CourseNo pos="1">MT-1111</CourseNo>
+<CourseNo pos="1">SR-0401</CourseNo>
 </RECORD>
 <RECORD>
 <Table pos="1">A-VI/1-4</Table>
