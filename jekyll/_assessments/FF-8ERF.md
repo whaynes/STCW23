@@ -163,6 +163,7 @@ Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 #### STCW Knowledge, Understanding and Proficiency
 
 
+1. {% table 63.html#AFF-X1, AFF-X1 %}
 1. {% table 63.html#AFF-X1.01, AFF-X1.01 %}
 
 

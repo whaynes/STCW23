@@ -157,6 +157,7 @@ Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 
 1. {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+1. {% table 31.html#OICEW-C2, OICEW-C2 %}
 1. {% table 35.html#ABE-A8.1, ABE-A8.1 %}
 
 
