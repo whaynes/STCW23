@@ -5530,12 +5530,15 @@ MTRA</Major>
 <Method_Name pos="1">Marlinspike seamanship - knots I</Method_Name>
 <Method_Name pos="2">Marlinspike seamanship - knots II</Method_Name>
 <Method_Name pos="3">Marlinspike seamanship - splicing</Method_Name>
+<Method_Name pos="4">Marlinspike seamanship - line handling</Method_Name>
 <status pos="1"/>
 <status pos="2"/>
 <status pos="3"/>
+<status pos="4"/>
 <mmd_link_to_this_assessment pos="1">{% assessment ABD-4J9A1 %} in {% course MT-1111 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="2">{% assessment ABD-4J9A2 %} in {% course MT-2231 %} </mmd_link_to_this_assessment>
 <mmd_link_to_this_assessment pos="3">{% assessment ABD-4J9A3 %} in {% course MT-2231 %} </mmd_link_to_this_assessment>
+<mmd_link_to_this_assessment pos="4">{% assessment ABD-4J9A4 %} in {% course MT-2231 %} </mmd_link_to_this_assessment>
 </RECORD>
 <RECORD>
 <taskNo pos="1">4J10A</taskNo>
