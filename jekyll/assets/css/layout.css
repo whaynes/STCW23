@@ -13,7 +13,10 @@ header {
   margin: 1rem;
   margin-bottom:0;  
   flex: 0 0 150px;
+  text-align:center;
 }
+
+.logo img {width:100px;}
 
 .page-titles {
  flex:1;
