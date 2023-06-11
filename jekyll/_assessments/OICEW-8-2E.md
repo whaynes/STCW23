@@ -120,6 +120,7 @@ Assessed in  {% course  EN-1211 %}  *Auxiliary Machinery I*.
 
 
 1. {% table 31.html#OICEW-C1.7, OICEW-C1.7 %}
+1. {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
 1. {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
 1. {% table 35.html#ABE-A8.1, ABE-A8.1 %}
 

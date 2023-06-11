@@ -98,6 +98,7 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 
 1. {% table 31.html#OICEW-B2, OICEW-B2 %}
+1. {% table 31.html#OICEW-B2.1, OICEW-B2.1 %}
 
 
 #### NVIC Tasks

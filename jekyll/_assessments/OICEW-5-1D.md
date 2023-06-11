@@ -140,6 +140,7 @@ Assessed in  {% course  EN-2111 %}  *Auxiliary Machinery II*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 1. {% table 31.html#OICEW-A4.3, OICEW-A4.3 %}
 
 

@@ -61,6 +61,8 @@ Assessed in  {% course  FF-0108 %}  *1/C Advanced Firefighting*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 63.html#AFF-X2.1, AFF-X2.1 %}
+
 
 #### NVIC Tasks
 

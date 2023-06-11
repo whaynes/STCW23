@@ -56,6 +56,8 @@ Assessed in  {% course  PE-0031 %}  *Basic Safety CPR*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 613.html#BFA-X1.3, BFA-X1.3 %}
+
 
 #### NVIC Tasks
 

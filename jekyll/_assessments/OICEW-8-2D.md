@@ -148,6 +148,8 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 31.html#OICEW-C2.3, OICEW-C2.3 %}
+
 
 #### NVIC Tasks
 

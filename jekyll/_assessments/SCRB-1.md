@@ -58,6 +58,7 @@ Assessed in  {% course  PS-0301 %}  *4/C STCW Personal Survival*.
 #### STCW Knowledge, Understanding and Proficiency
 
 1. {% table 611.html#PS-X1.5, PS-X1.5 %}
+1. {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
 
 
 #### NVIC Tasks

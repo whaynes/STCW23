@@ -104,6 +104,7 @@ Assessed in  {% course  EN-3233 %}  *Steam and Gas Turbines*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 1. {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
 
 

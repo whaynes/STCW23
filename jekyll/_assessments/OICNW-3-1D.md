@@ -58,6 +58,8 @@ Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 25.html#ABD-C1.2, ABD-C1.2 %}
+
 
 #### NVIC Tasks
 

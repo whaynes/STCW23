@@ -78,6 +78,8 @@ Assessed in  {% course  ST-0999E %}  *Sea Term I (Engineering Portion)*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
+
 
 #### NVIC Tasks
 

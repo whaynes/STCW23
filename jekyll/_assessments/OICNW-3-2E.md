@@ -56,6 +56,8 @@ Assessed in  {% course  MT-3222 %}  *Automatic Radar Plotting Aids (ARPA)*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 21.html#OICNW-A3.3, OICNW-A3.3 %}
+
 
 #### NVIC Tasks
 

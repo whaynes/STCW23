@@ -81,6 +81,7 @@ Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 
 
 1. {% table 31.html#OICEW-C1, OICEW-C1 %}
+1. {% table 31.html#OICEW-C1.2, OICEW-C1.2 %}
 
 
 #### NVIC Tasks

@@ -284,6 +284,7 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 1. {% table 34.html#RFPEW-A1.2, RFPEW-A1.2 %}
 1. {% table 34.html#RFPEW-A1.3, RFPEW-A1.3 %}
 1. {% table 34.html#RFPEW-A1.4, RFPEW-A1.4 %}
+1. {% table 35.html#ABE-A5.2, ABE-A5.2 %}
 
 
 #### NVIC Tasks

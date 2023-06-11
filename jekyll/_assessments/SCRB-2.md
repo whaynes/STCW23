@@ -63,6 +63,7 @@ Assessed in  {% course  LB-0201 %}  *STCW Lifeboatman Qualifications*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 621.html#SCRB-X1.3, SCRB-X1.3 %}
 1. {% table 621.html#SCRB-X3.1, SCRB-X3.1 %}
 
 

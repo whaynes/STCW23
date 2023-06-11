@@ -76,6 +76,8 @@ Assessed in  {% course  MT-4371 %}  *Sea Term IV: Marine Transportation*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 21.html#OICNW-A1.01, OICNW-A1.01 %}
+
 
 #### NVIC Tasks
 

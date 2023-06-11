@@ -56,6 +56,8 @@ Assessed in  {% course  MT-3224 %}  *Electronic Chart Display & Information Syst
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 21.html#OICNW-A4.2, OICNW-A4.2 %}
+
 
 #### NVIC Tasks
 

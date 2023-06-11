@@ -162,6 +162,7 @@ Assessed in  {% course  EN-4131 %}  *Internal Combustion Engines II*.
 #### STCW Knowledge, Understanding and Proficiency
 
 
+1. {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 1. {% table 31.html#OICEW-B1.1, OICEW-B1.1 %}
 1. {% table 34.html#RFPEW-A1.1, RFPEW-A1.1 %}
 

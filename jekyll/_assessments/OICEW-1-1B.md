@@ -68,6 +68,7 @@ Assessed in  {% course  EN-2112 %}  *Machine Tool Technology*.
 #### STCW Knowledge, Understanding and Proficiency
 
 1. {% table 31.html#OICEW-C1, OICEW-C1 %}
+1. {% table 31.html#OICEW-C1.6, OICEW-C1.6 %}
 
 
 #### NVIC Tasks

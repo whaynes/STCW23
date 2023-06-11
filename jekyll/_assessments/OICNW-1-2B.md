@@ -56,6 +56,7 @@ Assessed in  {% course  MT-2225 %}  *Integrated Navigation*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 21.html#OICNW-A1.02, OICNW-A1.02 %}
 1. {% table 21.html#OICNW-A1.04, OICNW-A1.04 %}
 
 

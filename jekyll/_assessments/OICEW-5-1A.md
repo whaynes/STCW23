@@ -129,6 +129,7 @@ Assessed in  {% course  EN-4231 %}  *Sea Term IV: Marine Engineering*.
 
 
 1. {% table 31.html#OICEW-A3.1, OICEW-A3.1 %}
+1. {% table 31.html#OICEW-A4.1, OICEW-A4.1 %}
 1. {% table 31.html#OICEW-B2.5, OICEW-B2.5 %}
 
 

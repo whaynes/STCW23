@@ -56,6 +56,8 @@ Assessed in  {% course  MT-3122 %}  *Radar Observer Certification*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 21.html#OICNW-A3.2, OICNW-A3.2 %}
+
 
 #### NVIC Tasks
 

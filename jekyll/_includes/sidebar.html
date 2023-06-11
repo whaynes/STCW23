@@ -1,5 +1,15 @@
 <nav class='sidebar noprint'>
 <menu>
+<li style="display:flex; justify-content: space-around; height:30px;">
+        <p>
+        {% if page.previous.url %}
+        <a  href="{{site.baseurl}}{{page.previous.url}}"><img src="{{site.baseurl}}/assets/nav/prev.svg" width='30'></a>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{site.baseurl}}{{page.next.url}}"><img src="{{site.baseurl}}/assets/nav/next.svg" width='30'></a>
+        {% endif %}
+        </p>
+    </li>
 			<li><p>MMA Program</p>
 			<menu>
 				<li><a href="{{'/tables/' | relative_url}} ">STCW Tables</a></li>

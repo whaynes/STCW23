@@ -116,6 +116,7 @@ Assessed in  {% course  EN-3111L %}  *Electrical Machines Lab*.
 
 
 1. {% table 31.html#OICEW-B2, OICEW-B2 %}
+1. {% table 31.html#OICEW-B2.3, OICEW-B2.3 %}
 
 
 #### NVIC Tasks

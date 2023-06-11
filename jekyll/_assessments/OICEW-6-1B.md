@@ -116,6 +116,7 @@ Assessed in  {% course  EN-2231 %}  *Sea Term II: Marine Engineering*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 31.html#OICEW-A5.2, OICEW-A5.2 %}
 1. {% table 34.html#RFPEW-A3.3, RFPEW-A3.3 %}
 
 

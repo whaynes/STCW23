@@ -92,6 +92,7 @@ Assessed in  {% course  EN-3131 %}  *Steam Generators*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 31.html#OICEW-A5.3, OICEW-A5.3 %}
 1. {% table 31.html#OICEW-D1, OICEW-D1 %}
 
 

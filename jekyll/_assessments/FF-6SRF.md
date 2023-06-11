@@ -72,6 +72,7 @@ Assessed in  {% course  FF-0106 %}  *2/C Firefighting Practicum*.
 
 
 1. {% table 612.html#FF-X2.2, FF-X2.2 %}
+1. {% table 63.html#AFF-X1.01, AFF-X1.01 %}
 1. {% table 63.html#AFF-X1.08, AFF-X1.08 %}
 
 

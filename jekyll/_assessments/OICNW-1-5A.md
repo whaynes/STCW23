@@ -58,6 +58,7 @@ Assessed in  {% course  MT-4133 %}  *Bridge Resource Management*.
 
 #### STCW Knowledge, Understanding and Proficiency
 
+1. {% table 21.html#OICNW-A1.06, OICNW-A1.06 %}
 1. {% table 21.html#OICNW-A1.07, OICNW-A1.07 %}
 
 
