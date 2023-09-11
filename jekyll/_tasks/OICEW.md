@@ -17,7 +17,7 @@ subtitle: officers in charge of an engineering watch
 | 5. | {% task 1E1E, 1.1.E %} | Maintain log book | {% assessment OICEW-4-1C %} in {% course EN-4231 %} |
 | 6. | {% task 1E1F, 1.1.F %} | Hand over the watch | {% assessment OICEW-4-1B %} in {% course EN-4231 %} |
 | 7. | {% task 1E2A, 1.2.A %} | Change-over to local control systems | {% assessment OICEW-1E2A %} in {% course EN-3233 %} |
-| 8. | {% task 1E3A, 1.3.A %} | Observe safety precautions during watch | {% assessment OICEW-4-2A %} in {% course EN-4231 %} |
+| 8. | {% task 1E3A, 1.3.A %} | Identify and respond to alarms | {% assessment OICEW-4-2A %} in {% course EN-4231 %} |
 | 9. | {% task 1E3B, 1.3.B %} | Take immediate action (fire) | {% course MT-1111 %}|
 | 10. | {% task 1E3C, 1.3.C %} | Take immediate action (accident) | {% course MT-1111 %}|
 | 11. | {% task 1E3D, 1.3.D %} | Take immediate action (oil system fire or accident) | {% course MT-1111 %}|

@@ -40,7 +40,7 @@ subtitle: able seafarer deck
 | 28. | {% task 4J8A, 4.8.A %} | Describe rigging and unrigging pilot ladder | {% course MT-2231 %}|
 | 29. | {% task 4J8B, 4.8.B %} | Describe rigging and unrigging rat guards | {% course MT-2231 %}|
 | 30. | {% task 4J8C, 4.8.C %} | Demonstrate rigging and unrigging a gangway | {% course MT-2231 %}|
-| 31. | {% task 4J9A, 4.9.A %} | Demonstrate marlinspike seamanship | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} |
+| 31. | {% task 4J9A, 4.9.A %} | Demonstrate marlinspike seamanship | {% assessment ABD-4J9A1 %} in {% course MT-1111 %} <br/> {% assessment ABD-4J9A2 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A3 %} in {% course MT-2231 %} <br/> {% assessment ABD-4J9A4 %} in {% course MT-2231 %} |
 | 32. | {% task 4J10A, 4.10.A %} | Demonstrate use of cargo-handling gear and equipment access arrangements | {% course CC-MANT %}<br/> {% course MT-2231 %}<br/> {% course MT-3261 %}|
 | 33. | {% task 4J11A, 4.11.A %} | Trace out and describe a piping system | {% assessment ABD-4J11A %} in {% course MT-3151 %} |
 | 34. | {% task 4J12A, 4.12.A %} | Demonstrate use of cargo and equipment handling gear | {% course MT-3261 %}|
