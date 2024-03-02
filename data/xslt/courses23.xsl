@@ -5,7 +5,7 @@
 ]>
 
 
-<!--This stylesheet copies out three course index files, in case they
+<!--This stylesheet copies out three course index files, in case they get deleted.
 -->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
   <xsl:output method="text"/>

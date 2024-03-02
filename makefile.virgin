@@ -3,16 +3,16 @@
 # All data originates in the filemake database 
 #     stcw2023.fmp located in $(SOURCE)
 # Rendering occurs as follows:
-# 1.  Export XML files from filemake
-# 2.  Run `make site` to build website raw pages
-# 3.  Run `bundle exec jekyll build`to build website
+# 1.  Export XML files from filemaker
+# 2.  Run `make all` to build website raw pages
+# 3.  Run `bundle exec jekyll build` to build website
 #
 ##################################################
 #  SOURCES
 #  File in these locations should not be deleted
 #  Change/Edit as needed
 #
-PRJ       = /Users/whaynes/projects/jekyllSites/STCW23
+PRJ       = /Users/whaynes/jekyll/STCW23
 DB        = $(SOURCE)/stcw2023.fmp12
 SOURCE    = $(PRJ)/data
 XSL       = $(SOURCE)/xslt
@@ -23,7 +23,7 @@ JEKYLL    = $(PRJ)/jekyll
 # files here are rebuild generated, can be wiped
 ##
 XML          = $(SOURCE)/xml
-SITE         = $(OUT)/_site
+SITE         = $(JEKYLL)/_site
 #
 #################################################
 # Local and remote webserver document locations
